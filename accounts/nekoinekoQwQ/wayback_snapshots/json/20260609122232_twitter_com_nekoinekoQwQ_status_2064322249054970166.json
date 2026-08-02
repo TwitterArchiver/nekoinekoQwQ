@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2064320320916582453",
+    "created_at": "2026-06-09T12:22:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T13:22:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064322249054970166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1676576204865019904",
+          "start": 0,
+          "username": "YanRuYu_Zzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064322249054970166",
+    "in_reply_to_user_id": "1676576204865019904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064322029025915200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YanRuYu_Zzz 他们甚至已经筹了300块钱了，我都不知道我家长有没有交钱，我完全不想参加这种活动"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2064320320916582453",
+        "created_at": "2026-06-09T12:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064322249054970166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676576204865019904",
+              "start": 0,
+              "username": "YanRuYu_Zzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064322249054970166",
+        "in_reply_to_user_id": "1676576204865019904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064322029025915200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YanRuYu_Zzz 他们甚至已经筹了300块钱了，我都不知道我家长有没有交钱，我完全不想参加这种活动"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676576204865019904",
+        "conversation_id": "2064320320916582453",
+        "created_at": "2026-06-09T12:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064322029025915200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064322029025915200",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064320320916582453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 筹钱买礼物感觉没必要吧😥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 6,
+          "like_count": 548,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 2273
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T12:58:18.000Z",
+        "description": "",
+        "id": "1676576204865019904",
+        "name": "小樹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989273593612791808/OlTXKJ8x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 57,
+          "like_count": 338,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 90
+        },
+        "username": "YanRuYu_Zzz",
+        "verified": false
+      }
+    ]
+  }
+}

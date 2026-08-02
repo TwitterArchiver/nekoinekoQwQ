@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065283883139280897",
+        "3_2065283883130851329",
+        "3_2065283883135086592"
+      ]
+    },
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065283892907807211",
+    "created_at": "2026-06-12T04:03:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T05:03:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065283892907807211"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/briQrj22ld",
+          "end": 100,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2065283892907807211/photo/1",
+          "media_key": "3_2065283883139280897",
+          "start": 77,
+          "url": "https://t.co/briQrj22ld"
+        },
+        {
+          "display_url": "pic.x.com/briQrj22ld",
+          "end": 100,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2065283892907807211/photo/1",
+          "media_key": "3_2065283883130851329",
+          "start": 77,
+          "url": "https://t.co/briQrj22ld"
+        },
+        {
+          "display_url": "pic.x.com/briQrj22ld",
+          "end": 100,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2065283892907807211/photo/1",
+          "media_key": "3_2065283883135086592",
+          "start": 77,
+          "url": "https://t.co/briQrj22ld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065283892907807211",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小宝宝，我也喜欢你！(๑˘³˘๑)💗\n考上大学之后，就上大鞋 good good study，day day up\n图三是我的屏幕使用时间，我应该没救了 https://t.co/briQrj22ld"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 732,
+        "media_key": "3_2065283883139280897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlcv9bbMAEimjC.jpg",
+        "width": 1179
+      },
+      {
+        "height": 710,
+        "media_key": "3_2065283883130851329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlcv9ZakAE1vhv.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065283883135086592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlcv9abMAADB6R.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065283883139280897",
+            "3_2065283883130851329",
+            "3_2065283883135086592"
+          ]
+        },
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065283892907807211",
+        "created_at": "2026-06-12T04:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T05:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065283892907807211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/briQrj22ld",
+              "end": 100,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2065283892907807211/photo/1",
+              "media_key": "3_2065283883139280897",
+              "start": 77,
+              "url": "https://t.co/briQrj22ld"
+            },
+            {
+              "display_url": "pic.x.com/briQrj22ld",
+              "end": 100,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2065283892907807211/photo/1",
+              "media_key": "3_2065283883130851329",
+              "start": 77,
+              "url": "https://t.co/briQrj22ld"
+            },
+            {
+              "display_url": "pic.x.com/briQrj22ld",
+              "end": 100,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2065283892907807211/photo/1",
+              "media_key": "3_2065283883135086592",
+              "start": 77,
+              "url": "https://t.co/briQrj22ld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065283892907807211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小宝宝，我也喜欢你！(๑˘³˘๑)💗\n考上大学之后，就上大鞋 good good study，day day up\n图三是我的屏幕使用时间，我应该没救了 https://t.co/briQrj22ld"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 10,
+          "like_count": 982,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 2666
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

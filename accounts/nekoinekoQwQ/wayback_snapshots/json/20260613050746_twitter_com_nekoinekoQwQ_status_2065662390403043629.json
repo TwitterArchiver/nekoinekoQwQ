@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065483105549607280",
+    "created_at": "2026-06-13T05:07:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T06:07:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065662390403043629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1880893548968722432",
+          "start": 0,
+          "username": "xiyou939"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065662390403043629",
+    "in_reply_to_user_id": "1880893548968722432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065483105549607280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiyou939 我也有分离焦虑，但是对学校和同学就算了👉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065483105549607280",
+        "created_at": "2026-06-13T05:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T06:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065662390403043629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1880893548968722432",
+              "start": 0,
+              "username": "xiyou939"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065662390403043629",
+        "in_reply_to_user_id": "1880893548968722432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065483105549607280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiyou939 我也有分离焦虑，但是对学校和同学就算了👉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880893548968722432",
+        "conversation_id": "2065483105549607280",
+        "created_at": "2026-06-12T17:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065483105549607280"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065483105549607280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 204,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的有分离焦虑...\n毕业季一开始收行李就难过...\n如果是寝室最后一个走的看着安安静静的宿舍我真的会哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 9,
+          "like_count": 1139,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2922
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T08:22:43.000Z",
+        "description": "可以喊我西柚~女装只是小爱好 其实胆子很小。\n清水 只是分享一些碎碎念。\n有礼貌的孩子欢迎找我聊聊天~害羞的宝子也可以匿名找我丸↓。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyou2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiyou2",
+                "start": 0,
+                "url": "https://t.co/hjMOHlxItN"
+              }
+            ]
+          }
+        },
+        "id": "1880893548968722432",
+        "name": "汐又",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925213863169130496/MPjAKWCm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 87,
+          "like_count": 2007,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 325
+        },
+        "url": "https://t.co/hjMOHlxItN",
+        "username": "xiyou939",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2032756736910831618",
+    "created_at": "2026-03-14T09:52:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T10:52:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032756736910831618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1803674898314960896",
+          "start": 3,
+          "username": "ll132345796"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032756736910831618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032448779669148073",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ll132345796: 我真的特别喜欢有深度且坦诚的对话。我们完全可以谈论大自然、死亡、性、世界、人类、日常、工作、阴暗的想法、你想过的人生、你的童年、你的不安感，因为那是真实的情感，那是我要的真实、有趣、和深度，一个灵魂的对白。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2032756736910831618",
+        "created_at": "2026-03-14T09:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T10:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032756736910831618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1803674898314960896",
+              "start": 3,
+              "username": "ll132345796"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032756736910831618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032448779669148073",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ll132345796: 我真的特别喜欢有深度且坦诚的对话。我们完全可以谈论大自然、死亡、性、世界、人类、日常、工作、阴暗的想法、你想过的人生、你的童年、你的不安感，因为那是真实的情感，那是我要的真实、有趣、和深度，一个灵魂的对白。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803674898314960896",
+        "conversation_id": "2032448779669148073",
+        "created_at": "2026-03-13T13:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T14:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032448779669148073"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032448779669148073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2213,
+          "like_count": 89,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "我真的特别喜欢有深度且坦诚的对话。我们完全可以谈论大自然、死亡、性、世界、人类、日常、工作、阴暗的想法、你想过的人生、你的童年、你的不安感，因为那是真实的情感，那是我要的真实、有趣、和深度，一个灵魂的对白。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 1,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 526
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T06:23:14.000Z",
+        "description": "只是一个普通男生的日常碎碎念💦 /欢迎礼貌私信哦🌸 /然后就是祝大家天天开心呀✨ /有时写小狗日记偶尔读文/04/180/ENFP/是异性恋/可以叫我凉凉/世界和平就可以了/ @ttki28259752",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "ttki28259752"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xgll",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xgll",
+                "start": 0,
+                "url": "https://t.co/QqhxoIkvie"
+              }
+            ]
+          }
+        },
+        "id": "1803674898314960896",
+        "name": "小狗凉凉",
+        "pinned_tweet_id": "1947693170558661048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004242441730510850/oq7ToMWL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2437,
+          "following_count": 531,
+          "like_count": 101435,
+          "listed_count": 8,
+          "media_count": 992,
+          "tweet_count": 12178
+        },
+        "url": "https://t.co/QqhxoIkvie",
+        "username": "ll132345796",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2068273379627749475",
+    "created_at": "2026-06-20T13:14:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T14:14:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068321574630125873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1885021581153320961",
+          "start": 0,
+          "username": "xiaoyu12178"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068321574630125873",
+    "in_reply_to_user_id": "1885021581153320961",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068273379627749475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyu12178 如此幸福"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068273371658563584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLP7rGAbsAAx_Db.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068273371641700352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLP7rF8aYAAUosF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068273371666903040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLP7rGCa8AABotM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2068273379627749475",
+        "created_at": "2026-06-20T13:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T14:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068321574630125873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1885021581153320961",
+              "start": 0,
+              "username": "xiaoyu12178"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068321574630125873",
+        "in_reply_to_user_id": "1885021581153320961",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068273379627749475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyu12178 如此幸福"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068273371658563584",
+            "3_2068273371641700352",
+            "3_2068273371666903040"
+          ]
+        },
+        "author_id": "1885021581153320961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2068273379627749475",
+        "created_at": "2026-06-20T10:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068273379627749475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tGkQDX4LuH",
+              "end": 32,
+              "expanded_url": "https://x.com/xiaoyu12178/status/2068273379627749475/photo/1",
+              "media_key": "3_2068273371658563584",
+              "start": 9,
+              "url": "https://t.co/tGkQDX4LuH"
+            },
+            {
+              "display_url": "pic.x.com/tGkQDX4LuH",
+              "end": 32,
+              "expanded_url": "https://x.com/xiaoyu12178/status/2068273379627749475/photo/1",
+              "media_key": "3_2068273371641700352",
+              "start": 9,
+              "url": "https://t.co/tGkQDX4LuH"
+            },
+            {
+              "display_url": "pic.x.com/tGkQDX4LuH",
+              "end": 32,
+              "expanded_url": "https://x.com/xiaoyu12178/status/2068273379627749475/photo/1",
+              "media_key": "3_2068273371666903040",
+              "start": 9,
+              "url": "https://t.co/tGkQDX4LuH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068273379627749475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 542,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃了好几天关东煮 https://t.co/tGkQDX4LuH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 12,
+          "like_count": 1612,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 4341
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T17:45:50.000Z",
+        "description": "ENFJ sw 巨蟹 直男 杭州 露出人格@xiaoyuxxx127 介意勿关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 21,
+                "username": "xiaoyuxxx127"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%B1%BC%E5%8D%B7",
+                "start": 0,
+                "url": "https://t.co/dqVtBKWDBq"
+              }
+            ]
+          }
+        },
+        "id": "1885021581153320961",
+        "name": "小鱼卷",
+        "pinned_tweet_id": "1970055773242966481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061091027000426496/0RKbu2V9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1809,
+          "following_count": 299,
+          "like_count": 36808,
+          "listed_count": 3,
+          "media_count": 579,
+          "tweet_count": 6210
+        },
+        "url": "https://t.co/dqVtBKWDBq",
+        "username": "xiaoyu12178",
+        "verified": false
+      }
+    ]
+  }
+}

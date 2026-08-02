@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2032056462290415774",
+    "created_at": "2026-03-12T11:29:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T12:29:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032056462290415774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1580044363807145984",
+          "start": 3,
+          "username": "qwqsin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032056462290415774",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031728567957254498",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qwqsin: 我们好像没有明天了 但没关系 我们还有以前"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2032056462290415774",
+        "created_at": "2026-03-12T11:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T12:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032056462290415774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1580044363807145984",
+              "start": 3,
+              "username": "qwqsin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032056462290415774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031728567957254498",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qwqsin: 我们好像没有明天了 但没关系 我们还有以前"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580044363807145984",
+        "conversation_id": "2031728567957254498",
+        "created_at": "2026-03-11T13:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T14:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031728567957254498"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031728567957254498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 487,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我们好像没有明天了 但没关系 我们还有以前"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 1,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 440
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-12T03:55:23.000Z",
+        "description": "",
+        "id": "1580044363807145984",
+        "name": "u",
+        "pinned_tweet_id": "2030530457180541028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027586645684588549/8ZaLEP-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 2,
+          "like_count": 946,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 305
+        },
+        "username": "qwqsin",
+        "verified": false
+      }
+    ]
+  }
+}

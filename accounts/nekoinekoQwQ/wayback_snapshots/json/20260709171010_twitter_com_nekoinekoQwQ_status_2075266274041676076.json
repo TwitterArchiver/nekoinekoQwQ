@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2075207743817064564",
+    "created_at": "2026-07-09T17:10:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T18:10:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075266274041676076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2053139274128621569",
+          "start": 0,
+          "username": "zhaomingxh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075266274041676076",
+    "in_reply_to_user_id": "2053139274128621569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075207743817064564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhaomingxh 厉害呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 592,
+        "media_key": "3_2075207738817400834",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyecYtaUAIRMWR.png",
+        "width": 792
+      },
+      {
+        "height": 587,
+        "media_key": "3_2075207733884919809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyecGVaoAERJLv.jpg",
+        "width": 796
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2075207743817064564",
+        "created_at": "2026-07-09T17:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T18:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075266274041676076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053139274128621569",
+              "start": 0,
+              "username": "zhaomingxh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075266274041676076",
+        "in_reply_to_user_id": "2053139274128621569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075207743817064564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhaomingxh 厉害呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075207738817400834",
+            "3_2075207733884919809"
+          ]
+        },
+        "author_id": "2053139274128621569",
+        "conversation_id": "2075207743817064564",
+        "created_at": "2026-07-09T13:17:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T14:17:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075207743817064564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lhzjRLThRg",
+              "end": 42,
+              "expanded_url": "https://x.com/zhaomingxh/status/2075207743817064564/photo/1",
+              "media_key": "3_2075207738817400834",
+              "start": 19,
+              "url": "https://t.co/lhzjRLThRg"
+            },
+            {
+              "display_url": "pic.x.com/lhzjRLThRg",
+              "end": 42,
+              "expanded_url": "https://x.com/zhaomingxh/status/2075207743817064564/photo/1",
+              "media_key": "3_2075207733884919809",
+              "start": 19,
+              "url": "https://t.co/lhzjRLThRg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075207743817064564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "结束了\n为这疯狂的舞台，呼唤爱的谢幕 https://t.co/lhzjRLThRg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 10,
+          "like_count": 1926,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 5180
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T15:45:42.000Z",
+        "description": "经常左右脑互搏，偶尔大小头互换",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zhaoming25411",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zhaoming25411",
+                "start": 0,
+                "url": "https://t.co/zqZT9eEhUD"
+              }
+            ]
+          }
+        },
+        "id": "2053139274128621569",
+        "location": "寻找我的爱丽丝",
+        "name": "昭明",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053859381259669504/6lezcukz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 36,
+          "like_count": 12591,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 209
+        },
+        "url": "https://t.co/zqZT9eEhUD",
+        "username": "zhaomingxh",
+        "verified": false
+      }
+    ]
+  }
+}

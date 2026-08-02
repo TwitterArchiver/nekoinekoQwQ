@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063830557730172928"
+      ]
+    },
+    "author_id": "1948326838125903872",
+    "conversation_id": "2063830564088770776",
+    "created_at": "2026-06-08T03:48:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T04:48:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063830564088770776"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rVMYYvuAVz",
+          "end": 66,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2063830564088770776/photo/1",
+          "media_key": "3_2063830557730172928",
+          "start": 43,
+          "url": "https://t.co/rVMYYvuAVz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063830564088770776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "死都不会复读的，高中好累，本科肯定上得了，再不如意也就是上个二本，死都不要复读。。。 https://t.co/rVMYYvuAVz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 796,
+        "media_key": "3_2063830557730172928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKQy9SYacAAuPx3.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063830557730172928"
+          ]
+        },
+        "author_id": "1948326838125903872",
+        "conversation_id": "2063830564088770776",
+        "created_at": "2026-06-08T03:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T04:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063830564088770776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rVMYYvuAVz",
+              "end": 66,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2063830564088770776/photo/1",
+              "media_key": "3_2063830557730172928",
+              "start": 43,
+              "url": "https://t.co/rVMYYvuAVz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063830564088770776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死都不会复读的，高中好累，本科肯定上得了，再不如意也就是上个二本，死都不要复读。。。 https://t.co/rVMYYvuAVz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 2,
+          "like_count": 480,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 2060
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

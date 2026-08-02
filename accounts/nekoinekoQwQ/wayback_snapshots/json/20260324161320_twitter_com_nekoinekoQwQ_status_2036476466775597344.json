@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2036472841865253072",
+    "created_at": "2026-03-24T16:13:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T17:13:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036476466775597344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1800517146256273408",
+          "start": 0,
+          "username": "Aaaa17477410511"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036476466775597344",
+    "in_reply_to_user_id": "1800517146256273408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036472841865253072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aaaa17477410511 抱抱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2036472841865253072",
+        "created_at": "2026-03-24T16:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T17:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036476466775597344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1800517146256273408",
+              "start": 0,
+              "username": "Aaaa17477410511"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036476466775597344",
+        "in_reply_to_user_id": "1800517146256273408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036472841865253072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aaaa17477410511 抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800517146256273408",
+        "conversation_id": "2036472841865253072",
+        "created_at": "2026-03-24T15:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T16:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036472841865253072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nekoinekoqwq/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/nekoinekoqwq/status/2035230199781191945",
+              "start": 9,
+              "url": "https://t.co/Y1WuznkilE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036472841865253072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035230199781191945",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉差点在学校大哭 https://t.co/Y1WuznkilE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 1,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 896
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-11T13:15:21.000Z",
+        "description": "病み垢｜只是一个发泄情绪的号🉑💪🏻🗡️没更就是死了",
+        "id": "1800517146256273408",
+        "name": "はらくの",
+        "pinned_tweet_id": "1899452020966240332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910984353544298496/3BUk2tQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 484,
+          "like_count": 1821,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 688
+        },
+        "username": "Aaaa17477410511",
+        "verified": false
+      }
+    ]
+  }
+}

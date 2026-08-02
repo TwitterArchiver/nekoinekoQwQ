@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2037442473245733050",
+    "created_at": "2026-03-27T12:58:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T13:58:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037514595972301051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1869621290065338368",
+          "start": 0,
+          "username": "pupupa09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037514595972301051",
+    "in_reply_to_user_id": "1869621290065338368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037442473245733050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pupupa09 杂口杂口😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037442458548912128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZzHwgbQAADvZa.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2037442473245733050",
+        "created_at": "2026-03-27T12:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T13:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037514595972301051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1869621290065338368",
+              "start": 0,
+              "username": "pupupa09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037514595972301051",
+        "in_reply_to_user_id": "1869621290065338368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037442473245733050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pupupa09 杂口杂口😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037442458548912128"
+          ]
+        },
+        "author_id": "1869621290065338368",
+        "conversation_id": "2037442473245733050",
+        "created_at": "2026-03-27T08:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T09:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037442473245733050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2KTZnvSoBA",
+              "end": 28,
+              "expanded_url": "https://x.com/pupupa09/status/2037442473245733050/photo/1",
+              "media_key": "3_2037442458548912128",
+              "start": 5,
+              "url": "https://t.co/2KTZnvSoBA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037442473245733050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 426,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "二次卖萌 https://t.co/2KTZnvSoBA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 1,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 1079
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-19T05:50:47.000Z",
+        "description": "漫游地球🌍🪜 https://t.co/5bisipVEXH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "赔钱机场.com/register?code=…",
+                "end": 30,
+                "expanded_url": "https://xn--mes358aby2apfg.com/register?code=zGbK5tcC",
+                "start": 7,
+                "url": "https://t.co/5bisipVEXH"
+              }
+            ]
+          }
+        },
+        "id": "1869621290065338368",
+        "location": "🚪188 没福利  擦边就当欣赏 别私信我开黄腔 礼貌问好",
+        "name": "pupupa",
+        "pinned_tweet_id": "1989329438757314841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022585383553503233/kbFnGDa6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10087,
+          "following_count": 14,
+          "like_count": 3689,
+          "listed_count": 17,
+          "media_count": 812,
+          "tweet_count": 4085
+        },
+        "username": "pupupa09",
+        "verified": false
+      }
+    ]
+  }
+}

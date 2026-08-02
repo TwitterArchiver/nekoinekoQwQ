@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2063558316287299853",
+    "created_at": "2026-06-08T02:51:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T03:51:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063816191664365680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2047690907756171264",
+          "start": 0,
+          "username": "NingNayy9v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063816191664365680",
+    "in_reply_to_user_id": "2047690907756171264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063673779398824103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NingNayy9v 没关系的，考怎么样都没关系，我已经听天由命"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2063558316287299853",
+        "created_at": "2026-06-08T02:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063816191664365680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047690907756171264",
+              "start": 0,
+              "username": "NingNayy9v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063816191664365680",
+        "in_reply_to_user_id": "2047690907756171264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063673779398824103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NingNayy9v 没关系的，考怎么样都没关系，我已经听天由命"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047690907756171264",
+        "conversation_id": "2063558316287299853",
+        "created_at": "2026-06-07T17:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T18:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063673779398824103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063673779398824103",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063558316287299853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 听说今年数学真的很难 但是没关系 别人也都觉得难 别太崩溃 后面好好发挥 还有机会"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "id": "1948326838125903872",
+        "location": "世界",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 2,
+          "like_count": 396,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 2005
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T14:56:09.000Z",
+        "description": "",
+        "id": "2047690907756171264",
+        "name": "NingNa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047691250422415360/g_TJELZO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 22,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 98
+        },
+        "username": "NingNayy9v",
+        "verified": false
+      }
+    ]
+  }
+}

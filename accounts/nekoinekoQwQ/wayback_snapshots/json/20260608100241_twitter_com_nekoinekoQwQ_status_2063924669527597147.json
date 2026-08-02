@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063924661919121408",
+        "3_2063924662434922496",
+        "3_2063924661919141888",
+        "3_2063924661914832896"
+      ]
+    },
+    "author_id": "1948326838125903872",
+    "conversation_id": "2063924669527597147",
+    "created_at": "2026-06-08T10:02:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T11:02:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063924669527597147"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rcHEKgszQg",
+          "end": 72,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2063924669527597147/photo/1",
+          "media_key": "3_2063924661919121408",
+          "start": 49,
+          "url": "https://t.co/rcHEKgszQg"
+        },
+        {
+          "display_url": "pic.x.com/rcHEKgszQg",
+          "end": 72,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2063924669527597147/photo/1",
+          "media_key": "3_2063924662434922496",
+          "start": 49,
+          "url": "https://t.co/rcHEKgszQg"
+        },
+        {
+          "display_url": "pic.x.com/rcHEKgszQg",
+          "end": 72,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2063924669527597147/photo/1",
+          "media_key": "3_2063924661919141888",
+          "start": 49,
+          "url": "https://t.co/rcHEKgszQg"
+        },
+        {
+          "display_url": "pic.x.com/rcHEKgszQg",
+          "end": 72,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2063924669527597147/photo/1",
+          "media_key": "3_2063924661914832896",
+          "start": 49,
+          "url": "https://t.co/rcHEKgszQg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063924669527597147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢夸奖，好感动\n晚上好，今天晚上开心呀，你也要开心\n暑假大概不打工，拿点资助旅游😉\n呜呜，泪！ https://t.co/rcHEKgszQg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 689,
+        "media_key": "3_2063924661919121408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSIi3zbgAAmx9B.jpg",
+        "width": 1179
+      },
+      {
+        "height": 757,
+        "media_key": "3_2063924662434922496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSIi5uaAAAFtKD.jpg",
+        "width": 1179
+      },
+      {
+        "height": 652,
+        "media_key": "3_2063924661919141888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSIi3zb0AArrb_.jpg",
+        "width": 1179
+      },
+      {
+        "height": 687,
+        "media_key": "3_2063924661914832896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSIi3yaEAAi460.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063924661919121408",
+            "3_2063924662434922496",
+            "3_2063924661919141888",
+            "3_2063924661914832896"
+          ]
+        },
+        "author_id": "1948326838125903872",
+        "conversation_id": "2063924669527597147",
+        "created_at": "2026-06-08T10:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063924669527597147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rcHEKgszQg",
+              "end": 72,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2063924669527597147/photo/1",
+              "media_key": "3_2063924661919121408",
+              "start": 49,
+              "url": "https://t.co/rcHEKgszQg"
+            },
+            {
+              "display_url": "pic.x.com/rcHEKgszQg",
+              "end": 72,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2063924669527597147/photo/1",
+              "media_key": "3_2063924662434922496",
+              "start": 49,
+              "url": "https://t.co/rcHEKgszQg"
+            },
+            {
+              "display_url": "pic.x.com/rcHEKgszQg",
+              "end": 72,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2063924669527597147/photo/1",
+              "media_key": "3_2063924661919141888",
+              "start": 49,
+              "url": "https://t.co/rcHEKgszQg"
+            },
+            {
+              "display_url": "pic.x.com/rcHEKgszQg",
+              "end": 72,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2063924669527597147/photo/1",
+              "media_key": "3_2063924661914832896",
+              "start": 49,
+              "url": "https://t.co/rcHEKgszQg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063924669527597147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢夸奖，好感动\n晚上好，今天晚上开心呀，你也要开心\n暑假大概不打工，拿点资助旅游😉\n呜呜，泪！ https://t.co/rcHEKgszQg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 2,
+          "like_count": 498,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 2072
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

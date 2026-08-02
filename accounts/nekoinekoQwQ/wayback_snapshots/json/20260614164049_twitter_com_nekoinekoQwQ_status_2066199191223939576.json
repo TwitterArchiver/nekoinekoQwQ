@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066199182554316800",
+        "3_2066199182554374145",
+        "3_2066199182558588928",
+        "3_2066199182558584832"
+      ]
+    },
+    "author_id": "1948326838125903872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Horoscope",
+          "id": "1068226612380889088",
+          "name": "Horoscope"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Astrology",
+          "id": "1102600979491381248",
+          "name": "Astrology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Horoscope",
+          "id": "1068226612380889088",
+          "name": "Horoscope"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Astrology",
+          "id": "1102600979491381248",
+          "name": "Astrology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "2066199191223939576",
+    "created_at": "2026-06-14T16:40:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T17:40:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066199191223939576"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AJwNaSdixd",
+          "end": 102,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2066199191223939576/photo/1",
+          "media_key": "3_2066199182554316800",
+          "start": 79,
+          "url": "https://t.co/AJwNaSdixd"
+        },
+        {
+          "display_url": "pic.x.com/AJwNaSdixd",
+          "end": 102,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2066199191223939576/photo/1",
+          "media_key": "3_2066199182554374145",
+          "start": 79,
+          "url": "https://t.co/AJwNaSdixd"
+        },
+        {
+          "display_url": "pic.x.com/AJwNaSdixd",
+          "end": 102,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2066199191223939576/photo/1",
+          "media_key": "3_2066199182558588928",
+          "start": 79,
+          "url": "https://t.co/AJwNaSdixd"
+        },
+        {
+          "display_url": "pic.x.com/AJwNaSdixd",
+          "end": 102,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2066199191223939576/photo/1",
+          "media_key": "3_2066199182558584832",
+          "start": 79,
+          "url": "https://t.co/AJwNaSdixd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066199191223939576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我对星座一般般吧，我讨厌双子座，因为前男友是(˘ω˘)☽（但是我不讨厌其他双子座的宝宝）\n我回啦，刚刚在玩游戏\n我过几天下个手瓦先\n互关随缘哦(´-ω-`) https://t.co/AJwNaSdixd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 824,
+        "media_key": "3_2066199182554316800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKydNZdaQAApsyK.jpg",
+        "width": 1179
+      },
+      {
+        "height": 848,
+        "media_key": "3_2066199182554374145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKydNZdbIAERxPV.jpg",
+        "width": 1179
+      },
+      {
+        "height": 809,
+        "media_key": "3_2066199182558588928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKydNZebcAAE3ux.jpg",
+        "width": 1179
+      },
+      {
+        "height": 880,
+        "media_key": "3_2066199182558584832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKydNZebYAA9nUI.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066199182554316800",
+            "3_2066199182554374145",
+            "3_2066199182558588928",
+            "3_2066199182558584832"
+          ]
+        },
+        "author_id": "1948326838125903872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2066199191223939576",
+        "created_at": "2026-06-14T16:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066199191223939576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AJwNaSdixd",
+              "end": 102,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2066199191223939576/photo/1",
+              "media_key": "3_2066199182554316800",
+              "start": 79,
+              "url": "https://t.co/AJwNaSdixd"
+            },
+            {
+              "display_url": "pic.x.com/AJwNaSdixd",
+              "end": 102,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2066199191223939576/photo/1",
+              "media_key": "3_2066199182554374145",
+              "start": 79,
+              "url": "https://t.co/AJwNaSdixd"
+            },
+            {
+              "display_url": "pic.x.com/AJwNaSdixd",
+              "end": 102,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2066199191223939576/photo/1",
+              "media_key": "3_2066199182558588928",
+              "start": 79,
+              "url": "https://t.co/AJwNaSdixd"
+            },
+            {
+              "display_url": "pic.x.com/AJwNaSdixd",
+              "end": 102,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2066199191223939576/photo/1",
+              "media_key": "3_2066199182558584832",
+              "start": 79,
+              "url": "https://t.co/AJwNaSdixd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066199191223939576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我对星座一般般吧，我讨厌双子座，因为前男友是(˘ω˘)☽（但是我不讨厌其他双子座的宝宝）\n我回啦，刚刚在玩游戏\n我过几天下个手瓦先\n互关随缘哦(´-ω-`) https://t.co/AJwNaSdixd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 10,
+          "like_count": 1393,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 3382
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

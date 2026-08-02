@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2073540881790255503",
+    "created_at": "2026-07-05T18:39:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T19:39:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073839265939890243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1729424462846803968",
+          "start": 0,
+          "username": "Aoniwa_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073839265939890243",
+    "in_reply_to_user_id": "1729424462846803968",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073783593462276245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aoniwa_ go"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2073540881790255503",
+        "created_at": "2026-07-05T18:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T19:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073839265939890243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1729424462846803968",
+              "start": 0,
+              "username": "Aoniwa_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073839265939890243",
+        "in_reply_to_user_id": "1729424462846803968",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073783593462276245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aoniwa_ go"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729424462846803968",
+        "conversation_id": "2073540881790255503",
+        "created_at": "2026-07-05T14:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073783593462276245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073783593462276245",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073540881790255503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 打go打go打go打go打go打go😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 12,
+          "like_count": 1846,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 4951
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-28T08:58:28.000Z",
+        "description": "苦逼建筑生\n尝试在推卖专辑，有感兴趣的可以私聊或者咸🐟看品相\n其他问题直接问得了，只要别是片姐月抛什么就行",
+        "id": "1729424462846803968",
+        "location": "🛏️",
+        "name": "Aoniwa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003403685116907520/ik5tvSK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 248,
+          "like_count": 172,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 475
+        },
+        "url": "",
+        "username": "Aoniwa_",
+        "verified": false
+      }
+    ]
+  }
+}

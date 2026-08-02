@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2082129506681463116",
+    "created_at": "2026-07-28T15:46:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T16:46:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082130593241022683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2016864897565675521",
+          "start": 0,
+          "username": "joestar_jo93682"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082130593241022683",
+    "in_reply_to_user_id": "2016864897565675521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082130226784727493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@joestar_jo93682 但愿 我要去旅游了 回来之后大概都开学了，应该得等我大学放假回家吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2082129506681463116",
+        "created_at": "2026-07-28T15:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T16:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082130593241022683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2016864897565675521",
+              "start": 0,
+              "username": "joestar_jo93682"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082130593241022683",
+        "in_reply_to_user_id": "2016864897565675521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082130226784727493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@joestar_jo93682 但愿 我要去旅游了 回来之后大概都开学了，应该得等我大学放假回家吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016864897565675521",
+        "conversation_id": "2082129506681463116",
+        "created_at": "2026-07-28T15:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T16:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082130226784727493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082130226784727493",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082129986690130294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 好可惜！不过下次总是会有机会的( ´ ▽ ` )ﾉ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 10,
+          "like_count": 2019,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 6023
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-29T13:24:09.000Z",
+        "description": "05/♂/177cm/大学生（坐标华科）\n想试着交朋友\nR18🚫\n收到DM会超级开心！！！\n偶像大师/鸣潮（Aemeath.Galbrena.Hiyuki.Lucy完凹）/FGO/街霸6\n努力学习日语，英语精通（可能？\n旅游筹划中？！\n请随意地关注我\n无言关注抱歉",
+        "id": "2016864897565675521",
+        "name": "Docchi",
+        "pinned_tweet_id": "2065125711510429847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065821869513859072/MsWWd0Pb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 215,
+          "like_count": 4163,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 940
+        },
+        "url": "",
+        "username": "joestar_jo93682",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067140888518918144",
+        "3_2067140888518873088"
+      ]
+    },
+    "author_id": "1948326838125903872",
+    "conversation_id": "2067140894449639684",
+    "created_at": "2026-06-17T07:02:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T08:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067140894449639684"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jOfHRP2RvS",
+          "end": 95,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2067140894449639684/photo/1",
+          "media_key": "3_2067140888518918144",
+          "start": 72,
+          "url": "https://t.co/jOfHRP2RvS"
+        },
+        {
+          "display_url": "pic.x.com/jOfHRP2RvS",
+          "end": 95,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2067140894449639684/photo/1",
+          "media_key": "3_2067140888518873088",
+          "start": 72,
+          "url": "https://t.co/jOfHRP2RvS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067140894449639684",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "第一个是谁说的？给我站出来！(ﾒ｀ﾛ´)/̣现在就和我丸\n我是&gt;ω&lt;我是&gt;ω&lt;我是&gt;ω&lt;我是泪，最忧郁之人 https://t.co/jOfHRP2RvS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 743,
+        "media_key": "3_2067140888518918144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_1r5jbAAAiwf7.jpg",
+        "width": 1179
+      },
+      {
+        "height": 898,
+        "media_key": "3_2067140888518873088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_1r5jaUAAn1a_.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067140888518918144",
+            "3_2067140888518873088"
+          ]
+        },
+        "author_id": "1948326838125903872",
+        "conversation_id": "2067140894449639684",
+        "created_at": "2026-06-17T07:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T08:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067140894449639684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jOfHRP2RvS",
+              "end": 95,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2067140894449639684/photo/1",
+              "media_key": "3_2067140888518918144",
+              "start": 72,
+              "url": "https://t.co/jOfHRP2RvS"
+            },
+            {
+              "display_url": "pic.x.com/jOfHRP2RvS",
+              "end": 95,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2067140894449639684/photo/1",
+              "media_key": "3_2067140888518873088",
+              "start": 72,
+              "url": "https://t.co/jOfHRP2RvS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067140894449639684",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一个是谁说的？给我站出来！(ﾒ｀ﾛ´)/̣现在就和我丸\n我是&gt;ω&lt;我是&gt;ω&lt;我是&gt;ω&lt;我是泪，最忧郁之人 https://t.co/jOfHRP2RvS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 10,
+          "like_count": 1548,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 3895
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

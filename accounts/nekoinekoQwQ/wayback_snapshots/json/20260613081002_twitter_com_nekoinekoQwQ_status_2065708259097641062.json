@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065703084660285669",
+    "created_at": "2026-06-13T08:10:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T09:10:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065708259097641062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1516445789123334144",
+          "start": 0,
+          "username": "Hsn289744493"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065708259097641062",
+    "in_reply_to_user_id": "1516445789123334144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065707182742790604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hsn289744493 味真足"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065703084660285669",
+        "created_at": "2026-06-13T08:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T09:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065708259097641062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1516445789123334144",
+              "start": 0,
+              "username": "Hsn289744493"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065708259097641062",
+        "in_reply_to_user_id": "1516445789123334144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065707182742790604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hsn289744493 味真足"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516445789123334144",
+        "conversation_id": "2065703084660285669",
+        "created_at": "2026-06-13T08:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T09:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065707182742790604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065707182742790604",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065703084660285669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 味真足🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 9,
+          "like_count": 1155,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2975
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-19T15:57:28.000Z",
+        "description": "我有恐高症😭 ｜ X 主业炒股(bushi |  副业 ai yes 工程师",
+        "id": "1516445789123334144",
+        "name": "HSn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998081318962466816/EYOuVyLq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 778,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 176
+        },
+        "username": "Hsn289744493",
+        "verified": true
+      }
+    ]
+  }
+}

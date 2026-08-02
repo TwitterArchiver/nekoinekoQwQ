@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2063199531253248345",
+    "created_at": "2026-06-06T10:01:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T11:01:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063199531253248345"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063199531253248345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我苦逼的高中悲惨生活终于要结束了，去离家好远的高中上三年，没有认识的人，发现大家早就有朋友了，自己还不擅长交友，三年无知心朋友哈哈哈！无所谓了，快乐暑假我来了，考完之后，过去的所有事情我都要忘记，然后平静的过着我接下来的生活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2063199531253248345",
+        "created_at": "2026-06-06T10:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063199531253248345"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063199531253248345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我苦逼的高中悲惨生活终于要结束了，去离家好远的高中上三年，没有认识的人，发现大家早就有朋友了，自己还不擅长交友，三年无知心朋友哈哈哈！无所谓了，快乐暑假我来了，考完之后，过去的所有事情我都要忘记，然后平静的过着我接下来的生活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CH",
+              "full_name": "Zürich, Zurich, Switzerland",
+              "geo": {
+                "coordinates": [
+                  8.55,
+                  47.36667
+                ],
+                "type": "Point"
+              },
+              "locality": "Zürich",
+              "region": "Zurich",
+              "sub_region": "Bezirk Zürich"
+            }
+          ]
+        },
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "id": "1948326838125903872",
+        "location": "世界",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 2,
+          "like_count": 295,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1906
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2037820750791606629",
+    "created_at": "2026-03-28T09:52:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T10:52:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037830251343151486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1979917758415646720",
+          "start": 0,
+          "username": "RuriiroTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037830251343151486",
+    "in_reply_to_user_id": "1979917758415646720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037820750791606629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RuriiroTvT 我想急头白脸把草莓吃掉，然后其他都不吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2606,
+        "media_key": "3_2037820732252835841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfLKL3bUAE-lfc.jpg",
+        "width": 2603
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2037820750791606629",
+        "created_at": "2026-03-28T09:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T10:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037830251343151486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1979917758415646720",
+              "start": 0,
+              "username": "RuriiroTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037830251343151486",
+        "in_reply_to_user_id": "1979917758415646720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037820750791606629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RuriiroTvT 我想急头白脸把草莓吃掉，然后其他都不吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037820732252835841"
+          ]
+        },
+        "author_id": "1979917758415646720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2037820750791606629",
+        "created_at": "2026-03-28T09:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T10:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037820750791606629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LhWY9QMpFE",
+              "end": 36,
+              "expanded_url": "https://x.com/RuriiroTvT/status/2037820750791606629/photo/1",
+              "media_key": "3_2037820732252835841",
+              "start": 13,
+              "url": "https://t.co/LhWY9QMpFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037820750791606629",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 198,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要一起吃蛋糕嘛=ᗜωᗜ= https://t.co/LhWY9QMpFE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 1,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 1138
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-19T14:29:21.000Z",
+        "description": "此账号全是废话/不要弃养小猫/我想要好多好多钱     不回非粉私信/发屌的全家暴毙/取关屏蔽随意",
+        "id": "1979917758415646720",
+        "location": "🚪520",
+        "name": "🐱",
+        "pinned_tweet_id": "2027035977089482856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979933527807279105/LT9GOVZS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 87,
+          "like_count": 92,
+          "listed_count": 2,
+          "media_count": 580,
+          "tweet_count": 4747
+        },
+        "username": "RuriiroTvT",
+        "verified": false
+      }
+    ]
+  }
+}

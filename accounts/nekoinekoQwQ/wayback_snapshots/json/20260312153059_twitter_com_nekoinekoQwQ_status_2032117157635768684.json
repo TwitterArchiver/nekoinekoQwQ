@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2032117157635768684",
+    "created_at": "2026-03-12T15:30:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T16:30:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032117157635768684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1782751587821363200",
+          "start": 3,
+          "username": "MaybEuRshY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032117157635768684",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032067863855710336",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MaybEuRshY: 当我觉得谁是我的真爱的时候，我就知道离这段关系结束不远了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2032117157635768684",
+        "created_at": "2026-03-12T15:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032117157635768684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1782751587821363200",
+              "start": 3,
+              "username": "MaybEuRshY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032117157635768684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032067863855710336",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MaybEuRshY: 当我觉得谁是我的真爱的时候，我就知道离这段关系结束不远了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782751587821363200",
+        "conversation_id": "2032067863855710336",
+        "created_at": "2026-03-12T12:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T13:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032067863855710336"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032067863855710336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当我觉得谁是我的真爱的时候，我就知道离这段关系结束不远了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 1,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 470
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-23T12:41:22.000Z",
+        "description": "我绝不是你幻想中的电波系女主角。",
+        "id": "1782751587821363200",
+        "name": "怜心",
+        "pinned_tweet_id": "2012750154777137472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028810735451824128/XirbTrbN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 27,
+          "like_count": 1682,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 433
+        },
+        "username": "MaybEuRshY",
+        "verified": false
+      }
+    ]
+  }
+}

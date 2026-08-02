@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2070727098000707817",
+    "created_at": "2026-06-27T15:32:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T16:32:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070892955934814372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1535201324643807232",
+          "start": 0,
+          "username": "07yyyuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070892955934814372",
+    "in_reply_to_user_id": "1535201324643807232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070888924130795547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@07yyyuan 好 TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2070727098000707817",
+        "created_at": "2026-06-27T15:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070892955934814372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1535201324643807232",
+              "start": 0,
+              "username": "07yyyuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070892955934814372",
+        "in_reply_to_user_id": "1535201324643807232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070888924130795547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@07yyyuan 好 TT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1535201324643807232",
+        "conversation_id": "2070727098000707817",
+        "created_at": "2026-06-27T15:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070888924130795547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070888924130795547",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070727098000707817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 以后会有的ovo加油"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 12,
+          "like_count": 1701,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 4755
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-10T10:05:10.000Z",
+        "description": "一个脆弱的小宝宝 \n喜欢碎碎念 单纯分享日常 \n可以互fo！喜欢有礼貌的人ovo\n欢迎和我做朋友！",
+        "id": "1535201324643807232",
+        "location": "Dublin City, Ireland",
+        "name": "差点以为自己又被爱了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060016158586322944/3wnWc2Hj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 196,
+          "like_count": 10141,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 509
+        },
+        "url": "",
+        "username": "07yyyuan",
+        "verified": false
+      }
+    ]
+  }
+}

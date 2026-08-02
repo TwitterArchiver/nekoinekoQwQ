@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065313876955332847",
+    "created_at": "2026-06-13T05:08:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T06:08:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065662558628163671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2050566949223251968",
+          "start": 0,
+          "username": "7UaRYFNrp216413"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065662558628163671",
+    "in_reply_to_user_id": "2050566949223251968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065313876955332847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7UaRYFNrp216413 被女孩子喊宝宝，我就嘴角咧后脑勺去🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065313876955332847",
+        "created_at": "2026-06-13T05:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T06:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065662558628163671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2050566949223251968",
+              "start": 0,
+              "username": "7UaRYFNrp216413"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065662558628163671",
+        "in_reply_to_user_id": "2050566949223251968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065313876955332847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7UaRYFNrp216413 被女孩子喊宝宝，我就嘴角咧后脑勺去🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050566949223251968",
+        "conversation_id": "2065313876955332847",
+        "created_at": "2026-06-12T06:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065313876955332847"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065313876955332847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 46926,
+          "like_count": 1229,
+          "quote_count": 3,
+          "reply_count": 92,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "到底是谁把宝宝这个词给普及成女孩子打招呼和日常使用的？就这两个字但凡我被喊一声就会飘飘乎不知其所以然,整颗心都想跟女孩子回家了，结果人家根本没想把我往家里带"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 9,
+          "like_count": 1139,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2923
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T13:24:15.000Z",
+        "description": "随便发欲望使然...唉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/weishiji",
+                "end": 23,
+                "expanded_url": "https://ngl.link/weishiji",
+                "start": 0,
+                "url": "https://t.co/rjD6BMsO89"
+              }
+            ]
+          }
+        },
+        "id": "2050566949223251968",
+        "name": "SoberMand",
+        "pinned_tweet_id": "2062198187000262823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060030609653903360/FSKxkNYP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 26,
+          "like_count": 332,
+          "listed_count": 3,
+          "media_count": 45,
+          "tweet_count": 234
+        },
+        "url": "https://t.co/rjD6BMsO89",
+        "username": "7UaRYFNrp216413",
+        "verified": false
+      }
+    ]
+  }
+}

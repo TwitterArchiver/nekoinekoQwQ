@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2067472683521167467",
+    "created_at": "2026-06-18T05:01:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T06:01:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067472683521167467"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067472683521167467",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不行了吧，我起了个大早去染发，晚上还要去剪刘海，哦哦。就这样分开累我吧，本人的拖延症已经到达了无可救药的地步(ﾉ_&lt;。)🔨，我暑假的计划真的能完成吗。可是床好舒服啊。(つω｀)不管了，就算暑假什么都没做，躺床上一辈子我也愿意口牙！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2067472683521167467",
+        "created_at": "2026-06-18T05:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067472683521167467"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067472683521167467",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不行了吧，我起了个大早去染发，晚上还要去剪刘海，哦哦。就这样分开累我吧，本人的拖延症已经到达了无可救药的地步(ﾉ_&lt;。)🔨，我暑假的计划真的能完成吗。可是床好舒服啊。(つω｀)不管了，就算暑假什么都没做，躺床上一辈子我也愿意口牙！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 11,
+          "like_count": 1568,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 4013
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

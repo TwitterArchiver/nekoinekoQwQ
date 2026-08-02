@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2067967197402603624",
+    "created_at": "2026-06-19T16:11:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T17:11:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068003629232181731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1951932082676269056",
+          "start": 0,
+          "username": "qbi12976931"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068003629232181731",
+    "in_reply_to_user_id": "1951932082676269056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067979858777702405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qbi12976931 现在你暴露了 hh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2067967197402603624",
+        "created_at": "2026-06-19T16:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T17:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068003629232181731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1951932082676269056",
+              "start": 0,
+              "username": "qbi12976931"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068003629232181731",
+        "in_reply_to_user_id": "1951932082676269056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067979858777702405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qbi12976931 现在你暴露了 hh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951932082676269056",
+        "conversation_id": "2067967197402603624",
+        "created_at": "2026-06-19T14:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067979858777702405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067979858777702405",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067967197402603624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 直接卡上一个time，奇怪，以我视奸你的频率，怎么可能没上榜￣へ￣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 12,
+          "like_count": 1597,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 4234
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-03T09:04:20.000Z",
+        "description": "（未成年09，各位伪人别看啦）世界还真是大啊(￣(エ)￣)",
+        "id": "1951932082676269056",
+        "name": "齐北",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951932235281817600/m_hqllnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 31,
+          "like_count": 216,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 402
+        },
+        "url": "",
+        "username": "qbi12976931",
+        "verified": false
+      }
+    ]
+  }
+}

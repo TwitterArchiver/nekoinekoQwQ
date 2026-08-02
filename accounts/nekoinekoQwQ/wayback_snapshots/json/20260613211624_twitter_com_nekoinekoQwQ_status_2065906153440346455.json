@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065906153440346455",
+    "created_at": "2026-06-13T21:16:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T22:16:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065906153440346455"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065906153440346455",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我玩推这么久，有两个人问我有没有🚪，本人是没有🚪的，看起来正常的私信我都会回复，加好友可能不会再那么容易吧，因为我现在有点害怕加了好友不聊天，嗯没错，因为有这种情况，我不太喜欢，还有就是，我不太想成为那种收了钱，就天天得在意对方情绪的那种人，而且我也不发 h，谢谢(￣^￣)ゞ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065906153440346455",
+        "created_at": "2026-06-13T21:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T22:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065906153440346455"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065906153440346455",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我玩推这么久，有两个人问我有没有🚪，本人是没有🚪的，看起来正常的私信我都会回复，加好友可能不会再那么容易吧，因为我现在有点害怕加了好友不聊天，嗯没错，因为有这种情况，我不太喜欢，还有就是，我不太想成为那种收了钱，就天天得在意对方情绪的那种人，而且我也不发 h，谢谢(￣^￣)ゞ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 9,
+          "like_count": 1248,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 3205
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

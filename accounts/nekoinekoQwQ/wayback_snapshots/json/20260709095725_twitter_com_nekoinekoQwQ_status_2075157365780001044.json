@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2075123137256292692",
+    "created_at": "2026-07-09T09:57:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T10:57:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075157365780001044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2075085029261135872",
+          "start": 0,
+          "username": "Yokodaweidai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075157365780001044",
+    "in_reply_to_user_id": "2075085029261135872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075138427763511324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yokodaweidai 可以呀(｀･ω･´)ゞ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2075123137256292692",
+        "created_at": "2026-07-09T09:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T10:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075157365780001044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2075085029261135872",
+              "start": 0,
+              "username": "Yokodaweidai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075157365780001044",
+        "in_reply_to_user_id": "2075085029261135872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075138427763511324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yokodaweidai 可以呀(｀･ω･´)ゞ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075085029261135872",
+        "conversation_id": "2075123137256292692",
+        "created_at": "2026-07-09T08:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T09:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075138427763511324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075138427763511324",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075138191515140100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 原来如此，我明白了，老师可以一起打游戏嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 10,
+          "like_count": 1924,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 5175
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-09T05:10:49.000Z",
+        "description": "22岁，刚刚成为社畜，男，爱好特摄，音乐，打游戏。偶尔喝酒，想要可以喝酒聊天的。\n希望能交到朋友一起玩",
+        "id": "2075085029261135872",
+        "name": "Yoko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075086146028163072/kO4WqNAL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 13,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "Yokodaweidai",
+        "verified": false
+      }
+    ]
+  }
+}

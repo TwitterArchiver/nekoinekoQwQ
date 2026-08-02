@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2066973244893405394",
+    "created_at": "2026-06-16T21:15:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T22:15:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066993208224293066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1464908007532228616",
+          "start": 0,
+          "username": "fenerzaifei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066993208224293066",
+    "in_reply_to_user_id": "1464908007532228616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066992898613432830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fenerzaifei 论，论｡ﾟ(ﾟ´ω`ﾟ)ﾟ｡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2066973244893405394",
+        "created_at": "2026-06-16T21:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T22:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066993208224293066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1464908007532228616",
+              "start": 0,
+              "username": "fenerzaifei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066993208224293066",
+        "in_reply_to_user_id": "1464908007532228616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066992898613432830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fenerzaifei 论，论｡ﾟ(ﾟ´ω`ﾟ)ﾟ｡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464908007532228616",
+        "conversation_id": "2066973244893405394",
+        "created_at": "2026-06-16T21:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T22:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066992898613432830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066992898613432830",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066973244893405394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 相对论"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 10,
+          "like_count": 1531,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 3818
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-28T10:44:28.000Z",
+        "description": "不知道做什么。",
+        "id": "1464908007532228616",
+        "name": "风止意难平",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476587273332224003/mzxzqnkg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 385,
+          "like_count": 770,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1253
+        },
+        "username": "fenerzaifei",
+        "verified": false
+      }
+    ]
+  }
+}

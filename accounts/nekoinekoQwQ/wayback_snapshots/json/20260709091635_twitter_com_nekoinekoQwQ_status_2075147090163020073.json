@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2075147090163020073",
+    "created_at": "2026-07-09T09:16:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T10:16:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075147090163020073"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075147090163020073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的天哪，特别可怕，我朋友他去上了差不多有一年的班吧，头发已经白了一半，而且他辛辛苦苦参加完项目，就被踢了，美其名曰实习转正，职位要重新再升，太可怕了呀，他之前一开始去那边上班的时候，以为能找到个在电脑桌前的工作，结果是让他在厂里，好悲催呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2075147090163020073",
+        "created_at": "2026-07-09T09:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T10:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075147090163020073"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075147090163020073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的天哪，特别可怕，我朋友他去上了差不多有一年的班吧，头发已经白了一半，而且他辛辛苦苦参加完项目，就被踢了，美其名曰实习转正，职位要重新再升，太可怕了呀，他之前一开始去那边上班的时候，以为能找到个在电脑桌前的工作，结果是让他在厂里，好悲催呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 10,
+          "like_count": 1922,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 5171
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

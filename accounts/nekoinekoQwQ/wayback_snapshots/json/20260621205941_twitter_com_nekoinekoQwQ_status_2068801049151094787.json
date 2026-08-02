@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2068775066998100344",
+    "created_at": "2026-06-21T20:59:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T21:59:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068801049151094787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1610016083678838786",
+          "start": 0,
+          "username": "X1nKuangShen1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068801049151094787",
+    "in_reply_to_user_id": "1610016083678838786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068800444013433035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X1nKuangShen1 我已经吃完啦，我下次试试放这些🍴(๑´ڡ`๑)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2068775066998100344",
+        "created_at": "2026-06-21T20:59:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T21:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068801049151094787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1610016083678838786",
+              "start": 0,
+              "username": "X1nKuangShen1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068801049151094787",
+        "in_reply_to_user_id": "1610016083678838786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068800444013433035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X1nKuangShen1 我已经吃完啦，我下次试试放这些🍴(๑´ڡ`๑)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1610016083678838786",
+        "conversation_id": "2068775066998100344",
+        "created_at": "2026-06-21T20:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T21:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068800444013433035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068800444013433035",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068775066998100344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 你可以（如果你吃的话）放点葱段下去中和一下这个颜色 或者剪条淀粉肠进去 不过看着也好香啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 12,
+          "like_count": 1632,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 4463
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-02T20:52:43.000Z",
+        "description": "▪ 肠粉&芋角lover ▪ intp x ♉ ▪ 法国教育局什么时候能放过我 ▪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/intl-fr/track/…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/intl-fr/track/1RPeiZ3AUmXg188S7mke9j?si=ac7eefe469634156",
+                "start": 0,
+                "url": "https://t.co/FIL7WngvKG"
+              }
+            ]
+          }
+        },
+        "id": "1610016083678838786",
+        "location": "^⎚˕⎚^",
+        "name": "冻柠茶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061177125160251393/4T-6wDKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 137,
+          "like_count": 2722,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 249
+        },
+        "url": "https://t.co/FIL7WngvKG",
+        "username": "X1nKuangShen1",
+        "verified": false
+      }
+    ]
+  }
+}

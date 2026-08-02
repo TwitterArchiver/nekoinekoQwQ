@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2037844987174650013",
+    "created_at": "2026-03-28T11:21:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T12:21:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037852564264493528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2007800360057135104",
+          "start": 0,
+          "username": "chessiaya1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037852564264493528",
+    "in_reply_to_user_id": "2007800360057135104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037844987174650013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chessiaya1 米死我了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6200,
+        "height": 720,
+        "media_key": "13_2037844925950382080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037844925950382080/img/VVLD-vw1snVG3_3V.jpg",
+        "public_metrics": {
+          "view_count": 28
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037844925950382080/vid/avc1/480x270/Rphz2wAmsPhGC4Ky.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037844925950382080/vid/avc1/640x360/fRLZVRrJkfZ_wElZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037844925950382080/vid/avc1/1280x720/_KE14Rv8eGjHWmHc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037844925950382080/pl/j0tFwTNIkS3FhORl.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2037844987174650013",
+        "created_at": "2026-03-28T11:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T12:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037852564264493528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2007800360057135104",
+              "start": 0,
+              "username": "chessiaya1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037852564264493528",
+        "in_reply_to_user_id": "2007800360057135104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037844987174650013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chessiaya1 米死我了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037844925950382080"
+          ]
+        },
+        "author_id": "2007800360057135104",
+        "conversation_id": "2037844987174650013",
+        "created_at": "2026-03-28T10:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T11:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037844987174650013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9jwz4Ebrtw",
+              "end": 34,
+              "expanded_url": "https://x.com/chessiaya1/status/2037844987174650013/video/1",
+              "media_key": "13_2037844925950382080",
+              "start": 11,
+              "url": "https://t.co/9jwz4Ebrtw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037844987174650013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你这视频里加了什么… https://t.co/9jwz4Ebrtw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 1,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 1162
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-04T13:04:57.000Z",
+        "description": "是小莴最好 是小悔也没关系",
+        "id": "2007800360057135104",
+        "location": "288好友位（口令",
+        "name": "塞西莉娅",
+        "pinned_tweet_id": "2035692812377956370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020711776904777729/xWO0jx7n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 182,
+          "like_count": 7672,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 1350
+        },
+        "username": "chessiaya1",
+        "verified": false
+      }
+    ]
+  }
+}

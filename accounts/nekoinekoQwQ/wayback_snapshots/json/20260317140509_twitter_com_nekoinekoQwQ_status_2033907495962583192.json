@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2033907495962583192",
+    "created_at": "2026-03-17T14:05:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T15:05:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033907495962583192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1502618778563141636",
+          "start": 3,
+          "username": "DafOlpfM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033907495962583192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033570884347437072",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DafOlpfM: 我已力竭 我已沉默 我已投降 我已绝望 我已崩溃 我已无助 我已流泪 我已求佛 我已倒下 我已上吊 我已卧轨 我已归隐田园 我已贤者时刻 我已无力招架 我已求天求地求爹娘 我已三十六计走为上计 我已装疯卖傻一问三不知"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2033907495962583192",
+        "created_at": "2026-03-17T14:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T15:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033907495962583192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1502618778563141636",
+              "start": 3,
+              "username": "DafOlpfM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033907495962583192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033570884347437072",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DafOlpfM: 我已力竭 我已沉默 我已投降 我已绝望 我已崩溃 我已无助 我已流泪 我已求佛 我已倒下 我已上吊 我已卧轨 我已归隐田园 我已贤者时刻 我已无力招架 我已求天求地求爹娘 我已三十六计走为上计 我已装疯卖傻一问三不知"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1502618778563141636",
+        "conversation_id": "2033570884347437072",
+        "created_at": "2026-03-16T15:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T16:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033570884347437072"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033570884347437072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 373,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我已力竭 我已沉默 我已投降 我已绝望 我已崩溃 我已无助 我已流泪 我已求佛 我已倒下 我已上吊 我已卧轨 我已归隐田园 我已贤者时刻 我已无力招架 我已求天求地求爹娘 我已三十六计走为上计 我已装疯卖傻一问三不知"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 1,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 617
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-12T12:13:38.000Z",
+        "description": "所有人 感受攻儿能量｜你的宝我的杯 我想咋飞就咋飞 这是攻儿概念｜对不起 小孩子不懂乱发的 别生气了｜直fo就是喜欢｜没有🚪不聊骚拜托拜托了。",
+        "id": "1502618778563141636",
+        "name": "五毒攻儿",
+        "pinned_tweet_id": "2030259106561614250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022668889478565895/OMKORNGq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 66,
+          "like_count": 3422,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 732
+        },
+        "username": "DafOlpfM",
+        "verified": false
+      }
+    ]
+  }
+}

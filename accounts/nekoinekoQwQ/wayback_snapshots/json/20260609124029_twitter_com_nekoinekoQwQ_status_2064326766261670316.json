@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2063668705628999728",
+    "created_at": "2026-06-09T12:40:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T13:40:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064326766261670316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2037108377130856448",
+          "start": 0,
+          "username": "victor72398"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064326766261670316",
+    "in_reply_to_user_id": "2037108377130856448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064326361939083303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@victor72398 我记得他这个变身器是不是还可以说话，反正就是好可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2063668705628999728",
+        "created_at": "2026-06-09T12:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064326766261670316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2037108377130856448",
+              "start": 0,
+              "username": "victor72398"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064326766261670316",
+        "in_reply_to_user_id": "2037108377130856448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064326361939083303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@victor72398 我记得他这个变身器是不是还可以说话，反正就是好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037108377130856448",
+        "conversation_id": "2063668705628999728",
+        "created_at": "2026-06-09T12:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064326361939083303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064326361939083303",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064326115536289899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 哈哈哈哈这个是耳机壳，你搜一下kiva耳机壳就出来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 6,
+          "like_count": 550,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 2293
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-26T10:04:34.000Z",
+        "description": "",
+        "id": "2037108377130856448",
+        "name": "总有一天要暴富",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062503188952240128/u9JHJz3Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 79,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 149
+        },
+        "username": "victor72398",
+        "verified": false
+      }
+    ]
+  }
+}

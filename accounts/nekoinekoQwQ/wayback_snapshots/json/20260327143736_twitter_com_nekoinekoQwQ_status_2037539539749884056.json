@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2037400120476766466",
+    "created_at": "2026-03-27T14:37:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T15:37:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037539539749884056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1897385240735240192",
+          "start": 0,
+          "username": "Shen20020210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037539539749884056",
+    "in_reply_to_user_id": "1897385240735240192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037400120476766466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shen20020210 我看到这个吓晕了。全世界蟑螂死绝吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037400116869640192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZMnJdasAAQpoE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2037400120476766466",
+        "created_at": "2026-03-27T14:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T15:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037539539749884056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1897385240735240192",
+              "start": 0,
+              "username": "Shen20020210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037539539749884056",
+        "in_reply_to_user_id": "1897385240735240192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037400120476766466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shen20020210 我看到这个吓晕了。全世界蟑螂死绝吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037400116869640192"
+          ]
+        },
+        "author_id": "1897385240735240192",
+        "conversation_id": "2037400120476766466",
+        "created_at": "2026-03-27T05:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T06:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037400120476766466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UNiKuP0fQD",
+              "end": 36,
+              "expanded_url": "https://x.com/Shen20020210/status/2037400120476766466/photo/1",
+              "media_key": "3_2037400116869640192",
+              "start": 13,
+              "url": "https://t.co/UNiKuP0fQD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037400120476766466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 416,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是蟑螂吗怎么老大一只… https://t.co/UNiKuP0fQD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 1,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 1087
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-05T20:34:49.000Z",
+        "description": "我真的不系拉拉呀…/ ENTJ-A /水瓶座 /我想像风一样自由 /喜欢画画听歌散步/分享我的日常和碎碎念/一些疑惑和自省/不约炮不聊骚不鉴鸡 / 内向但不社恐/给我发照片会被我锐评\n\n提问箱：https://t.co/nhgGIeVP69",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/s_far02",
+                "end": 120,
+                "expanded_url": "http://ngl.link/s_far02",
+                "start": 97,
+                "url": "https://t.co/nhgGIeVP69"
+              }
+            ]
+          }
+        },
+        "id": "1897385240735240192",
+        "location": "距离你1008km ",
+        "name": "懒大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004553048597880832/wF2u16g2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1451,
+          "following_count": 545,
+          "like_count": 37764,
+          "listed_count": 0,
+          "media_count": 640,
+          "tweet_count": 5039
+        },
+        "username": "Shen20020210",
+        "verified": false
+      }
+    ]
+  }
+}

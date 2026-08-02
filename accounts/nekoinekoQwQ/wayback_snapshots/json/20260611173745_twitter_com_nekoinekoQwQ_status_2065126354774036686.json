@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065126347383685120"
+      ]
+    },
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065126354774036686",
+    "created_at": "2026-06-11T17:37:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T18:37:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065126354774036686"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UwGkfZ3RCm",
+          "end": 137,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2065126354774036686/photo/1",
+          "media_key": "3_2065126347383685120",
+          "start": 114,
+          "url": "https://t.co/UwGkfZ3RCm"
+        },
+        {
+          "display_url": "x.com/nekoinekoqwq/s…",
+          "end": 161,
+          "expanded_url": "https://twitter.com/nekoinekoqwq/status/2065120914300453268",
+          "start": 138,
+          "url": "https://t.co/rDGoHGdsPj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065126354774036686",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065120914300453268",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对了我忘记说，他还是奶龙的辱追，之前发个奶龙表情给我笑死，本来想给他买奶龙的面霜，然后我发现奶龙没有联名过面霜！我们两个就天天刷猎奇视频（附我感觉我好久没跟别人打过电话了，感觉好陌生，虽然这个想法跟这条没什么关系，就是想到了） https://t.co/UwGkfZ3RCm https://t.co/rDGoHGdsPj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 154,
+        "media_key": "3_2065126347383685120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKjNeLAawAAT2Lg.jpg",
+        "width": 154
+      },
+      {
+        "height": 1394,
+        "media_key": "3_2065120905744023552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKjIhbUbAAA9NzH.jpg",
+        "width": 851
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065126347383685120"
+          ]
+        },
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065126354774036686",
+        "created_at": "2026-06-11T17:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T18:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065126354774036686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UwGkfZ3RCm",
+              "end": 137,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2065126354774036686/photo/1",
+              "media_key": "3_2065126347383685120",
+              "start": 114,
+              "url": "https://t.co/UwGkfZ3RCm"
+            },
+            {
+              "display_url": "x.com/nekoinekoqwq/s…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/nekoinekoqwq/status/2065120914300453268",
+              "start": 138,
+              "url": "https://t.co/rDGoHGdsPj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065126354774036686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065120914300453268",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对了我忘记说，他还是奶龙的辱追，之前发个奶龙表情给我笑死，本来想给他买奶龙的面霜，然后我发现奶龙没有联名过面霜！我们两个就天天刷猎奇视频（附我感觉我好久没跟别人打过电话了，感觉好陌生，虽然这个想法跟这条没什么关系，就是想到了） https://t.co/UwGkfZ3RCm https://t.co/rDGoHGdsPj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065120905744023552"
+          ]
+        },
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065120914300453268",
+        "created_at": "2026-06-11T17:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T18:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065120914300453268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4q7LfbpevP",
+              "end": 165,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2065120914300453268/photo/1",
+              "media_key": "3_2065120905744023552",
+              "start": 142,
+              "url": "https://t.co/4q7LfbpevP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065120914300453268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我每天都在攻击我朋友，但是我们关系很好 就是因为这样才随便攻击吧（最多就说他是猪了）看到他说这个感觉他好可怜，不过他主要是觉得这些没什么用吧，但是他很害羞，会不好意思接受别人送的东西（呵呵拒绝我好几次了生气）之前我刚分手那段时间，他老是听我说些乱七八糟的还安慰我，好好是好的 伤感中 https://t.co/4q7LfbpevP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 10,
+          "like_count": 905,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 2632
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

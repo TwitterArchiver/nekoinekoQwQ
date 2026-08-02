@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2067531100503916680",
+    "created_at": "2026-06-18T13:34:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T14:34:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067601882214969525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1583744328035610624",
+          "start": 0,
+          "username": "lunkn3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067601882214969525",
+    "in_reply_to_user_id": "1583744328035610624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067587709485596753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lunkn3 老师，我现在能不能上钻石已经是问题了🥲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 942,
+        "media_key": "3_2067587698819522560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGMDroa4AAfVTR.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2067531100503916680",
+        "created_at": "2026-06-18T13:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067601882214969525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1583744328035610624",
+              "start": 0,
+              "username": "lunkn3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067601882214969525",
+        "in_reply_to_user_id": "1583744328035610624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067587709485596753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lunkn3 老师，我现在能不能上钻石已经是问题了🥲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067587698819522560"
+          ]
+        },
+        "author_id": "1583744328035610624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067531100503916680",
+        "created_at": "2026-06-18T12:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067587709485596753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xhBEoFWtcn",
+              "end": 56,
+              "expanded_url": "https://x.com/lunkn3/status/2067587709485596753/photo/1",
+              "media_key": "3_2067587698819522560",
+              "start": 33,
+              "url": "https://t.co/xhBEoFWtcn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067587709485596753",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067531100503916680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 加油，到星耀💪我可以带你，小号还没打 https://t.co/xhBEoFWtcn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 11,
+          "like_count": 1579,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 4099
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-22T08:57:40.000Z",
+        "description": "哈尔滨， 173/120，巨蟹， 一个臭打游戏的有病的人， （steam，王者，云顶，金铲铲，switch，洛克王国）正常人会礼貌回关，人机骗子勿扰",
+        "id": "1583744328035610624",
+        "name": "孤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064946977440419841/hQYnXTq1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 3,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 42
+        },
+        "username": "lunkn3",
+        "verified": false
+      }
+    ]
+  }
+}

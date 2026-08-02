@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2074663995034959978",
+    "created_at": "2026-07-22T07:37:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T08:37:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079833082987982944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1766382316853530624",
+          "start": 0,
+          "username": "IdrishNaka1451"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079833082987982944",
+    "in_reply_to_user_id": "1766382316853530624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079832367406207456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IdrishNaka1451 那我可能之后能找得到人联机的话会试试，我到现在还没有打开过这个游戏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2074663995034959978",
+        "created_at": "2026-07-22T07:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T08:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079833082987982944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1766382316853530624",
+              "start": 0,
+              "username": "IdrishNaka1451"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079833082987982944",
+        "in_reply_to_user_id": "1766382316853530624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079832367406207456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IdrishNaka1451 那我可能之后能找得到人联机的话会试试，我到现在还没有打开过这个游戏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766382316853530624",
+        "conversation_id": "2074663995034959978",
+        "created_at": "2026-07-22T07:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T08:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079832367406207456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079832367406207456",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079831618945253502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 😗就是联机可能有点麻烦，我都没试过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 10,
+          "like_count": 1942,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 5453
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T08:36:01.000Z",
+        "description": "赛博精神病｜INFP｜夜猫子｜偶尔发发推特空间｜多变｜",
+        "id": "1766382316853530624",
+        "name": "亦忻忻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076056316951556096/FhSksR9Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 81,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 499
+        },
+        "url": "",
+        "username": "IdrishNaka1451",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066004692602413056",
+        "3_2066004692581355520",
+        "3_2066004692593934336",
+        "3_2066004692937949185"
+      ]
+    },
+    "author_id": "1948326838125903872",
+    "conversation_id": "2066004702148641126",
+    "created_at": "2026-06-14T03:48:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T04:48:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066004702148641126"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3PZLpQyjwg",
+          "end": 155,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2066004702148641126/photo/1",
+          "media_key": "3_2066004692602413056",
+          "start": 132,
+          "url": "https://t.co/3PZLpQyjwg"
+        },
+        {
+          "display_url": "pic.x.com/3PZLpQyjwg",
+          "end": 155,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2066004702148641126/photo/1",
+          "media_key": "3_2066004692581355520",
+          "start": 132,
+          "url": "https://t.co/3PZLpQyjwg"
+        },
+        {
+          "display_url": "pic.x.com/3PZLpQyjwg",
+          "end": 155,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2066004702148641126/photo/1",
+          "media_key": "3_2066004692593934336",
+          "start": 132,
+          "url": "https://t.co/3PZLpQyjwg"
+        },
+        {
+          "display_url": "pic.x.com/3PZLpQyjwg",
+          "end": 155,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2066004702148641126/photo/1",
+          "media_key": "3_2066004692937949185",
+          "start": 132,
+          "url": "https://t.co/3PZLpQyjwg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066004702148641126",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "第一句的翻译是我会努力的（那你要加油哦 hhh）\n\n好好（这是我给他起的名字，因为他老是说好好）他是🐷，我说的，他肚子疼，我干的😈\n\n我没有喜欢的人，但是我感觉这个问题好像已经被问过了，我就这样记不住，然后一直重复回答\n\n我准备这两天先把和平精英拾起来(/ω＼) https://t.co/3PZLpQyjwg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 752,
+        "media_key": "3_2066004692602413056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKvsUl7bYAAtf2V.jpg",
+        "width": 1179
+      },
+      {
+        "height": 736,
+        "media_key": "3_2066004692581355520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKvsUl2aEAARZDg.jpg",
+        "width": 1179
+      },
+      {
+        "height": 752,
+        "media_key": "3_2066004692593934336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKvsUl5aAAAgLYb.jpg",
+        "width": 1179
+      },
+      {
+        "height": 736,
+        "media_key": "3_2066004692937949185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKvsUnLbQAEFoOB.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066004692602413056",
+            "3_2066004692581355520",
+            "3_2066004692593934336",
+            "3_2066004692937949185"
+          ]
+        },
+        "author_id": "1948326838125903872",
+        "conversation_id": "2066004702148641126",
+        "created_at": "2026-06-14T03:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066004702148641126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3PZLpQyjwg",
+              "end": 155,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2066004702148641126/photo/1",
+              "media_key": "3_2066004692602413056",
+              "start": 132,
+              "url": "https://t.co/3PZLpQyjwg"
+            },
+            {
+              "display_url": "pic.x.com/3PZLpQyjwg",
+              "end": 155,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2066004702148641126/photo/1",
+              "media_key": "3_2066004692581355520",
+              "start": 132,
+              "url": "https://t.co/3PZLpQyjwg"
+            },
+            {
+              "display_url": "pic.x.com/3PZLpQyjwg",
+              "end": 155,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2066004702148641126/photo/1",
+              "media_key": "3_2066004692593934336",
+              "start": 132,
+              "url": "https://t.co/3PZLpQyjwg"
+            },
+            {
+              "display_url": "pic.x.com/3PZLpQyjwg",
+              "end": 155,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2066004702148641126/photo/1",
+              "media_key": "3_2066004692937949185",
+              "start": 132,
+              "url": "https://t.co/3PZLpQyjwg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066004702148641126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一句的翻译是我会努力的（那你要加油哦 hhh）\n\n好好（这是我给他起的名字，因为他老是说好好）他是🐷，我说的，他肚子疼，我干的😈\n\n我没有喜欢的人，但是我感觉这个问题好像已经被问过了，我就这样记不住，然后一直重复回答\n\n我准备这两天先把和平精英拾起来(/ω＼) https://t.co/3PZLpQyjwg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 9,
+          "like_count": 1263,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 3234
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

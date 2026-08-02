@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2073447061060726795",
+    "created_at": "2026-07-04T23:42:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T00:42:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073552947649425616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1820806967000223744",
+          "start": 0,
+          "username": "huimou322512"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073552947649425616",
+    "in_reply_to_user_id": "1820806967000223744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073447061060726795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huimou322512 huimou 玩的这个棒🫳🏻🫳🏻上次说要一起丸，结果没加好友 TT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 946,
+        "media_key": "3_2073447035437744128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZdF9fagAA9eEb.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2073447061060726795",
+        "created_at": "2026-07-04T23:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T00:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073552947649425616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1820806967000223744",
+              "start": 0,
+              "username": "huimou322512"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073552947649425616",
+        "in_reply_to_user_id": "1820806967000223744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073447061060726795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huimou322512 huimou 玩的这个棒🫳🏻🫳🏻上次说要一起丸，结果没加好友 TT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073447035437744128"
+          ]
+        },
+        "author_id": "1820806967000223744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073447061060726795",
+        "created_at": "2026-07-04T16:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T17:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073447061060726795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XnVjW0LRH5",
+              "end": 30,
+              "expanded_url": "https://x.com/huimou322512/status/2073447061060726795/photo/1",
+              "media_key": "3_2073447035437744128",
+              "start": 7,
+              "url": "https://t.co/XnVjW0LRH5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073447061060726795",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 698,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "射手你妈死了 https://t.co/XnVjW0LRH5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 12,
+          "like_count": 1832,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 4906
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-06T12:59:56.000Z",
+        "description": "一个爬宠爱好者 爬虫ペット愛好者\n可以跟我互fo 扩列 私信看见会回的\n信箱 https://t.co/ERxOJFt2NF\n准高三生 日语 理科",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huimou322512",
+                "end": 62,
+                "expanded_url": "https://ngl.link/huimou322512",
+                "start": 39,
+                "url": "https://t.co/ERxOJFt2NF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huimou322512",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huimou322512",
+                "start": 0,
+                "url": "https://t.co/ERxOJFt2NF"
+              }
+            ]
+          }
+        },
+        "id": "1820806967000223744",
+        "location": "你心里",
+        "name": "huimou",
+        "pinned_tweet_id": "2065027519712317735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950549156503973888/hFptIMUI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 30,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 740
+        },
+        "url": "https://t.co/ERxOJFt2NF",
+        "username": "huimou322512",
+        "verified": false
+      }
+    ]
+  }
+}

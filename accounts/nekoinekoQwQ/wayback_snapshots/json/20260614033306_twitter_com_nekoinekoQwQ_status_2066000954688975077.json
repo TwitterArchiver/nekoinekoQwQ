@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065906153440346455",
+    "created_at": "2026-06-14T03:33:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T04:33:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066000954688975077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "899246134228647938",
+          "start": 0,
+          "username": "qPIHPHPlgm2dG9b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066000954688975077",
+    "in_reply_to_user_id": "899246134228647938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065944391358050457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qPIHPHPlgm2dG9b 因为有一些好像是纯绿的（我指的是这个）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065906153440346455",
+        "created_at": "2026-06-14T03:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066000954688975077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "899246134228647938",
+              "start": 0,
+              "username": "qPIHPHPlgm2dG9b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066000954688975077",
+        "in_reply_to_user_id": "899246134228647938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065944391358050457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qPIHPHPlgm2dG9b 因为有一些好像是纯绿的（我指的是这个）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "899246134228647938",
+        "conversation_id": "2065906153440346455",
+        "created_at": "2026-06-13T23:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T00:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065944391358050457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065944391358050457",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065906153440346455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 想什么呢？🚪姐只提供情绪价值？单纯的窦娥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 9,
+          "like_count": 1259,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 3226
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-20T12:26:00.000Z",
+        "description": "God is a girl",
+        "id": "899246134228647938",
+        "name": "hellboy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1484444969054400514/y7uGslbs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 294,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 558
+        },
+        "username": "qPIHPHPlgm2dG9b",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2067242937197732094",
+    "created_at": "2026-06-17T19:50:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T20:50:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067334179604553824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2049690086623911936",
+          "start": 0,
+          "username": "2hollisshowmore"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067334179604553824",
+    "in_reply_to_user_id": "2049690086623911936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067242937197732094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2hollisshowmore 每次只有在打游戏的时候消息最多"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 180,
+        "media_key": "3_2067242930117750784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBSfgIbMAABKYz.jpg",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2067242937197732094",
+        "created_at": "2026-06-17T19:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T20:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067334179604553824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2049690086623911936",
+              "start": 0,
+              "username": "2hollisshowmore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067334179604553824",
+        "in_reply_to_user_id": "2049690086623911936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067242937197732094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2hollisshowmore 每次只有在打游戏的时候消息最多"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067242930117750784"
+          ]
+        },
+        "author_id": "2049690086623911936",
+        "conversation_id": "2067242937197732094",
+        "created_at": "2026-06-17T13:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067242937197732094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jxik2MagjG",
+              "end": 41,
+              "expanded_url": "https://x.com/2hollisshowmore/status/2067242937197732094/photo/1",
+              "media_key": "3_2067242930117750784",
+              "start": 18,
+              "url": "https://t.co/Jxik2MagjG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067242937197732094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 475,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我每天就坐在小手机对面静静的等待… https://t.co/Jxik2MagjG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 10,
+          "like_count": 1559,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 3973
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-30T03:20:41.000Z",
+        "description": "号主现实是一只蛋小黄呦 \n喜欢蛋小黄的话呢。请投喂咸鱼币。嘎哒嘎哒",
+        "id": "2049690086623911936",
+        "name": "蛋蛋咪≡ω≡",
+        "pinned_tweet_id": "2056628959488647343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058374843717111808/kWEsQxSI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 220,
+          "like_count": 808,
+          "listed_count": 2,
+          "media_count": 275,
+          "tweet_count": 1611
+        },
+        "url": "",
+        "username": "2hollisshowmore",
+        "verified": false
+      }
+    ]
+  }
+}

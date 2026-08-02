@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2063096375412474307",
+    "created_at": "2026-06-06T04:29:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T05:29:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063115928976728119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1233758472308740101",
+          "start": 0,
+          "username": "AndersonBelmir4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063115928976728119",
+    "in_reply_to_user_id": "1233758472308740101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063115346307944725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AndersonBelmir4 原来你不是人机吗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2063096375412474307",
+        "created_at": "2026-06-06T04:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T05:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063115928976728119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1233758472308740101",
+              "start": 0,
+              "username": "AndersonBelmir4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063115928976728119",
+        "in_reply_to_user_id": "1233758472308740101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063115346307944725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AndersonBelmir4 原来你不是人机吗。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1233758472308740101",
+        "conversation_id": "2063096375412474307",
+        "created_at": "2026-06-06T04:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T05:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063115346307944725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063115346307944725",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063096375412474307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 这波属实在大气层，绷不住了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CH",
+              "full_name": "Zürich, Zurich, Switzerland",
+              "geo": {
+                "coordinates": [
+                  8.55,
+                  47.36667
+                ],
+                "type": "Point"
+              },
+              "locality": "Zürich",
+              "region": "Zurich",
+              "sub_region": "Bezirk Zürich"
+            }
+          ]
+        },
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "id": "1948326838125903872",
+        "location": "世界",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 2,
+          "like_count": 288,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1892
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-29T14:18:52.000Z",
+        "description": "🌍 稳定出海变现项目，自营项目\n🔥 签合同，包落地，有保障，有实力！\n➡️ 剧财官方账号：@OhhFrizz\n6️⃣ 流量变现：@C0lTG0OvrwauepQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "OhhFrizz"
+              },
+              {
+                "end": 80,
+                "start": 64,
+                "username": "C0lTG0OvrwauepQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ai.feishu.cn/docx/AGLWd4Dkf…",
+                "end": 23,
+                "expanded_url": "https://ai.feishu.cn/docx/AGLWd4DkfoVZL9xH2eHcL2Z3n0b",
+                "start": 0,
+                "url": "https://t.co/w0NmhVBlMo"
+              }
+            ]
+          }
+        },
+        "id": "1233758472308740101",
+        "location": "义乌市【微信：OLDAN2026】",
+        "name": "出海极客",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1233759899827548165/dm-iUgGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 863,
+          "like_count": 2029,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 455
+        },
+        "url": "https://t.co/w0NmhVBlMo",
+        "username": "AndersonBelmir4",
+        "verified": false
+      }
+    ]
+  }
+}

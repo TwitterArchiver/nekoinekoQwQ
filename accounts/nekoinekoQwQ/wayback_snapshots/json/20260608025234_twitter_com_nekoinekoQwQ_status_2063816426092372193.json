@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2063556494319292689",
+    "created_at": "2026-06-08T02:52:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T03:52:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063816426092372193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1764524235714920448",
+          "start": 0,
+          "username": "0mintrix17675"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063816426092372193",
+    "in_reply_to_user_id": "1764524235714920448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063702294193995910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0mintrix17675 暑假，暑假，只要一放暑假我就活过来了，不过大学生活我没有多期待，平淡过吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2063556494319292689",
+        "created_at": "2026-06-08T02:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063816426092372193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1764524235714920448",
+              "start": 0,
+              "username": "0mintrix17675"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063816426092372193",
+        "in_reply_to_user_id": "1764524235714920448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063702294193995910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0mintrix17675 暑假，暑假，只要一放暑假我就活过来了，不过大学生活我没有多期待，平淡过吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764524235714920448",
+        "conversation_id": "2063556494319292689",
+        "created_at": "2026-06-07T19:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T20:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063702294193995910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063702294193995910",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063556494319292689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 考一科忘一科就好了 一二本没太多区别的 真正找工作只有双一流名校值钱 其实本科竞争力都很弱说实话 加油吧 别影响后面发挥 考完好好玩一个暑假 大学生活其实挺无趣的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CH",
+              "full_name": "Zürich, Zurich, Switzerland",
+              "geo": {
+                "coordinates": [
+                  8.55,
+                  47.36667
+                ],
+                "type": "Point"
+              },
+              "locality": "Zürich",
+              "region": "Zurich",
+              "sub_region": "Bezirk Zürich"
+            }
+          ]
+        },
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "id": "1948326838125903872",
+        "location": "世界",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 2,
+          "like_count": 396,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 2009
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-04T05:32:27.000Z",
+        "description": "",
+        "id": "1764524235714920448",
+        "name": "0mintrix",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062624983432691712/MYRONlD7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 113,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "0mintrix17675",
+        "verified": false
+      }
+    ]
+  }
+}

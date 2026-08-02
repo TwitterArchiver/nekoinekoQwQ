@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2066977109671895349",
+    "created_at": "2026-06-16T20:27:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T21:27:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066981082256515165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1873117980042903552",
+          "start": 0,
+          "username": "YunhaoY68696"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066981082256515165",
+    "in_reply_to_user_id": "1873117980042903552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066979195570528662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YunhaoY68696 写的很好，但是我不在意是谁写的，谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2066977109671895349",
+        "created_at": "2026-06-16T20:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T21:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066981082256515165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1873117980042903552",
+              "start": 0,
+              "username": "YunhaoY68696"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066981082256515165",
+        "in_reply_to_user_id": "1873117980042903552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066979195570528662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YunhaoY68696 写的很好，但是我不在意是谁写的，谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873117980042903552",
+        "conversation_id": "2066977109671895349",
+        "created_at": "2026-06-16T20:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T21:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066979195570528662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066979195570528662",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066978792065892601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 或许你只是窗外转瞬即逝的晚云，待到晚风散尽消散无痕，抹去你余下半分温。或许所有相逢都是心底自欺的温存，没有什么能长久留存……归宿究竟在何处，我无从探寻\n猜猜看这个是谁写的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 10,
+          "like_count": 1522,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 3799
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-28T21:25:21.000Z",
+        "description": "",
+        "id": "1873117980042903552",
+        "name": "入坤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063703406003568640/ck3eGaNV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 49,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 32
+        },
+        "username": "YunhaoY68696",
+        "verified": false
+      }
+    ]
+  }
+}

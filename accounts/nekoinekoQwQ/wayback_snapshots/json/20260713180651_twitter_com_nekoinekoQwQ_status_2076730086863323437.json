@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2076721707432530201",
+    "created_at": "2026-07-13T18:06:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T19:06:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076730086863323437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1884886752483254272",
+          "start": 0,
+          "username": "gsdwnff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076730086863323437",
+    "in_reply_to_user_id": "1884886752483254272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076728705603478003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gsdwnff 我同意了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2076721707432530201",
+        "created_at": "2026-07-13T18:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T19:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076730086863323437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1884886752483254272",
+              "start": 0,
+              "username": "gsdwnff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076730086863323437",
+        "in_reply_to_user_id": "1884886752483254272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076728705603478003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gsdwnff 我同意了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884886752483254272",
+        "conversation_id": "2076721707432530201",
+        "created_at": "2026-07-13T18:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T19:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076728705603478003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076728705603478003",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076726353102242284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ OK啊，小泪一口，我一口，我一口，我一口，我一口"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 10,
+          "like_count": 1939,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 5329
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T08:50:05.000Z",
+        "description": "能刷到我说明你也是进到犄角旮旯了，不过还是要天天开心哦•͈ᴗ⁃͈ ✧",
+        "id": "1884886752483254272",
+        "name": "青鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061318661223448576/P5EfNneZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 346,
+          "like_count": 3842,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1481
+        },
+        "url": "",
+        "username": "gsdwnff",
+        "verified": false
+      }
+    ]
+  }
+}

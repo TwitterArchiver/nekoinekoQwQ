@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2066400750021046644",
+    "created_at": "2026-06-15T13:45:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T14:45:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066517333900976130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2053139274128621569",
+          "start": 0,
+          "username": "zhaomingxh"
+        },
+        {
+          "end": 28,
+          "id": "1816265454211719169",
+          "start": 12,
+          "username": "c6ZGVx553M24590"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066517333900976130",
+    "in_reply_to_user_id": "2053139274128621569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066516107348095253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhaomingxh @c6ZGVx553M24590 谁不想酣畅淋漓把番茄炒蛋吃完呢🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2066400750021046644",
+        "created_at": "2026-06-15T13:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066517333900976130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053139274128621569",
+              "start": 0,
+              "username": "zhaomingxh"
+            },
+            {
+              "end": 28,
+              "id": "1816265454211719169",
+              "start": 12,
+              "username": "c6ZGVx553M24590"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066517333900976130",
+        "in_reply_to_user_id": "2053139274128621569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066516107348095253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhaomingxh @c6ZGVx553M24590 谁不想酣畅淋漓把番茄炒蛋吃完呢🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053139274128621569",
+        "conversation_id": "2066400750021046644",
+        "created_at": "2026-06-15T13:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066516107348095253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            },
+            {
+              "end": 30,
+              "id": "1816265454211719169",
+              "start": 14,
+              "username": "c6ZGVx553M24590"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066516107348095253",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066512413395169392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ @c6ZGVx553M24590 贪吃的泪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 10,
+          "like_count": 1429,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 3528
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T15:45:42.000Z",
+        "description": "赛博街溜子，经常左右脑互搏，偶尔大小头互换",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zhaoming25411",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zhaoming25411",
+                "start": 0,
+                "url": "https://t.co/zqZT9eEhUD"
+              }
+            ]
+          }
+        },
+        "id": "2053139274128621569",
+        "location": "黄泉路上",
+        "name": "昭明",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053859381259669504/6lezcukz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 44,
+          "like_count": 5829,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 132
+        },
+        "url": "https://t.co/zqZT9eEhUD",
+        "username": "zhaomingxh",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T00:13:38.000Z",
+        "description": "我喜欢你 请和我交朋友 拜托了🥺🥺",
+        "id": "1816265454211719169",
+        "name": "亖久",
+        "pinned_tweet_id": "1948064684076368074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029720348569260036/ER3SM6jQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 147,
+          "like_count": 29461,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 926
+        },
+        "username": "c6ZGVx553M24590",
+        "verified": false
+      }
+    ]
+  }
+}

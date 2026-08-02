@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065735440783823135",
+    "created_at": "2026-06-13T12:05:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T13:05:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065767433131229185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2055562395465170944",
+          "start": 0,
+          "username": "Co3orz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065767433131229185",
+    "in_reply_to_user_id": "2055562395465170944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065735440783823135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Co3orz 教练，闭目养神"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1864,
+        "media_key": "3_2065735432638509056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKr3bmZbMAAJi7A.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065735440783823135",
+        "created_at": "2026-06-13T12:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T13:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065767433131229185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2055562395465170944",
+              "start": 0,
+              "username": "Co3orz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065767433131229185",
+        "in_reply_to_user_id": "2055562395465170944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065735440783823135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Co3orz 教练，闭目养神"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065735432638509056"
+          ]
+        },
+        "author_id": "2055562395465170944",
+        "conversation_id": "2065735440783823135",
+        "created_at": "2026-06-13T09:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T10:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065735440783823135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QLCTElqeqt",
+              "end": 32,
+              "expanded_url": "https://x.com/Co3orz/status/2065735440783823135/photo/1",
+              "media_key": "3_2065735432638509056",
+              "start": 9,
+              "url": "https://t.co/QLCTElqeqt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065735440783823135",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "教练又粘我一腿毛 https://t.co/QLCTElqeqt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 9,
+          "like_count": 1180,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 3057
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T08:15:30.000Z",
+        "description": "你坏 号主是一只蜗牛。 iii/iiii 发疯用。讨厌没礼貌的人类",
+        "id": "2055562395465170944",
+        "location": "正在发动地鸣",
+        "name": "Zzz",
+        "pinned_tweet_id": "2060021086709047691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055563132320534528/VazlM2jc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 187,
+          "like_count": 1910,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 465
+        },
+        "username": "Co3orz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2064493830062440631",
+    "created_at": "2026-06-11T02:56:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T03:56:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064904653247291614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2064607710864457728",
+          "start": 0,
+          "username": "ysn13s"
+        },
+        {
+          "end": 19,
+          "id": "2064607710864457728",
+          "start": 12,
+          "username": "ysn13s"
+        },
+        {
+          "end": 33,
+          "id": "1948326838125903872",
+          "start": 20,
+          "username": "nekoinekoQwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064904653247291614",
+    "in_reply_to_user_id": "2064607710864457728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064800307197133125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ysn13s 该帖子是@ysn13s对@nekoinekoQwQ帖子的回复，内容只有两个字“真人？\n原帖作者强调自己不是推特机器人，而是手动逐条努力回复内容，以澄清身份。“真人？”是网络常见表达，用于质疑或确认对方是否为真实人类账号，而非AI或自动化程序。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2064493830062440631",
+        "created_at": "2026-06-11T02:56:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T03:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064904653247291614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2064607710864457728",
+              "start": 0,
+              "username": "ysn13s"
+            },
+            {
+              "end": 19,
+              "id": "2064607710864457728",
+              "start": 12,
+              "username": "ysn13s"
+            },
+            {
+              "end": 33,
+              "id": "1948326838125903872",
+              "start": 20,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064904653247291614",
+        "in_reply_to_user_id": "2064607710864457728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064800307197133125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ysn13s 该帖子是@ysn13s对@nekoinekoQwQ帖子的回复，内容只有两个字“真人？\n原帖作者强调自己不是推特机器人，而是手动逐条努力回复内容，以澄清身份。“真人？”是网络常见表达，用于质疑或确认对方是否为真实人类账号，而非AI或自动化程序。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064607710864457728",
+        "conversation_id": "2064493830062440631",
+        "created_at": "2026-06-10T20:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T21:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064800307197133125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064800307197133125",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064493830062440631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 真人？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 10,
+          "like_count": 808,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 2454
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-10T07:17:35.000Z",
+        "description": "",
+        "id": "2064607710864457728",
+        "name": "ys",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064608012841697280/jsOc_SdQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 32,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 82
+        },
+        "username": "ysn13s",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2066554880576373186",
+    "created_at": "2026-06-16T05:21:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T06:21:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066753093552013597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1833297075456643073",
+          "start": 0,
+          "username": "MX_XYB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066753093552013597",
+    "in_reply_to_user_id": "1833297075456643073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066554880576373186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MX_XYB 有点吃太少了吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1424,
+        "media_key": "3_2066554877850136576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3gtlsbsAAZ3Ua.jpg",
+        "width": 1193
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2066554880576373186",
+        "created_at": "2026-06-16T05:21:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T06:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066753093552013597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1833297075456643073",
+              "start": 0,
+              "username": "MX_XYB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066753093552013597",
+        "in_reply_to_user_id": "1833297075456643073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066554880576373186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MX_XYB 有点吃太少了吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066554877850136576"
+          ]
+        },
+        "author_id": "1833297075456643073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2066554880576373186",
+        "created_at": "2026-06-15T16:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T17:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066554880576373186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ji1BTsJkOR",
+              "end": 44,
+              "expanded_url": "https://x.com/MX_XYB/status/2066554880576373186/photo/1",
+              "media_key": "3_2066554877850136576",
+              "start": 21,
+              "url": "https://t.co/ji1BTsJkOR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066554880576373186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3559,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老婆，你爹说我太能吃了像头猪怎么办呜呜呜 https://t.co/ji1BTsJkOR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 10,
+          "like_count": 1484,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 3682
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-10T00:11:52.000Z",
+        "description": "交易/写作/好好生活/提问箱https://t.co/aeyDXG507k",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/B1NG84658",
+                "end": 37,
+                "expanded_url": "https://ngl.link/B1NG84658",
+                "start": 14,
+                "url": "https://t.co/aeyDXG507k"
+              }
+            ]
+          }
+        },
+        "id": "1833297075456643073",
+        "name": "淮水",
+        "pinned_tweet_id": "2047602783617228886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065695827251941376/Gkr2DB_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13244,
+          "following_count": 376,
+          "like_count": 6401,
+          "listed_count": 167,
+          "media_count": 1533,
+          "tweet_count": 5565
+        },
+        "username": "MX_XYB",
+        "verified": false
+      }
+    ]
+  }
+}

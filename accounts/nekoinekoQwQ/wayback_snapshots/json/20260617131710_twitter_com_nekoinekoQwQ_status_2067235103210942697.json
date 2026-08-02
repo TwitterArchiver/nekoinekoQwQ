@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2067198269940486337",
+    "created_at": "2026-06-17T13:17:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T14:17:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067235103210942697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1583744328035610624",
+          "start": 0,
+          "username": "lunkn3"
+        },
+        {
+          "end": 22,
+          "id": "1631135079140560897",
+          "start": 8,
+          "username": "wangherisunge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067235103210942697",
+    "in_reply_to_user_id": "1583744328035610624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067209583161160021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lunkn3 @wangherisunge 嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2067198269940486337",
+        "created_at": "2026-06-17T13:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067235103210942697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1583744328035610624",
+              "start": 0,
+              "username": "lunkn3"
+            },
+            {
+              "end": 22,
+              "id": "1631135079140560897",
+              "start": 8,
+              "username": "wangherisunge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067235103210942697",
+        "in_reply_to_user_id": "1583744328035610624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067209583161160021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lunkn3 @wangherisunge 嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1583744328035610624",
+        "conversation_id": "2067198269940486337",
+        "created_at": "2026-06-17T11:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067209583161160021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            },
+            {
+              "end": 28,
+              "id": "1631135079140560897",
+              "start": 14,
+              "username": "wangherisunge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067209583161160021",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067198269940486337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ @wangherisunge 牛牛牛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 10,
+          "like_count": 1555,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 3932
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-22T08:57:40.000Z",
+        "description": "哈尔滨， 173/120，巨蟹， 一个臭打游戏的有病的人， （steam，王者，云顶，金铲铲，switch，洛克王国）正常人会礼貌回关，人机骗子勿扰",
+        "id": "1583744328035610624",
+        "name": "孤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064946977440419841/hQYnXTq1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 3,
+          "like_count": 136,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 38
+        },
+        "username": "lunkn3",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-02T03:31:37.000Z",
+        "description": "近海浅滩，或有鹤立\n这里是鹤，希望大家都可以天天开心！天天幸福！\n大家关注我的我都会回关！\n想要一起聊天的可以私信或tg@yizhihe11，纯闲聊哦",
+        "id": "1631135079140560897",
+        "name": "鹤",
+        "pinned_tweet_id": "2066439980684382464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066034590918250497/ld7ZlADe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 45,
+          "like_count": 204,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1035
+        },
+        "username": "wangherisunge",
+        "verified": true
+      }
+    ]
+  }
+}

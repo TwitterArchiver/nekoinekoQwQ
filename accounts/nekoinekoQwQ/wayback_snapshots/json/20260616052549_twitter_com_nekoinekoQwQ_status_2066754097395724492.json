@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2066458564001181817",
+    "created_at": "2026-06-16T05:25:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T06:25:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066754097395724492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2003351728574656513",
+          "start": 0,
+          "username": "Xxxxaioxu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066754097395724492",
+    "in_reply_to_user_id": "2003351728574656513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066458564001181817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xxxxaioxu 我亲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066458494790975488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2JDW0awAALbWf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2066458564001181817",
+        "created_at": "2026-06-16T05:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T06:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066754097395724492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2003351728574656513",
+              "start": 0,
+              "username": "Xxxxaioxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066754097395724492",
+        "in_reply_to_user_id": "2003351728574656513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066458564001181817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxxxaioxu 我亲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066458494790975488"
+          ]
+        },
+        "author_id": "2003351728574656513",
+        "conversation_id": "2066458564001181817",
+        "created_at": "2026-06-15T09:51:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066458564001181817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GKwNwyHnf6",
+              "end": 31,
+              "expanded_url": "https://x.com/Xxxxaioxu/status/2066458564001181817/photo/1",
+              "media_key": "3_2066458494790975488",
+              "start": 8,
+              "url": "https://t.co/GKwNwyHnf6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066458564001181817",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 264,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "(´-ω-`) https://t.co/GKwNwyHnf6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 10,
+          "like_count": 1484,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 3685
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-23T06:27:39.000Z",
+        "description": "",
+        "id": "2003351728574656513",
+        "name": "xu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003351858996477953/vor76B4C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 245,
+          "like_count": 462,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 22
+        },
+        "username": "Xxxxaioxu",
+        "verified": false
+      }
+    ]
+  }
+}

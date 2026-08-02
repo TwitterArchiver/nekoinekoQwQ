@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2066247444250411295",
+    "created_at": "2026-06-15T07:16:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T08:16:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066419509385371684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "936843029796724738",
+          "start": 0,
+          "username": "ifxyloveme"
+        },
+        {
+          "end": 23,
+          "id": "1699114935891156995",
+          "start": 12,
+          "username": "pitohui002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066419509385371684",
+    "in_reply_to_user_id": "936843029796724738",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066413155232960670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ifxyloveme @pitohui002 我喜欢蛋挞(｀Δ´)!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2066247444250411295",
+        "created_at": "2026-06-15T07:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T08:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066419509385371684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "936843029796724738",
+              "start": 0,
+              "username": "ifxyloveme"
+            },
+            {
+              "end": 23,
+              "id": "1699114935891156995",
+              "start": 12,
+              "username": "pitohui002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066419509385371684",
+        "in_reply_to_user_id": "936843029796724738",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066413155232960670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ifxyloveme @pitohui002 我喜欢蛋挞(｀Δ´)!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "936843029796724738",
+        "conversation_id": "2066247444250411295",
+        "created_at": "2026-06-15T06:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T07:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066413155232960670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            },
+            {
+              "end": 25,
+              "id": "1699114935891156995",
+              "start": 14,
+              "username": "pitohui002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066413155232960670",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066388402233344207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ @pitohui002 哈哈哈  这是三角洲里的麦小桶和红卡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 10,
+          "like_count": 1425,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 3508
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-02T06:22:38.000Z",
+        "description": "Aqq",
+        "id": "936843029796724738",
+        "location": "qufu",
+        "name": "Jhuo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1152795883852857344/gaVHFPd1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 189,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 251
+        },
+        "username": "ifxyloveme",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-05T17:39:19.000Z",
+        "description": "",
+        "id": "1699114935891156995",
+        "name": "Guarline",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065848064817123328/Lk9uU-Tv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 38,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 23
+        },
+        "username": "pitohui002",
+        "verified": false
+      }
+    ]
+  }
+}

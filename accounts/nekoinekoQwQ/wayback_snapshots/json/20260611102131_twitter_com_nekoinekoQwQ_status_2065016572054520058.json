@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065016563644948480"
+      ]
+    },
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065016572054520058",
+    "created_at": "2026-06-11T10:21:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T11:21:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065016572054520058"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9mTqPqj7Fd",
+          "end": 171,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2065016572054520058/photo/1",
+          "media_key": "3_2065016563644948480",
+          "start": 148,
+          "url": "https://t.co/9mTqPqj7Fd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065016572054520058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是一个严肃的问题，以下是文案：找个脾气软烂一点的 身材紧致一点的 腰细一点 肩宽一点 脸帅一点的 乖的 闷骚的 自卑的 腹黑的 敏感的 可以陪我打各种游戏都厉害的 做饭好吃的 占有欲强的 粘人的 恋爱脑 爱给我花钱 185以上的 焦虑型依恋的小处男安稳过一辈子（认真脸范特西ing，给我想美了 https://t.co/9mTqPqj7Fd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 698,
+        "media_key": "3_2065016563644948480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhpn6ta4AAKUNl.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065016563644948480"
+          ]
+        },
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065016572054520058",
+        "created_at": "2026-06-11T10:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T11:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065016572054520058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9mTqPqj7Fd",
+              "end": 171,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2065016572054520058/photo/1",
+              "media_key": "3_2065016563644948480",
+              "start": 148,
+              "url": "https://t.co/9mTqPqj7Fd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065016572054520058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是一个严肃的问题，以下是文案：找个脾气软烂一点的 身材紧致一点的 腰细一点 肩宽一点 脸帅一点的 乖的 闷骚的 自卑的 腹黑的 敏感的 可以陪我打各种游戏都厉害的 做饭好吃的 占有欲强的 粘人的 恋爱脑 爱给我花钱 185以上的 焦虑型依恋的小处男安稳过一辈子（认真脸范特西ing，给我想美了 https://t.co/9mTqPqj7Fd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 10,
+          "like_count": 843,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 2562
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

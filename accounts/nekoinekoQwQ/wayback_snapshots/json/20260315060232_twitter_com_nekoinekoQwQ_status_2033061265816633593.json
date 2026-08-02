@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2033059569371656308",
+    "created_at": "2026-03-15T06:02:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T07:02:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033061265816633593"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2033061265816633593",
+    "in_reply_to_user_id": "1948326838125903872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033059569371656308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "根本就没有好事发生过 每天苦哈哈的逗自己开心 我什么事情都做不好。全部都怪我就好了吧。活着好累"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2033059569371656308",
+        "created_at": "2026-03-15T06:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T07:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033061265816633593"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033061265816633593",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033059569371656308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "根本就没有好事发生过 每天苦哈哈的逗自己开心 我什么事情都做不好。全部都怪我就好了吧。活着好累"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2033059569371656308",
+        "created_at": "2026-03-15T05:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T06:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033059569371656308"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033059569371656308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉自己之前就是回避型 现在更回避了 遇到事情就不想思考 我只想呆在角落里。好痛苦。好恨。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 1,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 564
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

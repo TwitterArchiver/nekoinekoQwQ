@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2081213767703244878",
+    "created_at": "2026-07-26T05:48:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T06:48:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081255348372144291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2069968432347639808",
+          "start": 0,
+          "username": "KA9264931"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081255348372144291",
+    "in_reply_to_user_id": "2069968432347639808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081213767703244878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KA9264931 我看到了一辆卡车"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081213738460536833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOH03k6aYAEH0uA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2081213767703244878",
+        "created_at": "2026-07-26T05:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T06:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081255348372144291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2069968432347639808",
+              "start": 0,
+              "username": "KA9264931"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081255348372144291",
+        "in_reply_to_user_id": "2069968432347639808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081213767703244878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KA9264931 我看到了一辆卡车"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081213738460536833"
+          ]
+        },
+        "author_id": "2069968432347639808",
+        "conversation_id": "2081213767703244878",
+        "created_at": "2026-07-26T03:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T04:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081213767703244878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OjsHkbTJ0Z",
+              "end": 36,
+              "expanded_url": "https://x.com/KA9264931/status/2081213767703244878/photo/1",
+              "media_key": "3_2081213738460536833",
+              "start": 13,
+              "url": "https://t.co/OjsHkbTJ0Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081213767703244878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 276,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "奥利奥，要不咱减减肥呢🙁 https://t.co/OjsHkbTJ0Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 10,
+          "like_count": 1976,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 5681
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-25T02:20:56.000Z",
+        "description": "拍摄题材而已，不要当真，no sm no 4i no gay。\n🔗：https://t.co/AVGboLQkSN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ka926493",
+                "end": 57,
+                "expanded_url": "https://ngl.link/ka926493",
+                "start": 34,
+                "url": "https://t.co/AVGboLQkSN"
+              }
+            ]
+          }
+        },
+        "id": "2069968432347639808",
+        "location": "北京",
+        "name": "KA",
+        "pinned_tweet_id": "2069980035424174500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069973486865702913/cioJPWSR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 47,
+          "like_count": 296,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 36
+        },
+        "url": "",
+        "username": "KA9264931",
+        "verified": false
+      }
+    ]
+  }
+}

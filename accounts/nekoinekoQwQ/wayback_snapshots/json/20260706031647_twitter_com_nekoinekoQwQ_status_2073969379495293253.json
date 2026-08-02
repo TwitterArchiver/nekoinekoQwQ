@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2073888706788983237",
+    "created_at": "2026-07-06T03:16:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T04:16:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073969379495293253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2053139274128621569",
+          "start": 0,
+          "username": "zhaomingxh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073969379495293253",
+    "in_reply_to_user_id": "2053139274128621569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073951936307745003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhaomingxh 萌！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2073888706788983237",
+        "created_at": "2026-07-06T03:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T04:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073969379495293253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053139274128621569",
+              "start": 0,
+              "username": "zhaomingxh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073969379495293253",
+        "in_reply_to_user_id": "2053139274128621569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073951936307745003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhaomingxh 萌！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053139274128621569",
+        "conversation_id": "2073888706788983237",
+        "created_at": "2026-07-06T02:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T03:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073951936307745003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073951936307745003",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073888706788983237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 爬爬，全游最好的男鬼，没有之一👍🌹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 12,
+          "like_count": 1853,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 4983
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T15:45:42.000Z",
+        "description": "经常左右脑互搏，偶尔大小头互换",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zhaoming25411",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zhaoming25411",
+                "start": 0,
+                "url": "https://t.co/zqZT9eDK55"
+              }
+            ]
+          }
+        },
+        "id": "2053139274128621569",
+        "location": "黄泉路上",
+        "name": "昭明",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053859381259669504/6lezcukz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 35,
+          "like_count": 11882,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 194
+        },
+        "url": "https://t.co/zqZT9eDK55",
+        "username": "zhaomingxh",
+        "verified": false
+      }
+    ]
+  }
+}

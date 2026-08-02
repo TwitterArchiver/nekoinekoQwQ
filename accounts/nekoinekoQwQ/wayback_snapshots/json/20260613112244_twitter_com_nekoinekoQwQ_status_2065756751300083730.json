@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065649675470799062",
+    "created_at": "2026-06-13T11:22:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T12:22:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065756751300083730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2004377925303644160",
+          "start": 0,
+          "username": "allmoneycome2me"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065756751300083730",
+    "in_reply_to_user_id": "2004377925303644160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065649675470799062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@allmoneycome2me 这一口下去会很疯狂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2065649661981941761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKqpbFzW4AEOjPp.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2065649662011359233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKqpbF6XwAEOf6i.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065649675470799062",
+        "created_at": "2026-06-13T11:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065756751300083730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2004377925303644160",
+              "start": 0,
+              "username": "allmoneycome2me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065756751300083730",
+        "in_reply_to_user_id": "2004377925303644160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065649675470799062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allmoneycome2me 这一口下去会很疯狂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065649661981941761",
+            "3_2065649662011359233"
+          ]
+        },
+        "author_id": "2004377925303644160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2065649675470799062",
+        "created_at": "2026-06-13T04:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T05:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065649675470799062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qV2IgcnZZx",
+              "end": 25,
+              "expanded_url": "https://x.com/allmoneycome2me/status/2065649675470799062/photo/1",
+              "media_key": "3_2065649661981941761",
+              "start": 2,
+              "url": "https://t.co/qV2IgcnZZx"
+            },
+            {
+              "display_url": "pic.x.com/qV2IgcnZZx",
+              "end": 25,
+              "expanded_url": "https://x.com/allmoneycome2me/status/2065649675470799062/photo/1",
+              "media_key": "3_2065649662011359233",
+              "start": 2,
+              "url": "https://t.co/qV2IgcnZZx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065649675470799062",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃 https://t.co/qV2IgcnZZx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 9,
+          "like_count": 1179,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 3054
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-26T02:25:28.000Z",
+        "description": "你怎么了？这个世界还是很温暖的。",
+        "id": "2004377925303644160",
+        "name": "季基博",
+        "pinned_tweet_id": "2029459111222624345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056914768460677120/Vdvwj4gn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 4,
+          "like_count": 985,
+          "listed_count": 1,
+          "media_count": 1116,
+          "tweet_count": 4116
+        },
+        "username": "allmoneycome2me",
+        "verified": false
+      }
+    ]
+  }
+}

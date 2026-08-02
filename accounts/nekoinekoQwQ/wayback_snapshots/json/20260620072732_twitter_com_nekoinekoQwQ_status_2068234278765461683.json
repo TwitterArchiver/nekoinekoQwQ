@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2068048270388302153",
+    "created_at": "2026-06-20T07:27:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T08:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068234278765461683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1683510294356824064",
+          "start": 0,
+          "username": "wang_yi7935"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068234278765461683",
+    "in_reply_to_user_id": "1683510294356824064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068227423196569660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wang_yi7935 全世界最忧郁最厉害的是泪教主（洗脑中）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2068048270388302153",
+        "created_at": "2026-06-20T07:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T08:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068234278765461683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1683510294356824064",
+              "start": 0,
+              "username": "wang_yi7935"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068234278765461683",
+        "in_reply_to_user_id": "1683510294356824064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068227423196569660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wang_yi7935 全世界最忧郁最厉害的是泪教主（洗脑中）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683510294356824064",
+        "conversation_id": "2068048270388302153",
+        "created_at": "2026-06-20T07:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T08:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068227423196569660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068227423196569660",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068048270388302153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 教义是什么教主"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 12,
+          "like_count": 1604,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 4307
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T16:12:03.000Z",
+        "description": "🫪在我故作深沉之时，不要打断我。\n。。。。。。。。。。。。。。。\n\n意识流穷理者+努力无用践行者\n..............................................................\n你想问什么？大胆的提出来，就算我不知道也会告诉你的。",
+        "id": "1683510294356824064",
+        "name": "Avery",
+        "pinned_tweet_id": "2068172149651890278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057434283028176896/jUZ3ZUuI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 33,
+          "like_count": 1035,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 971
+        },
+        "url": "",
+        "username": "wang_yi7935",
+        "verified": false
+      }
+    ]
+  }
+}

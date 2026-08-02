@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2083249661423595579",
+    "created_at": "2026-07-31T18:13:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T19:13:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083254754118115596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1746518701996929024",
+          "start": 0,
+          "username": "inrez77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083254754118115596",
+    "in_reply_to_user_id": "1746518701996929024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083250743608582309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@inrez77 发型！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2083249661423595579",
+        "created_at": "2026-07-31T18:13:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T19:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083254754118115596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1746518701996929024",
+              "start": 0,
+              "username": "inrez77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083254754118115596",
+        "in_reply_to_user_id": "1746518701996929024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083250743608582309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inrez77 发型！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746518701996929024",
+        "conversation_id": "2083249661423595579",
+        "created_at": "2026-07-31T17:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T18:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083250743608582309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083250743608582309",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083249661423595579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 黑長直是啥？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 11,
+          "like_count": 2053,
+          "listed_count": 0,
+          "media_count": 223,
+          "tweet_count": 6234
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T13:05:20.000Z",
+        "description": "Real World 我用真名說假的話\nAnother World 我用假名說真的話",
+        "id": "1746518701996929024",
+        "location": "鐫刻在某個角落",
+        "name": "雨天晴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071278891172585472/IiwKYE9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 8,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 89
+        },
+        "url": "",
+        "username": "inrez77",
+        "verified": false
+      }
+    ]
+  }
+}

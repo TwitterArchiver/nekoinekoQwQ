@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063828670972915714",
+        "3_2063828670981304320"
+      ]
+    },
+    "author_id": "1948326838125903872",
+    "conversation_id": "2063828690174361949",
+    "created_at": "2026-06-08T03:41:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T04:41:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063828690174361949"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cqKg72c7dK",
+          "end": 132,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2063828690174361949/photo/1",
+          "media_key": "3_2063828670972915714",
+          "start": 109,
+          "url": "https://t.co/cqKg72c7dK"
+        },
+        {
+          "display_url": "pic.x.com/cqKg72c7dK",
+          "end": 132,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2063828690174361949/photo/1",
+          "media_key": "3_2063828670981304320",
+          "start": 109,
+          "url": "https://t.co/cqKg72c7dK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063828690174361949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢你 必须加油好吧\n交友的话，我可能随缘吧，一开始推特是用来发泄分手后的负面情绪，后面情绪好一点了，就开始记录日常，还没想过交友，其实我是社恐，怕加了好友不说话，好尴尬，还有就是我话太多，性格也挺敏感，所以还是随缘 https://t.co/cqKg72c7dK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 690,
+        "media_key": "3_2063828670972915714",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKQxPdqbcAIVqfk.jpg",
+        "width": 1179
+      },
+      {
+        "height": 692,
+        "media_key": "3_2063828670981304320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKQxPdsbcAAPEwU.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063828670972915714",
+            "3_2063828670981304320"
+          ]
+        },
+        "author_id": "1948326838125903872",
+        "conversation_id": "2063828690174361949",
+        "created_at": "2026-06-08T03:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T04:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063828690174361949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cqKg72c7dK",
+              "end": 132,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2063828690174361949/photo/1",
+              "media_key": "3_2063828670972915714",
+              "start": 109,
+              "url": "https://t.co/cqKg72c7dK"
+            },
+            {
+              "display_url": "pic.x.com/cqKg72c7dK",
+              "end": 132,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2063828690174361949/photo/1",
+              "media_key": "3_2063828670981304320",
+              "start": 109,
+              "url": "https://t.co/cqKg72c7dK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063828690174361949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢你 必须加油好吧\n交友的话，我可能随缘吧，一开始推特是用来发泄分手后的负面情绪，后面情绪好一点了，就开始记录日常，还没想过交友，其实我是社恐，怕加了好友不说话，好尴尬，还有就是我话太多，性格也挺敏感，所以还是随缘 https://t.co/cqKg72c7dK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 2,
+          "like_count": 478,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 2056
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

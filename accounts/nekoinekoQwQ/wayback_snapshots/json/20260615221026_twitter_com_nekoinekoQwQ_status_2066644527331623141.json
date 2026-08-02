@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2066395529463079011",
+    "created_at": "2026-06-15T22:10:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T23:10:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066644527331623141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1926189881723682816",
+          "start": 0,
+          "username": "xx1ovy07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066644527331623141",
+    "in_reply_to_user_id": "1926189881723682816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066395529463079011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xx1ovy07 好久没去了，好想去"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066395508114079744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1PxDKaQAAED28.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2066395529463079011",
+        "created_at": "2026-06-15T22:10:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T23:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066644527331623141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1926189881723682816",
+              "start": 0,
+              "username": "xx1ovy07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066644527331623141",
+        "in_reply_to_user_id": "1926189881723682816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066395529463079011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1ovy07 好久没去了，好想去"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066395508114079744"
+          ]
+        },
+        "author_id": "1926189881723682816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066395529463079011",
+        "created_at": "2026-06-15T05:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T06:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066395529463079011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ybvG5vnUpk",
+              "end": 28,
+              "expanded_url": "https://x.com/xx1ovy07/status/2066395529463079011/photo/1",
+              "media_key": "3_2066395508114079744",
+              "start": 5,
+              "url": "https://t.co/ybvG5vnUpk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066395529463079011",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 237,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你看又唱 https://t.co/ybvG5vnUpk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 10,
+          "like_count": 1462,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 3626
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T08:15:00.000Z",
+        "description": "想发啥发啥｜双取随意",
+        "id": "1926189881723682816",
+        "name": "xx xx",
+        "pinned_tweet_id": "1996213100840919189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004771554899484672/fxb6pcV3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 176,
+          "like_count": 26947,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 7558
+        },
+        "username": "xx1ovy07",
+        "verified": false
+      }
+    ]
+  }
+}

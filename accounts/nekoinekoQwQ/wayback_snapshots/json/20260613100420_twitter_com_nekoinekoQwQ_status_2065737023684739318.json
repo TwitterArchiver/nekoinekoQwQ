@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065737002180616193",
+        "3_2065737002537103360",
+        "3_2065737002209980416",
+        "3_2065737002184757248"
+      ]
+    },
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065737023684739318",
+    "created_at": "2026-06-13T10:04:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T11:04:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065737023684739318"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/voSWjaVzmo",
+          "end": 86,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2065737023684739318/photo/1",
+          "media_key": "3_2065737002180616193",
+          "start": 63,
+          "url": "https://t.co/voSWjaVzmo"
+        },
+        {
+          "display_url": "pic.x.com/voSWjaVzmo",
+          "end": 86,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2065737023684739318/photo/1",
+          "media_key": "3_2065737002537103360",
+          "start": 63,
+          "url": "https://t.co/voSWjaVzmo"
+        },
+        {
+          "display_url": "pic.x.com/voSWjaVzmo",
+          "end": 86,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2065737023684739318/photo/1",
+          "media_key": "3_2065737002209980416",
+          "start": 63,
+          "url": "https://t.co/voSWjaVzmo"
+        },
+        {
+          "display_url": "pic.x.com/voSWjaVzmo",
+          "end": 86,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2065737023684739318/photo/1",
+          "media_key": "3_2065737002184757248",
+          "start": 63,
+          "url": "https://t.co/voSWjaVzmo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065737023684739318",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得大家聊聊日常就挺不错的😊\n你肿么了？\n虽然你不是人机，但是你跟人机一样诡异\n不要再视奸我了ヽ(`Д´)ﾉ（好吧允许了） https://t.co/voSWjaVzmo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 824,
+        "media_key": "3_2065737002180616193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKr429ZbIAEsp9V.jpg",
+        "width": 1179
+      },
+      {
+        "height": 745,
+        "media_key": "3_2065737002537103360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKr42-uasAAkdN7.jpg",
+        "width": 1179
+      },
+      {
+        "height": 786,
+        "media_key": "3_2065737002209980416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKr429gbMAAgHZF.jpg",
+        "width": 1179
+      },
+      {
+        "height": 745,
+        "media_key": "3_2065737002184757248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKr429aaUAACPbL.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065737002180616193",
+            "3_2065737002537103360",
+            "3_2065737002209980416",
+            "3_2065737002184757248"
+          ]
+        },
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065737023684739318",
+        "created_at": "2026-06-13T10:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065737023684739318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/voSWjaVzmo",
+              "end": 86,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2065737023684739318/photo/1",
+              "media_key": "3_2065737002180616193",
+              "start": 63,
+              "url": "https://t.co/voSWjaVzmo"
+            },
+            {
+              "display_url": "pic.x.com/voSWjaVzmo",
+              "end": 86,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2065737023684739318/photo/1",
+              "media_key": "3_2065737002537103360",
+              "start": 63,
+              "url": "https://t.co/voSWjaVzmo"
+            },
+            {
+              "display_url": "pic.x.com/voSWjaVzmo",
+              "end": 86,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2065737023684739318/photo/1",
+              "media_key": "3_2065737002209980416",
+              "start": 63,
+              "url": "https://t.co/voSWjaVzmo"
+            },
+            {
+              "display_url": "pic.x.com/voSWjaVzmo",
+              "end": 86,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2065737023684739318/photo/1",
+              "media_key": "3_2065737002184757248",
+              "start": 63,
+              "url": "https://t.co/voSWjaVzmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065737023684739318",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得大家聊聊日常就挺不错的😊\n你肿么了？\n虽然你不是人机，但是你跟人机一样诡异\n不要再视奸我了ヽ(`Д´)ﾉ（好吧允许了） https://t.co/voSWjaVzmo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 9,
+          "like_count": 1171,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 3027
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

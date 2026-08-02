@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2064223891409793101",
+    "created_at": "2026-06-09T06:01:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T07:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064226266283397475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1809576571159912448",
+          "start": 0,
+          "username": "qingyiyi06"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064226266283397475",
+    "in_reply_to_user_id": "1809576571159912448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064225405570294076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qingyiyi06 好哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2064223891409793101",
+        "created_at": "2026-06-09T06:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T07:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064226266283397475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1809576571159912448",
+              "start": 0,
+              "username": "qingyiyi06"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064226266283397475",
+        "in_reply_to_user_id": "1809576571159912448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064225405570294076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingyiyi06 好哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809576571159912448",
+        "conversation_id": "2064223891409793101",
+        "created_at": "2026-06-09T05:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T06:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064225405570294076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064225405570294076",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064223891409793101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 加油"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 2,
+          "like_count": 524,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 2187
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T13:14:30.000Z",
+        "description": "幸福时不上推",
+        "id": "1809576571159912448",
+        "location": "随便",
+        "name": "li",
+        "pinned_tweet_id": "2062142485791662558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059658524821729280/2hjOfa3B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 6,
+          "like_count": 620,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 105
+        },
+        "username": "qingyiyi06",
+        "verified": false
+      }
+    ]
+  }
+}

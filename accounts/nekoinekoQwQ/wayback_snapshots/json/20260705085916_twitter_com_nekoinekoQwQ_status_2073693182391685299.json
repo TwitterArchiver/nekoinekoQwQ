@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2073630790185804235",
+    "created_at": "2026-07-05T08:59:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T09:59:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073693182391685299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "890921753450496001",
+          "start": 0,
+          "username": "park_adiaoo0223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073693182391685299",
+    "in_reply_to_user_id": "890921753450496001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073630790185804235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@park_adiaoo0223 馄饨吗，第一眼我以为是饺子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2073630784557096960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcENkTXIAAsa6A.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2073630790185804235",
+        "created_at": "2026-07-05T08:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T09:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073693182391685299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "890921753450496001",
+              "start": 0,
+              "username": "park_adiaoo0223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073693182391685299",
+        "in_reply_to_user_id": "890921753450496001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073630790185804235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@park_adiaoo0223 馄饨吗，第一眼我以为是饺子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073630784557096960"
+          ]
+        },
+        "author_id": "890921753450496001",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073630790185804235",
+        "created_at": "2026-07-05T04:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T05:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073630790185804235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ckJ8ByKEjE",
+              "end": 35,
+              "expanded_url": "https://x.com/park_adiaoo0223/status/2073630790185804235/photo/1",
+              "media_key": "3_2073630784557096960",
+              "start": 12,
+              "url": "https://t.co/ckJ8ByKEjE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073630790185804235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "馄饨蘸番茄酱谁来懂一下 https://t.co/ckJ8ByKEjE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 12,
+          "like_count": 1843,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 4938
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-28T13:07:53.000Z",
+        "description": "可以叫我阿雕。不是黄推，是照骗。取关随意，是臭追星的臭看番的，是来这里是发一堆废话以及搞同人的。",
+        "id": "890921753450496001",
+        "location": "0.01km",
+        "name": "adiao_",
+        "pinned_tweet_id": "2061849609857802426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000860103608791040/QLVWqU7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 513,
+          "like_count": 9648,
+          "listed_count": 0,
+          "media_count": 291,
+          "tweet_count": 4036
+        },
+        "url": "",
+        "username": "park_adiaoo0223",
+        "verified": false
+      }
+    ]
+  }
+}

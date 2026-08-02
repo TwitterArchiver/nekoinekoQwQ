@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2063199531253248345",
+    "created_at": "2026-06-06T13:28:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T14:28:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063251757770432570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1860304975144136704",
+          "start": 0,
+          "username": "nannan080605"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063251757770432570",
+    "in_reply_to_user_id": "1860304975144136704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063244881397797347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nannan080605 呜呜谢谢🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2063199531253248345",
+        "created_at": "2026-06-06T13:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T14:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063251757770432570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1860304975144136704",
+              "start": 0,
+              "username": "nannan080605"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063251757770432570",
+        "in_reply_to_user_id": "1860304975144136704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063244881397797347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nannan080605 呜呜谢谢🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860304975144136704",
+        "conversation_id": "2063199531253248345",
+        "created_at": "2026-06-06T13:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T14:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063244881397797347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063244881397797347",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063199531253248345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 真心替你感到高兴 高中三年真的太压抑了🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CH",
+              "full_name": "Zürich, Zurich, Switzerland",
+              "geo": {
+                "coordinates": [
+                  8.55,
+                  47.36667
+                ],
+                "type": "Point"
+              },
+              "locality": "Zürich",
+              "region": "Zurich",
+              "sub_region": "Bezirk Zürich"
+            }
+          ]
+        },
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "id": "1948326838125903872",
+        "location": "世界",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 2,
+          "like_count": 362,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1965
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-23T12:51:03.000Z",
+        "description": "🇫🇷法留03 istj 4i＞1i｜叫我小柟就好 小女孩欢迎找我互fo！墙内刷到不要认出我 私信看见会回滴",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nannan080605",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nannan080605",
+                "start": 0,
+                "url": "https://t.co/A1z7xbLdy6"
+              }
+            ]
+          }
+        },
+        "id": "1860304975144136704",
+        "location": "喜欢睡觉",
+        "name": "柟小柟（养胃版）",
+        "pinned_tweet_id": "1936732121068134429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050180547906031616/WBAOLEia_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 98,
+          "like_count": 1585,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 591
+        },
+        "url": "https://t.co/A1z7xbLdy6",
+        "username": "nannan080605",
+        "verified": false
+      }
+    ]
+  }
+}

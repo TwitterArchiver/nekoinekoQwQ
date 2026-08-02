@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2066530464203153539",
+    "created_at": "2026-06-15T15:10:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T16:10:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066538775174685070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1676576204865019904",
+          "start": 0,
+          "username": "YanRuYu_Zzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066538775174685070",
+    "in_reply_to_user_id": "1676576204865019904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066536043403448498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YanRuYu_Zzz 王者我纯人机）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2066530464203153539",
+        "created_at": "2026-06-15T15:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066538775174685070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676576204865019904",
+              "start": 0,
+              "username": "YanRuYu_Zzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066538775174685070",
+        "in_reply_to_user_id": "1676576204865019904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066536043403448498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YanRuYu_Zzz 王者我纯人机）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676576204865019904",
+        "conversation_id": "2066530464203153539",
+        "created_at": "2026-06-15T14:59:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:59:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066536043403448498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066536043403448498",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066530464203153539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 为什么不玩王者😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 10,
+          "like_count": 1434,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 3551
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T12:58:18.000Z",
+        "description": "",
+        "id": "1676576204865019904",
+        "name": "小樹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989273593612791808/OlTXKJ8x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 76,
+          "like_count": 1078,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 210
+        },
+        "username": "YanRuYu_Zzz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2063555935185097184",
+    "created_at": "2026-06-08T02:56:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T03:56:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063817473565262089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2049717332415516673",
+          "start": 0,
+          "username": "zmz148074881899"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063817473565262089",
+    "in_reply_to_user_id": "2049717332415516673",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063621234206601244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zmz148074881899 好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2063555935185097184",
+        "created_at": "2026-06-08T02:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063817473565262089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2049717332415516673",
+              "start": 0,
+              "username": "zmz148074881899"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063817473565262089",
+        "in_reply_to_user_id": "2049717332415516673",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063621234206601244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zmz148074881899 好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049717332415516673",
+        "conversation_id": "2063555935185097184",
+        "created_at": "2026-06-07T13:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063621234206601244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063621234206601244",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063555935185097184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 没事没事我高考数学49也上公办本科了宝宝没事没事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CH",
+              "full_name": "Zürich, Zurich, Switzerland",
+              "geo": {
+                "coordinates": [
+                  8.55,
+                  47.36667
+                ],
+                "type": "Point"
+              },
+              "locality": "Zürich",
+              "region": "Zurich",
+              "sub_region": "Bezirk Zürich"
+            }
+          ]
+        },
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "id": "1948326838125903872",
+        "location": "世界",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 2,
+          "like_count": 421,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 2030
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-30T05:08:06.000Z",
+        "description": "男大，温主，S，蹲个碎碎念女大，固聊，有意向的私",
+        "id": "2049717332415516673",
+        "name": "zm z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057819044762275840/yYf6gNDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 987,
+          "like_count": 728,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 452
+        },
+        "username": "zmz148074881899",
+        "verified": false
+      }
+    ]
+  }
+}

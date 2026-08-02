@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2064565621598372270",
+    "created_at": "2026-06-10T17:43:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T18:43:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064765389352141051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1625500150935474179",
+          "start": 0,
+          "username": "pureloveZz9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064765389352141051",
+    "in_reply_to_user_id": "1625500150935474179",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064565621598372270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pureloveZz9 我蹭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064565597950947328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbPeQlbsAAoEJ9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2064565621598372270",
+        "created_at": "2026-06-10T17:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T18:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064765389352141051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1625500150935474179",
+              "start": 0,
+              "username": "pureloveZz9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064765389352141051",
+        "in_reply_to_user_id": "1625500150935474179",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064565621598372270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pureloveZz9 我蹭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064565597950947328"
+          ]
+        },
+        "author_id": "1625500150935474179",
+        "conversation_id": "2064565621598372270",
+        "created_at": "2026-06-10T04:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064565621598372270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cG7nveb0Or",
+              "end": 26,
+              "expanded_url": "https://x.com/pureloveZz9/status/2064565621598372270/photo/1",
+              "media_key": "3_2064565597950947328",
+              "start": 3,
+              "url": "https://t.co/cG7nveb0Or"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064565621598372270",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1093,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "山竹 https://t.co/cG7nveb0Or"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 10,
+          "like_count": 792,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 2407
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-14T14:20:23.000Z",
+        "description": "直男 碎碎念@hearttypebomp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "hearttypebomp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/caburi9",
+                "end": 23,
+                "expanded_url": "https://ngl.link/caburi9",
+                "start": 0,
+                "url": "https://t.co/v7ekXgqCZC"
+              }
+            ]
+          }
+        },
+        "id": "1625500150935474179",
+        "location": "广州",
+        "name": "tolove",
+        "pinned_tweet_id": "2045885629612069334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959082883773005824/rE_Cw8k1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 96,
+          "like_count": 1757,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 219
+        },
+        "url": "https://t.co/v7ekXgqCZC",
+        "username": "pureloveZz9",
+        "verified": false
+      }
+    ]
+  }
+}

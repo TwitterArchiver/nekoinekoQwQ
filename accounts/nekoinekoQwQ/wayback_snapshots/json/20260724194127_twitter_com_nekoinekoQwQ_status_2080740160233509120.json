@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2080710062918779256",
+    "created_at": "2026-07-24T19:41:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T20:41:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080740160233509120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1727727485704675328",
+          "start": 0,
+          "username": "doki00614"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080740160233509120",
+    "in_reply_to_user_id": "1727727485704675328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080710062918779256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doki00614 暴力熊萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1094,
+        "media_key": "3_2080710060842561536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAqxrkaMAAUnga.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2080710062918779256",
+        "created_at": "2026-07-24T19:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T20:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080740160233509120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1727727485704675328",
+              "start": 0,
+              "username": "doki00614"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080740160233509120",
+        "in_reply_to_user_id": "1727727485704675328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080710062918779256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doki00614 暴力熊萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080710060842561536"
+          ]
+        },
+        "author_id": "1727727485704675328",
+        "conversation_id": "2080710062918779256",
+        "created_at": "2026-07-24T17:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T18:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080710062918779256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gzmsgaXCC5",
+              "end": 23,
+              "expanded_url": "https://x.com/doki00614/status/2080710062918779256/photo/1",
+              "media_key": "3_2080710060842561536",
+              "start": 0,
+              "url": "https://t.co/gzmsgaXCC5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080710062918779256",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gzmsgaXCC5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 10,
+          "like_count": 1954,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 5543
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-23T16:35:16.000Z",
+        "description": "重生第二世…\n可以叫我晓晓，目前休学中，已成年，比较社恐但还是很期待友好的沟通…(ᐢᴖ ·̫ ᴖᐢ)\n举报全家变仁彘肠子拖出来勒似",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiao9",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiao9",
+                "start": 0,
+                "url": "https://t.co/SfwjU1SFHV"
+              }
+            ]
+          }
+        },
+        "id": "1727727485704675328",
+        "location": "none",
+        "name": "紫月晓",
+        "pinned_tweet_id": "2075863944720482450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054413101773246464/uUt_MEFc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 103,
+          "like_count": 589,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 496
+        },
+        "url": "https://t.co/SfwjU1SFHV",
+        "username": "doki00614",
+        "verified": false
+      }
+    ]
+  }
+}

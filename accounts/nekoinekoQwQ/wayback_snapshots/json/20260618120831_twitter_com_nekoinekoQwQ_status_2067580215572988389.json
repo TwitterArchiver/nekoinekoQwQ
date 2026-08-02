@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2067531100503916680",
+    "created_at": "2026-06-18T12:08:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T13:08:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067580215572988389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1601377013243445248",
+          "start": 0,
+          "username": "xioli99520955"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067580215572988389",
+    "in_reply_to_user_id": "1601377013243445248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067579605326983590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xioli99520955 厉害哦(๑•̀ㅂ•́)و✧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2067531100503916680",
+        "created_at": "2026-06-18T12:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067580215572988389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1601377013243445248",
+              "start": 0,
+              "username": "xioli99520955"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067580215572988389",
+        "in_reply_to_user_id": "1601377013243445248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067579605326983590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xioli99520955 厉害哦(๑•̀ㅂ•́)و✧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601377013243445248",
+        "conversation_id": "2067531100503916680",
+        "created_at": "2026-06-18T12:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067579605326983590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067579605326983590",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067578934448034109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 三角洲大战场有幸打到过，淄博市的第77名"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 11,
+          "like_count": 1577,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 4089
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-10T00:46:04.000Z",
+        "description": "",
+        "id": "1601377013243445248",
+        "location": "Central & Western District",
+        "name": "酒心头孢巧克力",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789142961868906496/H84oENDm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 329,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 309
+        },
+        "username": "xioli99520955",
+        "verified": false
+      }
+    ]
+  }
+}

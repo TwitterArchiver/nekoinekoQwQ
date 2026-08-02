@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2063556494319292689",
+    "created_at": "2026-06-08T02:52:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T03:52:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063816495256494317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2055630073257246720",
+          "start": 0,
+          "username": "Zmjjkkzqkd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063816495256494317",
+    "in_reply_to_user_id": "2055630073257246720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063665641073279165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zmjjkkzqkd 必须狠狠睡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2063556494319292689",
+        "created_at": "2026-06-08T02:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063816495256494317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2055630073257246720",
+              "start": 0,
+              "username": "Zmjjkkzqkd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063816495256494317",
+        "in_reply_to_user_id": "2055630073257246720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063665641073279165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zmjjkkzqkd 必须狠狠睡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055630073257246720",
+        "conversation_id": "2063556494319292689",
+        "created_at": "2026-06-07T16:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063665641073279165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063665641073279165",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063556494319292689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 不用担心 内耗只会让你明天状态更不好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CH",
+              "full_name": "Zürich, Zurich, Switzerland",
+              "geo": {
+                "coordinates": [
+                  8.55,
+                  47.36667
+                ],
+                "type": "Point"
+              },
+              "locality": "Zürich",
+              "region": "Zurich",
+              "sub_region": "Bezirk Zürich"
+            }
+          ]
+        },
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "id": "1948326838125903872",
+        "location": "世界",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 2,
+          "like_count": 396,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 2011
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T12:43:35.000Z",
+        "description": "没啥",
+        "id": "2055630073257246720",
+        "name": "纵醴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063193561030635520/R-jUYJ2M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 49,
+          "like_count": 787,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 104
+        },
+        "username": "Zmjjkkzqkd",
+        "verified": false
+      }
+    ]
+  }
+}

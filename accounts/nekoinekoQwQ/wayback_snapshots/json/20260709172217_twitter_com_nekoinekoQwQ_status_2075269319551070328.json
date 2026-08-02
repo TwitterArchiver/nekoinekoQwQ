@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2075147090163020073",
+    "created_at": "2026-07-09T17:22:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T18:22:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075269319551070328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1652472315752628230",
+          "start": 0,
+          "username": "VictorMitc4090"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075269319551070328",
+    "in_reply_to_user_id": "1652472315752628230",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075256625636810979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VictorMitc4090 具体是不是一年我不清楚，但是他是属于在实习期參加项目，参加完让他转正了，但是要让他的职位从底层重新开始算"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 112,
+        "media_key": "16_2075256608062619652",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HMzK481awAQnplB.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HMzK481awAQnplB.mp4"
+          }
+        ],
+        "width": 112
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2075147090163020073",
+        "created_at": "2026-07-09T17:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T18:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075269319551070328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1652472315752628230",
+              "start": 0,
+              "username": "VictorMitc4090"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075269319551070328",
+        "in_reply_to_user_id": "1652472315752628230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075256625636810979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VictorMitc4090 具体是不是一年我不清楚，但是他是属于在实习期參加项目，参加完让他转正了，但是要让他的职位从底层重新开始算"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2075256608062619652"
+          ]
+        },
+        "author_id": "1652472315752628230",
+        "conversation_id": "2075147090163020073",
+        "created_at": "2026-07-09T16:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T17:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075256625636810979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sIC7PiFMjS",
+              "end": 53,
+              "expanded_url": "https://x.com/VictorMitc4090/status/2075256625636810979/photo/1",
+              "media_key": "16_2075256608062619652",
+              "start": 30,
+              "url": "https://t.co/sIC7PiFMjS"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2075256625636810979",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075155125317029912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 一年 50w，还是没转正？？？ https://t.co/sIC7PiFMjS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 10,
+          "like_count": 1929,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 5183
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-30T00:38:18.000Z",
+        "description": "08 男 常住广州和佛山 当朋友圈发了\n游戏 动漫 小说",
+        "id": "1652472315752628230",
+        "name": "evol",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074166016297545728/xJ6anvEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 20,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 98
+        },
+        "url": "",
+        "username": "VictorMitc4090",
+        "verified": false
+      }
+    ]
+  }
+}

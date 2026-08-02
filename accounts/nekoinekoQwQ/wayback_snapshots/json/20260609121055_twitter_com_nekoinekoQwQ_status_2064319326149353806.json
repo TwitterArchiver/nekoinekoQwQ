@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2064317095773630666",
+    "created_at": "2026-06-09T12:10:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T13:10:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064319326149353806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2064144816712400896",
+          "start": 0,
+          "username": "gelgamedawang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064319326149353806",
+    "in_reply_to_user_id": "2064144816712400896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064318899878068225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gelgamedawang 你被我缠上了，哼哼(*｀へ´*)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064318888243068928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKXvF3TbgAAx_yG.jpg",
+        "width": 539
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2064317095773630666",
+        "created_at": "2026-06-09T12:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064319326149353806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2064144816712400896",
+              "start": 0,
+              "username": "gelgamedawang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064319326149353806",
+        "in_reply_to_user_id": "2064144816712400896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064318899878068225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gelgamedawang 你被我缠上了，哼哼(*｀へ´*)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064318888243068928"
+          ]
+        },
+        "author_id": "2064144816712400896",
+        "conversation_id": "2064317095773630666",
+        "created_at": "2026-06-09T12:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064318899878068225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bF4yNOCDQB",
+              "end": 55,
+              "expanded_url": "https://x.com/gelgamedawang/status/2064318899878068225/photo/1",
+              "media_key": "3_2064318888243068928",
+              "start": 32,
+              "url": "https://t.co/bF4yNOCDQB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064318899878068225",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064317095773630666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 为啥刷到你一条推然后一刷全是你的推 https://t.co/bF4yNOCDQB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 5,
+          "like_count": 545,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 2260
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-09T00:39:00.000Z",
+        "description": "找我玩旮旯game",
+        "id": "2064144816712400896",
+        "name": "旮旯game大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064145331345035264/xUKryj2M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 43
+        },
+        "username": "gelgamedawang",
+        "verified": false
+      }
+    ]
+  }
+}

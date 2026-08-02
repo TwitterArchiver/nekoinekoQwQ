@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2067348176626122886",
+    "created_at": "2026-06-17T20:46:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T21:46:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067348176626122886"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067348176626122886",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "平常和朋友打电话，很经常被萌到。按理来说，求夸奖的人一般是我，但我朋友经常让我夸他，还是个喜欢被提问之人，自从和他开暴力s的玩笑之后，他从此一发不可收拾。平常说的东西问他为什么，这个傻子想不到答案就会说，因为我是暴力 s，所以有控制欲很正常，你听我的也很正常，具体体现在劝我睡觉上 hh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2067348176626122886",
+        "created_at": "2026-06-17T20:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T21:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067348176626122886"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067348176626122886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "平常和朋友打电话，很经常被萌到。按理来说，求夸奖的人一般是我，但我朋友经常让我夸他，还是个喜欢被提问之人，自从和他开暴力s的玩笑之后，他从此一发不可收拾。平常说的东西问他为什么，这个傻子想不到答案就会说，因为我是暴力 s，所以有控制欲很正常，你听我的也很正常，具体体现在劝我睡觉上 hh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 11,
+          "like_count": 1563,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 3981
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

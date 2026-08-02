@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2037211392881942586",
+    "created_at": "2026-03-27T15:23:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T16:23:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037551109154443416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1670705567688704001",
+          "start": 0,
+          "username": "RailhamChiMing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037551109154443416",
+    "in_reply_to_user_id": "1670705567688704001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037211392881942586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RailhamChiMing 自从常去的鸡腿饭店搬走了之后，我再也没吃到过好吃的鸡腿饭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3076,
+        "media_key": "3_2037211386494017536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEWg9mBbYAAsBCE.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2037211392881942586",
+        "created_at": "2026-03-27T15:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T16:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037551109154443416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1670705567688704001",
+              "start": 0,
+              "username": "RailhamChiMing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037551109154443416",
+        "in_reply_to_user_id": "1670705567688704001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037211392881942586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RailhamChiMing 自从常去的鸡腿饭店搬走了之后，我再也没吃到过好吃的鸡腿饭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037211386494017536"
+          ]
+        },
+        "author_id": "1670705567688704001",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2037211392881942586",
+        "created_at": "2026-03-26T16:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T17:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037211392881942586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ZEJZm3Vl9",
+              "end": 27,
+              "expanded_url": "https://x.com/RailhamChiMing/status/2037211392881942586/photo/1",
+              "media_key": "3_2037211386494017536",
+              "start": 4,
+              "url": "https://t.co/2ZEJZm3Vl9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037211392881942586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 312,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鸡腿饭 https://t.co/2ZEJZm3Vl9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 1,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 1109
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-19T08:11:28.000Z",
+        "description": "不要随便划分我的成分喵/RHS腐竹/168 57 0.5/俄留子/双形态/猫/上白沢慧音/🚅進化清洲兄弟/历史/诗词创作/舞萌w5星星批/巧克力/深夜陪聊/中推生态观察者/空谈误国，实干兴邦/本人关注列表不代表本人立场/瑞汉语推：@RoyhanChyMinh/小🐱:@Forth_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 115,
+                "username": "RoyhanChyMinh"
+              },
+              {
+                "end": 141,
+                "start": 133,
+                "username": "Forth_0"
+              }
+            ]
+          }
+        },
+        "id": "1670705567688704001",
+        "location": "瑞汉服务器 迟家镇 昭地辖区 瑞汉铁路办大学 国际教育学院",
+        "name": "瑞汉迟铭(Рейлхам Чи Мин)",
+        "pinned_tweet_id": "2035043236851720353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023787911364440070/W9zF1wwZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2154,
+          "following_count": 1082,
+          "like_count": 30204,
+          "listed_count": 5,
+          "media_count": 1632,
+          "tweet_count": 13769
+        },
+        "username": "RailhamChiMing",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065906153440346455",
+    "created_at": "2026-06-13T21:53:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T22:53:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065915473594859975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1771333448839659520",
+          "start": 0,
+          "username": "oolong1415"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065915473594859975",
+    "in_reply_to_user_id": "1771333448839659520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065914993355423907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oolong1415 知识+0 昨天已经了解到了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065906153440346455",
+        "created_at": "2026-06-13T21:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T22:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065915473594859975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1771333448839659520",
+              "start": 0,
+              "username": "oolong1415"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065915473594859975",
+        "in_reply_to_user_id": "1771333448839659520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065914993355423907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oolong1415 知识+0 昨天已经了解到了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771333448839659520",
+        "conversation_id": "2065906153440346455",
+        "created_at": "2026-06-13T21:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T22:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065914993355423907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065914993355423907",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065913930573377866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 大部分是为了线下开房，小部分是卖视频和图片吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 9,
+          "like_count": 1253,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 3214
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T00:30:00.000Z",
+        "description": "生活将我反复捶打，肉质竟变得Q弹劲道",
+        "id": "1771333448839659520",
+        "name": "oolong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064217677552599040/gSR7ziK9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 41,
+          "like_count": 210,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 101
+        },
+        "username": "oolong1415",
+        "verified": false
+      }
+    ]
+  }
+}

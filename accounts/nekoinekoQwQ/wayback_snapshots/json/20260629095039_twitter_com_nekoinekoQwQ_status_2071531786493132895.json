@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2071313915037016207",
+    "created_at": "2026-06-29T09:50:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T10:50:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071531786493132895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1586770952842452992",
+          "start": 0,
+          "username": "Lian1uo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071531786493132895",
+    "in_reply_to_user_id": "1586770952842452992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071413468268519538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lian1uo 哎，有时候听到豆包说话真的很恼火"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2071313915037016207",
+        "created_at": "2026-06-29T09:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T10:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071531786493132895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1586770952842452992",
+              "start": 0,
+              "username": "Lian1uo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071531786493132895",
+        "in_reply_to_user_id": "1586770952842452992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071413468268519538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lian1uo 哎，有时候听到豆包说话真的很恼火"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586770952842452992",
+        "conversation_id": "2071313915037016207",
+        "created_at": "2026-06-29T02:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T03:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071413468268519538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071413468268519538",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071313915037016207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 没关系 这些很简单的问题可以一直问ai"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 12,
+          "like_count": 1712,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 4823
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-30T17:24:26.000Z",
+        "description": "我为他人辩解",
+        "id": "1586770952842452992",
+        "name": "联络",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064183725878091776/VZO9AwTT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 90,
+          "like_count": 858,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 506
+        },
+        "url": "",
+        "username": "Lian1uo",
+        "verified": false
+      }
+    ]
+  }
+}

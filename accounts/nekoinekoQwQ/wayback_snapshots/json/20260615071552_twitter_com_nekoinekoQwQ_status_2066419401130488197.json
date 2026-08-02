@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065765216319861217",
+    "created_at": "2026-06-15T07:15:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T08:15:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066419401130488197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1533782016210001920",
+          "start": 0,
+          "username": "2602618826Cly"
+        },
+        {
+          "end": 26,
+          "id": "1823405068034744320",
+          "start": 15,
+          "username": "hown530150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066419401130488197",
+    "in_reply_to_user_id": "1533782016210001920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066416383257366736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2602618826Cly @hown530150 我知道，所以青年音大概率连到猪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065765216319861217",
+        "created_at": "2026-06-15T07:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T08:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066419401130488197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1533782016210001920",
+              "start": 0,
+              "username": "2602618826Cly"
+            },
+            {
+              "end": 26,
+              "id": "1823405068034744320",
+              "start": 15,
+              "username": "hown530150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066419401130488197",
+        "in_reply_to_user_id": "1533782016210001920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066416383257366736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2602618826Cly @hown530150 我知道，所以青年音大概率连到猪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533782016210001920",
+        "conversation_id": "2065765216319861217",
+        "created_at": "2026-06-15T07:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T08:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066416383257366736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            },
+            {
+              "end": 25,
+              "id": "1823405068034744320",
+              "start": 14,
+              "username": "hown530150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066416383257366736",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065804220067189019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ @hown530150 其实胖点声音容易细腻的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 10,
+          "like_count": 1425,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 3507
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-06T12:05:14.000Z",
+        "description": "",
+        "id": "1533782016210001920",
+        "name": "cly",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 56,
+          "like_count": 2613,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 505
+        },
+        "username": "2602618826Cly",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T17:03:48.000Z",
+        "description": "我也不太了解她",
+        "id": "1823405068034744320",
+        "location": "188cm",
+        "name": "喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004825093667782656/l4DFY3mF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 988,
+          "like_count": 13552,
+          "listed_count": 0,
+          "media_count": 331,
+          "tweet_count": 10413
+        },
+        "username": "hown530150",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2068771392561336676",
+    "created_at": "2026-06-21T19:20:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T20:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068776127599120886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1963951530568187904",
+          "start": 0,
+          "username": "LNNWFS514514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068776127599120886",
+    "in_reply_to_user_id": "1963951530568187904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068774557989912991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LNNWFS514514 请移步最新一条。TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2068771392561336676",
+        "created_at": "2026-06-21T19:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T20:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068776127599120886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1963951530568187904",
+              "start": 0,
+              "username": "LNNWFS514514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068776127599120886",
+        "in_reply_to_user_id": "1963951530568187904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068774557989912991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LNNWFS514514 请移步最新一条。TT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963951530568187904",
+        "conversation_id": "2068771392561336676",
+        "created_at": "2026-06-21T19:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T20:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068774557989912991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068774557989912991",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068771392561336676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 蛋炒饭还是简单的，之前去重庆吃过一次给我香迷糊了，经过仔细钻研发现菜籽油也是秘诀之一（怎么那么多秘诀）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 12,
+          "like_count": 1630,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 4432
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T13:05:21.000Z",
+        "description": "What am I doing here",
+        "id": "1963951530568187904",
+        "location": "天津",
+        "name": "LNNWFS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034898132308566019/UjcTDyF__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 287,
+          "like_count": 2828,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 527
+        },
+        "url": "",
+        "username": "LNNWFS514514",
+        "verified": false
+      }
+    ]
+  }
+}

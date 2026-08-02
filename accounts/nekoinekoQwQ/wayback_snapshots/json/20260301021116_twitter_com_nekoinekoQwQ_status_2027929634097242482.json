@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2027929553751224592",
+    "created_at": "2026-03-01T02:11:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T03:11:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027929634097242482"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2027929634097242482",
+    "in_reply_to_user_id": "1948326838125903872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027929553751224592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老天爷你干嘛这样对我！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2027929553751224592",
+        "created_at": "2026-03-01T02:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T03:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027929634097242482"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027929634097242482",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027929553751224592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老天爷你干嘛这样对我！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2027929553751224592",
+        "created_at": "2026-03-01T02:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T03:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027929553751224592"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027929553751224592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个世界真的是疯了！一直小心翼翼维系感情，结果对方根本就不在意！我的法克！逗我呢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "",
+        "id": "1948326838125903872",
+        "name": "喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948327003670839297/clkQ13j4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

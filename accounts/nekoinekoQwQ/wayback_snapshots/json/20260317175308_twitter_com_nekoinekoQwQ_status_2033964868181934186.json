@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2033936223686037833",
+    "created_at": "2026-03-17T17:53:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T18:53:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033964868181934186"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2033964868181934186",
+    "in_reply_to_user_id": "1948326838125903872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033936223686037833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不知道说什么了 讨厌我是没有理由的 不喜欢我也是没有理由的 我不懂 我不懂 我做错什么了吗 我想不明白为什么会变成这样 甚至到最后 我都没有对你说话一句重话 一句都没有 你把伤人的话全对我说了 我不敢相信 这真的是你吗 明明应该很温柔的哄我 亲亲我才对。为什么会这样 好可怕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2033936223686037833",
+        "created_at": "2026-03-17T17:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T18:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033964868181934186"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033964868181934186",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033936223686037833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不知道说什么了 讨厌我是没有理由的 不喜欢我也是没有理由的 我不懂 我不懂 我做错什么了吗 我想不明白为什么会变成这样 甚至到最后 我都没有对你说话一句重话 一句都没有 你把伤人的话全对我说了 我不敢相信 这真的是你吗 明明应该很温柔的哄我 亲亲我才对。为什么会这样 好可怕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2033936223686037833",
+        "created_at": "2026-03-17T15:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T16:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033936223686037833"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033936223686037833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我甚至天真以为 只要我们分开一段时间去独自成长 或许我们还有以后"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 1,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 631
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

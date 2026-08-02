@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2077185810445849015",
+    "created_at": "2026-07-15T06:19:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T07:19:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077276816159756311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2049264640581103616",
+          "start": 0,
+          "username": "RRay0119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077276816159756311",
+    "in_reply_to_user_id": "2049264640581103616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077251988900003854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RRay0119 我真的很喜欢玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2077185810445849015",
+        "created_at": "2026-07-15T06:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077276816159756311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2049264640581103616",
+              "start": 0,
+              "username": "RRay0119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077276816159756311",
+        "in_reply_to_user_id": "2049264640581103616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077251988900003854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RRay0119 我真的很喜欢玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049264640581103616",
+        "conversation_id": "2077185810445849015",
+        "created_at": "2026-07-15T04:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T05:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077251988900003854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077251988900003854",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077185810445849015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 这游戏抱过我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 10,
+          "like_count": 1943,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 5385
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-28T23:09:15.000Z",
+        "description": "聊天吹水逛帖子",
+        "id": "2049264640581103616",
+        "location": "modu",
+        "name": "re-ray0119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049264893476659200/ccI8A3K8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 967,
+          "like_count": 20295,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 1455
+        },
+        "url": "",
+        "username": "RRay0119",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2067858252814307753",
+    "created_at": "2026-06-19T19:47:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T20:47:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068058151568711905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2064765895671754752",
+          "start": 0,
+          "username": "w5831884"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068058151568711905",
+    "in_reply_to_user_id": "2064765895671754752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067858252814307753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@w5831884 小鼻嘎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067858204206440448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKCFKuaIAAbV4_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2067858252814307753",
+        "created_at": "2026-06-19T19:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T20:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068058151568711905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2064765895671754752",
+              "start": 0,
+              "username": "w5831884"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068058151568711905",
+        "in_reply_to_user_id": "2064765895671754752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067858252814307753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@w5831884 小鼻嘎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067858204206440448"
+          ]
+        },
+        "author_id": "2064765895671754752",
+        "conversation_id": "2067858252814307753",
+        "created_at": "2026-06-19T06:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T07:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067858252814307753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MH4odXvpxf",
+              "end": 48,
+              "expanded_url": "https://x.com/w5831884/status/2067858252814307753/photo/1",
+              "media_key": "3_2067858204206440448",
+              "start": 25,
+              "url": "https://t.co/MH4odXvpxf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067858252814307753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 205,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "金条对拖鞋情有独钟 起床看到他睡拖鞋上 咋那么傻 https://t.co/MH4odXvpxf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 12,
+          "like_count": 1601,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 4260
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-10T17:50:39.000Z",
+        "description": "一些金条的日常\n🐣：26/4/29\n@wendy097648352",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 18,
+                "username": "wendy097648352"
+              }
+            ]
+          }
+        },
+        "id": "2064765895671754752",
+        "name": "Wendy",
+        "pinned_tweet_id": "2066463688043970603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064771835309514752/IeAPrxdb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "w5831884",
+        "verified": false
+      }
+    ]
+  }
+}

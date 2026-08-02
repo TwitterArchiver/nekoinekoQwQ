@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2066131629664608368",
+    "created_at": "2026-06-14T12:32:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T13:32:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066136736389124418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1416450289842884614",
+          "start": 0,
+          "username": "cupid0525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066136736389124418",
+    "in_reply_to_user_id": "1416450289842884614",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066135557932261877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cupid0525 我要爱上你了！我的天哪，你家宝宝好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066135551636643840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxjVl0boAALK4o.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2066131629664608368",
+        "created_at": "2026-06-14T12:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066136736389124418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1416450289842884614",
+              "start": 0,
+              "username": "cupid0525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066136736389124418",
+        "in_reply_to_user_id": "1416450289842884614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066135557932261877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cupid0525 我要爱上你了！我的天哪，你家宝宝好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066135551636643840"
+          ]
+        },
+        "author_id": "1416450289842884614",
+        "conversation_id": "2066131629664608368",
+        "created_at": "2026-06-14T12:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066135557932261877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vlQ2zVD7N6",
+              "end": 48,
+              "expanded_url": "https://x.com/cupid0525/status/2066135557932261877/photo/1",
+              "media_key": "3_2066135551636643840",
+              "start": 25,
+              "url": "https://t.co/vlQ2zVD7N6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066135557932261877",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066131629664608368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 我來放一張我家的胖橘 https://t.co/vlQ2zVD7N6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 9,
+          "like_count": 1360,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 3331
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-17T17:30:49.000Z",
+        "description": "",
+        "id": "1416450289842884614",
+        "name": "cupid0525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1472506759227260936/aMIQhgxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 243,
+          "like_count": 225,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 37
+        },
+        "username": "cupid0525",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2066386027363868905",
+    "created_at": "2026-06-15T05:29:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T06:29:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066392702103793915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1709267357183733760",
+          "start": 0,
+          "username": "TKdom1230"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066392702103793915",
+    "in_reply_to_user_id": "1709267357183733760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066392348452602127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TKdom1230 兑！我超级喜欢他们，本人微信爱发"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 568,
+        "media_key": "3_2066392341146177536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1M4tSbEAAWve_.jpg",
+        "width": 560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2066386027363868905",
+        "created_at": "2026-06-15T05:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T06:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066392702103793915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1709267357183733760",
+              "start": 0,
+              "username": "TKdom1230"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066392702103793915",
+        "in_reply_to_user_id": "1709267357183733760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066392348452602127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TKdom1230 兑！我超级喜欢他们，本人微信爱发"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066392341146177536"
+          ]
+        },
+        "author_id": "1709267357183733760",
+        "conversation_id": "2066386027363868905",
+        "created_at": "2026-06-15T05:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T06:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066392348452602127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wpUPAFIh49",
+              "end": 53,
+              "expanded_url": "https://x.com/TKdom1230/status/2066392348452602127/photo/1",
+              "media_key": "3_2066392341146177536",
+              "start": 30,
+              "url": "https://t.co/wpUPAFIh49"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066392348452602127",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066390937279119754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 呆猫八条和小狗蛇真的很极品 ！ https://t.co/wpUPAFIh49"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 10,
+          "like_count": 1422,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 3504
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-03T18:01:20.000Z",
+        "description": "Dom/INTJ/玄学/摄影/羽毛球/老吃家/广州 \n可能很久才上线一次\n尽力做好自己喜欢做的事\n本人虽然不算什么好人，但思想独立，能明辨是非\n理想状态是partner能跟我一起进步 1v1 长期",
+        "id": "1709267357183733760",
+        "location": "guangzhou",
+        "name": "KT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043737702336737282/GfX_9um3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 16,
+          "like_count": 1241,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 324
+        },
+        "username": "TKdom1230",
+        "verified": false
+      }
+    ]
+  }
+}

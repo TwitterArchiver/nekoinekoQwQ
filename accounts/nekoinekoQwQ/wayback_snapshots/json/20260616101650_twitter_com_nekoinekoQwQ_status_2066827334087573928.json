@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2066807437152371185",
+    "created_at": "2026-06-16T10:16:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T11:16:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066827334087573928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1631135079140560897",
+          "start": 0,
+          "username": "wangherisunge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066827334087573928",
+    "in_reply_to_user_id": "1631135079140560897",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066807437152371185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangherisunge 我的天想吃(¯﹃¯)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 885,
+        "media_key": "3_2066807414893228032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7GZLfasAAlN-1.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2066807437152371185",
+        "created_at": "2026-06-16T10:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T11:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066827334087573928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1631135079140560897",
+              "start": 0,
+              "username": "wangherisunge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066827334087573928",
+        "in_reply_to_user_id": "1631135079140560897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066807437152371185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangherisunge 我的天想吃(¯﹃¯)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066807414893228032"
+          ]
+        },
+        "author_id": "1631135079140560897",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2066807437152371185",
+        "created_at": "2026-06-16T08:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T09:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066807437152371185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sSwxWVquWO",
+              "end": 41,
+              "expanded_url": "https://x.com/wangherisunge/status/2066807437152371185/photo/1",
+              "media_key": "3_2066807414893228032",
+              "start": 18,
+              "url": "https://t.co/sSwxWVquWO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066807437152371185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和昨天炒菜一家的烧烤！超级超级香！ https://t.co/sSwxWVquWO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 10,
+          "like_count": 1499,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 3719
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-02T03:31:37.000Z",
+        "description": "近海浅滩，或有鹤立\n这里是鹤，希望大家都可以天天开心！天天幸福！\n大家关注我的我都会回关！\n想要一起聊天的可以私信或tg@yizhihe11，纯闲聊哦",
+        "id": "1631135079140560897",
+        "name": "鹤",
+        "pinned_tweet_id": "2066439980684382464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066034590918250497/ld7ZlADe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 41,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 785
+        },
+        "username": "wangherisunge",
+        "verified": true
+      }
+    ]
+  }
+}

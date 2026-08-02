@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073547290397339648"
+      ]
+    },
+    "author_id": "1948326838125903872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2073547297141792930",
+    "created_at": "2026-07-04T23:19:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T00:19:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073547297141792930"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/09sjxhf7k3",
+          "end": 101,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2073547297141792930/photo/1",
+          "media_key": "3_2073547290397339648",
+          "start": 78,
+          "url": "https://t.co/09sjxhf7k3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073547297141792930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天无聊让朋友给我唱首歌，他说自己不会唱，我本来刚攻击完他，因为他喜欢听 jpop，但是不会唱歌词， 结果听到这个语音，我真的要笑晕过去了，我现在也是饿的 https://t.co/09sjxhf7k3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1185,
+        "media_key": "3_2073547290397339648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMa4RkUbcAAWhHN.jpg",
+        "width": 847
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073547290397339648"
+          ]
+        },
+        "author_id": "1948326838125903872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2073547297141792930",
+        "created_at": "2026-07-04T23:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T00:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073547297141792930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/09sjxhf7k3",
+              "end": 101,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2073547297141792930/photo/1",
+              "media_key": "3_2073547290397339648",
+              "start": 78,
+              "url": "https://t.co/09sjxhf7k3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073547297141792930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天无聊让朋友给我唱首歌，他说自己不会唱，我本来刚攻击完他，因为他喜欢听 jpop，但是不会唱歌词， 结果听到这个语音，我真的要笑晕过去了，我现在也是饿的 https://t.co/09sjxhf7k3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 12,
+          "like_count": 1830,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 4898
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

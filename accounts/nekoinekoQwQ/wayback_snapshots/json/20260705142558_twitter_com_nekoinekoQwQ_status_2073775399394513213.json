@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2073540881790255503",
+    "created_at": "2026-07-05T14:25:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T15:25:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073775399394513213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1636364415694979074",
+          "start": 0,
+          "username": "AkizukiHof53350"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073775399394513213",
+    "in_reply_to_user_id": "1636364415694979074",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073728248966783184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkizukiHof53350 来玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2073540881790255503",
+        "created_at": "2026-07-05T14:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073775399394513213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1636364415694979074",
+              "start": 0,
+              "username": "AkizukiHof53350"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073775399394513213",
+        "in_reply_to_user_id": "1636364415694979074",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073728248966783184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkizukiHof53350 来玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1636364415694979074",
+        "conversation_id": "2073540881790255503",
+        "created_at": "2026-07-05T11:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073728248966783184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073728248966783184",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073540881790255503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 看看加好友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 12,
+          "like_count": 1844,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 4945
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-16T13:51:23.000Z",
+        "description": "love yuri！(* ⁰̷̴͈꒨⁰̷̴͈)=͟͟͞͞➳❤",
+        "id": "1636364415694979074",
+        "name": "elaine “Akizuki” hoff",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1636364543457632256/C7mqp2NZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 388,
+          "like_count": 643,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 89
+        },
+        "url": "",
+        "username": "AkizukiHof53350",
+        "verified": false
+      }
+    ]
+  }
+}

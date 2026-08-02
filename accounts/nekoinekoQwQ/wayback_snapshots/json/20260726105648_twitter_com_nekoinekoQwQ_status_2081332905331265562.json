@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2081332905331265562",
+    "created_at": "2026-07-26T10:56:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T11:56:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081332905331265562"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nekoinekoqwq/s…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/nekoinekoqwq/status/2081332641459282161",
+          "start": 45,
+          "url": "https://t.co/Nq2PtK3HnA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081332905331265562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081332641459282161",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不过其实这个效率还挺高的，我被封号是在下午3:00，然后现在是晚上7:00，我已经解封了 https://t.co/Nq2PtK3HnA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081331882961367040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJgUfebcAAaQRv.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081331882973933568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJgUfhbMAADHmR.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2081332905331265562",
+        "created_at": "2026-07-26T10:56:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T11:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081332905331265562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nekoinekoqwq/s…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/nekoinekoqwq/status/2081332641459282161",
+              "start": 45,
+              "url": "https://t.co/Nq2PtK3HnA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081332905331265562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081332641459282161",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过其实这个效率还挺高的，我被封号是在下午3:00，然后现在是晚上7:00，我已经解封了 https://t.co/Nq2PtK3HnA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081331882961367040",
+            "3_2081331882973933568"
+          ]
+        },
+        "author_id": "1948326838125903872",
+        "conversation_id": "2081332641459282161",
+        "created_at": "2026-07-26T10:55:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T11:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081332641459282161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xJ2MZfCpQA",
+              "end": 69,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2081332641459282161/photo/1",
+              "media_key": "3_2081331882961367040",
+              "start": 46,
+              "url": "https://t.co/xJ2MZfCpQA"
+            },
+            {
+              "display_url": "pic.x.com/xJ2MZfCpQA",
+              "end": 69,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2081332641459282161/photo/1",
+              "media_key": "3_2081331882973933568",
+              "start": 46,
+              "url": "https://t.co/xJ2MZfCpQA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081332641459282161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们根本就不会知道我刚刚经历了什么，然后我现在已经申诉成功。差点就见不到你们了，好难过呀。 https://t.co/xJ2MZfCpQA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 213,
+          "tweet_count": 5695
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

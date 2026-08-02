@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2063108049599132041",
+    "created_at": "2026-06-06T05:09:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T06:09:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063126020086218821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1854975997420224515",
+          "start": 0,
+          "username": "ssh1364129"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063126020086218821",
+    "in_reply_to_user_id": "1854975997420224515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063122664177410089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ssh1364129 选择困难症中😣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2063108049599132041",
+        "created_at": "2026-06-06T05:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T06:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063126020086218821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1854975997420224515",
+              "start": 0,
+              "username": "ssh1364129"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063126020086218821",
+        "in_reply_to_user_id": "1854975997420224515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063122664177410089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ssh1364129 选择困难症中😣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854975997420224515",
+        "conversation_id": "2063108049599132041",
+        "created_at": "2026-06-06T04:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T05:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063122664177410089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063122664177410089",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063108049599132041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 都可以啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CH",
+              "full_name": "Zürich, Zurich, Switzerland",
+              "geo": {
+                "coordinates": [
+                  8.55,
+                  47.36667
+                ],
+                "type": "Point"
+              },
+              "locality": "Zürich",
+              "region": "Zurich",
+              "sub_region": "Bezirk Zürich"
+            }
+          ]
+        },
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "id": "1948326838125903872",
+        "location": "世界",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 2,
+          "like_count": 290,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1897
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T19:55:46.000Z",
+        "description": "算了结局好像不在我",
+        "id": "1854975997420224515",
+        "name": "早就说了侦察兵别瞎搞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040084224565530624/bL0cQX_Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 1610,
+          "like_count": 7383,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 229
+        },
+        "username": "ssh1364129",
+        "verified": false
+      }
+    ]
+  }
+}

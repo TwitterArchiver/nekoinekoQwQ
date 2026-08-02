@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2033234006326874179",
+    "created_at": "2026-03-16T05:08:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T06:08:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033410113231589798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1243238051800702976",
+          "start": 0,
+          "username": "Jennie49891551"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033410113231589798",
+    "in_reply_to_user_id": "1243238051800702976",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033234006326874179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jennie49891551 🈚️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2033234006326874179",
+        "created_at": "2026-03-16T05:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T06:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033410113231589798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243238051800702976",
+              "start": 0,
+              "username": "Jennie49891551"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033410113231589798",
+        "in_reply_to_user_id": "1243238051800702976",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033234006326874179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jennie49891551 🈚️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243238051800702976",
+        "conversation_id": "2033234006326874179",
+        "created_at": "2026-03-15T17:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T18:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033234006326874179"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033234006326874179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 255,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想你和作死有区别吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 1,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 589
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-26T18:07:27.000Z",
+        "description": "✨ghs专用小号🎺 讨厌双商不在线的骚扰鬼，不要发奇奇怪怪的私信嗷，谢谢💜💜",
+        "id": "1243238051800702976",
+        "location": "London, England",
+        "name": "JOJO",
+        "pinned_tweet_id": "1834763919900262780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1436144510174576712/mAkq035s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 636,
+          "following_count": 16,
+          "like_count": 45,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 81
+        },
+        "username": "Jennie49891551",
+        "verified": false
+      }
+    ]
+  }
+}

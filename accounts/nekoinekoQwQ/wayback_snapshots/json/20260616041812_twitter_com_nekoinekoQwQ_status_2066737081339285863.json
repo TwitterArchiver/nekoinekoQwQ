@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2066694622269653037",
+    "created_at": "2026-06-16T04:18:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T05:18:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066737081339285863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2062206747247534080",
+          "start": 0,
+          "username": "Zheergen444"
+        },
+        {
+          "end": 22,
+          "id": "1818366665555648512",
+          "start": 13,
+          "username": "_corocce"
+        },
+        {
+          "end": 30,
+          "id": "1889945137524121603",
+          "start": 23,
+          "username": "YiOvot"
+        },
+        {
+          "end": 45,
+          "id": "2058319321441411072",
+          "start": 31,
+          "username": "7oveforever14"
+        },
+        {
+          "end": 52,
+          "id": "1507396901594820608",
+          "start": 46,
+          "username": "hgds0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066737081339285863",
+    "in_reply_to_user_id": "2062206747247534080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066694622269653037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zheergen444 @_corocce @YiOvot @7oveforever14 @hgds0 哈哈哈哈哈依旧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 807,
+        "media_key": "3_2066694619132260352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK5fzmiW8AAfF6d.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2066694622269653037",
+        "created_at": "2026-06-16T04:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T05:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066737081339285863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2062206747247534080",
+              "start": 0,
+              "username": "Zheergen444"
+            },
+            {
+              "end": 22,
+              "id": "1818366665555648512",
+              "start": 13,
+              "username": "_corocce"
+            },
+            {
+              "end": 30,
+              "id": "1889945137524121603",
+              "start": 23,
+              "username": "YiOvot"
+            },
+            {
+              "end": 45,
+              "id": "2058319321441411072",
+              "start": 31,
+              "username": "7oveforever14"
+            },
+            {
+              "end": 52,
+              "id": "1507396901594820608",
+              "start": 46,
+              "username": "hgds0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066737081339285863",
+        "in_reply_to_user_id": "2062206747247534080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066694622269653037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zheergen444 @_corocce @YiOvot @7oveforever14 @hgds0 哈哈哈哈哈依旧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066694619132260352"
+          ]
+        },
+        "author_id": "2062206747247534080",
+        "conversation_id": "2066694622269653037",
+        "created_at": "2026-06-16T01:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T02:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066694622269653037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "1818366665555648512",
+              "start": 22,
+              "username": "_corocce"
+            },
+            {
+              "end": 39,
+              "id": "1889945137524121603",
+              "start": 32,
+              "username": "YiOvot"
+            },
+            {
+              "end": 59,
+              "id": "1948326838125903872",
+              "start": 46,
+              "username": "nekoinekoQwQ"
+            },
+            {
+              "end": 80,
+              "id": "2058319321441411072",
+              "start": 66,
+              "username": "7oveforever14"
+            },
+            {
+              "end": 87,
+              "id": "1507396901594820608",
+              "start": 81,
+              "username": "hgds0"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 115,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "start": 92,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/8mXUmpmMkG"
+            },
+            {
+              "display_url": "pic.x.com/BqeCCaYamb",
+              "end": 139,
+              "expanded_url": "https://x.com/Zheergen444/status/2066694622269653037/photo/1",
+              "media_key": "3_2066694619132260352",
+              "start": 116,
+              "url": "https://t.co/BqeCCaYamb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066694622269653037",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @_corocce @YiOvot\n👰 配偶: @nekoinekoQwQ\n👶 孩子: @7oveforever14 @hgds0\n\n➡️ https://t.co/8mXUmpmMkG https://t.co/BqeCCaYamb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 10,
+          "like_count": 1470,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 3644
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-03T16:17:56.000Z",
+        "description": "很无聊，想出去拍照",
+        "id": "2062206747247534080",
+        "name": "阿怪想吃千层糕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062209402816667648/7h7-gXFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 66,
+          "like_count": 1467,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 575
+        },
+        "username": "Zheergen444",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T19:23:00.000Z",
+        "description": "精神状态良好",
+        "id": "1818366665555648512",
+        "location": "有门 只回口令",
+        "name": "可乐饼",
+        "pinned_tweet_id": "2044807475724267741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058790751413407744/5QGkVOcL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 6,
+          "like_count": 782,
+          "listed_count": 7,
+          "media_count": 25,
+          "tweet_count": 123
+        },
+        "username": "_corocce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-13T07:50:18.000Z",
+        "description": "大肥猫品鉴家 想发啥发啥｜无🚪纯发  不私联 推止于推  不要给我发🐮  不闲聊不闲不闲聊不闲聊 闲聊先给我打钱",
+        "id": "1889945137524121603",
+        "location": "闲聊给我一百块",
+        "name": "装鱿鱼被炒",
+        "pinned_tweet_id": "2052983965645251001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060530310157324288/HHPnE6cc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2461,
+          "following_count": 45,
+          "like_count": 3534,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 2009
+        },
+        "username": "YiOvot",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-23T22:54:47.000Z",
+        "description": "ip意大利 水瓶座 isfp-t冒险家\n我喜欢轻松自在的氛围\n回应有礼貌的正常人https://t.co/HhgNZjxKr1\n欢迎萌萌的小女孩们\n中意时差慢6h\n聊天纯绿 别辱骂别破防\n不看各种照片",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovo41845",
+                "end": 63,
+                "expanded_url": "https://ngl.link/ovo41845",
+                "start": 40,
+                "url": "https://t.co/HhgNZjxKr1"
+              }
+            ]
+          }
+        },
+        "id": "2058319321441411072",
+        "name": "ovo",
+        "pinned_tweet_id": "2060169756691353744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063236660062543872/PWeiXiaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 99,
+          "like_count": 458,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 864
+        },
+        "username": "7oveforever14",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "接受投稿 过稿即回复 /部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "2048632363241152830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97588,
+          "following_count": 2443,
+          "like_count": 44765,
+          "listed_count": 143,
+          "media_count": 4396,
+          "tweet_count": 8802
+        },
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067333802888945664",
+        "3_2067333802901590016"
+      ]
+    },
+    "author_id": "1948326838125903872",
+    "conversation_id": "2067333812477165943",
+    "created_at": "2026-06-17T19:49:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T20:49:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067333812477165943"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/U0Z8dc6HUu",
+          "end": 66,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2067333812477165943/photo/1",
+          "media_key": "3_2067333802888945664",
+          "start": 43,
+          "url": "https://t.co/U0Z8dc6HUu"
+        },
+        {
+          "display_url": "pic.x.com/U0Z8dc6HUu",
+          "end": 66,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2067333812477165943/photo/1",
+          "media_key": "3_2067333802901590016",
+          "start": 43,
+          "url": "https://t.co/U0Z8dc6HUu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067333812477165943",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "关于我的朋友刚下载洛克王国，起名字这回事。其实最后这里面的名字都没成功用上哈哈哈哈哈 https://t.co/U0Z8dc6HUu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1968,
+        "media_key": "3_2067333802888945664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLClI_laYAAnGm6.jpg",
+        "width": 835
+      },
+      {
+        "height": 1858,
+        "media_key": "3_2067333802901590016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLClI_obUAAja5Q.jpg",
+        "width": 838
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067333802888945664",
+            "3_2067333802901590016"
+          ]
+        },
+        "author_id": "1948326838125903872",
+        "conversation_id": "2067333812477165943",
+        "created_at": "2026-06-17T19:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T20:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067333812477165943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U0Z8dc6HUu",
+              "end": 66,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2067333812477165943/photo/1",
+              "media_key": "3_2067333802888945664",
+              "start": 43,
+              "url": "https://t.co/U0Z8dc6HUu"
+            },
+            {
+              "display_url": "pic.x.com/U0Z8dc6HUu",
+              "end": 66,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2067333812477165943/photo/1",
+              "media_key": "3_2067333802901590016",
+              "start": 43,
+              "url": "https://t.co/U0Z8dc6HUu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067333812477165943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于我的朋友刚下载洛克王国，起名字这回事。其实最后这里面的名字都没成功用上哈哈哈哈哈 https://t.co/U0Z8dc6HUu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 10,
+          "like_count": 1559,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 3971
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2033973719270625567",
+    "created_at": "2026-03-17T18:28:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T19:28:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033973719270625567"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i66980/status/…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/i66980/status/2033883195536769160",
+          "start": 13,
+          "url": "https://t.co/QKiSike3GN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033973719270625567",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033883195536769160",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这种地方我能坐着发呆一天 https://t.co/QKiSike3GN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2033883187550842880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDnN-6ybcAA72fh.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2033973719270625567",
+        "created_at": "2026-03-17T18:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T19:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033973719270625567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i66980/status/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/i66980/status/2033883195536769160",
+              "start": 13,
+              "url": "https://t.co/QKiSike3GN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033973719270625567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033883195536769160",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种地方我能坐着发呆一天 https://t.co/QKiSike3GN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033883187550842880"
+          ]
+        },
+        "author_id": "1898933325219377152",
+        "conversation_id": "2033883195536769160",
+        "created_at": "2026-03-17T12:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T13:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033883195536769160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OsZNik39TZ",
+              "end": 23,
+              "expanded_url": "https://x.com/i66980/status/2033883195536769160/photo/1",
+              "media_key": "3_2033883187550842880",
+              "start": 0,
+              "url": "https://t.co/OsZNik39TZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033883195536769160",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 1959,
+          "like_count": 246,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OsZNik39TZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 1,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 638
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-10T03:07:32.000Z",
+        "description": "蛍雪 https://t.co/zkwByOwUO4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "note.com/keisetsu_39",
+                "end": 26,
+                "expanded_url": "https://note.com/keisetsu_39",
+                "start": 3,
+                "url": "https://t.co/zkwByOwUO4"
+              }
+            ]
+          }
+        },
+        "id": "1898933325219377152",
+        "name": "i",
+        "pinned_tweet_id": "1959199071455027460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898988220064677888/-jOsG7SM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 118,
+          "like_count": 8912,
+          "listed_count": 3,
+          "media_count": 851,
+          "tweet_count": 975
+        },
+        "username": "i66980",
+        "verified": false
+      }
+    ]
+  }
+}

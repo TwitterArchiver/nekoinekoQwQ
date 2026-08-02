@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065071344489025536",
+        "3_2065071344484851712"
+      ]
+    },
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065071364994941320",
+    "created_at": "2026-06-11T13:59:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T14:59:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065071364994941320"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xjREupbbZb",
+          "end": 147,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2065071364994941320/photo/1",
+          "media_key": "3_2065071344489025536",
+          "start": 124,
+          "url": "https://t.co/xjREupbbZb"
+        },
+        {
+          "display_url": "pic.x.com/xjREupbbZb",
+          "end": 147,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2065071364994941320/photo/1",
+          "media_key": "3_2065071344484851712",
+          "start": 124,
+          "url": "https://t.co/xjREupbbZb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065071364994941320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "毛茸茸我都很喜欢，但是还是更喜欢咪咪，我是坚定的猫控，其实是因为小时候被大狗追过，有阴影，前几天去一个便利店买水，他家的小土狗就在我腿边蹭我，虽然很可爱，但是我还是下意识地躲避了，对不起小狗，好愧疚\n我今天也开心，笑嘻嘻！法令纹不要越来越深就好。 https://t.co/xjREupbbZb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 856,
+        "media_key": "3_2065071344489025536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKibclQbUAAPnse.jpg",
+        "width": 1179
+      },
+      {
+        "height": 720,
+        "media_key": "3_2065071344484851712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKibclPboAAQGyM.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065071344489025536",
+            "3_2065071344484851712"
+          ]
+        },
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065071364994941320",
+        "created_at": "2026-06-11T13:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T14:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065071364994941320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xjREupbbZb",
+              "end": 147,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2065071364994941320/photo/1",
+              "media_key": "3_2065071344489025536",
+              "start": 124,
+              "url": "https://t.co/xjREupbbZb"
+            },
+            {
+              "display_url": "pic.x.com/xjREupbbZb",
+              "end": 147,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2065071364994941320/photo/1",
+              "media_key": "3_2065071344484851712",
+              "start": 124,
+              "url": "https://t.co/xjREupbbZb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065071364994941320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "毛茸茸我都很喜欢，但是还是更喜欢咪咪，我是坚定的猫控，其实是因为小时候被大狗追过，有阴影，前几天去一个便利店买水，他家的小土狗就在我腿边蹭我，虽然很可爱，但是我还是下意识地躲避了，对不起小狗，好愧疚\n我今天也开心，笑嘻嘻！法令纹不要越来越深就好。 https://t.co/xjREupbbZb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 10,
+          "like_count": 858,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2608
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

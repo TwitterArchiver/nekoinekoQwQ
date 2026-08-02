@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2067852733177381248",
+    "created_at": "2026-06-19T08:33:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T09:33:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067888452457357335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1631135079140560897",
+          "start": 0,
+          "username": "wangherisunge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067888452457357335",
+    "in_reply_to_user_id": "1631135079140560897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067852733177381248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangherisunge 螃蟹，螃蟹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 885,
+        "media_key": "3_2067852695378235392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJ9EgvakAA3JhN.jpg",
+        "width": 1920
+      },
+      {
+        "height": 885,
+        "media_key": "3_2067852708418363392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJ9FRUbIAAneSy.jpg",
+        "width": 1920
+      },
+      {
+        "height": 885,
+        "media_key": "3_2067852720338587648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJ9F9ubUAA3c_C.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2067852733177381248",
+        "created_at": "2026-06-19T08:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T09:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067888452457357335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1631135079140560897",
+              "start": 0,
+              "username": "wangherisunge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067888452457357335",
+        "in_reply_to_user_id": "1631135079140560897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067852733177381248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangherisunge 螃蟹，螃蟹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067852695378235392",
+            "3_2067852708418363392",
+            "3_2067852720338587648"
+          ]
+        },
+        "author_id": "1631135079140560897",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067852733177381248",
+        "created_at": "2026-06-19T06:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T07:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067852733177381248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bjNYPXgH76",
+              "end": 41,
+              "expanded_url": "https://x.com/wangherisunge/status/2067852733177381248/photo/1",
+              "media_key": "3_2067852695378235392",
+              "start": 18,
+              "url": "https://t.co/bjNYPXgH76"
+            },
+            {
+              "display_url": "pic.x.com/bjNYPXgH76",
+              "end": 41,
+              "expanded_url": "https://x.com/wangherisunge/status/2067852733177381248/photo/1",
+              "media_key": "3_2067852708418363392",
+              "start": 18,
+              "url": "https://t.co/bjNYPXgH76"
+            },
+            {
+              "display_url": "pic.x.com/bjNYPXgH76",
+              "end": 41,
+              "expanded_url": "https://x.com/wangherisunge/status/2067852733177381248/photo/1",
+              "media_key": "3_2067852720338587648",
+              "start": 18,
+              "url": "https://t.co/bjNYPXgH76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067852733177381248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鹤今天也是吃海鲜啦！今天是海鲜鹤！ https://t.co/bjNYPXgH76"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 11,
+          "like_count": 1588,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 4185
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-02T03:31:37.000Z",
+        "description": "近海浅滩，或有鹤立\n这里是鹤，希望大家都可以天天开心！天天幸福！\n大家关注我的我都会回关！\n想要一起聊天的可以私信或tg@yizhihe11，纯闲聊哦",
+        "id": "1631135079140560897",
+        "name": "鹤",
+        "pinned_tweet_id": "2066439980684382464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066034590918250497/ld7ZlADe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 55,
+          "like_count": 453,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1308
+        },
+        "url": "",
+        "username": "wangherisunge",
+        "verified": true
+      }
+    ]
+  }
+}

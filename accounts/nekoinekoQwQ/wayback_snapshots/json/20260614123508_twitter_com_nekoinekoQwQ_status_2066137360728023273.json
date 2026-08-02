@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065711808074350839",
+    "created_at": "2026-06-14T12:35:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T13:35:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066137360728023273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "352620711",
+          "start": 0,
+          "username": "Ruggie1949"
+        },
+        {
+          "end": 24,
+          "id": "1920509803815985152",
+          "start": 12,
+          "username": "Artemis_rvr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066137360728023273",
+    "in_reply_to_user_id": "352620711",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066046547473961194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruggie1949 @Artemis_rvr 不好意思啊，我现在才看到你的回复，我这边没有显示"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2066046533674713088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwSYEEbwAAzroR.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065711808074350839",
+        "created_at": "2026-06-14T12:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066137360728023273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "352620711",
+              "start": 0,
+              "username": "Ruggie1949"
+            },
+            {
+              "end": 24,
+              "id": "1920509803815985152",
+              "start": 12,
+              "username": "Artemis_rvr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066137360728023273",
+        "in_reply_to_user_id": "352620711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066046547473961194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruggie1949 @Artemis_rvr 不好意思啊，我现在才看到你的回复，我这边没有显示"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066046533674713088"
+          ]
+        },
+        "author_id": "352620711",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2065711808074350839",
+        "created_at": "2026-06-14T06:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T07:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066046547473961194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            },
+            {
+              "end": 26,
+              "id": "1920509803815985152",
+              "start": 14,
+              "username": "Artemis_rvr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3vY79pH00d",
+              "end": 55,
+              "expanded_url": "https://x.com/Ruggie1949/status/2066046547473961194/photo/1",
+              "media_key": "3_2066046533674713088",
+              "start": 32,
+              "url": "https://t.co/3vY79pH00d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066046547473961194",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065756587336278298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ @Artemis_rvr 今天刚做 https://t.co/3vY79pH00d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 9,
+          "like_count": 1361,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 3333
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-10T21:40:23.000Z",
+        "description": "",
+        "id": "352620711",
+        "name": "昊昊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046970736842256384/B50cSpoO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 10,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "username": "Ruggie1949",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T16:03:27.000Z",
+        "description": "希望全世界温青音都能缠上我",
+        "id": "1920509803815985152",
+        "name": "摇尾",
+        "pinned_tweet_id": "2057827123570602493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920510025962823680/ABE8OZll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2835,
+          "following_count": 37,
+          "like_count": 35,
+          "listed_count": 3,
+          "media_count": 65,
+          "tweet_count": 348
+        },
+        "username": "Artemis_rvr",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2081363586274984070",
+    "created_at": "2026-07-26T15:45:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T16:45:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081405682419728523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1761777073247653888",
+          "start": 0,
+          "username": "yasuo222448"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081405682419728523",
+    "in_reply_to_user_id": "1761777073247653888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081401361737068903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yasuo222448 豆包害我莫名其妙笑一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2081363586274984070",
+        "created_at": "2026-07-26T15:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T16:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081405682419728523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1761777073247653888",
+              "start": 0,
+              "username": "yasuo222448"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081405682419728523",
+        "in_reply_to_user_id": "1761777073247653888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081401361737068903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yasuo222448 豆包害我莫名其妙笑一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761777073247653888",
+        "conversation_id": "2081363586274984070",
+        "created_at": "2026-07-26T15:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T16:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081401361737068903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081401361737068903",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081363586274984070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 高敏感人是这样的，确实要学习豆包精神。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 10,
+          "like_count": 1985,
+          "listed_count": 0,
+          "media_count": 214,
+          "tweet_count": 5754
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T15:36:10.000Z",
+        "description": "音乐制作人、职业乐手、价值投资者\n现居中国北京",
+        "id": "1761777073247653888",
+        "name": "Kimho剑豪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845476289983217664/YGaVDPyt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 941,
+          "like_count": 2463,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 670
+        },
+        "url": "",
+        "username": "yasuo222448",
+        "verified": true
+      }
+    ]
+  }
+}

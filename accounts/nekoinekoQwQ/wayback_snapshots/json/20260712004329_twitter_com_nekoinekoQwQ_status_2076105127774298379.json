@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2075989961179062570",
+    "created_at": "2026-07-12T00:43:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T01:43:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076105127774298379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1942027283663040512",
+          "start": 0,
+          "username": "42xing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076105127774298379",
+    "in_reply_to_user_id": "1942027283663040512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076099695341113575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@42xing 谢谢你呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2075989961179062570",
+        "created_at": "2026-07-12T00:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T01:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076105127774298379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1942027283663040512",
+              "start": 0,
+              "username": "42xing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076105127774298379",
+        "in_reply_to_user_id": "1942027283663040512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076099695341113575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@42xing 谢谢你呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942027283663040512",
+        "conversation_id": "2075989961179062570",
+        "created_at": "2026-07-12T00:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T01:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076099695341113575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "1. 本页面提供的Apple ID共享信息、下载指引、链接等内容均来源于互联网公开渠道， 仅供个人学习、技术测试、资料查阅之用，不构成任何账号交易、服务提供或使用推荐。 2. 本人 不运营、不销售、不代理、不维护 任何Apple ID、代理工具、翻墙软件或相关服务， 未从中获取任何经济利益，也 不参与任何形式的商业推广或盈利行为。 3. 中华人民共和国法律法规明确禁止未经许可提供、传播、销售翻墙工具、国际联网代理服务、共享账号绕过地区限制等行为。本人 强烈反对、坚决不鼓励、不支持 任何违反中国法律法规的行为。 4. 共享Apple ID存在锁机、封号、隐私泄露等重大风险。访问者必须自行判断所有信息的合法性、安全性及可用性，并 严格遵守所在地全部法律法规。 5. 任何因登录、使用、下载、导入本页面提供的ID、软件、链接而产生的法律责任、行政处罚、经济损失、账号异常、设备损坏、个人信息泄露或其他任何后果， 全部由使用者本人自行承担，与本页面及维护者完全无关。 点击“同意并继续”即表示您已完整阅读并理解以上全部内容，并承诺不会将本页面用于任何违法、绕过限制或不当目的。",
+              "display_url": "proxy.edgeone.pp.ua/proxy?url=http…",
+              "end": 58,
+              "expanded_url": "https://proxy.edgeone.pp.ua/proxy?url=https%3A%2F%2Fl406426025-cmd.github.io%2Fxiaoji.github.io%2F",
+              "start": 35,
+              "status": 200,
+              "title": "iOS小火箭美区免费ID | 小姬资源",
+              "unwound_url": "https://proxy.edgeone.pp.ua/proxy?url=https%3A%2F%2Fl406426025-cmd.github.io%2Fxiaoji.github.io%2F",
+              "url": "https://t.co/P7EJwaCYny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076099695341113575",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075989961179062570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 临时用的话，可以用免费的。用完退出登录就好https://t.co/P7EJwaCYny"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 10,
+          "like_count": 1932,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 5293
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T01:06:26.000Z",
+        "description": "",
+        "id": "1942027283663040512",
+        "location": "B-612",
+        "name": "糯米糍✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072694072180154368/FErMITS0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 39,
+          "like_count": 6485,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 43
+        },
+        "url": "",
+        "username": "42xing",
+        "verified": false
+      }
+    ]
+  }
+}

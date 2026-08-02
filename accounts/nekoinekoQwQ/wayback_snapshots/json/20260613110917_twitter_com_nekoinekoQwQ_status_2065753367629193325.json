@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065387520071021036",
+    "created_at": "2026-06-13T11:09:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T12:09:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065753367629193325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1896201545144045568",
+          "start": 0,
+          "username": "tellmewhy0722"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065753367629193325",
+    "in_reply_to_user_id": "1896201545144045568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065387520071021036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tellmewhy0722 我来逛逛！22"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065387482817191936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKm6-QTbYAAirXY.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065387520071021036",
+        "created_at": "2026-06-13T11:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065753367629193325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1896201545144045568",
+              "start": 0,
+              "username": "tellmewhy0722"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065753367629193325",
+        "in_reply_to_user_id": "1896201545144045568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065387520071021036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tellmewhy0722 我来逛逛！22"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065387482817191936"
+          ]
+        },
+        "author_id": "1896201545144045568",
+        "conversation_id": "2065387520071021036",
+        "created_at": "2026-06-12T10:55:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:55:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065387520071021036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8h7slYw1eR",
+              "end": 27,
+              "expanded_url": "https://x.com/tellmewhy0722/status/2065387520071021036/photo/1",
+              "media_key": "3_2065387482817191936",
+              "start": 4,
+              "url": "https://t.co/8h7slYw1eR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065387520071021036",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想玩！ https://t.co/8h7slYw1eR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 9,
+          "like_count": 1176,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 3046
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T14:11:12.000Z",
+        "description": "我做了个梦，被温暖怀抱。但当我醒来只剩下些微的寂寥感，而那感觉也是稍纵即逝。与一行泪水一起...像朝露般消逝。",
+        "id": "1896201545144045568",
+        "location": "77m",
+        "name": "梦羽🪶（羽化期）",
+        "pinned_tweet_id": "1932498989393588493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923169183740854272/yWyYf4EP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 165,
+          "like_count": 21554,
+          "listed_count": 2,
+          "media_count": 2056,
+          "tweet_count": 10460
+        },
+        "username": "tellmewhy0722",
+        "verified": false
+      }
+    ]
+  }
+}

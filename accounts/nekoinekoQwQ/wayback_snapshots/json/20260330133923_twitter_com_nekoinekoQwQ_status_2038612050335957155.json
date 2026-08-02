@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2038472406390739397",
+    "created_at": "2026-03-30T13:39:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T14:39:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038612050335957155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1828500639459995648",
+          "start": 0,
+          "username": "nexTVTforose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038612050335957155",
+    "in_reply_to_user_id": "1828500639459995648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038611563884744857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nexTVTforose 泥嚎！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2038472406390739397",
+        "created_at": "2026-03-30T13:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038612050335957155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1828500639459995648",
+              "start": 0,
+              "username": "nexTVTforose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038612050335957155",
+        "in_reply_to_user_id": "1828500639459995648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038611563884744857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nexTVTforose 泥嚎！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828500639459995648",
+        "conversation_id": "2038472406390739397",
+        "created_at": "2026-03-30T13:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038611563884744857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038611563884744857",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038599077433418014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 你好！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 1,
+          "like_count": 191,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1223
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-27T18:31:49.000Z",
+        "description": "我的小猫叫元宝",
+        "id": "1828500639459995648",
+        "location": "不加v不闲聊",
+        "name": "塔塔",
+        "pinned_tweet_id": "2026515271574499521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030495270883233792/K768SubO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2587,
+          "following_count": 26,
+          "like_count": 4276,
+          "listed_count": 4,
+          "media_count": 46,
+          "tweet_count": 983
+        },
+        "username": "nexTVTforose",
+        "verified": false
+      }
+    ]
+  }
+}

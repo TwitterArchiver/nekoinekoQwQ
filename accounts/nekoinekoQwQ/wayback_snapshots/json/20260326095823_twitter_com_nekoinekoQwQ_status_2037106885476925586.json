@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2037106885476925586",
+    "created_at": "2026-03-26T09:58:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T10:58:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037106885476925586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1631919249068552194",
+          "start": 3,
+          "username": "pureb1ue2heart"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037106885476925586",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036863509741658303",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pureb1ue2heart: 我唯一的不好就是对你太好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2037106885476925586",
+        "created_at": "2026-03-26T09:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T10:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037106885476925586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1631919249068552194",
+              "start": 3,
+              "username": "pureb1ue2heart"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037106885476925586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036863509741658303",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pureb1ue2heart: 我唯一的不好就是对你太好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1631919249068552194",
+        "conversation_id": "2036863509741658303",
+        "created_at": "2026-03-25T17:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T18:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036863509741658303"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036863509741658303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 168,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我唯一的不好就是对你太好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 1,
+          "like_count": 148,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 979
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-04T07:27:31.000Z",
+        "description": "我有严重的公主脾气(-᷅_-᷄)｜我素藍藍/小藍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/forever1oving",
+                "end": 23,
+                "expanded_url": "https://ngl.link/forever1oving",
+                "start": 0,
+                "url": "https://t.co/dhsFFw4JXx"
+              }
+            ]
+          }
+        },
+        "id": "1631919249068552194",
+        "name": "蕾丝边绯闻",
+        "pinned_tweet_id": "2029397442425430052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036670185915228160/rU0l_T83_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 175,
+          "like_count": 2593,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 909
+        },
+        "url": "https://t.co/dhsFFw4JXx",
+        "username": "pureb1ue2heart",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2081992860648562997",
+    "created_at": "2026-07-28T07:08:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T08:08:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082000115368415503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2016864897565675521",
+          "start": 0,
+          "username": "joestar_jo93682"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082000115368415503",
+    "in_reply_to_user_id": "2016864897565675521",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081997833406926890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@joestar_jo93682 不要打我🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1340,
+        "media_key": "16_2081997813505011712",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HOS9-wEbMAAKgJo.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HOS9-wEbMAAKgJo.mp4"
+          }
+        ],
+        "width": 1340
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2081992860648562997",
+        "created_at": "2026-07-28T07:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T08:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082000115368415503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2016864897565675521",
+              "start": 0,
+              "username": "joestar_jo93682"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082000115368415503",
+        "in_reply_to_user_id": "2016864897565675521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081997833406926890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@joestar_jo93682 不要打我🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2081997813505011712"
+          ]
+        },
+        "author_id": "2016864897565675521",
+        "conversation_id": "2081992860648562997",
+        "created_at": "2026-07-28T06:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T07:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081997833406926890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5oLsJIlKN5",
+              "end": 43,
+              "expanded_url": "https://x.com/joestar_jo93682/status/2081997833406926890/photo/1",
+              "media_key": "16_2081997813505011712",
+              "start": 20,
+              "url": "https://t.co/5oLsJIlKN5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081997833406926890",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081992860648562997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 检测到群u https://t.co/5oLsJIlKN5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 10,
+          "like_count": 2006,
+          "listed_count": 0,
+          "media_count": 217,
+          "tweet_count": 5965
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-29T13:24:09.000Z",
+        "description": "05/♂/177cm/大学生（坐标华科）\n想试着交朋友\nR18🚫\n收到DM会超级开心！！！\n偶像大师/鸣潮（Aemeath.Galbrena.Hiyuki.Lucy完凹）/FGO/街霸6\n努力学习日语，英语精通（可能？\n旅游筹划中？！\n请随意地关注我\n无言关注抱歉",
+        "id": "2016864897565675521",
+        "name": "Docchi",
+        "pinned_tweet_id": "2065125711510429847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065821869513859072/MsWWd0Pb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 210,
+          "like_count": 4039,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 885
+        },
+        "url": "",
+        "username": "joestar_jo93682",
+        "verified": false
+      }
+    ]
+  }
+}

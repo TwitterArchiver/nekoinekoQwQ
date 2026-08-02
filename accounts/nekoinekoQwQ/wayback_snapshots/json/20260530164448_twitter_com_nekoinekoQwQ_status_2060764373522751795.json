@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2060764373522751795",
+    "created_at": "2026-05-30T16:44:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T17:44:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060764373522751795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1781974567701102592",
+          "start": 3,
+          "username": "getthefkoff_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060764373522751795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060629147307933871",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @getthefkoff_: 我对所有人的接纳程度\n装逼 随便你\n鬼图 随便你\n裸照 随便你\n自残 随便你\nod    随便你\n柜子 随便你\n品客 随便你\n炫富 屏蔽\n幸福 屏蔽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2060764373522751795",
+        "created_at": "2026-05-30T16:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T17:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060764373522751795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1781974567701102592",
+              "start": 3,
+              "username": "getthefkoff_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060764373522751795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060629147307933871",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @getthefkoff_: 我对所有人的接纳程度\n装逼 随便你\n鬼图 随便你\n裸照 随便你\n自残 随便你\nod    随便你\n柜子 随便你\n品客 随便你\n炫富 屏蔽\n幸福 屏蔽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781974567701102592",
+        "conversation_id": "2060629147307933871",
+        "created_at": "2026-05-30T07:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060629147307933871"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060629147307933871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 762,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我对所有人的接纳程度\n装逼 随便你\n鬼图 随便你\n裸照 随便你\n自残 随便你\nod    随便你\n柜子 随便你\n品客 随便你\n炫富 屏蔽\n幸福 屏蔽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 2,
+          "like_count": 253,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1767
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-21T09:15:03.000Z",
+        "description": "XD",
+        "id": "1781974567701102592",
+        "location": "0.1km",
+        "name": "雨季不再來",
+        "pinned_tweet_id": "2038823977037287923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042459174538526720/d915gp7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 91,
+          "like_count": 9047,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 2332
+        },
+        "username": "getthefkoff_",
+        "verified": false
+      }
+    ]
+  }
+}

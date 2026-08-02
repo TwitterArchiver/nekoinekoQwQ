@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080676999144865792"
+      ]
+    },
+    "author_id": "1948326838125903872",
+    "conversation_id": "2080677015066472862",
+    "created_at": "2026-07-24T15:30:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T16:30:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080677015066472862"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jh3pMFmZGC",
+          "end": 43,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2080677015066472862/photo/1",
+          "media_key": "3_2080676999144865792",
+          "start": 20,
+          "url": "https://t.co/jh3pMFmZGC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080677015066472862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这谁绷得住，突然来一段，给我笑的唇钉疼 https://t.co/jh3pMFmZGC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1685,
+        "media_key": "3_2080676999144865792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAMtPJbAAAkvKf.jpg",
+        "width": 846
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080676999144865792"
+          ]
+        },
+        "author_id": "1948326838125903872",
+        "conversation_id": "2080677015066472862",
+        "created_at": "2026-07-24T15:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080677015066472862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jh3pMFmZGC",
+              "end": 43,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2080677015066472862/photo/1",
+              "media_key": "3_2080676999144865792",
+              "start": 20,
+              "url": "https://t.co/jh3pMFmZGC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080677015066472862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这谁绷得住，突然来一段，给我笑的唇钉疼 https://t.co/jh3pMFmZGC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 10,
+          "like_count": 1947,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 5504
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

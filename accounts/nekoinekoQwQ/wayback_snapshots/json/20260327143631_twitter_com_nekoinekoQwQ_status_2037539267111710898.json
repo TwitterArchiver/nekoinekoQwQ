@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2037524002013413874",
+    "created_at": "2026-03-27T14:36:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T15:36:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037539267111710898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1983486301346381824",
+          "start": 0,
+          "username": "Listensean"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037539267111710898",
+    "in_reply_to_user_id": "1983486301346381824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037524002013413874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Listensean 可以给你发消息吗 会不会太打扰你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2037524002013413874",
+        "created_at": "2026-03-27T14:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T15:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037539267111710898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1983486301346381824",
+              "start": 0,
+              "username": "Listensean"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037539267111710898",
+        "in_reply_to_user_id": "1983486301346381824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037524002013413874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Listensean 可以给你发消息吗 会不会太打扰你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983486301346381824",
+        "conversation_id": "2037524002013413874",
+        "created_at": "2026-03-27T13:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T14:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037524002013413874"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037524002013413874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 925,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "o(｀ω´ )o可以给你发消息吗 会不会太打扰你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 1,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 1086
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-29T10:49:28.000Z",
+        "description": "其实是很纯爱的小女生 只是没有钱爱不起来",
+        "id": "1983486301346381824",
+        "location": "距离你1㎞",
+        "name": "Zero",
+        "pinned_tweet_id": "2037526703413555699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000267071532290054/PCBt3-UA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 21,
+          "like_count": 137,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 710
+        },
+        "username": "Listensean",
+        "verified": false
+      }
+    ]
+  }
+}

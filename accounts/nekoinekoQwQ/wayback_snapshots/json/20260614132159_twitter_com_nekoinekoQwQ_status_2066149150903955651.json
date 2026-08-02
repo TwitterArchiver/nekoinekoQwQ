@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2066143887467356297",
+    "created_at": "2026-06-14T13:21:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T14:21:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066149150903955651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1963951530568187904",
+          "start": 0,
+          "username": "LNNWFS514514"
+        },
+        {
+          "end": 30,
+          "id": "1816265454211719169",
+          "start": 14,
+          "username": "c6ZGVx553M24590"
+        },
+        {
+          "end": 42,
+          "id": "2053139274128621569",
+          "start": 31,
+          "username": "zhaomingxh"
+        },
+        {
+          "end": 55,
+          "id": "2053717016092295169",
+          "start": 43,
+          "username": "xixijun8827"
+        },
+        {
+          "end": 67,
+          "id": "2054585127658041344",
+          "start": 56,
+          "username": "jh_QaQ0109"
+        },
+        {
+          "end": 82,
+          "id": "1946149148878852096",
+          "start": 68,
+          "username": "todorokidoya1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066149150903955651",
+    "in_reply_to_user_id": "1963951530568187904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066148785689084264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LNNWFS514514 @c6ZGVx553M24590 @zhaomingxh @xixijun8827 @jh_QaQ0109 @todorokidoya1 哈哈哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2066143887467356297",
+        "created_at": "2026-06-14T13:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066149150903955651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1963951530568187904",
+              "start": 0,
+              "username": "LNNWFS514514"
+            },
+            {
+              "end": 30,
+              "id": "1816265454211719169",
+              "start": 14,
+              "username": "c6ZGVx553M24590"
+            },
+            {
+              "end": 42,
+              "id": "2053139274128621569",
+              "start": 31,
+              "username": "zhaomingxh"
+            },
+            {
+              "end": 55,
+              "id": "2053717016092295169",
+              "start": 43,
+              "username": "xixijun8827"
+            },
+            {
+              "end": 67,
+              "id": "2054585127658041344",
+              "start": 56,
+              "username": "jh_QaQ0109"
+            },
+            {
+              "end": 82,
+              "id": "1946149148878852096",
+              "start": 68,
+              "username": "todorokidoya1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066149150903955651",
+        "in_reply_to_user_id": "1963951530568187904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066148785689084264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LNNWFS514514 @c6ZGVx553M24590 @zhaomingxh @xixijun8827 @jh_QaQ0109 @todorokidoya1 哈哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963951530568187904",
+        "conversation_id": "2066143887467356297",
+        "created_at": "2026-06-14T13:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066148785689084264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            },
+            {
+              "end": 30,
+              "id": "1816265454211719169",
+              "start": 14,
+              "username": "c6ZGVx553M24590"
+            },
+            {
+              "end": 42,
+              "id": "2053139274128621569",
+              "start": 31,
+              "username": "zhaomingxh"
+            },
+            {
+              "end": 55,
+              "id": "2053717016092295169",
+              "start": 43,
+              "username": "xixijun8827"
+            },
+            {
+              "end": 67,
+              "id": "2054585127658041344",
+              "start": 56,
+              "username": "jh_QaQ0109"
+            },
+            {
+              "end": 82,
+              "id": "1946149148878852096",
+              "start": 68,
+              "username": "todorokidoya1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066148785689084264",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066143887467356297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ @c6ZGVx553M24590 @zhaomingxh @xixijun8827 @jh_QaQ0109 @todorokidoya1 推特家庭都来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 9,
+          "like_count": 1371,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 3354
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T13:05:21.000Z",
+        "description": "What am I doing here",
+        "id": "1963951530568187904",
+        "location": "天津",
+        "name": "LNNWFS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034898132308566019/UjcTDyF__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 269,
+          "like_count": 1661,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 386
+        },
+        "username": "LNNWFS514514",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T00:13:38.000Z",
+        "description": "我喜欢你 请和我交朋友 拜托了🥺🥺",
+        "id": "1816265454211719169",
+        "name": "亖久",
+        "pinned_tweet_id": "1948064684076368074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029720348569260036/ER3SM6jQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 146,
+          "like_count": 29124,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 913
+        },
+        "username": "c6ZGVx553M24590",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T15:45:42.000Z",
+        "description": "赛博街溜子，经常左右脑互搏，偶尔大小头互换",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zhaoming25411",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zhaoming25411",
+                "start": 0,
+                "url": "https://t.co/zqZT9eEhUD"
+              }
+            ]
+          }
+        },
+        "id": "2053139274128621569",
+        "location": "黄泉路上",
+        "name": "昭明",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053859381259669504/6lezcukz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 49,
+          "like_count": 5275,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 124
+        },
+        "url": "https://t.co/zqZT9eEhUD",
+        "username": "zhaomingxh",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T06:01:51.000Z",
+        "description": "09/♂/烟の鬼/爱打麻将，日麻和广东麻将都玩。可以找我做心理咨询哦，祝你天天开心\n来都来了，互fo再走吧https://t.co/HZW0mjBRD7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/junxixijun",
+                "end": 76,
+                "expanded_url": "https://ngl.link/junxixijun",
+                "start": 53,
+                "url": "https://t.co/HZW0mjBRD7"
+              }
+            ]
+          }
+        },
+        "id": "2053717016092295169",
+        "name": "无问",
+        "pinned_tweet_id": "2061872985347117213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053780220164083712/gmAUBRcr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 98,
+          "like_count": 1214,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 273
+        },
+        "username": "xixijun8827",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-13T15:31:41.000Z",
+        "description": "健康每一天！做好俯卧撑！卧推！高位下拉！坐姿划船！推胸！夹胸！推肩！面拉！卷腹！飞鸟和侧平举！\n还要多看小猫小狗",
+        "id": "2054585127658041344",
+        "name": "Saku",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054586756851527680/gikJInrO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 28,
+          "like_count": 1722,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 790
+        },
+        "username": "jh_QaQ0109",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-18T10:05:17.000Z",
+        "description": "如此懦弱…",
+        "id": "1946149148878852096",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "0o0",
+        "pinned_tweet_id": "2064266649377890697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947494571715461120/yN7x2Gqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 328,
+          "like_count": 25565,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 1727
+        },
+        "username": "todorokidoya1",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2063819228818612368",
+    "created_at": "2026-06-09T02:16:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T03:16:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064169723542348263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1774811478480101377",
+          "start": 0,
+          "username": "MinserSurx29711"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064169723542348263",
+    "in_reply_to_user_id": "1774811478480101377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063983274909921641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MinserSurx29711 谢谢你呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2063819228818612368",
+        "created_at": "2026-06-09T02:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T03:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064169723542348263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1774811478480101377",
+              "start": 0,
+              "username": "MinserSurx29711"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064169723542348263",
+        "in_reply_to_user_id": "1774811478480101377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063983274909921641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinserSurx29711 谢谢你呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774811478480101377",
+        "conversation_id": "2063819228818612368",
+        "created_at": "2026-06-08T13:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063983274909921641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063983274909921641",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063819228818612368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 高考加油"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 2,
+          "like_count": 504,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 2100
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T14:50:25.000Z",
+        "description": "✈️已飞0国|🎓清华北大没考 |🏆诺贝尔奖觊觎者|🇨🇳 华籍华人|国家级身份证持有者|PDD资深买家\n精通简体中文（中国）、简体中文（马来西亚）、简体中文（新加坡）、繁體中文（中國香港）、繁體中文（中國澳門）、正體中文（中華民國台灣）、English (UK), English (US) 等多種语言",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "genyuu.com",
+                "end": 23,
+                "expanded_url": "https://www.genyuu.com",
+                "start": 0,
+                "url": "https://t.co/j74KXgxP4n"
+              }
+            ]
+          }
+        },
+        "id": "1774811478480101377",
+        "location": "玄幽帝国 0.001km",
+        "name": "玄幽魔王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051293706507169792/3xL8uExO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 57,
+          "like_count": 1073,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 105
+        },
+        "url": "https://t.co/j74KXgxP4n",
+        "username": "MinserSurx29711",
+        "verified": false
+      }
+    ]
+  }
+}

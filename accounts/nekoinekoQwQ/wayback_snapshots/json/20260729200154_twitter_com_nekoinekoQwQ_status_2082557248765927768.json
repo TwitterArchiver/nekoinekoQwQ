@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2082557248765927768",
+    "created_at": "2026-07-29T20:01:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T21:01:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082557248765927768"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082557248765927768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我感觉人和人的关系能不能好起来这件事情真的非常的难说，认识或者是平常聊两句倒是没什么，但是如果真的要说那种非常非常熟悉打心底认为对方是好友，我感觉对我来说还挺困难，我现在还没找到原因，我觉得我把对方当成好友就会很粘人，偶尔担心对方不愿意和我玩，配得感好低。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2082557248765927768",
+        "created_at": "2026-07-29T20:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T21:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082557248765927768"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082557248765927768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉人和人的关系能不能好起来这件事情真的非常的难说，认识或者是平常聊两句倒是没什么，但是如果真的要说那种非常非常熟悉打心底认为对方是好友，我感觉对我来说还挺困难，我现在还没找到原因，我觉得我把对方当成好友就会很粘人，偶尔担心对方不愿意和我玩，配得感好低。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 10,
+          "like_count": 2021,
+          "listed_count": 0,
+          "media_count": 220,
+          "tweet_count": 6088
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

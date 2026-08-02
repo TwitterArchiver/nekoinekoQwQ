@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2037465712139325779",
+    "created_at": "2026-03-27T14:53:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T15:53:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037543529535377535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1975245236453711874",
+          "start": 0,
+          "username": "To_ska_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037543529535377535",
+    "in_reply_to_user_id": "1975245236453711874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037465712139325779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@To_ska_ 那是窝囊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2037465712139325779",
+        "created_at": "2026-03-27T14:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T15:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037543529535377535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1975245236453711874",
+              "start": 0,
+              "username": "To_ska_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037543529535377535",
+        "in_reply_to_user_id": "1975245236453711874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037465712139325779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@To_ska_ 那是窝囊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975245236453711874",
+        "conversation_id": "2037465712139325779",
+        "created_at": "2026-03-27T09:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T10:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037465712139325779"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037465712139325779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "作为回避型每次在网上被骂都默默回避了（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 1,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 1099
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T17:02:39.000Z",
+        "description": "我们的关系胜过任何一种爱情。",
+        "id": "1975245236453711874",
+        "name": "木安",
+        "pinned_tweet_id": "2032036347247214714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976936144735813633/psCXN7Wt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 43,
+          "like_count": 974,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 416
+        },
+        "username": "To_ska_",
+        "verified": false
+      }
+    ]
+  }
+}

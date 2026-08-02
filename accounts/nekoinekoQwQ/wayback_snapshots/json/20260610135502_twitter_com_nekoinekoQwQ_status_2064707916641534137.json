@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2064707916641534137",
+    "created_at": "2026-06-10T13:55:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T14:55:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064707916641534137"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064707916641534137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "傻子又自以为是的课代表，我忍你很久了，天天做那些自我感动的事情，在那里组织合唱，我还以为她唱得有多好听呢，结果不仅炸麦也难听死，我今天晚上唯一鼓掌是给我高一语文老师，虽然她没来，但是大屏幕上有拍到她，其他的无所谓了，乐子高中，乐子同学，滚出我的生活哈哈（脏话致歉，忍太久了🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2064707916641534137",
+        "created_at": "2026-06-10T13:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064707916641534137"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064707916641534137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "傻子又自以为是的课代表，我忍你很久了，天天做那些自我感动的事情，在那里组织合唱，我还以为她唱得有多好听呢，结果不仅炸麦也难听死，我今天晚上唯一鼓掌是给我高一语文老师，虽然她没来，但是大屏幕上有拍到她，其他的无所谓了，乐子高中，乐子同学，滚出我的生活哈哈（脏话致歉，忍太久了🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 9,
+          "like_count": 763,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 2390
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

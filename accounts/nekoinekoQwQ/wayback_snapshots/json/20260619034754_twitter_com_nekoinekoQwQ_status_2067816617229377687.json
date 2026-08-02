@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067816609281118208",
+        "3_2067816609289506816"
+      ]
+    },
+    "author_id": "1948326838125903872",
+    "conversation_id": "2067816617229377687",
+    "created_at": "2026-06-19T03:47:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T04:47:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067816617229377687"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ipgwr1eEE9",
+          "end": 83,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2067816617229377687/photo/1",
+          "media_key": "3_2067816609281118208",
+          "start": 60,
+          "url": "https://t.co/ipgwr1eEE9"
+        },
+        {
+          "display_url": "pic.x.com/ipgwr1eEE9",
+          "end": 83,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2067816617229377687/photo/1",
+          "media_key": "3_2067816609289506816",
+          "start": 60,
+          "url": "https://t.co/ipgwr1eEE9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067816617229377687",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实昨天晚上他给我发完信息之后，我是秒回来着，就这样诬蔑我吧˶ｰ`֊´ｰ \n不过今天早上我已经成功反击，哈哈(‘ω’) https://t.co/ipgwr1eEE9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1955,
+        "media_key": "3_2067816609281118208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJcQBjakAAm-fA.jpg",
+        "width": 813
+      },
+      {
+        "height": 1484,
+        "media_key": "3_2067816609289506816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJcQBlakAA8kQE.jpg",
+        "width": 841
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067816609281118208",
+            "3_2067816609289506816"
+          ]
+        },
+        "author_id": "1948326838125903872",
+        "conversation_id": "2067816617229377687",
+        "created_at": "2026-06-19T03:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T04:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067816617229377687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ipgwr1eEE9",
+              "end": 83,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2067816617229377687/photo/1",
+              "media_key": "3_2067816609281118208",
+              "start": 60,
+              "url": "https://t.co/ipgwr1eEE9"
+            },
+            {
+              "display_url": "pic.x.com/ipgwr1eEE9",
+              "end": 83,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2067816617229377687/photo/1",
+              "media_key": "3_2067816609289506816",
+              "start": 60,
+              "url": "https://t.co/ipgwr1eEE9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067816617229377687",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实昨天晚上他给我发完信息之后，我是秒回来着，就这样诬蔑我吧˶ｰ`֊´ｰ \n不过今天早上我已经成功反击，哈哈(‘ω’) https://t.co/ipgwr1eEE9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 11,
+          "like_count": 1582,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 4151
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

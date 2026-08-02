@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2080596351482786246",
+    "created_at": "2026-07-24T13:19:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T14:19:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080644024952857087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2991591676",
+          "start": 0,
+          "username": "tomczhen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080644024952857087",
+    "in_reply_to_user_id": "2991591676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080632530118807781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tomczhen 这是一个好推荐，我其实还想买一个榨汁机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2080596351482786246",
+        "created_at": "2026-07-24T13:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080644024952857087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2991591676",
+              "start": 0,
+              "username": "tomczhen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080644024952857087",
+        "in_reply_to_user_id": "2991591676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080632530118807781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tomczhen 这是一个好推荐，我其实还想买一个榨汁机"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2991591676",
+        "conversation_id": "2080596351482786246",
+        "created_at": "2026-07-24T12:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080632530118807781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080632530118807781",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080596351482786246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 你只需要买一个空气炸锅."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 10,
+          "like_count": 1947,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 5497
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-22T05:54:26.000Z",
+        "description": "肥而不腻的中年社畜，与赌毒不共戴天。",
+        "id": "2991591676",
+        "location": "牛马之都",
+        "name": "Tom CzHen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/568282209165901824/OjaB4tie_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 10,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 453
+        },
+        "url": "",
+        "username": "tomczhen",
+        "verified": true
+      }
+    ]
+  }
+}

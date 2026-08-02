@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2068004812311114016",
+    "created_at": "2026-06-19T19:03:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T20:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068047007915335945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1853731659394502656",
+          "start": 0,
+          "username": "LaiLe72728"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068047007915335945",
+    "in_reply_to_user_id": "1853731659394502656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068005929463984395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LaiLe72728 我也知道了(＾∇＾)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2068004812311114016",
+        "created_at": "2026-06-19T19:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T20:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068047007915335945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1853731659394502656",
+              "start": 0,
+              "username": "LaiLe72728"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068047007915335945",
+        "in_reply_to_user_id": "1853731659394502656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068005929463984395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LaiLe72728 我也知道了(＾∇＾)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853731659394502656",
+        "conversation_id": "2068004812311114016",
+        "created_at": "2026-06-19T16:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T17:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068005929463984395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068005929463984395",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068004812311114016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 知道了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 12,
+          "like_count": 1600,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 4244
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-05T09:30:53.000Z",
+        "description": "男，iiii或i，很无聊所以来视奸这里的人都在干什么",
+        "id": "1853731659394502656",
+        "name": "道德素质在天堂",
+        "pinned_tweet_id": "2066528608496271535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960284885047758848/6jcK-AZC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 37,
+          "like_count": 473,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 108
+        },
+        "url": "",
+        "username": "LaiLe72728",
+        "verified": false
+      }
+    ]
+  }
+}

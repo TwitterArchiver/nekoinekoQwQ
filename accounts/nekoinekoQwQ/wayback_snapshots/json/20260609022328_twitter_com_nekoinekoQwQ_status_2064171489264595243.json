@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2063815550011359643",
+    "created_at": "2026-06-09T02:23:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T03:23:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064171489264595243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2055278871587831808",
+          "start": 0,
+          "username": "renshi220644"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064171489264595243",
+    "in_reply_to_user_id": "2055278871587831808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063983705383907532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@renshi220644 还好啦，有点心虚，不过还是有复习的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2063815550011359643",
+        "created_at": "2026-06-09T02:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T03:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064171489264595243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2055278871587831808",
+              "start": 0,
+              "username": "renshi220644"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064171489264595243",
+        "in_reply_to_user_id": "2055278871587831808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063983705383907532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@renshi220644 还好啦，有点心虚，不过还是有复习的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055278871587831808",
+        "conversation_id": "2063815550011359643",
+        "created_at": "2026-06-08T13:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063983705383907532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063983705383907532",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063815550011359643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 加油啊，憋他妈一直玩推特了呀，踏马的看会书行不行啊，我真感觉随时都在刷你的帖子，你给我认真一点啊，看得我都要急死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 2,
+          "like_count": 511,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 2107
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T13:27:38.000Z",
+        "description": "什么时候我才能练出让人羡慕的身材😭😭",
+        "id": "2055278871587831808",
+        "location": "聚窟州，有时在龙隐洞天",
+        "name": "狠比爱深",
+        "pinned_tweet_id": "2060907091523768582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062788026691162112/m9AR3PBx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 72,
+          "like_count": 778,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 546
+        },
+        "username": "renshi220644",
+        "verified": false
+      }
+    ]
+  }
+}

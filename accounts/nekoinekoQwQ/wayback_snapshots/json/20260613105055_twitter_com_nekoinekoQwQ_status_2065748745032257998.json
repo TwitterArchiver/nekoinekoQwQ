@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065378006433251392",
+    "created_at": "2026-06-13T10:50:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T11:50:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065748745032257998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1847910028520673281",
+          "start": 0,
+          "username": "m1Rh5IBxSn56736"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065748745032257998",
+    "in_reply_to_user_id": "1847910028520673281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065459932787618226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m1Rh5IBxSn56736 我发现同校的学弟学妹，非常的高冷，浏览量倒是挺高的，就是不鸟我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065378006433251392",
+        "created_at": "2026-06-13T10:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065748745032257998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1847910028520673281",
+              "start": 0,
+              "username": "m1Rh5IBxSn56736"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065748745032257998",
+        "in_reply_to_user_id": "1847910028520673281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065459932787618226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m1Rh5IBxSn56736 我发现同校的学弟学妹，非常的高冷，浏览量倒是挺高的，就是不鸟我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847910028520673281",
+        "conversation_id": "2065378006433251392",
+        "created_at": "2026-06-12T15:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065459932787618226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065459932787618226",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065440617715704260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 行吧…，煮波没有校园墙吗？卖给同校的呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 9,
+          "like_count": 1175,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 3042
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T07:57:52.000Z",
+        "description": "09学生，欢迎同我聊天",
+        "id": "1847910028520673281",
+        "name": "～～～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932316174865637376/Mcp4tyZx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 5,
+          "like_count": 54,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 388
+        },
+        "username": "m1Rh5IBxSn56736",
+        "verified": false
+      }
+    ]
+  }
+}

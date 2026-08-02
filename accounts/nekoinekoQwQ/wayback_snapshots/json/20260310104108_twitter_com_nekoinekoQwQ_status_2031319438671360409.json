@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2031261146398007750",
+    "created_at": "2026-03-10T10:41:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T11:41:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031319438671360409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1940953463086780416",
+          "start": 0,
+          "username": "Linxiaoze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031319438671360409",
+    "in_reply_to_user_id": "1940953463086780416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031261146398007750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Linxiaoze 扯断过就没买了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2031261146398007750",
+        "created_at": "2026-03-10T10:41:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T11:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031319438671360409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1940953463086780416",
+              "start": 0,
+              "username": "Linxiaoze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031319438671360409",
+        "in_reply_to_user_id": "1940953463086780416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031261146398007750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linxiaoze 扯断过就没买了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940953463086780416",
+        "conversation_id": "2031261146398007750",
+        "created_at": "2026-03-10T06:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T07:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031261146398007750"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031261146398007750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1633,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没人懂有线耳机吗感觉戴上特别忧郁啊，我现在只有东西多不方便拿手机才会戴蓝牙🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%AA2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B3%AA2",
+                "start": 0,
+                "url": "https://t.co/s4ZPqgOuJK"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 1,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 281
+        },
+        "url": "https://t.co/s4ZPqgOuJK",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-04T01:59:09.000Z",
+        "description": "不是男同我是异性恋谢谢\n喜欢可以投喂 蟹蟹(˃ ⌑ ˂ഃ )",
+        "id": "1940953463086780416",
+        "location": "🚪88 188想发哪个发哪个",
+        "name": "神秘恋姐癖",
+        "pinned_tweet_id": "2027285238557426116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027034790059556864/upc1P2O3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3912,
+          "following_count": 382,
+          "like_count": 9811,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 1262
+        },
+        "username": "Linxiaoze",
+        "verified": false
+      }
+    ]
+  }
+}

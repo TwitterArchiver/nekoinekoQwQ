@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2036001017251410265",
+    "created_at": "2026-03-23T10:10:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T11:10:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036022727266713939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1775898302963384322",
+          "start": 0,
+          "username": "brontobehated"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036022727266713939",
+    "in_reply_to_user_id": "1775898302963384322",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036001017251410265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@brontobehated 可以试试自己抱自己 双手把自己环住这样 我就是这样做的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2036001017251410265",
+        "created_at": "2026-03-23T10:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T11:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036022727266713939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1775898302963384322",
+              "start": 0,
+              "username": "brontobehated"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036022727266713939",
+        "in_reply_to_user_id": "1775898302963384322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036001017251410265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@brontobehated 可以试试自己抱自己 双手把自己环住这样 我就是这样做的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775898302963384322",
+        "conversation_id": "2036001017251410265",
+        "created_at": "2026-03-23T08:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T09:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036001017251410265"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036001017251410265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 370,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "求推荐一个温暖可靠的怀抱，不用特别大，然后我不喜欢忽冷忽热的我怕被讨厌。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 1,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 805
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T14:48:59.000Z",
+        "description": "只跟温柔的人玩。这是我的背面@talk2mesoftly_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "talk2mesoftly_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "brothergo.com//azxzzl/web?t=…",
+                "end": 23,
+                "expanded_url": "https://www.brothergo.com//azxzzl/web?t=1773856270",
+                "start": 0,
+                "url": "https://t.co/DSnHC04aZz"
+              }
+            ]
+          }
+        },
+        "id": "1775898302963384322",
+        "name": "香辣鳗鱼",
+        "pinned_tweet_id": "2017858870266233336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028455708312936448/gAt06pU-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 83,
+          "like_count": 29715,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 4367
+        },
+        "url": "https://t.co/DSnHC04aZz",
+        "username": "brontobehated",
+        "verified": false
+      }
+    ]
+  }
+}

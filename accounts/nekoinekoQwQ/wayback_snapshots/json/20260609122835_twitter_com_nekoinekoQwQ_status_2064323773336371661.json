@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2064320320916582453",
+    "created_at": "2026-06-09T12:28:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T13:28:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064323773336371661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1965081842962608129",
+          "start": 0,
+          "username": "haohao__520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064323773336371661",
+    "in_reply_to_user_id": "1965081842962608129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064323509396947058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haohao__520 百日誓师我们要上课，我去了，但是也算没参加，因为我家长没去，站那里看他们拍照吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2064320320916582453",
+        "created_at": "2026-06-09T12:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064323773336371661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965081842962608129",
+              "start": 0,
+              "username": "haohao__520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064323773336371661",
+        "in_reply_to_user_id": "1965081842962608129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064323509396947058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haohao__520 百日誓师我们要上课，我去了，但是也算没参加，因为我家长没去，站那里看他们拍照吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965081842962608129",
+        "conversation_id": "2064320320916582453",
+        "created_at": "2026-06-09T12:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064323509396947058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064323509396947058",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064320320916582453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 百日誓师我没去，怎么说主包"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 6,
+          "like_count": 549,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 2278
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-08T15:56:45.000Z",
+        "description": "无聊窝就发发日常",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/65694368222",
+                "end": 23,
+                "expanded_url": "https://ngl.link/65694368222",
+                "start": 0,
+                "url": "https://t.co/jpDxJVFwlb"
+              }
+            ]
+          }
+        },
+        "id": "1965081842962608129",
+        "name": "搁浅",
+        "pinned_tweet_id": "2037031727886159967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059878618117873665/pQHQieQW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 90,
+          "like_count": 295,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 96
+        },
+        "url": "https://t.co/jpDxJVFwlb",
+        "username": "haohao__520",
+        "verified": false
+      }
+    ]
+  }
+}

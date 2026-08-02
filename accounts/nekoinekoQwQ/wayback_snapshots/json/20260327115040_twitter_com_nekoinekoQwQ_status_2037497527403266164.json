@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2037402022966874619",
+    "created_at": "2026-03-27T11:50:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T12:50:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037497527403266164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1942290305413480448",
+          "start": 0,
+          "username": "chichichibai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037497527403266164",
+    "in_reply_to_user_id": "1942290305413480448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037402022966874619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chichichibai 我好想啃这个鸡爪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037402013861056512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZOVkTakAAQF1p.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2037402022966874619",
+        "created_at": "2026-03-27T11:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T12:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037497527403266164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1942290305413480448",
+              "start": 0,
+              "username": "chichichibai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037497527403266164",
+        "in_reply_to_user_id": "1942290305413480448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037402022966874619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chichichibai 我好想啃这个鸡爪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037402013861056512"
+          ]
+        },
+        "author_id": "1942290305413480448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2037402022966874619",
+        "created_at": "2026-03-27T05:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T06:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037402022966874619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ATZrAj1oPH",
+              "end": 35,
+              "expanded_url": "https://x.com/chichichibai/status/2037402022966874619/photo/1",
+              "media_key": "3_2037402013861056512",
+              "start": 12,
+              "url": "https://t.co/ATZrAj1oPH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037402022966874619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 889,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已力竭我为啥要点这么多 https://t.co/ATZrAj1oPH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 1,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 1065
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T18:31:25.000Z",
+        "description": "07//身心取向男/学历崇拜者/三次深柜/阴湿长发男/欢迎大家在下方链接提问/*待补充\n政治/歧视言论/绝大多数的辩经/无厚码墙内转发NG\n会默认看过置顶\n非空非纯看黄号无政治言论的号基本都会回关❤️欢迎大家找我玩ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%BF%9F%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%BF%9F%E7%99%BD",
+                "start": 0,
+                "url": "https://t.co/ZzyV1q11Sp"
+              }
+            ]
+          }
+        },
+        "id": "1942290305413480448",
+        "name": "迟白",
+        "pinned_tweet_id": "2031031255014482261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961467345672757248/1rulkNwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 340,
+          "like_count": 7626,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 2429
+        },
+        "url": "https://t.co/ZzyV1q11Sp",
+        "username": "chichichibai",
+        "verified": false
+      }
+    ]
+  }
+}

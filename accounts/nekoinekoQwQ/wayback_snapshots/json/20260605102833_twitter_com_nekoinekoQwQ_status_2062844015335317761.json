@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2062603706751693161",
+    "created_at": "2026-06-05T10:28:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T11:28:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062844015335317761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "851159808",
+          "start": 0,
+          "username": "dezeterluis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062844015335317761",
+    "in_reply_to_user_id": "851159808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062603706751693161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dezeterluis 我摸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2667,
+        "media_key": "3_2062603661902045185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ_XGjQXYAECRTL.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2062603706751693161",
+        "created_at": "2026-06-05T10:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062844015335317761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "851159808",
+              "start": 0,
+              "username": "dezeterluis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062844015335317761",
+        "in_reply_to_user_id": "851159808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062603706751693161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dezeterluis 我摸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062603661902045185"
+          ]
+        },
+        "author_id": "851159808",
+        "conversation_id": "2062603706751693161",
+        "created_at": "2026-06-04T18:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T19:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062603706751693161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q9bqmSoJGk",
+              "end": 65,
+              "expanded_url": "https://x.com/dezeterluis/status/2062603706751693161/photo/1",
+              "media_key": "3_2062603661902045185",
+              "start": 42,
+              "url": "https://t.co/Q9bqmSoJGk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062603706751693161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚拖完的地板能映出我的脸，连猫都忍不住跑过来打个滚，今天的幸福感是擦干净地面给的～ https://t.co/Q9bqmSoJGk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 2,
+          "like_count": 273,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1859
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2012-09-28T14:32:39.000Z",
+        "description": "",
+        "id": "851159808",
+        "name": "luis",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 13,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 5
+        },
+        "username": "dezeterluis",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2067812799397638512",
+    "created_at": "2026-06-19T08:01:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T09:01:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067880420755284336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1963951530568187904",
+          "start": 0,
+          "username": "LNNWFS514514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067880420755284336",
+    "in_reply_to_user_id": "1963951530568187904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067873923182813413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LNNWFS514514 其实有的是甜的，我喜欢吃甜的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2067812799397638512",
+        "created_at": "2026-06-19T08:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T09:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067880420755284336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1963951530568187904",
+              "start": 0,
+              "username": "LNNWFS514514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067880420755284336",
+        "in_reply_to_user_id": "1963951530568187904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067873923182813413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LNNWFS514514 其实有的是甜的，我喜欢吃甜的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963951530568187904",
+        "conversation_id": "2067812799397638512",
+        "created_at": "2026-06-19T07:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067873923182813413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067873923182813413",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067812799397638512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 话说相较于草莓我反而更喜欢奶油，因为草莓总给我种酸酸的既视感（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 11,
+          "like_count": 1588,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 4183
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T13:05:21.000Z",
+        "description": "What am I doing here",
+        "id": "1963951530568187904",
+        "location": "天津",
+        "name": "LNNWFS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034898132308566019/UjcTDyF__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 286,
+          "like_count": 2504,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 501
+        },
+        "url": "",
+        "username": "LNNWFS514514",
+        "verified": false
+      }
+    ]
+  }
+}

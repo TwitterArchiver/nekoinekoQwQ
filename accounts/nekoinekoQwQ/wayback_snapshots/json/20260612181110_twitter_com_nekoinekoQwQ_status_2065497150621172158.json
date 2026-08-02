@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065497150621172158",
+    "created_at": "2026-06-12T18:11:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T19:11:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065497150621172158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1944689149828841472",
+          "start": 3,
+          "username": "ttt8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065497150621172158",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065332367808716980",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @ttt8964: 我表达好感：默默点赞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065497150621172158",
+        "created_at": "2026-06-12T18:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T19:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065497150621172158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1944689149828841472",
+              "start": 3,
+              "username": "ttt8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065497150621172158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065332367808716980",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @ttt8964: 我表达好感：默默点赞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944689149828841472",
+        "conversation_id": "2065332367808716980",
+        "created_at": "2026-06-12T07:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T08:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065332367808716980"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065332367808716980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6598,
+          "like_count": 260,
+          "quote_count": 1,
+          "reply_count": 51,
+          "retweet_count": 19
+        },
+        "reply_settings": "following",
+        "text": "我表达好感：默默点赞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 9,
+          "like_count": 1121,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2859
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T09:23:28.000Z",
+        "description": "随便发发",
+        "id": "1944689149828841472",
+        "name": "K",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064135721586429952/mt2cmDmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 24,
+          "like_count": 3117,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 203
+        },
+        "username": "ttt8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2067574717800726795",
+    "created_at": "2026-06-19T04:34:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T05:34:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067828306351956446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1668282630528221186",
+          "start": 0,
+          "username": "mirendejrj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067828306351956446",
+    "in_reply_to_user_id": "1668282630528221186",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067574717800726795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mirendejrj 大眼睛猫✪ω✪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067574702592131072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGAPM6WgAAtMuD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2067574717800726795",
+        "created_at": "2026-06-19T04:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T05:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067828306351956446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1668282630528221186",
+              "start": 0,
+              "username": "mirendejrj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067828306351956446",
+        "in_reply_to_user_id": "1668282630528221186",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067574717800726795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mirendejrj 大眼睛猫✪ω✪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067574702592131072"
+          ]
+        },
+        "author_id": "1668282630528221186",
+        "conversation_id": "2067574717800726795",
+        "created_at": "2026-06-18T11:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067574717800726795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q9OkbIbAEp",
+              "end": 23,
+              "expanded_url": "https://x.com/mirendejrj/status/2067574717800726795/photo/1",
+              "media_key": "3_2067574702592131072",
+              "start": 0,
+              "url": "https://t.co/q9OkbIbAEp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067574717800726795",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1264,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/q9OkbIbAEp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 11,
+          "like_count": 1583,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 4160
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-12T15:42:36.000Z",
+        "description": "扁啊扁",
+        "id": "1668282630528221186",
+        "location": "扁肚皮",
+        "name": "迷人的鸡肉卷",
+        "pinned_tweet_id": "1787125746634490362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014005424568057857/RHr-01zO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 171,
+          "like_count": 12384,
+          "listed_count": 1,
+          "media_count": 1122,
+          "tweet_count": 3732
+        },
+        "url": "",
+        "username": "mirendejrj",
+        "verified": false
+      }
+    ]
+  }
+}

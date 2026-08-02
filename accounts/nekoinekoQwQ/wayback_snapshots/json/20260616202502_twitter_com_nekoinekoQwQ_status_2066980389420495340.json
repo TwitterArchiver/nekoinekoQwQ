@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2066980389420495340",
+    "created_at": "2026-06-16T20:25:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T21:25:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066980389420495340"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066980389420495340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呃啊，其实平常发一些低能的东西，并不是很想被太多人看到，本人现在粉丝太多，被安慰就算了，一些喜欢指指点点评价，或者觉得不能理解的人请拉黑我谢谢，我不需要你的评论。我就是这样一个脆弱的人类（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2066980389420495340",
+        "created_at": "2026-06-16T20:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T21:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066980389420495340"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066980389420495340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃啊，其实平常发一些低能的东西，并不是很想被太多人看到，本人现在粉丝太多，被安慰就算了，一些喜欢指指点点评价，或者觉得不能理解的人请拉黑我谢谢，我不需要你的评论。我就是这样一个脆弱的人类（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 10,
+          "like_count": 1521,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 3797
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

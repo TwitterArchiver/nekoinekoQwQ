@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2064907335789953122",
+    "created_at": "2026-06-11T19:29:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T20:29:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065154586734989474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1724956593421451265",
+          "start": 0,
+          "username": "cicili322938"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065154586734989474",
+    "in_reply_to_user_id": "1724956593421451265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064907335789953122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cicili322938 老师你拍的好好！小猫好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1620,
+        "media_key": "3_2064907316768710656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKgGQ6YaoAA2p_d.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2064907335789953122",
+        "created_at": "2026-06-11T19:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T20:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065154586734989474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1724956593421451265",
+              "start": 0,
+              "username": "cicili322938"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065154586734989474",
+        "in_reply_to_user_id": "1724956593421451265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064907335789953122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cicili322938 老师你拍的好好！小猫好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064907316768710656"
+          ]
+        },
+        "author_id": "1724956593421451265",
+        "conversation_id": "2064907335789953122",
+        "created_at": "2026-06-11T03:07:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T04:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064907335789953122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XlyA5PWnSh",
+              "end": 27,
+              "expanded_url": "https://x.com/cicili322938/status/2064907335789953122/photo/1",
+              "media_key": "3_2064907316768710656",
+              "start": 4,
+              "url": "https://t.co/XlyA5PWnSh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064907335789953122",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "追逐战 https://t.co/XlyA5PWnSh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 10,
+          "like_count": 916,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 2638
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-16T01:04:44.000Z",
+        "description": "互fo✨",
+        "id": "1724956593421451265",
+        "name": "cici li（互fo）",
+        "pinned_tweet_id": "2031991644669800658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727516298442383360/X4aSlYzC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1203,
+          "following_count": 1050,
+          "like_count": 4999,
+          "listed_count": 2,
+          "media_count": 358,
+          "tweet_count": 665
+        },
+        "username": "cicili322938",
+        "verified": false
+      }
+    ]
+  }
+}

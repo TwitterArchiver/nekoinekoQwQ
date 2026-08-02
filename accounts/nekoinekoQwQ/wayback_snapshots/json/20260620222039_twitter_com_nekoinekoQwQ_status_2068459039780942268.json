@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068459036488372224"
+      ]
+    },
+    "author_id": "1948326838125903872",
+    "conversation_id": "2068459039780942268",
+    "created_at": "2026-06-20T22:20:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T23:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068459039780942268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2065596477502832640",
+          "start": 3,
+          "username": "jingqingxian"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Forget crushes! The Love Calculator extends your horizons to measure the love percentage between you and any Twitter user of your choice. Using a secret formula, this feature calculates the emotional compatibility you share. Just enter a Twitter handle and let the Love Calculator reveal the strength of your bond!",
+          "display_url": "infinitetweet.me/love-calculato…",
+          "end": 54,
+          "expanded_url": "https://infinitetweet.me/love-calculator?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/2068099576297349120/NVJwu4YH?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2068099576297349120/NVJwu4YH?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 31,
+          "status": 200,
+          "title": "Love Calculator • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/love-calculator?lang=zh",
+          "url": "https://t.co/oszuqNMLmH"
+        },
+        {
+          "display_url": "pic.x.com/qCGsoJAZSM",
+          "end": 78,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2068459039780942268/photo/1",
+          "media_key": "3_2068459036488372224",
+          "start": 55,
+          "url": "https://t.co/qCGsoJAZSM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068459039780942268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我与 @jingqingxian 的爱兼容性为 6%\n\n➡️ https://t.co/oszuqNMLmH https://t.co/qCGsoJAZSM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 550,
+        "media_key": "3_2068459036488372224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLSkiNZWEAAgLfW.png",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068459036488372224"
+          ]
+        },
+        "author_id": "1948326838125903872",
+        "conversation_id": "2068459039780942268",
+        "created_at": "2026-06-20T22:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T23:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068459039780942268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2065596477502832640",
+              "start": 3,
+              "username": "jingqingxian"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Forget crushes! The Love Calculator extends your horizons to measure the love percentage between you and any Twitter user of your choice. Using a secret formula, this feature calculates the emotional compatibility you share. Just enter a Twitter handle and let the Love Calculator reveal the strength of your bond!",
+              "display_url": "infinitetweet.me/love-calculato…",
+              "end": 54,
+              "expanded_url": "https://infinitetweet.me/love-calculator?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2068099576297349120/NVJwu4YH?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2068099576297349120/NVJwu4YH?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 31,
+              "status": 200,
+              "title": "Love Calculator • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/love-calculator?lang=zh",
+              "url": "https://t.co/oszuqNMLmH"
+            },
+            {
+              "display_url": "pic.x.com/qCGsoJAZSM",
+              "end": 78,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2068459039780942268/photo/1",
+              "media_key": "3_2068459036488372224",
+              "start": 55,
+              "url": "https://t.co/qCGsoJAZSM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068459039780942268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我与 @jingqingxian 的爱兼容性为 6%\n\n➡️ https://t.co/oszuqNMLmH https://t.co/qCGsoJAZSM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 12,
+          "like_count": 1615,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 4379
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-13T00:46:41.000Z",
+        "description": "",
+        "id": "2065596477502832640",
+        "name": "momo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065596926792515584/rflk0R9n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 6,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "jingqingxian",
+        "verified": false
+      }
+    ]
+  }
+}

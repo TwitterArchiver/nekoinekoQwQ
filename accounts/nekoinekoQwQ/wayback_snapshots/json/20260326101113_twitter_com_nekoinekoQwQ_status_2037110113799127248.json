@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2037110113799127248",
+    "created_at": "2026-03-26T10:11:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T11:11:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037110113799127248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1753274149529915392",
+          "start": 3,
+          "username": "XyraXi9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037110113799127248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036999197325472109",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XyraXi9: 对我来说聊很深不是聊黄聊性癖 是聊兴趣爱好\n聊今天看什么书 看什么电影 开车听了什么歌\n中午吃什么午餐 今天工作忙不忙 晚上健身练哪里\n昨晚有没有梦见我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2037110113799127248",
+        "created_at": "2026-03-26T10:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T11:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037110113799127248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753274149529915392",
+              "start": 3,
+              "username": "XyraXi9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037110113799127248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036999197325472109",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XyraXi9: 对我来说聊很深不是聊黄聊性癖 是聊兴趣爱好\n聊今天看什么书 看什么电影 开车听了什么歌\n中午吃什么午餐 今天工作忙不忙 晚上健身练哪里\n昨晚有没有梦见我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753274149529915392",
+        "conversation_id": "2036999197325472109",
+        "created_at": "2026-03-26T02:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T03:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036999197325472109"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036999197325472109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3021,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "对我来说聊很深不是聊黄聊性癖 是聊兴趣爱好\n聊今天看什么书 看什么电影 开车听了什么歌\n中午吃什么午餐 今天工作忙不忙 晚上健身练哪里\n昨晚有没有梦见我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 1,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 983
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T04:28:37.000Z",
+        "description": "",
+        "id": "1753274149529915392",
+        "name": "xyra",
+        "pinned_tweet_id": "2034464056581509282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035513800527626240/Crt41nfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2148,
+          "following_count": 98,
+          "like_count": 2969,
+          "listed_count": 3,
+          "media_count": 73,
+          "tweet_count": 1032
+        },
+        "username": "XyraXi9",
+        "verified": true
+      }
+    ]
+  }
+}

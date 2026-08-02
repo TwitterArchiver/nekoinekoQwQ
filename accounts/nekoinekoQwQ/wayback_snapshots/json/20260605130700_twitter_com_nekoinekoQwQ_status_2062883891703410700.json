@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2062709699166801920"
+      ],
+      "media_source_tweet_id": [
+        "2062709720088019301"
+      ]
+    },
+    "author_id": "1948326838125903872",
+    "conversation_id": "2062883891703410700",
+    "created_at": "2026-06-05T13:07:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T14:07:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062883891703410700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2808366991",
+          "start": 3,
+          "username": "gagahaberyeni"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i7DZT5WflO",
+          "end": 99,
+          "expanded_url": "https://x.com/stock747474/status/2062709720088019301/video/1",
+          "media_key": "7_2062709699166801920",
+          "start": 76,
+          "url": "https://t.co/i7DZT5WflO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062883891703410700",
+    "lang": "tr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 348
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062709878615920995",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gagahaberyeni: Bir kedi, gece yarısı 4 tavşanla otururken görüntülendi. https://t.co/i7DZT5WflO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10032,
+        "height": 1280,
+        "media_key": "7_2062709699166801920",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2062709699166801920/pu/img/KaXcoddk2lilHRPv.jpg",
+        "public_metrics": {
+          "view_count": 90314
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062709699166801920/pu/vid/avc1/320x568/nkBN5gX5YhrYvg0o.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062709699166801920/pu/vid/avc1/480x852/2hxzr5tv3AiKwsET.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062709699166801920/pu/vid/avc1/720x1280/qXWwvmdayahl4L97.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2062709699166801920/pu/pl/DFgpz_t3x51TzBap.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2062709699166801920"
+          ],
+          "media_source_tweet_id": [
+            "2062709720088019301"
+          ]
+        },
+        "author_id": "1948326838125903872",
+        "conversation_id": "2062883891703410700",
+        "created_at": "2026-06-05T13:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062883891703410700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2808366991",
+              "start": 3,
+              "username": "gagahaberyeni"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i7DZT5WflO",
+              "end": 99,
+              "expanded_url": "https://x.com/stock747474/status/2062709720088019301/video/1",
+              "media_key": "7_2062709699166801920",
+              "start": 76,
+              "url": "https://t.co/i7DZT5WflO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062883891703410700",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 348
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062709878615920995",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gagahaberyeni: Bir kedi, gece yarısı 4 tavşanla otururken görüntülendi. https://t.co/i7DZT5WflO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2062709699166801920"
+          ],
+          "media_source_tweet_id": [
+            "2062709720088019301"
+          ]
+        },
+        "author_id": "2808366991",
+        "conversation_id": "2062709878615920995",
+        "created_at": "2026-06-05T01:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T02:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062709878615920995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i7DZT5WflO",
+              "end": 80,
+              "expanded_url": "https://x.com/stock747474/status/2062709720088019301/video/1",
+              "media_key": "7_2062709699166801920",
+              "start": 57,
+              "url": "https://t.co/i7DZT5WflO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062709878615920995",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 725,
+          "impression_count": 255881,
+          "like_count": 15819,
+          "quote_count": 108,
+          "reply_count": 97,
+          "retweet_count": 348
+        },
+        "reply_settings": "everyone",
+        "text": "Bir kedi, gece yarısı 4 tavşanla otururken görüntülendi. https://t.co/i7DZT5WflO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 2,
+          "like_count": 278,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1873
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-13T23:33:02.000Z",
+        "description": "Dijital Medya | İletişim: gagahaberiletisim@gmail.com",
+        "id": "2808366991",
+        "location": "Türkiye",
+        "name": "GaGa Haber",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942553982280314880/WZjxuMd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244851,
+          "following_count": 19746,
+          "like_count": 67913,
+          "listed_count": 219,
+          "media_count": 13565,
+          "tweet_count": 29616
+        },
+        "username": "gagahaberyeni",
+        "verified": true
+      }
+    ]
+  }
+}

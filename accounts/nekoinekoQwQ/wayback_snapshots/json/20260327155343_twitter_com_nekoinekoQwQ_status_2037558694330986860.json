@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2037516595099291931",
+    "created_at": "2026-03-27T15:53:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T16:53:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037558694330986860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1261624588770762753",
+          "start": 0,
+          "username": "DudDuoduo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037558694330986860",
+    "in_reply_to_user_id": "1261624588770762753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037558471814676821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DudDuoduo 其实并无处理，因为我真的很爱笑，这边建议拍照的时候磨皮拉高一点|･ω･｀)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2037516595099291931",
+        "created_at": "2026-03-27T15:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T16:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037558694330986860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1261624588770762753",
+              "start": 0,
+              "username": "DudDuoduo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037558694330986860",
+        "in_reply_to_user_id": "1261624588770762753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037558471814676821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DudDuoduo 其实并无处理，因为我真的很爱笑，这边建议拍照的时候磨皮拉高一点|･ω･｀)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1261624588770762753",
+        "conversation_id": "2037516595099291931",
+        "created_at": "2026-03-27T15:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T16:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037558471814676821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037558471814676821",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037545553526231050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 心碎了，老师你怎么处理的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 1,
+          "like_count": 170,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 1117
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-16T11:48:46.000Z",
+        "description": "想跟大家交朋友",
+        "id": "1261624588770762753",
+        "name": "duoduo🧃",
+        "pinned_tweet_id": "1992284083674898570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977791901643485184/74Z2Xmid_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1952,
+          "following_count": 1934,
+          "like_count": 12534,
+          "listed_count": 13,
+          "media_count": 2447,
+          "tweet_count": 15262
+        },
+        "username": "DudDuoduo",
+        "verified": false
+      }
+    ]
+  }
+}

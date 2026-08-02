@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2063556494319292689",
+    "created_at": "2026-06-08T03:49:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T04:49:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063830640450273663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2030961020853014528",
+          "start": 0,
+          "username": "q335776"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063830640450273663",
+    "in_reply_to_user_id": "2030961020853014528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063830394248818722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@q335776 没有呀，明天还要考，我是物化生组合"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2063556494319292689",
+        "created_at": "2026-06-08T03:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T04:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063830640450273663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2030961020853014528",
+              "start": 0,
+              "username": "q335776"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063830640450273663",
+        "in_reply_to_user_id": "2030961020853014528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063830394248818722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@q335776 没有呀，明天还要考，我是物化生组合"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030961020853014528",
+        "conversation_id": "2063556494319292689",
+        "created_at": "2026-06-08T03:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T04:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063830394248818722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063830394248818722",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063828826464145814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 英语是最后一门了吧，坚持住加油✊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 2,
+          "like_count": 481,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 2061
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-09T10:59:47.000Z",
+        "description": "",
+        "id": "2030961020853014528",
+        "name": "sqr.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063716106746183680/4xCROxLw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 8,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 19
+        },
+        "username": "q335776",
+        "verified": false
+      }
+    ]
+  }
+}

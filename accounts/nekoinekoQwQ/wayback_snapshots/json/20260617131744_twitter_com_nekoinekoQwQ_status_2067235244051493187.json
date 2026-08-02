@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2067142033513562605",
+    "created_at": "2026-06-17T13:17:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T14:17:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067235244051493187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1808494788595134464",
+          "start": 0,
+          "username": "zhi_yu79946"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067235244051493187",
+    "in_reply_to_user_id": "1808494788595134464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067212609695498528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhi_yu79946 哈哈哈哈哈对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2067142033513562605",
+        "created_at": "2026-06-17T13:17:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067235244051493187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1808494788595134464",
+              "start": 0,
+              "username": "zhi_yu79946"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067235244051493187",
+        "in_reply_to_user_id": "1808494788595134464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067212609695498528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhi_yu79946 哈哈哈哈哈对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808494788595134464",
+        "conversation_id": "2067142033513562605",
+        "created_at": "2026-06-17T11:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067212609695498528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067212609695498528",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067142033513562605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 哈哈 这个东西就是好上瘾一个 我都退游三年多了 上个月室友说五排缺一个让我补个位 结果一回来就打得停不下来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 10,
+          "like_count": 1555,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 3934
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-03T13:35:40.000Z",
+        "description": "还在读书 来推就是来发疯的 也希望能够遇到很多聊得来的人 片姐离我远点",
+        "id": "1808494788595134464",
+        "name": "看海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053691975023669248/6eGUl1gx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 2,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "zhi_yu79946",
+        "verified": false
+      }
+    ]
+  }
+}

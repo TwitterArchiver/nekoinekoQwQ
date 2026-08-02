@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2037034297149067563",
+    "created_at": "2026-03-26T09:48:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T10:48:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037104401454948659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1982040808053448704",
+          "start": 0,
+          "username": "Rammyy1123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037104401454948659",
+    "in_reply_to_user_id": "1982040808053448704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037034297149067563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rammyy1123 那特么是叔叔了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2037034297149067563",
+        "created_at": "2026-03-26T09:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T10:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037104401454948659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1982040808053448704",
+              "start": 0,
+              "username": "Rammyy1123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037104401454948659",
+        "in_reply_to_user_id": "1982040808053448704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037034297149067563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rammyy1123 那特么是叔叔了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982040808053448704",
+        "conversation_id": "2037034297149067563",
+        "created_at": "2026-03-26T05:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T06:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037034297149067563"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037034297149067563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 685,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哥哥。我再爱你十年也没有你现在的年龄大。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 1,
+          "like_count": 148,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 975
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-25T11:06:08.000Z",
+        "description": "🇲🇾 entp/enfp随机切换|155/42|无🚪|社恐|抽象天赋型选手|颜控|碎碎念",
+        "id": "1982040808053448704",
+        "name": "Rammyy",
+        "pinned_tweet_id": "2033551570537980050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983827367245275136/B_lOOKT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1829,
+          "following_count": 58,
+          "like_count": 3360,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1212
+        },
+        "username": "Rammyy1123",
+        "verified": false
+      }
+    ]
+  }
+}

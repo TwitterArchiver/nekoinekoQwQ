@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2066910625297789293",
+    "created_at": "2026-06-16T21:04:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T22:04:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066990242796839142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1785697050484740096",
+          "start": 0,
+          "username": "TianY75332"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066990242796839142",
+    "in_reply_to_user_id": "1785697050484740096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066910625297789293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TianY75332 非常赞同！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2066910625297789293",
+        "created_at": "2026-06-16T21:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T22:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066990242796839142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1785697050484740096",
+              "start": 0,
+              "username": "TianY75332"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066990242796839142",
+        "in_reply_to_user_id": "1785697050484740096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066910625297789293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TianY75332 非常赞同！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785697050484740096",
+        "conversation_id": "2066910625297789293",
+        "created_at": "2026-06-16T15:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066910625297789293"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066910625297789293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 429,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么人的头上不能显示好感度\n我要是发现有人好感我\n我就会立马贴贴贴贴贴贴贴贴贴贴上去\n我真的很想认识所有喜欢我的和我喜欢的人\n有的时候犯错了真的很难过啊🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 10,
+          "like_count": 1530,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 3813
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-01T15:45:57.000Z",
+        "description": "",
+        "id": "1785697050484740096",
+        "name": "赚够二万去脱毛",
+        "pinned_tweet_id": "2066311007065235777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064925635005620224/8GU9gyyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 64,
+          "like_count": 1120,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 71
+        },
+        "username": "TianY75332",
+        "verified": false
+      }
+    ]
+  }
+}

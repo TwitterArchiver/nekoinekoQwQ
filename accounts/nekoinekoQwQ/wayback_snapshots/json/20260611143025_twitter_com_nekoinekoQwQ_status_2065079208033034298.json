@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2064932840228438146",
+    "created_at": "2026-06-11T14:30:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T15:30:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065079208033034298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2064607710864457728",
+          "start": 0,
+          "username": "ysn13s"
+        },
+        {
+          "end": 21,
+          "id": "1820806967000223744",
+          "start": 8,
+          "username": "huimou322512"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065079208033034298",
+    "in_reply_to_user_id": "2064607710864457728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064934888848101859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ysn13s @huimou322512 哦哦。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2064932840228438146",
+        "created_at": "2026-06-11T14:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065079208033034298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2064607710864457728",
+              "start": 0,
+              "username": "ysn13s"
+            },
+            {
+              "end": 21,
+              "id": "1820806967000223744",
+              "start": 8,
+              "username": "huimou322512"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065079208033034298",
+        "in_reply_to_user_id": "2064607710864457728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064934888848101859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ysn13s @huimou322512 哦哦。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064607710864457728",
+        "conversation_id": "2064932840228438146",
+        "created_at": "2026-06-11T04:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064934888848101859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            },
+            {
+              "end": 27,
+              "id": "1820806967000223744",
+              "start": 14,
+              "username": "huimou322512"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064934888848101859",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064933465594962068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ @huimou322512 人机"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 10,
+          "like_count": 864,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 2618
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-10T07:17:35.000Z",
+        "description": "手机在手上的话我会每天在线的，你们发的信息我都会回，真心交朋友，本人现在高一",
+        "id": "2064607710864457728",
+        "name": "ys",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064608012841697280/jsOc_SdQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 52,
+          "like_count": 136,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 162
+        },
+        "username": "ysn13s",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-06T12:59:56.000Z",
+        "description": "一个爬宠爱好者 爬虫ペット愛好者\n可以跟我互fo 扩列 私信看见会回的\n信箱 https://t.co/ERxOJFt2NF\n准高三生 日语 理科",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huimou322512",
+                "end": 62,
+                "expanded_url": "https://ngl.link/huimou322512",
+                "start": 39,
+                "url": "https://t.co/ERxOJFt2NF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huimou322512",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huimou322512",
+                "start": 0,
+                "url": "https://t.co/ERxOJFt2NF"
+              }
+            ]
+          }
+        },
+        "id": "1820806967000223744",
+        "location": "你心里",
+        "name": "huimou",
+        "pinned_tweet_id": "2065027519712317735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950549156503973888/hFptIMUI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 31,
+          "like_count": 163,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 560
+        },
+        "url": "https://t.co/ERxOJFt2NF",
+        "username": "huimou322512",
+        "verified": false
+      }
+    ]
+  }
+}

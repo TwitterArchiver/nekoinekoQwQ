@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2029940535574839445",
+    "created_at": "2026-03-07T10:19:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T11:19:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030226901785362732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1889273834479693824",
+          "start": 0,
+          "username": "xvxnuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030226901785362732",
+    "in_reply_to_user_id": "1889273834479693824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029940535574839445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xvxnuo 苦笑罢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2029940535574839445",
+        "created_at": "2026-03-07T10:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T11:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030226901785362732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1889273834479693824",
+              "start": 0,
+              "username": "xvxnuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030226901785362732",
+        "in_reply_to_user_id": "1889273834479693824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029940535574839445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xvxnuo 苦笑罢了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889273834479693824",
+        "conversation_id": "2029940535574839445",
+        "created_at": "2026-03-06T15:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T16:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029940535574839445"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029940535574839445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1426,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我特么都惨成这样了，我还能天天呲个大牙笑笑笑，我也不知道自己在傻笑些什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 127
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T11:22:47.000Z",
+        "description": "我和你有什么好说的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xnuo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xnuo1",
+                "start": 0,
+                "url": "https://t.co/MGovzs8e0S"
+              }
+            ]
+          }
+        },
+        "id": "1889273834479693824",
+        "name": "诺诺许",
+        "pinned_tweet_id": "2029918461372289089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029937228215156736/5CS9KvYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1190,
+          "following_count": 35,
+          "like_count": 16432,
+          "listed_count": 4,
+          "media_count": 107,
+          "tweet_count": 4175
+        },
+        "url": "https://t.co/MGovzs8e0S",
+        "username": "xvxnuo",
+        "verified": false
+      }
+    ]
+  }
+}

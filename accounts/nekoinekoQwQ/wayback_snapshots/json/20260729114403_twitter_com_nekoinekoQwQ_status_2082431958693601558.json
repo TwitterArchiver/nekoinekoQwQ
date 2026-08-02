@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2082373549071929591",
+    "created_at": "2026-07-29T11:44:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T12:44:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082431958693601558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2034954763780202496",
+          "start": 0,
+          "username": "Naoya_515_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082431958693601558",
+    "in_reply_to_user_id": "2034954763780202496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082421703129645320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Naoya_515_ 居然是这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2082373549071929591",
+        "created_at": "2026-07-29T11:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082431958693601558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2034954763780202496",
+              "start": 0,
+              "username": "Naoya_515_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082431958693601558",
+        "in_reply_to_user_id": "2034954763780202496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082421703129645320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Naoya_515_ 居然是这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034954763780202496",
+        "conversation_id": "2082373549071929591",
+        "created_at": "2026-07-29T11:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082421703129645320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082421703129645320",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082373549071929591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 刚好相反了🧐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 10,
+          "like_count": 2018,
+          "listed_count": 0,
+          "media_count": 217,
+          "tweet_count": 6053
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-20T11:26:46.000Z",
+        "description": "御坂美琴不是很可爱吗？",
+        "id": "2034954763780202496",
+        "name": "直哉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034955014092070914/17GMZAZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 139,
+          "like_count": 1135,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 184
+        },
+        "url": "",
+        "username": "Naoya_515_",
+        "verified": false
+      }
+    ]
+  }
+}

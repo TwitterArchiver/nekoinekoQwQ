@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2069863127404220888",
+    "created_at": "2026-06-25T16:59:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T17:59:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070190235116515343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2056334533658873856",
+          "start": 0,
+          "username": "myhzz06061818"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070190235116515343",
+    "in_reply_to_user_id": "2056334533658873856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069863127404220888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@myhzz06061818 天空天空"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069863109142134784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLmhh_oaQAA2YNO.jpg",
+        "width": 924
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2069863127404220888",
+        "created_at": "2026-06-25T16:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T17:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070190235116515343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2056334533658873856",
+              "start": 0,
+              "username": "myhzz06061818"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070190235116515343",
+        "in_reply_to_user_id": "2056334533658873856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069863127404220888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@myhzz06061818 天空天空"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069863109142134784"
+          ]
+        },
+        "author_id": "2056334533658873856",
+        "conversation_id": "2069863127404220888",
+        "created_at": "2026-06-24T19:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T20:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069863127404220888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CvqsBRmGFR",
+              "end": 51,
+              "expanded_url": "https://x.com/myhzz06061818/status/2069863127404220888/photo/1",
+              "media_key": "3_2069863109142134784",
+              "start": 28,
+              "url": "https://t.co/CvqsBRmGFR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069863127404220888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我总是会这么这么怀念以前的日子嘞 总是心里很难过 https://t.co/CvqsBRmGFR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 12,
+          "like_count": 1658,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 4631
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-18T11:23:09.000Z",
+        "description": "没有人认识我的话我就可以想发什么就发什么了",
+        "id": "2056334533658873856",
+        "name": "幻想自己是自然卷",
+        "pinned_tweet_id": "2069883573914755373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066811803318063104/3gPlpuT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 26,
+          "like_count": 1841,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 136
+        },
+        "url": "",
+        "username": "myhzz06061818",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2066770469102227476",
+    "created_at": "2026-06-16T06:40:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T07:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066772995788677427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "124250567",
+          "start": 0,
+          "username": "Ayuyu000823"
+        },
+        {
+          "end": 27,
+          "id": "1631135079140560897",
+          "start": 13,
+          "username": "wangherisunge"
+        },
+        {
+          "end": 40,
+          "id": "2053717016092295169",
+          "start": 28,
+          "username": "xixijun8827"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066772995788677427",
+    "in_reply_to_user_id": "124250567",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066772663012352509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayuyu000823 @wangherisunge @xixijun8827 二蛋，二蛋，小孩子不许吃零食"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2066770469102227476",
+        "created_at": "2026-06-16T06:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T07:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066772995788677427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "124250567",
+              "start": 0,
+              "username": "Ayuyu000823"
+            },
+            {
+              "end": 27,
+              "id": "1631135079140560897",
+              "start": 13,
+              "username": "wangherisunge"
+            },
+            {
+              "end": 40,
+              "id": "2053717016092295169",
+              "start": 28,
+              "username": "xixijun8827"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066772995788677427",
+        "in_reply_to_user_id": "124250567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066772663012352509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayuyu000823 @wangherisunge @xixijun8827 二蛋，二蛋，小孩子不许吃零食"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "124250567",
+        "conversation_id": "2066770469102227476",
+        "created_at": "2026-06-16T06:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T07:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066772663012352509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            },
+            {
+              "end": 28,
+              "id": "1631135079140560897",
+              "start": 14,
+              "username": "wangherisunge"
+            },
+            {
+              "end": 41,
+              "id": "2053717016092295169",
+              "start": 29,
+              "username": "xixijun8827"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066772663012352509",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066771524552716609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ @wangherisunge @xixijun8827 老师，我家二蛋的两个月零食呢（？bushi）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 10,
+          "like_count": 1487,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 3696
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-18T19:34:18.000Z",
+        "description": "将开始做手工/锻炼/分享日常，哦还有上班发疯日常吧",
+        "id": "124250567",
+        "location": "距离你2km",
+        "name": "鱼鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962746074491392000/FT-Ly0Ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 198,
+          "like_count": 3219,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 1143
+        },
+        "username": "Ayuyu000823",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-02T03:31:37.000Z",
+        "description": "近海浅滩，或有鹤立\n这里是鹤，希望大家都可以天天开心！天天幸福！\n大家关注我的我都会回关！\n想要一起聊天的可以私信或tg@yizhihe11，纯闲聊哦",
+        "id": "1631135079140560897",
+        "name": "鹤",
+        "pinned_tweet_id": "2066439980684382464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066034590918250497/ld7ZlADe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 41,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 724
+        },
+        "username": "wangherisunge",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-11T06:01:51.000Z",
+        "description": "09/♂/烟の鬼/爱打麻将，日麻和广东麻将都玩。可以找我做心理咨询哦，祝你天天开心\n来都来了，互fo再走吧https://t.co/HZW0mjBRD7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/junxixijun",
+                "end": 76,
+                "expanded_url": "https://ngl.link/junxixijun",
+                "start": 53,
+                "url": "https://t.co/HZW0mjBRD7"
+              }
+            ]
+          }
+        },
+        "id": "2053717016092295169",
+        "name": "无问",
+        "pinned_tweet_id": "2061872985347117213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053780220164083712/gmAUBRcr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 127,
+          "like_count": 1964,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 354
+        },
+        "username": "xixijun8827",
+        "verified": false
+      }
+    ]
+  }
+}

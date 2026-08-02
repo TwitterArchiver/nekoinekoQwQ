@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2031761673057620268",
+    "created_at": "2026-03-11T16:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T17:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031767756635521252"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2031767756635521252",
+    "in_reply_to_user_id": "1948326838125903872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031761673057620268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为了惹我生气 你说了好多伤人的话呀 你说我不给你空间 你好忙好忙 一天理不了我几回 我从来没有因为这件事情生气过 就因为你和我说你很忙 你很累 需要空间 可是到头来为什么说我没给你空间呢 甚至我都没有要求你必须回复我的每一条信息了 我和你说有看就行 可是你真的看了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2031761673057620268",
+        "created_at": "2026-03-11T16:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T17:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031767756635521252"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031767756635521252",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031761673057620268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为了惹我生气 你说了好多伤人的话呀 你说我不给你空间 你好忙好忙 一天理不了我几回 我从来没有因为这件事情生气过 就因为你和我说你很忙 你很累 需要空间 可是到头来为什么说我没给你空间呢 甚至我都没有要求你必须回复我的每一条信息了 我和你说有看就行 可是你真的看了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2031761673057620268",
+        "created_at": "2026-03-11T15:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T16:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031761673057620268"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031761673057620268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我其实觉得离开我的人 留给我的记忆 以及我身上存在着和对方相同的习惯很讨厌 这会让我想起曾经 但是过去的事 我不想再回忆 今天听歌听到自己歌单里好多首歌都是听了对方歌单点赞的 又想到之前把对方歌单听完了 好蠢 这种类型的事情我做的太多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 1,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 403
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

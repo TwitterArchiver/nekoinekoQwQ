@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2035995717190492276",
+    "created_at": "2026-03-23T15:47:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T16:47:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036107625449066672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "797300863",
+          "start": 0,
+          "username": "mason_sadie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036107625449066672",
+    "in_reply_to_user_id": "797300863",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035995717190492276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mason_sadie 我已力竭 我以沉默 我已投降 我已绝望 我已崩溃 我已无助 我已流泪 我已求佛 我已倒下 我已上吊 我已卧轨 我已归隐田园 我已贤者时刻 我已无力招架 我已求天求地求爹娘 我已三十六计走为上计 我已装疯卖傻一问三不知"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2035995717190492276",
+        "created_at": "2026-03-23T15:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T16:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036107625449066672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "797300863",
+              "start": 0,
+              "username": "mason_sadie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036107625449066672",
+        "in_reply_to_user_id": "797300863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035995717190492276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mason_sadie 我已力竭 我以沉默 我已投降 我已绝望 我已崩溃 我已无助 我已流泪 我已求佛 我已倒下 我已上吊 我已卧轨 我已归隐田园 我已贤者时刻 我已无力招架 我已求天求地求爹娘 我已三十六计走为上计 我已装疯卖傻一问三不知"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "797300863",
+        "conversation_id": "2035995717190492276",
+        "created_at": "2026-03-23T08:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T09:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035995717190492276"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035995717190492276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1445,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我已力竭 我以沉默 我我已投降 我已绝望 我已崩溃 我已无助 我已流泪 我已求佛 我已倒下 我已上吊 我已卧轨 我已归隐田园 我已贤者时刻 我已无力招架 我已求天求地求爹娘 我已三十六计走为上计 我已装疯卖傻一问三不知"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 1,
+          "like_count": 133,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 847
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2012-09-02T02:06:51.000Z",
+        "description": "互fo查成分回关 男🚪25纯绿 52开放空间 52半绿随机掉落一点擦边照 支付宝口令红包回消息",
+        "id": "797300863",
+        "name": "Sadistic killer",
+        "pinned_tweet_id": "2035824500517032276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030765259141844993/6LmD6Vb3_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 226,
+          "like_count": 163,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 181
+        },
+        "username": "mason_sadie",
+        "verified": false
+      }
+    ]
+  }
+}

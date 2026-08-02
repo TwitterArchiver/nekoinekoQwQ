@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2080835707778859025",
+    "created_at": "2026-07-25T12:22:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T13:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080992068491776417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1812543033419993088",
+          "start": 0,
+          "username": "shangbuliaowang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080992068491776417",
+    "in_reply_to_user_id": "1812543033419993088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080835707778859025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shangbuliaowang 我是恋足癖"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080835701621637120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOCdC78bwAAh-V8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080835701621571584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOCdC78awAAhm3q.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2080835707778859025",
+        "created_at": "2026-07-25T12:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T13:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080992068491776417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1812543033419993088",
+              "start": 0,
+              "username": "shangbuliaowang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080992068491776417",
+        "in_reply_to_user_id": "1812543033419993088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080835707778859025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shangbuliaowang 我是恋足癖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080835701621637120",
+            "3_2080835701621571584"
+          ]
+        },
+        "author_id": "1812543033419993088",
+        "conversation_id": "2080835707778859025",
+        "created_at": "2026-07-25T02:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T03:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080835707778859025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0cbpTpuCKT",
+              "end": 23,
+              "expanded_url": "https://x.com/shangbuliaowang/status/2080835707778859025/photo/1",
+              "media_key": "3_2080835701621637120",
+              "start": 0,
+              "url": "https://t.co/0cbpTpuCKT"
+            },
+            {
+              "display_url": "pic.x.com/0cbpTpuCKT",
+              "end": 23,
+              "expanded_url": "https://x.com/shangbuliaowang/status/2080835707778859025/photo/1",
+              "media_key": "3_2080835701621571584",
+              "start": 0,
+              "url": "https://t.co/0cbpTpuCKT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080835707778859025",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 291,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0cbpTpuCKT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 10,
+          "like_count": 1965,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 5604
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T17:42:16.000Z",
+        "description": "有空再相爱吧",
+        "id": "1812543033419993088",
+        "location": "……",
+        "name": "上网2.0",
+        "pinned_tweet_id": "1813499188140736686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042001913290321922/Oem_QrO1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2989,
+          "following_count": 189,
+          "like_count": 3836,
+          "listed_count": 4,
+          "media_count": 464,
+          "tweet_count": 1340
+        },
+        "url": "",
+        "username": "shangbuliaowang",
+        "verified": false
+      }
+    ]
+  }
+}

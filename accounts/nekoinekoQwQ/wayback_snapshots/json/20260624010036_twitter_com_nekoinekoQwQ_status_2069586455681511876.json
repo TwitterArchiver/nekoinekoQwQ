@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2069571359781605496",
+    "created_at": "2026-06-24T01:00:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T02:00:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069586455681511876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1362745661318332419",
+          "start": 0,
+          "username": "BlueAquaray"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069586455681511876",
+    "in_reply_to_user_id": "1362745661318332419",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069571359781605496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BlueAquaray 这个环境好舒适"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15480,
+        "height": 2160,
+        "media_key": "13_2069571226595627008",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2069571226595627008/img/XT73ATxChfQcpB2n.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2069571226595627008/pl/WeTbV9gjTxUUIAVD.m3u8"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069571226595627008/vid/avc1/2160x2160/al-YEFCffjxgaHef.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069571226595627008/vid/avc1/320x320/RIws0cbf4ZFzlQZl.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069571226595627008/vid/avc1/1080x1080/wnbMH2un4chCwwFE.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069571226595627008/vid/avc1/720x720/XBBPnptYL51I9sle.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069571226595627008/vid/avc1/540x540/gE9MNCWGkqjAWeY3.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2069571359781605496",
+        "created_at": "2026-06-24T01:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T02:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069586455681511876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1362745661318332419",
+              "start": 0,
+              "username": "BlueAquaray"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069586455681511876",
+        "in_reply_to_user_id": "1362745661318332419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069571359781605496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlueAquaray 这个环境好舒适"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069571226595627008"
+          ]
+        },
+        "author_id": "1362745661318332419",
+        "conversation_id": "2069571359781605496",
+        "created_at": "2026-06-24T00:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T01:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069571359781605496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wml3LFU7tT",
+              "end": 23,
+              "expanded_url": "https://x.com/BlueAquaray/status/2069571359781605496/video/1",
+              "media_key": "13_2069571226595627008",
+              "start": 0,
+              "url": "https://t.co/wml3LFU7tT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069571359781605496",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wml3LFU7tT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 12,
+          "like_count": 1649,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 4555
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-19T12:48:36.000Z",
+        "description": "像浪花一样消失。",
+        "id": "1362745661318332419",
+        "location": "涟漪中心",
+        "name": "潮",
+        "pinned_tweet_id": "2068597849869398339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068474149710995456/H-1V3oMo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 81,
+          "like_count": 595,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 258
+        },
+        "url": "",
+        "username": "BlueAquaray",
+        "verified": true
+      }
+    ]
+  }
+}

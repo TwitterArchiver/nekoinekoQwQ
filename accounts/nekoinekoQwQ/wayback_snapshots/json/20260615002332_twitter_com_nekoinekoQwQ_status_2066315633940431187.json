@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2066219281818308657",
+    "created_at": "2026-06-15T00:23:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T01:23:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066315633940431187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2065629418224234496",
+          "start": 0,
+          "username": "NAIHeWEIXING"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066315633940431187",
+    "in_reply_to_user_id": "2065629418224234496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066305336915681610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NAIHeWEIXING 好诡异，早上好呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2066219281818308657",
+        "created_at": "2026-06-15T00:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T01:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066315633940431187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2065629418224234496",
+              "start": 0,
+              "username": "NAIHeWEIXING"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066315633940431187",
+        "in_reply_to_user_id": "2065629418224234496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066305336915681610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NAIHeWEIXING 好诡异，早上好呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065629418224234496",
+        "conversation_id": "2066219281818308657",
+        "created_at": "2026-06-14T23:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T00:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066305336915681610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066305336915681610",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066219281818308657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 早上好 the world with you"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 10,
+          "like_count": 1403,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 3441
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-13T02:59:28.000Z",
+        "description": "性别：神\n年龄：神是不可窥见的\n生日：神是不可窥见的\n身高：神是不可窥见的\n星座：神是不可窥见的\n性格：神是不可窥见的",
+        "id": "2065629418224234496",
+        "location": "Hong Kong",
+        "name": "M1z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065652434060660736/SC0G2KzE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 12,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 13
+        },
+        "username": "NAIHeWEIXING",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2037107152662544724",
+    "created_at": "2026-03-26T09:59:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T10:59:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037107152662544724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2033116218664923136",
+          "start": 3,
+          "username": "Shsudubdk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037107152662544724",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036819338695729488",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shsudubdk: 我需要一个吻，一个拥抱，一个永远都在的恋人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2037107152662544724",
+        "created_at": "2026-03-26T09:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T10:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037107152662544724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2033116218664923136",
+              "start": 3,
+              "username": "Shsudubdk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037107152662544724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036819338695729488",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shsudubdk: 我需要一个吻，一个拥抱，一个永远都在的恋人。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033116218664923136",
+        "conversation_id": "2036819338695729488",
+        "created_at": "2026-03-25T14:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T15:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036819338695729488"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036819338695729488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 907,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我需要一个吻，一个拥抱，一个永远都在的恋人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 1,
+          "like_count": 148,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 980
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T09:42:22.000Z",
+        "description": "",
+        "id": "2033116218664923136",
+        "name": "阿迪克斯3.0 被迫正式上线版",
+        "pinned_tweet_id": "2036242480446992423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035784223769124864/Do7KI6sb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 206,
+          "like_count": 1744,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 740
+        },
+        "username": "Shsudubdk",
+        "verified": false
+      }
+    ]
+  }
+}

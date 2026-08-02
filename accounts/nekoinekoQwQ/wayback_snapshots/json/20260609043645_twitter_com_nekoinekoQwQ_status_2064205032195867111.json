@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2063932923640950914",
+    "created_at": "2026-06-09T04:36:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T05:36:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064205032195867111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2062206747247534080",
+          "start": 0,
+          "username": "Zheergen444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064205032195867111",
+    "in_reply_to_user_id": "2062206747247534080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063950441357131817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zheergen444 我讨厌冷暴力，欺骗感情的人都该死¯へ¯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2063932923640950914",
+        "created_at": "2026-06-09T04:36:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T05:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064205032195867111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2062206747247534080",
+              "start": 0,
+              "username": "Zheergen444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064205032195867111",
+        "in_reply_to_user_id": "2062206747247534080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063950441357131817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zheergen444 我讨厌冷暴力，欺骗感情的人都该死¯へ¯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062206747247534080",
+        "conversation_id": "2063932923640950914",
+        "created_at": "2026-06-08T11:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063950441357131817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063950441357131817",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063945220774121928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 已经被渣过很多次了，最近的一次是被连州的一个女生冷暴力式分手，有可能我还被绿了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 2,
+          "like_count": 523,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 2166
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-03T16:17:56.000Z",
+        "description": "很无聊，想出去拍照",
+        "id": "2062206747247534080",
+        "name": "阿怪想吃千层糕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062209402816667648/7h7-gXFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 50,
+          "like_count": 808,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 279
+        },
+        "username": "Zheergen444",
+        "verified": false
+      }
+    ]
+  }
+}

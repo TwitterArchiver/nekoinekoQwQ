@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2082349195164536952",
+    "created_at": "2026-07-29T19:56:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T20:56:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082555957905945004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1482397833684652032",
+          "start": 0,
+          "username": "JIA_and_CHUAN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082555957905945004",
+    "in_reply_to_user_id": "1482397833684652032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082349195164536952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JIA_and_CHUAN 兔咪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082349184288788480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOX9jOPbkAAf3p8.jpg",
+        "width": 1692
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082349184322277376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOX9jOXakAA07kD.jpg",
+        "width": 1892
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2082349195164536952",
+        "created_at": "2026-07-29T19:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T20:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082555957905945004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1482397833684652032",
+              "start": 0,
+              "username": "JIA_and_CHUAN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082555957905945004",
+        "in_reply_to_user_id": "1482397833684652032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082349195164536952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JIA_and_CHUAN 兔咪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082349184288788480",
+            "3_2082349184322277376"
+          ]
+        },
+        "author_id": "1482397833684652032",
+        "conversation_id": "2082349195164536952",
+        "created_at": "2026-07-29T06:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T07:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082349195164536952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wwkceVYRHL",
+              "end": 28,
+              "expanded_url": "https://x.com/JIA_and_CHUAN/status/2082349195164536952/photo/1",
+              "media_key": "3_2082349184288788480",
+              "start": 5,
+              "url": "https://t.co/wwkceVYRHL"
+            },
+            {
+              "display_url": "pic.x.com/wwkceVYRHL",
+              "end": 28,
+              "expanded_url": "https://x.com/JIA_and_CHUAN/status/2082349195164536952/photo/1",
+              "media_key": "3_2082349184322277376",
+              "start": 5,
+              "url": "https://t.co/wwkceVYRHL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082349195164536952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 217,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🐰兔子猫 https://t.co/wwkceVYRHL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 10,
+          "like_count": 2021,
+          "listed_count": 0,
+          "media_count": 220,
+          "tweet_count": 6087
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-15T17:02:49.000Z",
+        "description": "上海/infj/06/27fall🇯🇵/除三次什么都混 /二次元啥都混/晋江退役作家/雀魂/燕云/阴阳师/重返未来1999/D5/乌蒙地插/明日方舟/洛克王国/我家大笨狗：@CHUAN_AND_JIA（trt校霸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 86,
+                "username": "CHUAN_AND_JIA"
+              }
+            ]
+          }
+        },
+        "id": "1482397833684652032",
+        "name": "收破烂的仙乐",
+        "pinned_tweet_id": "2057758913328804122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931733815657136129/5TVAUB3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1480,
+          "following_count": 809,
+          "like_count": 35464,
+          "listed_count": 2,
+          "media_count": 1133,
+          "tweet_count": 4706
+        },
+        "url": "",
+        "username": "JIA_and_CHUAN",
+        "verified": false
+      }
+    ]
+  }
+}

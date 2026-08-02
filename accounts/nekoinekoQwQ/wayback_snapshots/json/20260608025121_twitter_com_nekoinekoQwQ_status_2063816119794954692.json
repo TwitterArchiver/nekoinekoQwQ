@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2063558316287299853",
+    "created_at": "2026-06-08T02:51:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T03:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063816119794954692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2052979694933364739",
+          "start": 0,
+          "username": "baiyun753699"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063816119794954692",
+    "in_reply_to_user_id": "2052979694933364739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063585589119877181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baiyun753699 但愿如此"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2063558316287299853",
+        "created_at": "2026-06-08T02:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063816119794954692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2052979694933364739",
+              "start": 0,
+              "username": "baiyun753699"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063816119794954692",
+        "in_reply_to_user_id": "2052979694933364739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063585589119877181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baiyun753699 但愿如此"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052979694933364739",
+        "conversation_id": "2063558316287299853",
+        "created_at": "2026-06-07T11:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063585589119877181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063585589119877181",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063558316287299853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 没事的，主播，相信你，万一今年分数线低呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "id": "1948326838125903872",
+        "location": "世界",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 2,
+          "like_count": 395,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 2004
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T05:12:20.000Z",
+        "description": "",
+        "id": "2052979694933364739",
+        "name": "bai yun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052979966636134404/qC3_c5e-_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 40,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 78
+        },
+        "username": "baiyun753699",
+        "verified": false
+      }
+    ]
+  }
+}

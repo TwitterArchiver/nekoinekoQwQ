@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065136468851585024"
+      ]
+    },
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065136479081582921",
+    "created_at": "2026-06-11T18:17:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T19:17:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065136479081582921"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kzIQnaLRn1",
+          "end": 176,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2065136479081582921/photo/1",
+          "media_key": "3_2065136468851585024",
+          "start": 153,
+          "url": "https://t.co/kzIQnaLRn1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065136479081582921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在没有喜欢的异性，也才分手三个月多就喜欢上异性很奇怪口牙\n  主播不处对象，主播是冰窖（不是很想谈恋爱，我觉得感情都会有结束的时候，不管是什么原因，我会很难过，怕受伤这一块😢）\n  成为暴力黑手 s（我开玩笑的，只是刚刚和朋友聊到了）\n  我不要长皱纹 TT现在已经2:00多了 TT\n  咪咪喵喵咪 https://t.co/kzIQnaLRn1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065136468851585024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKjWrUaacAAfk3y.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065136468851585024"
+          ]
+        },
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065136479081582921",
+        "created_at": "2026-06-11T18:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T19:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065136479081582921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kzIQnaLRn1",
+              "end": 176,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2065136479081582921/photo/1",
+              "media_key": "3_2065136468851585024",
+              "start": 153,
+              "url": "https://t.co/kzIQnaLRn1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065136479081582921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在没有喜欢的异性，也才分手三个月多就喜欢上异性很奇怪口牙\n  主播不处对象，主播是冰窖（不是很想谈恋爱，我觉得感情都会有结束的时候，不管是什么原因，我会很难过，怕受伤这一块😢）\n  成为暴力黑手 s（我开玩笑的，只是刚刚和朋友聊到了）\n  我不要长皱纹 TT现在已经2:00多了 TT\n  咪咪喵喵咪 https://t.co/kzIQnaLRn1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 10,
+          "like_count": 909,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 2633
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

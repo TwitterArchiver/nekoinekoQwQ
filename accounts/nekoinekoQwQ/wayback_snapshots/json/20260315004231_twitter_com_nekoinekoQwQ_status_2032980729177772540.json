@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2032980729177772540",
+    "created_at": "2026-03-15T00:42:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T01:42:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032980729177772540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2022232330752925696",
+          "start": 3,
+          "username": "Meltss03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032980729177772540",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 107
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032836887338168825",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Meltss03: 我讨厌的人圆寂、早死、去世、凋谢、天折、弃世、归天、逝、永诀、祖落、过世、送命、身故、横死、亡故、寿终、逝世、物故、短折。长眠、疾终、捐躯、示寂、殉难、入寂、殉职、倒头、永眠、强死、羽化、早世、凶死、翔粹子、上西天、见阎王。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2032980729177772540",
+        "created_at": "2026-03-15T00:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T01:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032980729177772540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2022232330752925696",
+              "start": 3,
+              "username": "Meltss03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032980729177772540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 107
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032836887338168825",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Meltss03: 我讨厌的人圆寂、早死、去世、凋谢、天折、弃世、归天、逝、永诀、祖落、过世、送命、身故、横死、亡故、寿终、逝世、物故、短折。长眠、疾终、捐躯、示寂、殉难、入寂、殉职、倒头、永眠、强死、羽化、早世、凶死、翔粹子、上西天、见阎王。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022232330752925696",
+        "conversation_id": "2032836887338168825",
+        "created_at": "2026-03-14T15:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T16:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032836887338168825"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032836887338168825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 11343,
+          "like_count": 523,
+          "quote_count": 4,
+          "reply_count": 5,
+          "retweet_count": 107
+        },
+        "reply_settings": "everyone",
+        "text": "我讨厌的人圆寂、早死、去世、凋谢、天折、弃世、归天、逝、永诀、祖落、过世、送命、身故、横死、亡故、寿终、逝世、物故、短折。长眠、疾终、捐躯、示寂、殉难、入寂、殉职、倒头、永眠、强死、羽化、早世、凶死、翔粹子、上西天、见阎王。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 1,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 540
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T08:56:27.000Z",
+        "description": "没网感的土逼评论关注我死全家吖",
+        "id": "2022232330752925696",
+        "name": "CO₂",
+        "pinned_tweet_id": "2030112859380764841",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1220,
+          "following_count": 35,
+          "like_count": 1132,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 1719
+        },
+        "username": "Meltss03",
+        "verified": false
+      }
+    ]
+  }
+}

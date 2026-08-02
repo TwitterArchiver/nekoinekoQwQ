@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2043718198550483270",
+    "created_at": "2026-04-14T09:55:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T10:55:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043991516524490759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2033116218664923136",
+          "start": 0,
+          "username": "Shsudubdk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043991516524490759",
+    "in_reply_to_user_id": "2033116218664923136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043718198550483270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shsudubdk 陪伴 好奢侈。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2043718198550483270",
+        "created_at": "2026-04-14T09:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T10:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043991516524490759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2033116218664923136",
+              "start": 0,
+              "username": "Shsudubdk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043991516524490759",
+        "in_reply_to_user_id": "2033116218664923136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043718198550483270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shsudubdk 陪伴 好奢侈。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033116218664923136",
+        "conversation_id": "2043718198550483270",
+        "created_at": "2026-04-13T15:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043718198550483270"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043718198550483270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2282,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "什么时候会有一直陪我的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 2,
+          "like_count": 218,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1493
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T09:42:22.000Z",
+        "description": "以无法为有法 以无限为有限\n\nhttps://t.co/YFdZEpHnGf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oldesting64975",
+                "end": 38,
+                "expanded_url": "https://ngl.link/oldesting64975",
+                "start": 15,
+                "url": "https://t.co/YFdZEpHnGf"
+              }
+            ]
+          }
+        },
+        "id": "2033116218664923136",
+        "location": "离你0.1公里",
+        "name": "阿迪克斯3.0 被迫正式上线版",
+        "pinned_tweet_id": "2036352768752099686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035784223769124864/Do7KI6sb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 333,
+          "like_count": 5962,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 2099
+        },
+        "username": "Shsudubdk",
+        "verified": false
+      }
+    ]
+  }
+}

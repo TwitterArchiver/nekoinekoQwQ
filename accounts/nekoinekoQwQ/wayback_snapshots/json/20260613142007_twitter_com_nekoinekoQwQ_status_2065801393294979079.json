@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065801377641807872",
+        "3_2065801377646034944"
+      ]
+    },
+    "author_id": "1948326838125903872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2065801393294979079",
+    "created_at": "2026-06-13T14:20:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T15:20:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065801393294979079"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/W2VCVuylED",
+          "end": 159,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2065801393294979079/photo/1",
+          "media_key": "3_2065801377641807872",
+          "start": 136,
+          "url": "https://t.co/W2VCVuylED"
+        },
+        {
+          "display_url": "pic.x.com/W2VCVuylED",
+          "end": 159,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2065801393294979079/photo/1",
+          "media_key": "3_2065801377646034944",
+          "start": 136,
+          "url": "https://t.co/W2VCVuylED"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065801393294979079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不玩原神，不牛逼！\n谈过一任，在一起一年，然后被甩了hh，网恋害死人（所有人不许问为什么，其实我早期帖子里都有，我懒得复述，反正是因为分手才发推特表达情绪的）现实没喜欢过别人，之前被暗恋过但本人并不知情（周围男的看起来不太聪明，熟的也已成兄弟over。总结：傻子才网恋 https://t.co/W2VCVuylED"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 804,
+        "media_key": "3_2065801377641807872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKszaGraQAAzx-O.jpg",
+        "width": 1179
+      },
+      {
+        "height": 809,
+        "media_key": "3_2065801377646034944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKszaGsawAAulEk.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065801377641807872",
+            "3_2065801377646034944"
+          ]
+        },
+        "author_id": "1948326838125903872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2065801393294979079",
+        "created_at": "2026-06-13T14:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065801393294979079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W2VCVuylED",
+              "end": 159,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2065801393294979079/photo/1",
+              "media_key": "3_2065801377641807872",
+              "start": 136,
+              "url": "https://t.co/W2VCVuylED"
+            },
+            {
+              "display_url": "pic.x.com/W2VCVuylED",
+              "end": 159,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2065801393294979079/photo/1",
+              "media_key": "3_2065801377646034944",
+              "start": 136,
+              "url": "https://t.co/W2VCVuylED"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065801393294979079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不玩原神，不牛逼！\n谈过一任，在一起一年，然后被甩了hh，网恋害死人（所有人不许问为什么，其实我早期帖子里都有，我懒得复述，反正是因为分手才发推特表达情绪的）现实没喜欢过别人，之前被暗恋过但本人并不知情（周围男的看起来不太聪明，熟的也已成兄弟over。总结：傻子才网恋 https://t.co/W2VCVuylED"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 9,
+          "like_count": 1196,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 3089
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

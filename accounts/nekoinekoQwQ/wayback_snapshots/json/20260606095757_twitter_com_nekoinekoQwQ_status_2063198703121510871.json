@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2063157155558232570",
+    "created_at": "2026-06-06T09:57:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T10:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063198703121510871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1992789001364013056",
+          "start": 0,
+          "username": "tian_ye33077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063198703121510871",
+    "in_reply_to_user_id": "1992789001364013056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063192560080982376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tian_ye33077 哈哈哈哈哈哈，我准备叫它汉堡，因为我和我朋友都喜欢吃😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2063157155558232570",
+        "created_at": "2026-06-06T09:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063198703121510871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1992789001364013056",
+              "start": 0,
+              "username": "tian_ye33077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063198703121510871",
+        "in_reply_to_user_id": "1992789001364013056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063192560080982376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tian_ye33077 哈哈哈哈哈哈，我准备叫它汉堡，因为我和我朋友都喜欢吃😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992789001364013056",
+        "conversation_id": "2063157155558232570",
+        "created_at": "2026-06-06T09:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063192560080982376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063192560080982376",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063157155558232570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 嚼嚼嚼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CH",
+              "full_name": "Zürich, Zurich, Switzerland",
+              "geo": {
+                "coordinates": [
+                  8.55,
+                  47.36667
+                ],
+                "type": "Point"
+              },
+              "locality": "Zürich",
+              "region": "Zurich",
+              "sub_region": "Bezirk Zürich"
+            }
+          ]
+        },
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "id": "1948326838125903872",
+        "location": "世界",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 2,
+          "like_count": 294,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1905
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-24T02:55:24.000Z",
+        "description": "一个高敏感蒙多◑▂◐",
+        "id": "1992789001364013056",
+        "location": "爱人的心底",
+        "name": "ℳℴℴ𝒹𝓎 ℬ𝓁𝓊ℯ𝓈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059301355567861760/jqLIEpd8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 5,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 285
+        },
+        "username": "tian_ye33077",
+        "verified": false
+      }
+    ]
+  }
+}

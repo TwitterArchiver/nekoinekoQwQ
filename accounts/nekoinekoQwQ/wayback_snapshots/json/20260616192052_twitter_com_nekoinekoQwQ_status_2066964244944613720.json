@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2066964244944613720",
+    "created_at": "2026-06-16T19:20:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T20:20:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066964244944613720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1800256523030962179",
+          "start": 3,
+          "username": "DRuozhu1101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066964244944613720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066934804348842428",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DRuozhu1101: 你什么时候死全家 我好想成为你唯一的依靠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2066964244944613720",
+        "created_at": "2026-06-16T19:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T20:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066964244944613720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1800256523030962179",
+              "start": 3,
+              "username": "DRuozhu1101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066964244944613720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066934804348842428",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DRuozhu1101: 你什么时候死全家 我好想成为你唯一的依靠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800256523030962179",
+        "conversation_id": "2066934804348842428",
+        "created_at": "2026-06-16T17:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T18:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066934804348842428"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066934804348842428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你什么时候死全家 我好想成为你唯一的依靠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 10,
+          "like_count": 1513,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 3773
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-10T19:59:46.000Z",
+        "description": "要么不更新要么跟窜稀了一样疯狂发",
+        "id": "1800256523030962179",
+        "name": "苕皮大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061412154239307776/dJvP-6yN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 37,
+          "like_count": 414,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 642
+        },
+        "username": "DRuozhu1101",
+        "verified": false
+      }
+    ]
+  }
+}

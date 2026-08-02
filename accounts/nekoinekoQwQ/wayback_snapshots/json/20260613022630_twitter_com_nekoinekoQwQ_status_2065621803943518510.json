@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065325903786483745",
+    "created_at": "2026-06-13T02:26:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T03:26:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065621803943518510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1965081842962608129",
+          "start": 0,
+          "username": "haohao__520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065621803943518510",
+    "in_reply_to_user_id": "1965081842962608129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065436249746223599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haohao__520 拒绝冷暴力，有话好好说，冷暴力的都该死，吵架就情有可原，但是两个人还是要好好沟通，解决问题才行！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065325903786483745",
+        "created_at": "2026-06-13T02:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T03:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065621803943518510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965081842962608129",
+              "start": 0,
+              "username": "haohao__520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065621803943518510",
+        "in_reply_to_user_id": "1965081842962608129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065436249746223599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haohao__520 拒绝冷暴力，有话好好说，冷暴力的都该死，吵架就情有可原，但是两个人还是要好好沟通，解决问题才行！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965081842962608129",
+        "conversation_id": "2065325903786483745",
+        "created_at": "2026-06-12T14:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065436249746223599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065436249746223599",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065325903786483745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 88"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 9,
+          "like_count": 1127,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2886
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-08T15:56:45.000Z",
+        "description": "活人微死｜麦当劳属性｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/65694368222",
+                "end": 23,
+                "expanded_url": "https://ngl.link/65694368222",
+                "start": 0,
+                "url": "https://t.co/jpDxJVFwlb"
+              }
+            ]
+          }
+        },
+        "id": "1965081842962608129",
+        "name": "搁浅",
+        "pinned_tweet_id": "2037031727886159967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059878618117873665/pQHQieQW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 82,
+          "like_count": 310,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 125
+        },
+        "url": "https://t.co/jpDxJVFwlb",
+        "username": "haohao__520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2031410177841443072",
+    "created_at": "2026-03-11T15:39:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T16:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031756806498979841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2020898141730680832",
+          "start": 0,
+          "username": "kkbb7732"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031756806498979841",
+    "in_reply_to_user_id": "2020898141730680832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031410177841443072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkbb7732 骄傲中"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2031410177841443072",
+        "created_at": "2026-03-11T15:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T16:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031756806498979841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2020898141730680832",
+              "start": 0,
+              "username": "kkbb7732"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031756806498979841",
+        "in_reply_to_user_id": "2020898141730680832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031410177841443072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkbb7732 骄傲中"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020898141730680832",
+        "conversation_id": "2031410177841443072",
+        "created_at": "2026-03-10T16:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T17:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031410177841443072"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031410177841443072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 360,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我都懵逼了？\n我初吻初拥初吻初牵居然一个都还在？😂😂😂😂😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 1,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 390
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-09T16:30:48.000Z",
+        "description": "我其实本来应该是个忧郁的文艺逼的你们知道吗？我活的如此惨文化都是所有人害的。所以我就只能每天发疯说点脑残话呀。嗯对对对。此账号所说的内容全部都是由ai生成，如果你被冒犯到找ai就行了，ai帮我生成的内容，和我本人没有一点关系。05/男大/直男/s/收atm奴",
+        "id": "2020898141730680832",
+        "name": "妳能夠和我一同笑看",
+        "pinned_tweet_id": "2026325581638549742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027056082393370624/K_Zf9eeW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 82,
+          "like_count": 828,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 428
+        },
+        "username": "kkbb7732",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2068388831859265757",
+    "created_at": "2026-06-21T21:46:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T22:46:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068812728979091950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1745844777772593152",
+          "start": 0,
+          "username": "QQdiaryyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068812728979091950",
+    "in_reply_to_user_id": "1745844777772593152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068388831859265757",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QQdiaryyy 我来的话，可不是偷走两个那么简单！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068388811030384640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRkqjLb0AARnlO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2068388831859265757",
+        "created_at": "2026-06-21T21:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T22:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068812728979091950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1745844777772593152",
+              "start": 0,
+              "username": "QQdiaryyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068812728979091950",
+        "in_reply_to_user_id": "1745844777772593152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068388831859265757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QQdiaryyy 我来的话，可不是偷走两个那么简单！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068388811030384640"
+          ]
+        },
+        "author_id": "1745844777772593152",
+        "conversation_id": "2068388831859265757",
+        "created_at": "2026-06-20T17:41:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T18:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068388831859265757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D4SZWy2a9I",
+              "end": 41,
+              "expanded_url": "https://x.com/QQdiaryyy/status/2068388831859265757/photo/1",
+              "media_key": "3_2068388811030384640",
+              "start": 18,
+              "url": "https://t.co/D4SZWy2a9I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068388831859265757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6810,
+          "like_count": 165,
+          "quote_count": 0,
+          "reply_count": 55,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "谁不想急头白脸来我房间偷两个娃娃走 https://t.co/D4SZWy2a9I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 12,
+          "like_count": 1634,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 4471
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T16:26:55.000Z",
+        "description": "日本語を勉強している中国人の方です。もし私の文法の間違いに気づいたことがありましたら、ぜひ教えてください！",
+        "id": "1745844777772593152",
+        "location": "(*☻-☻*)",
+        "name": "QQ空间",
+        "pinned_tweet_id": "1904142594021675248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920480411588722688/Tzg7x_K3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3578,
+          "following_count": 834,
+          "like_count": 12877,
+          "listed_count": 13,
+          "media_count": 440,
+          "tweet_count": 5267
+        },
+        "url": "",
+        "username": "QQdiaryyy",
+        "verified": false
+      }
+    ]
+  }
+}

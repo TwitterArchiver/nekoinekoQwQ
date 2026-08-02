@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2033936223686037833",
+    "created_at": "2026-03-17T17:28:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T18:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033958606106960127"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2033958606106960127",
+    "in_reply_to_user_id": "1948326838125903872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033936223686037833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我说我想和好呀 你说你讨厌我 恨我 不喜欢我 不可能和好 就算我找你 你也只会说让我伤心的话 嗯 我现在听到这些 没什么波澜 我只是很沉默 我不知道说什么 我不知道怎么挽回你 你说我能不能不要那么幼稚 可是先夸我可爱的也是你 你不需要我这种 那你需要哪种呢 之前的吵架我以为会让我们感情更好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2033936223686037833",
+        "created_at": "2026-03-17T17:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T18:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033958606106960127"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033958606106960127",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033936223686037833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我说我想和好呀 你说你讨厌我 恨我 不喜欢我 不可能和好 就算我找你 你也只会说让我伤心的话 嗯 我现在听到这些 没什么波澜 我只是很沉默 我不知道说什么 我不知道怎么挽回你 你说我能不能不要那么幼稚 可是先夸我可爱的也是你 你不需要我这种 那你需要哪种呢 之前的吵架我以为会让我们感情更好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2033936223686037833",
+        "created_at": "2026-03-17T15:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T16:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033936223686037833"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033936223686037833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我甚至天真以为 只要我们分开一段时间去独自成长 或许我们还有以后"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 1,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 627
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

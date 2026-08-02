@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2033398089957192088",
+    "created_at": "2026-03-16T04:20:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T05:20:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033398089957192088"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/foroneinmyhear…",
+          "end": 103,
+          "expanded_url": "https://twitter.com/foroneinmyheart/status/2033233407384461759",
+          "start": 80,
+          "url": "https://t.co/CX1JOir7mk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033398089957192088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033233407384461759",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看到这个我真的哭了 当时问你为什么不愿意和好的时候 你和我说 我给你的爱不是你需要的 可是我也不知道爱是什么 我没得到过 我只是笨拙的模仿别人爱的样子 对你好 https://t.co/CX1JOir7mk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2033398089957192088",
+        "created_at": "2026-03-16T04:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T05:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033398089957192088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/foroneinmyhear…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/foroneinmyheart/status/2033233407384461759",
+              "start": 80,
+              "url": "https://t.co/CX1JOir7mk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033398089957192088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033233407384461759",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看到这个我真的哭了 当时问你为什么不愿意和好的时候 你和我说 我给你的爱不是你需要的 可是我也不知道爱是什么 我没得到过 我只是笨拙的模仿别人爱的样子 对你好 https://t.co/CX1JOir7mk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023094857947115521",
+        "conversation_id": "2033233407384461759",
+        "created_at": "2026-03-15T17:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T18:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033233407384461759"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033233407384461759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3517,
+          "like_count": 131,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "骗你的 我所有的爱和喜欢都是跟网上学的 我根本不知道什么是爱 小时候爸爸妈妈 外公外婆一直吵架 摔东西 所以我感受到你对我好的话 我也会对你好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 1,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 586
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-15T17:59:44.000Z",
+        "description": "一頭憂鬱的豬，特立獨行地看著這個讓人懵逼的世界。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gungun_rolling",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gungun_rolling",
+                "start": 0,
+                "url": "https://t.co/dMoSokvO26"
+              }
+            ]
+          }
+        },
+        "id": "2023094857947115521",
+        "location": "屠宰場",
+        "name": "悲情豬仔",
+        "pinned_tweet_id": "2026293891721470189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023095448756715520/k-OiJMGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1954,
+          "following_count": 61,
+          "like_count": 3110,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 1803
+        },
+        "url": "https://t.co/dMoSokvO26",
+        "username": "ForOneInMyHeart",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2064985117978972347",
+    "created_at": "2026-06-12T09:10:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T10:10:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065361099546075500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2063853982779609088",
+          "start": 0,
+          "username": "jsnbha"
+        },
+        {
+          "end": 22,
+          "id": "1876620610358652928",
+          "start": 8,
+          "username": "LiuGuanYi3366"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065361099546075500",
+    "in_reply_to_user_id": "2063853982779609088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065018647488454697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jsnbha @LiuGuanYi3366 谢谢呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2064985117978972347",
+        "created_at": "2026-06-12T09:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065361099546075500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2063853982779609088",
+              "start": 0,
+              "username": "jsnbha"
+            },
+            {
+              "end": 22,
+              "id": "1876620610358652928",
+              "start": 8,
+              "username": "LiuGuanYi3366"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065361099546075500",
+        "in_reply_to_user_id": "2063853982779609088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065018647488454697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jsnbha @LiuGuanYi3366 谢谢呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063853982779609088",
+        "conversation_id": "2064985117978972347",
+        "created_at": "2026-06-11T10:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T11:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065018647488454697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            },
+            {
+              "end": 28,
+              "id": "1876620610358652928",
+              "start": 14,
+              "username": "LiuGuanYi3366"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065018647488454697",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065017827619393552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ @LiuGuanYi3366 你也很可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 10,
+          "like_count": 1016,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 2731
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T05:22:14.000Z",
+        "description": "",
+        "id": "2063853982779609088",
+        "name": "js",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063859869967634432/Ebej0x6I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 65,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 310
+        },
+        "username": "jsnbha",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T13:23:44.000Z",
+        "description": "设计师 | 以为是天才交易员 | WEB3小学生 | 撸毛选手 | 抽象文学 | 普通人 | 梦想2030年前资产到A8",
+        "id": "1876620610358652928",
+        "name": "Hezy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972326415522844673/ZbYkdO_F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1976,
+          "following_count": 2184,
+          "like_count": 4287,
+          "listed_count": 8,
+          "media_count": 95,
+          "tweet_count": 1834
+        },
+        "username": "LiuGuanYi3366",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2064505385428623571",
+    "created_at": "2026-06-11T02:46:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T03:46:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064902144369844339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1962348645346639872",
+          "start": 0,
+          "username": "HowellLope"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064902144369844339",
+    "in_reply_to_user_id": "1962348645346639872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064613543232831856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HowellLope 对呀对呀，所以这个暑假我不准备考驾照，我将试着练习一下电动车"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2064505385428623571",
+        "created_at": "2026-06-11T02:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T03:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064902144369844339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1962348645346639872",
+              "start": 0,
+              "username": "HowellLope"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064902144369844339",
+        "in_reply_to_user_id": "1962348645346639872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064613543232831856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HowellLope 对呀对呀，所以这个暑假我不准备考驾照，我将试着练习一下电动车"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962348645346639872",
+        "conversation_id": "2064505385428623571",
+        "created_at": "2026-06-10T07:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T08:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064613543232831856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064613543232831856",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064505385428623571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 其实事实上我驾照也是才刚考完，大学期间看你大学的地方，我那边是一辆电动车就够了，远点的地方有地铁，其实不大用的上小车。如果你需要一些小假期出去自驾游的话那倒是需要个小车"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 10,
+          "like_count": 804,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 2438
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-01T02:56:07.000Z",
+        "description": "兴趣使然的普通人/情绪垃圾桶，喜欢运动(篮球羽毛球)，会画点画(真的就一点而且是以前的事)，打点游戏(单机游戏以及部分fps)，脾气应该算好(自认为)\n祝刷到我的和没有刷到我的人都生活愉快!感谢你看完我这个随便写的简介，陌生人，最后再祝你生活愉快!\n可以来找我聊天，我上线时间不定，如果真的有人的话我会尝试每天上线的🤗",
+        "id": "1962348645346639872",
+        "location": "China🇨🇳",
+        "name": "Alice",
+        "pinned_tweet_id": "2064479633987539220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977097366697394178/GxPEQR5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 18,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 124
+        },
+        "username": "HowellLope",
+        "verified": false
+      }
+    ]
+  }
+}

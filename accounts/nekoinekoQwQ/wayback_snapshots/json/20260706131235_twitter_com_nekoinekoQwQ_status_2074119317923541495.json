@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2074114021041786903",
+    "created_at": "2026-07-06T13:12:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T14:12:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074119317923541495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1977331200709595136",
+          "start": 0,
+          "username": "PhylissWei13477"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074119317923541495",
+    "in_reply_to_user_id": "1977331200709595136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074118903106773304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PhylissWei13477 今天不是我生日口牙 ，我朋友今天生日，也没人记得她生日，我是今天第一个跟她说生日快乐的，我有点触景生情 TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2074114021041786903",
+        "created_at": "2026-07-06T13:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T14:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074119317923541495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1977331200709595136",
+              "start": 0,
+              "username": "PhylissWei13477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074119317923541495",
+        "in_reply_to_user_id": "1977331200709595136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074118903106773304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PhylissWei13477 今天不是我生日口牙 ，我朋友今天生日，也没人记得她生日，我是今天第一个跟她说生日快乐的，我有点触景生情 TT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977331200709595136",
+        "conversation_id": "2074114021041786903",
+        "created_at": "2026-07-06T13:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T14:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074118903106773304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074118903106773304",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074114021041786903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 生日快乐喵！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 12,
+          "like_count": 1860,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 5005
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T11:11:11.000Z",
+        "description": "INFP/死人微活的高中生ʕ⁠´⁠•⁠ ⁠ᴥ⁠•̥⁠`⁠ʔ/对一切常规地球人类表示友好",
+        "id": "1977331200709595136",
+        "location": "ARC，Asdtruna",
+        "name": "Asdtruna.",
+        "pinned_tweet_id": "2006055508105650576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993011337593757697/QKux05BV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 129,
+          "like_count": 771,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 669
+        },
+        "url": "",
+        "username": "PhylissWei13477",
+        "verified": false
+      }
+    ]
+  }
+}

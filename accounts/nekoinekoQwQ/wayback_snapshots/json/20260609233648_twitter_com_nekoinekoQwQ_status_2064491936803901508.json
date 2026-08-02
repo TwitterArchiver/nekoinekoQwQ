@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2064491936803901508",
+    "created_at": "2026-06-09T23:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T00:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064491936803901508"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nekoinekoqwq/s…",
+          "end": 90,
+          "expanded_url": "https://twitter.com/nekoinekoqwq/status/2064490732489216332",
+          "start": 67,
+          "url": "https://t.co/3FXs1JyoFC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064491936803901508",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064490732489216332",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我刚刚明明回复了一个人，然后现在又不能回复，推特什么意思呀，我去，干嘛呀啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊 https://t.co/3FXs1JyoFC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2064491936803901508",
+        "created_at": "2026-06-09T23:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T00:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064491936803901508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nekoinekoqwq/s…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/nekoinekoqwq/status/2064490732489216332",
+              "start": 67,
+              "url": "https://t.co/3FXs1JyoFC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064491936803901508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064490732489216332",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我刚刚明明回复了一个人，然后现在又不能回复，推特什么意思呀，我去，干嘛呀啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊 https://t.co/3FXs1JyoFC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2064490732489216332",
+        "created_at": "2026-06-09T23:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T00:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064490732489216332"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064490732489216332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我能回复了，好耶，等我晚点好好回复大家，现在就是单纯的要去死人学校"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 8,
+          "like_count": 559,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 2372
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

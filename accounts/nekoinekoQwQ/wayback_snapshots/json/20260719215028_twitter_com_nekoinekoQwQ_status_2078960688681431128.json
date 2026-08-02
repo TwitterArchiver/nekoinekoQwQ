@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2074663995034959978",
+    "created_at": "2026-07-19T21:50:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T22:50:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078960688681431128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1766382316853530624",
+          "start": 0,
+          "username": "IdrishNaka1451"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078960688681431128",
+    "in_reply_to_user_id": "1766382316853530624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078958490777977053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IdrishNaka1451 感觉好累呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2074663995034959978",
+        "created_at": "2026-07-19T21:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T22:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078960688681431128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1766382316853530624",
+              "start": 0,
+              "username": "IdrishNaka1451"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078960688681431128",
+        "in_reply_to_user_id": "1766382316853530624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078958490777977053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IdrishNaka1451 感觉好累呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766382316853530624",
+        "conversation_id": "2074663995034959978",
+        "created_at": "2026-07-19T21:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T22:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078958490777977053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078958490777977053",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078677703860060321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 花四个小时通关一次已倒下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 10,
+          "like_count": 1941,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 5422
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T08:36:01.000Z",
+        "description": "赛博精神病｜INFP｜夜猫子｜偶尔发发推特空间｜多变｜",
+        "id": "1766382316853530624",
+        "name": "亦忻忻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076056316951556096/FhSksR9Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 81,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 496
+        },
+        "url": "",
+        "username": "IdrishNaka1451",
+        "verified": false
+      }
+    ]
+  }
+}

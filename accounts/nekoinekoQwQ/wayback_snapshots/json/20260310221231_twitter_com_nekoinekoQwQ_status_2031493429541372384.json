@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2031493429541372384",
+    "created_at": "2026-03-10T22:12:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T23:12:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031493429541372384"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2031493429541372384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "˶ｰ`֊´ｰ。\n我能听到楼下汽车的轰鸣声 夜晚 安静又寂寞 蜷着身子躺在床上 又一次 带着湿热的泪水 划过脸颊 融入枕头 带走我一丝悲伤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2031493429541372384",
+        "created_at": "2026-03-10T22:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T23:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031493429541372384"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031493429541372384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "˶ｰ`֊´ｰ。\n我能听到楼下汽车的轰鸣声 夜晚 安静又寂寞 蜷着身子躺在床上 又一次 带着湿热的泪水 划过脸颊 融入枕头 带走我一丝悲伤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 1,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 338
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

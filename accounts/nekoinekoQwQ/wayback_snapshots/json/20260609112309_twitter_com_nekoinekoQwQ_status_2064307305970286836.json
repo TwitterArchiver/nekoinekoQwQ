@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2064297573800984736",
+    "created_at": "2026-06-09T11:23:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T12:23:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064307305970286836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1925081024398303232",
+          "start": 0,
+          "username": "RAVEN_521_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064307305970286836",
+    "in_reply_to_user_id": "1925081024398303232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064305935510814774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RAVEN_521_ 好哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2064297573800984736",
+        "created_at": "2026-06-09T11:23:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064307305970286836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1925081024398303232",
+              "start": 0,
+              "username": "RAVEN_521_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064307305970286836",
+        "in_reply_to_user_id": "1925081024398303232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064305935510814774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RAVEN_521_ 好哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1925081024398303232",
+        "conversation_id": "2064297573800984736",
+        "created_at": "2026-06-09T11:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064305935510814774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064305935510814774",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064297573800984736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 恭喜恭喜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 4,
+          "like_count": 527,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 2204
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-21T06:48:38.000Z",
+        "description": "intp infp intj-T,温和的建构主义者，传统教徒，炼金术士，overday爱好者，重力宅，无性别主义实用派，铁直，水_镜",
+        "id": "1925081024398303232",
+        "location": "新地球",
+        "name": "E GO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981698819310895105/QhR2LGK4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 14,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 365
+        },
+        "username": "RAVEN_521_",
+        "verified": false
+      }
+    ]
+  }
+}

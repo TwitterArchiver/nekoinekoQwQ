@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065378893243285738",
+    "created_at": "2026-06-12T10:23:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T11:23:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065379477232984071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2050952930291802112",
+          "start": 0,
+          "username": "xuexiaojinbuq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065379477232984071",
+    "in_reply_to_user_id": "2050952930291802112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065379320181498038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuexiaojinbuq 哎，我会努力锻炼，控制住我的嘴巴的🤐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065378893243285738",
+        "created_at": "2026-06-12T10:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065379477232984071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2050952930291802112",
+              "start": 0,
+              "username": "xuexiaojinbuq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065379477232984071",
+        "in_reply_to_user_id": "2050952930291802112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065379320181498038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuexiaojinbuq 哎，我会努力锻炼，控制住我的嘴巴的🤐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050952930291802112",
+        "conversation_id": "2065378893243285738",
+        "created_at": "2026-06-12T10:22:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:22:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065379320181498038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065379320181498038",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065378893243285738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 除非你不吃好吃的，不然很难"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 10,
+          "like_count": 1033,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 2765
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T14:57:56.000Z",
+        "description": "无",
+        "id": "2050952930291802112",
+        "name": "千辛万苦来阅色",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050953601410121729/GHADAX-Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 123,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 201
+        },
+        "username": "xuexiaojinbuq",
+        "verified": false
+      }
+    ]
+  }
+}

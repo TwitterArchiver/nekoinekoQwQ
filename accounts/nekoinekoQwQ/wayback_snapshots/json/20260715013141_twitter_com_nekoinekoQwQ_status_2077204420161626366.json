@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2077160140860719477",
+    "created_at": "2026-07-15T01:31:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T02:31:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077204420161626366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2991591676",
+          "start": 0,
+          "username": "tomczhen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077204420161626366",
+    "in_reply_to_user_id": "2991591676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077199645730816424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tomczhen 耳夹款式没有耳钉多我感觉，没事的，我已经决定要去了，到时候就回来哭着跟推友说有多痛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2077160140860719477",
+        "created_at": "2026-07-15T01:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T02:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077204420161626366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2991591676",
+              "start": 0,
+              "username": "tomczhen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077204420161626366",
+        "in_reply_to_user_id": "2991591676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077199645730816424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tomczhen 耳夹款式没有耳钉多我感觉，没事的，我已经决定要去了，到时候就回来哭着跟推友说有多痛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2991591676",
+        "conversation_id": "2077160140860719477",
+        "created_at": "2026-07-15T01:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T02:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077199645730816424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077199645730816424",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077160140860719477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 耳钉的话有那种不需要打洞的款式吧，痛倒是其次，感觉各种感染风险挺高的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 10,
+          "like_count": 1942,
+          "listed_count": 0,
+          "media_count": 207,
+          "tweet_count": 5373
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-22T05:54:26.000Z",
+        "description": "肥而不腻的中年社畜，与赌毒不共戴天。",
+        "id": "2991591676",
+        "location": "牛马之都",
+        "name": "Tom CzHen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/568282209165901824/OjaB4tie_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 9,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 338
+        },
+        "url": "",
+        "username": "tomczhen",
+        "verified": true
+      }
+    ]
+  }
+}

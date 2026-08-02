@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2080964601257279677",
+    "created_at": "2026-07-25T11:28:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T12:28:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080978504846631392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2991591676",
+          "start": 0,
+          "username": "tomczhen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080978504846631392",
+    "in_reply_to_user_id": "2991591676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080976265205657784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tomczhen 我真的觉得很矛盾，我能理解她对我的关心，但是她明明不是古板的人，她之前耳朵也打过很多洞，也喜欢做医美和美甲，放到我身上就不行了，并且就算我没打耳洞，她也喜欢贬低我，之前就是，贬低完还喜欢加一句你是不是觉得自己很厉害。只要我脱离她的掌控，她就要做点事情找回她的掌控感。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2080964601257279677",
+        "created_at": "2026-07-25T11:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080978504846631392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2991591676",
+              "start": 0,
+              "username": "tomczhen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080978504846631392",
+        "in_reply_to_user_id": "2991591676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080976265205657784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tomczhen 我真的觉得很矛盾，我能理解她对我的关心，但是她明明不是古板的人，她之前耳朵也打过很多洞，也喜欢做医美和美甲，放到我身上就不行了，并且就算我没打耳洞，她也喜欢贬低我，之前就是，贬低完还喜欢加一句你是不是觉得自己很厉害。只要我脱离她的掌控，她就要做点事情找回她的掌控感。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2991591676",
+        "conversation_id": "2080964601257279677",
+        "created_at": "2026-07-25T11:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080976265205657784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080976265205657784",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080964601257279677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 从别人手里拿钱是这样的，以后打工了也得看老板脸色，不能拿钱的时候说因为是子女所以父母就有给钱的义务，在被父母约束的时候又来谈独立人格。至于穿刺也确实在社会中存在刻板印象，只能说追求个性化就得面临这种问题。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 10,
+          "like_count": 1963,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 5595
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-22T05:54:26.000Z",
+        "description": "肥而不腻的中年社畜，与赌毒不共戴天。",
+        "id": "2991591676",
+        "location": "牛马之都",
+        "name": "Tom CzHen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/568282209165901824/OjaB4tie_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 11,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 460
+        },
+        "url": "",
+        "username": "tomczhen",
+        "verified": true
+      }
+    ]
+  }
+}

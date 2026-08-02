@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2063213399727825236",
+    "created_at": "2026-06-06T11:03:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T12:03:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063215105672937675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1829546019589382145",
+          "start": 0,
+          "username": "zuyu254143"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063215105672937675",
+    "in_reply_to_user_id": "1829546019589382145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063214622388445272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuyu254143 我倒是无所谓，发推特初衷是为了能发泄一下自己的情绪😣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2063213399727825236",
+        "created_at": "2026-06-06T11:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063215105672937675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1829546019589382145",
+              "start": 0,
+              "username": "zuyu254143"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063215105672937675",
+        "in_reply_to_user_id": "1829546019589382145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063214622388445272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuyu254143 我倒是无所谓，发推特初衷是为了能发泄一下自己的情绪😣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829546019589382145",
+        "conversation_id": "2063213399727825236",
+        "created_at": "2026-06-06T11:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063214622388445272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063214622388445272",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063213399727825236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 我视频软件天天嫌弃没人关注，因为没到粉丝数量没法吃到一些游戏福利哭了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CH",
+              "full_name": "Zürich, Zurich, Switzerland",
+              "geo": {
+                "coordinates": [
+                  8.55,
+                  47.36667
+                ],
+                "type": "Point"
+              },
+              "locality": "Zürich",
+              "region": "Zurich",
+              "sub_region": "Bezirk Zürich"
+            }
+          ]
+        },
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "id": "1948326838125903872",
+        "location": "世界",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 2,
+          "like_count": 311,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1932
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T15:46:36.000Z",
+        "description": "",
+        "id": "1829546019589382145",
+        "location": "America",
+        "name": "左右",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830643939721805824/r_Ne7sjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 2645,
+          "like_count": 4261,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 309
+        },
+        "username": "zuyu254143",
+        "verified": false
+      }
+    ]
+  }
+}

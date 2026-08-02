@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065266140662939824",
+    "created_at": "2026-06-12T03:48:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T04:48:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065280077324247224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1774811478480101377",
+          "start": 0,
+          "username": "MinserSurx29711"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065280077324247224",
+    "in_reply_to_user_id": "1774811478480101377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065279798407225573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MinserSurx29711 我是刷到了别的老师的分享，顺便点进了链接，你可以直接在推特的搜索框，搜推特互动圈，应该能直接看到链接🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065266140662939824",
+        "created_at": "2026-06-12T03:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T04:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065280077324247224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1774811478480101377",
+              "start": 0,
+              "username": "MinserSurx29711"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065280077324247224",
+        "in_reply_to_user_id": "1774811478480101377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065279798407225573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinserSurx29711 我是刷到了别的老师的分享，顺便点进了链接，你可以直接在推特的搜索框，搜推特互动圈，应该能直接看到链接🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774811478480101377",
+        "conversation_id": "2065266140662939824",
+        "created_at": "2026-06-12T03:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T04:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065279798407225573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065279798407225573",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065266140662939824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 那个圈在哪看呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 10,
+          "like_count": 980,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 2664
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T14:50:25.000Z",
+        "description": "✈️已飞0国|🎓清华北大没考 |🏆诺贝尔奖觊觎者|🇨🇳 华籍华人|国家级身份证持有者|PDD资深买家\n精通简体中文（中国）、简体中文（马来西亚）、简体中文（新加坡）、繁體中文（中國香港）、繁體中文（中國澳門）、正體中文（中華民國台灣）、English (UK), English (US) 等多種语言",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "genyuu.com",
+                "end": 23,
+                "expanded_url": "https://www.genyuu.com",
+                "start": 0,
+                "url": "https://t.co/j74KXgxP4n"
+              }
+            ]
+          }
+        },
+        "id": "1774811478480101377",
+        "location": "玄幽帝国",
+        "name": "幽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051293706507169792/3xL8uExO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 69,
+          "like_count": 1413,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 119
+        },
+        "url": "https://t.co/j74KXgxP4n",
+        "username": "MinserSurx29711",
+        "verified": false
+      }
+    ]
+  }
+}

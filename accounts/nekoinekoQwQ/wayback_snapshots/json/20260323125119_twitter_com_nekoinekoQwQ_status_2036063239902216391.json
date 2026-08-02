@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2035965567841214770",
+    "created_at": "2026-03-23T12:51:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T13:51:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036063239902216391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "49529675",
+          "start": 0,
+          "username": "_arrr_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036063239902216391",
+    "in_reply_to_user_id": "49529675",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035965567841214770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_arrr_ 安心😌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2035965543099056128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEEz39tawAAxoY5.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2035965567841214770",
+        "created_at": "2026-03-23T12:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T13:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036063239902216391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "49529675",
+              "start": 0,
+              "username": "_arrr_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036063239902216391",
+        "in_reply_to_user_id": "49529675",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035965567841214770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_arrr_ 安心😌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035965543099056128"
+          ]
+        },
+        "author_id": "49529675",
+        "conversation_id": "2035965567841214770",
+        "created_at": "2026-03-23T06:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T07:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035965567841214770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SAkbssoUk3",
+              "end": 23,
+              "expanded_url": "https://x.com/_arrr_/status/2035965567841214770/photo/1",
+              "media_key": "3_2035965543099056128",
+              "start": 0,
+              "url": "https://t.co/SAkbssoUk3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035965567841214770",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 474,
+          "like_count": 134,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SAkbssoUk3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 1,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 827
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-22T03:57:20.000Z",
+        "description": "空を見上げていたい☀️🌈📸　　　      　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　\n今出来ることなるべくやり遂げたい💡\n\n去るも地獄 残るも地獄\n次に向かう…\n面倒くさ…",
+        "id": "49529675",
+        "location": "長野県小諸市",
+        "name": "あるる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917346433176666112/SHamqfHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 540,
+          "like_count": 61565,
+          "listed_count": 10,
+          "media_count": 293,
+          "tweet_count": 1981
+        },
+        "username": "_arrr_",
+        "verified": false
+      }
+    ]
+  }
+}

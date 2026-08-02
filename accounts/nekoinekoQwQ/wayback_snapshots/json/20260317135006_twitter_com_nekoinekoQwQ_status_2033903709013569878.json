@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2033903709013569878",
+    "created_at": "2026-03-17T13:50:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T14:50:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033903709013569878"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2033903709013569878",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "关于过程重要 还是结果重要这个论题 我一直是结果派 没有结果为什么要相遇 就算说有美好的记忆 相爱过 那不是永远又有什么意义 从遇到你就要开始倒计时的话 我宁愿和你没有任何瓜葛 永远都是陌生人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2033903709013569878",
+        "created_at": "2026-03-17T13:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T14:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033903709013569878"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033903709013569878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于过程重要 还是结果重要这个论题 我一直是结果派 没有结果为什么要相遇 就算说有美好的记忆 相爱过 那不是永远又有什么意义 从遇到你就要开始倒计时的话 我宁愿和你没有任何瓜葛 永远都是陌生人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 1,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 616
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

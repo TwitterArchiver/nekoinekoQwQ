@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2066698509852496183",
+    "created_at": "2026-06-16T04:27:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T05:27:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066739387585708427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2062206747247534080",
+          "start": 0,
+          "username": "Zheergen444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066739387585708427",
+    "in_reply_to_user_id": "2062206747247534080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066698509852496183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zheergen444 内圈口牙(⋟﹏⋞)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2066698506237022208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK5jV3IWkAAaZap.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2066698509852496183",
+        "created_at": "2026-06-16T04:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T05:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066739387585708427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2062206747247534080",
+              "start": 0,
+              "username": "Zheergen444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066739387585708427",
+        "in_reply_to_user_id": "2062206747247534080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066698509852496183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zheergen444 内圈口牙(⋟﹏⋞)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066698506237022208"
+          ]
+        },
+        "author_id": "2062206747247534080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2066698509852496183",
+        "created_at": "2026-06-16T01:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T02:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066698509852496183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2066391841516199936/zl74XLSB?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2066391841516199936/zl74XLSB?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/pEVUGkeBoJ"
+            },
+            {
+              "display_url": "pic.x.com/VE2v9Ca1pV",
+              "end": 64,
+              "expanded_url": "https://x.com/Zheergen444/status/2066698509852496183/photo/1",
+              "media_key": "3_2066698506237022208",
+              "start": 41,
+              "url": "https://t.co/VE2v9Ca1pV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066698509852496183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/pEVUGkeBoJ https://t.co/VE2v9Ca1pV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 10,
+          "like_count": 1478,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 3664
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-03T16:17:56.000Z",
+        "description": "很无聊，想出去拍照",
+        "id": "2062206747247534080",
+        "name": "阿怪想吃千层糕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062209402816667648/7h7-gXFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 66,
+          "like_count": 1467,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 575
+        },
+        "username": "Zheergen444",
+        "verified": false
+      }
+    ]
+  }
+}

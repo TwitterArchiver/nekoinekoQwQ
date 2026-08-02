@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2031761673057620268",
+    "created_at": "2026-03-12T15:20:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T16:20:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032114569037156706"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2032114569037156706",
+    "in_reply_to_user_id": "1948326838125903872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031761673057620268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我又想起来 你到后面回答我问题时不耐烦的语气 我问你是不是觉得不耐烦 你说你没有 我说那你是害羞么 你同意了这个说法 现在想想好像在骗我诶 只是单纯觉得我烦吧 我对你的滤镜好重 你已经不愿意为我付出任何东西了 我的钝感力一直都很强 我不是故意的 我只是想要很简单的幸福 你说我傻可我只对你天真"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2031761673057620268",
+        "created_at": "2026-03-12T15:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032114569037156706"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032114569037156706",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031761673057620268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我又想起来 你到后面回答我问题时不耐烦的语气 我问你是不是觉得不耐烦 你说你没有 我说那你是害羞么 你同意了这个说法 现在想想好像在骗我诶 只是单纯觉得我烦吧 我对你的滤镜好重 你已经不愿意为我付出任何东西了 我的钝感力一直都很强 我不是故意的 我只是想要很简单的幸福 你说我傻可我只对你天真"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2031761673057620268",
+        "created_at": "2026-03-11T15:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T16:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031761673057620268"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031761673057620268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我其实觉得离开我的人 留给我的记忆 以及我身上存在着和对方相同的习惯很讨厌 这会让我想起曾经 但是过去的事 我不想再回忆 今天听歌听到自己歌单里好多首歌都是听了对方歌单点赞的 又想到之前把对方歌单听完了 好蠢 这种类型的事情我做的太多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 1,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 469
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

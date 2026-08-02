@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2037191290044182637",
+    "created_at": "2026-03-27T05:13:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T06:13:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037397525788086427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1979917758415646720",
+          "start": 0,
+          "username": "RuriiroTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037397525788086427",
+    "in_reply_to_user_id": "1979917758415646720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037191290044182637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RuriiroTvT 感谢推特🤲🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2037191290044182637",
+        "created_at": "2026-03-27T05:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T06:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037397525788086427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1979917758415646720",
+              "start": 0,
+              "username": "RuriiroTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037397525788086427",
+        "in_reply_to_user_id": "1979917758415646720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037191290044182637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RuriiroTvT 感谢推特🤲🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979917758415646720",
+        "conversation_id": "2037191290044182637",
+        "created_at": "2026-03-26T15:33:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T16:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037191290044182637"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037191290044182637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 417,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感恩推特让我有了个说废话的地方且收获到了很多善意 也恨推特让我遇到了许多贱人每每回想起来就恶心得要命 但我实在不知道还能有哪个平台可以让我随意发疯 其实感觉最近的精神状态又不稳定了 总是爱多想乱想 什么时候才能幸福呢 唉唉幸福还是太难了 还是问什么时候才能死吧 老己我是世上最想杀死你的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 1,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 1039
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-19T14:29:21.000Z",
+        "description": "此账号全是废话/不要弃养小猫/我想要好多好多钱     不回非粉私信/发屌的全家暴毙/取关屏蔽随意",
+        "id": "1979917758415646720",
+        "location": "🚪520",
+        "name": "🐱",
+        "pinned_tweet_id": "2027035977089482856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979933527807279105/LT9GOVZS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 85,
+          "like_count": 92,
+          "listed_count": 2,
+          "media_count": 575,
+          "tweet_count": 4709
+        },
+        "username": "RuriiroTvT",
+        "verified": false
+      }
+    ]
+  }
+}

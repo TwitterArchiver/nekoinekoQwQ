@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2064742716458881495",
+    "created_at": "2026-06-11T14:31:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T15:31:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065079469606592918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810916896625315840",
+          "start": 0,
+          "username": "FrozSalmon0214"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065079469606592918",
+    "in_reply_to_user_id": "1810916896625315840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064742716458881495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FrozSalmon0214 这个青椒是辣的还是不辣的呀？土豆是脆的还是糯的？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2064742706828779520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdwjWkboAAjiVk.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2064742706824564736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdwjWjbUAA_bnR.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2064742716458881495",
+        "created_at": "2026-06-11T14:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065079469606592918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810916896625315840",
+              "start": 0,
+              "username": "FrozSalmon0214"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065079469606592918",
+        "in_reply_to_user_id": "1810916896625315840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064742716458881495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrozSalmon0214 这个青椒是辣的还是不辣的呀？土豆是脆的还是糯的？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064742706828779520",
+            "3_2064742706824564736"
+          ]
+        },
+        "author_id": "1810916896625315840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064742716458881495",
+        "created_at": "2026-06-10T16:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T17:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064742716458881495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U4a1m96RlS",
+              "end": 44,
+              "expanded_url": "https://x.com/FrozSalmon0214/status/2064742716458881495/photo/1",
+              "media_key": "3_2064742706828779520",
+              "start": 21,
+              "url": "https://t.co/U4a1m96RlS"
+            },
+            {
+              "display_url": "pic.x.com/U4a1m96RlS",
+              "end": 44,
+              "expanded_url": "https://x.com/FrozSalmon0214/status/2064742716458881495/photo/1",
+              "media_key": "3_2064742706824564736",
+              "start": 21,
+              "url": "https://t.co/U4a1m96RlS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064742716458881495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 383,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中午的菜！今天心情不太好所以没有来得及发 https://t.co/U4a1m96RlS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 10,
+          "like_count": 864,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 2620
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T06:00:17.000Z",
+        "description": "05水瓶做饭博主｜男的｜音乐师范生｜有打apex和csgo的可以和我一起玩｜互关可以找我要微信，每天不定期投喂大家我做的饭｜喜欢我的可以更喜欢我了，不喜欢我的可以在喜欢我的路上了｜这我小弟👉@jellysalm ｜匿名信箱👉https://t.co/BD92iAJmjn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 95,
+                "username": "jellysalm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/olivera0502141",
+                "end": 135,
+                "expanded_url": "https://ngl.link/olivera0502141",
+                "start": 112,
+                "url": "https://t.co/BD92iAJmjn"
+              }
+            ]
+          }
+        },
+        "id": "1810916896625315840",
+        "name": "冷冻三文鱼🐟",
+        "pinned_tweet_id": "1981690191623622906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007051304699662336/uv1ySx7V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 352,
+          "like_count": 22753,
+          "listed_count": 2,
+          "media_count": 725,
+          "tweet_count": 23120
+        },
+        "username": "FrozSalmon0214",
+        "verified": false
+      }
+    ]
+  }
+}

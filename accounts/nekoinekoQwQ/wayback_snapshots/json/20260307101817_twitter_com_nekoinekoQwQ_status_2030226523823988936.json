@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2030219013616271523",
+    "created_at": "2026-03-07T10:18:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T11:18:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030226523823988936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1983486301346381824",
+          "start": 0,
+          "username": "Listensean"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030226523823988936",
+    "in_reply_to_user_id": "1983486301346381824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030219013616271523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Listensean 我也是这样，这种情况好像要先买国外ID，然后把原本的软件删掉再下载？。我还没试过"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1396,
+        "media_key": "3_2030219002564501504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCzJbSAa4AACxCK.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2030219013616271523",
+        "created_at": "2026-03-07T10:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T11:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030226523823988936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1983486301346381824",
+              "start": 0,
+              "username": "Listensean"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030226523823988936",
+        "in_reply_to_user_id": "1983486301346381824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030219013616271523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Listensean 我也是这样，这种情况好像要先买国外ID，然后把原本的软件删掉再下载？。我还没试过"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030219002564501504"
+          ]
+        },
+        "author_id": "1983486301346381824",
+        "conversation_id": "2030219013616271523",
+        "created_at": "2026-03-07T09:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T10:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030219013616271523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Avs4br0y44",
+              "end": 47,
+              "expanded_url": "https://x.com/Listensean/status/2030219013616271523/photo/1",
+              "media_key": "3_2030219002564501504",
+              "start": 24,
+              "url": "https://t.co/Avs4br0y44"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030219013616271523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人懂这是为啥吗？我都看不到别人给我回复信息了 https://t.co/Avs4br0y44"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 126
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-29T10:49:28.000Z",
+        "description": "命如薄纸",
+        "id": "1983486301346381824",
+        "name": "Zero",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000267071532290054/PCBt3-UA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 18,
+          "like_count": 77,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 575
+        },
+        "username": "Listensean",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2035892027511185632",
+    "created_at": "2026-03-23T10:09:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T11:09:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036022568315216332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1889273834479693824",
+          "start": 0,
+          "username": "xvxnuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036022568315216332",
+    "in_reply_to_user_id": "1889273834479693824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035892027511185632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xvxnuo 嘎达嘎达"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2035892027511185632",
+        "created_at": "2026-03-23T10:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T11:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036022568315216332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1889273834479693824",
+              "start": 0,
+              "username": "xvxnuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036022568315216332",
+        "in_reply_to_user_id": "1889273834479693824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035892027511185632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xvxnuo 嘎达嘎达"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889273834479693824",
+        "conversation_id": "2035892027511185632",
+        "created_at": "2026-03-23T01:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T02:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035892027511185632"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035892027511185632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 926,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一生一世一双人 一噶一哒一蛋仔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 1,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 804
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T11:22:47.000Z",
+        "description": "我和你有什么好说的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xnuo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xnuo1",
+                "start": 0,
+                "url": "https://t.co/MGovzs8e0S"
+              }
+            ]
+          }
+        },
+        "id": "1889273834479693824",
+        "name": "诺诺许",
+        "pinned_tweet_id": "2034655102087377058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033561095701700608/TKyCQp8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1333,
+          "following_count": 43,
+          "like_count": 18624,
+          "listed_count": 5,
+          "media_count": 157,
+          "tweet_count": 5023
+        },
+        "url": "https://t.co/MGovzs8e0S",
+        "username": "xvxnuo",
+        "verified": false
+      }
+    ]
+  }
+}

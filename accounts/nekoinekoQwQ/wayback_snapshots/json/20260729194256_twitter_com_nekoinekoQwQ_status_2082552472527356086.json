@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2082552472527356086",
+    "created_at": "2026-07-29T19:42:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T20:42:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082552472527356086"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082552472527356086",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人老了做什么都心酸，朋友前几天眼镜镜片掉了，他当时跟我说自己按了半天，我还以为装回去了，直到今天我小发雷霆问他是不是不想跟我玩游戏的时候，他才跟我说，其实是因为自己的眼睛镜片没放回去，只能刷弱智小视频，感觉好可怜啊，于是我决定不小发雷霆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2082552472527356086",
+        "created_at": "2026-07-29T19:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T20:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082552472527356086"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082552472527356086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人老了做什么都心酸，朋友前几天眼镜镜片掉了，他当时跟我说自己按了半天，我还以为装回去了，直到今天我小发雷霆问他是不是不想跟我玩游戏的时候，他才跟我说，其实是因为自己的眼睛镜片没放回去，只能刷弱智小视频，感觉好可怜啊，于是我决定不小发雷霆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 10,
+          "like_count": 2021,
+          "listed_count": 0,
+          "media_count": 219,
+          "tweet_count": 6082
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

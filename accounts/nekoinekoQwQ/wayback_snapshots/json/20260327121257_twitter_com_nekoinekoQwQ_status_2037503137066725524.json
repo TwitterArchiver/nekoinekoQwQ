@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2037494006410838171",
+    "created_at": "2026-03-27T12:12:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T13:12:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037503137066725524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1507375433368719366",
+          "start": 0,
+          "username": "Ggg34169790wa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037503137066725524",
+    "in_reply_to_user_id": "1507375433368719366",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037494006410838171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ggg34169790wa 和鸡蛋灌饼一样伟大的存在"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037494003336404992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEaiADza4AAusI1.jpg",
+        "width": 1812
+      },
+      {
+        "height": 1362,
+        "media_key": "3_2037494002652725248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEaiABQawAAQ-Ox.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2037494006410838171",
+        "created_at": "2026-03-27T12:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T13:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037503137066725524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1507375433368719366",
+              "start": 0,
+              "username": "Ggg34169790wa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037503137066725524",
+        "in_reply_to_user_id": "1507375433368719366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037494006410838171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ggg34169790wa 和鸡蛋灌饼一样伟大的存在"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037494003336404992",
+            "3_2037494002652725248"
+          ]
+        },
+        "author_id": "1507375433368719366",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2037494006410838171",
+        "created_at": "2026-03-27T11:36:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T12:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037494006410838171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xz5FTlc3DV",
+              "end": 74,
+              "expanded_url": "https://x.com/Ggg34169790wa/status/2037494006410838171/photo/1",
+              "media_key": "3_2037494003336404992",
+              "start": 51,
+              "url": "https://t.co/xz5FTlc3DV"
+            },
+            {
+              "display_url": "pic.x.com/xz5FTlc3DV",
+              "end": 74,
+              "expanded_url": "https://x.com/Ggg34169790wa/status/2037494006410838171/photo/1",
+              "media_key": "3_2037494002652725248",
+              "start": 51,
+              "url": "https://t.co/xz5FTlc3DV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037494006410838171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 305,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "此等美味只需10块钱！能当饭吃饱饱了！！在福师大美食街！都给我去吃！（刚刚忘记给人打码了 重新发😋） https://t.co/xz5FTlc3DV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 1,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 1071
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T15:14:56.000Z",
+        "description": "俺不中了3.0 @abzl3_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "abzl3_0"
+              }
+            ]
+          }
+        },
+        "id": "1507375433368719366",
+        "location": "infp 金牛座",
+        "name": "俺不中了",
+        "pinned_tweet_id": "2022199081247150290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032961979992911872/S9hYQY6d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 390,
+          "like_count": 11442,
+          "listed_count": 3,
+          "media_count": 129,
+          "tweet_count": 2599
+        },
+        "username": "Ggg34169790wa",
+        "verified": false
+      }
+    ]
+  }
+}

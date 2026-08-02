@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2066386027363868905",
+    "created_at": "2026-06-15T16:12:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T17:12:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066554384990019689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2055907554870583296",
+          "start": 0,
+          "username": "6_s_v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066554384990019689",
+    "in_reply_to_user_id": "2055907554870583296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066554209424834867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6_s_v 你，可爱(๑•.•๑)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2066554204114829312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3gGX1awAAc6vS.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2066386027363868905",
+        "created_at": "2026-06-15T16:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T17:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066554384990019689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2055907554870583296",
+              "start": 0,
+              "username": "6_s_v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066554384990019689",
+        "in_reply_to_user_id": "2055907554870583296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066554209424834867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6_s_v 你，可爱(๑•.•๑)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066554204114829312"
+          ]
+        },
+        "author_id": "2055907554870583296",
+        "conversation_id": "2066386027363868905",
+        "created_at": "2026-06-15T16:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T17:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066554209424834867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QIr0pglN8C",
+              "end": 42,
+              "expanded_url": "https://x.com/6_s_v/status/2066554209424834867/photo/1",
+              "media_key": "3_2066554204114829312",
+              "start": 19,
+              "url": "https://t.co/QIr0pglN8C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066554209424834867",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066386027363868905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 你，可爱 https://t.co/QIr0pglN8C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 10,
+          "like_count": 1444,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 3576
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T07:06:00.000Z",
+        "description": "正在学习说话",
+        "id": "2055907554870583296",
+        "name": "6sv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064582727194812416/efMkYIID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 63,
+          "like_count": 934,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 269
+        },
+        "username": "6_s_v",
+        "verified": false
+      }
+    ]
+  }
+}

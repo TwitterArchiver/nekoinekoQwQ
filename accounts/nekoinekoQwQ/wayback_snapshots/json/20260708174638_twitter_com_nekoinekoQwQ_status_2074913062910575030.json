@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2074875973565284405",
+    "created_at": "2026-07-08T17:46:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T18:46:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074913062910575030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2017413778036690946",
+          "start": 0,
+          "username": "ttkx8851"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074913062910575030",
+    "in_reply_to_user_id": "2017413778036690946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074911374552232004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ttkx8851 你说出了哲理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2074875973565284405",
+        "created_at": "2026-07-08T17:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T18:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074913062910575030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2017413778036690946",
+              "start": 0,
+              "username": "ttkx8851"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074913062910575030",
+        "in_reply_to_user_id": "2017413778036690946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074911374552232004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ttkx8851 你说出了哲理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017413778036690946",
+        "conversation_id": "2074875973565284405",
+        "created_at": "2026-07-08T17:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T18:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074911374552232004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074911374552232004",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074875973565284405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 朋友只是你路上的风景，不需要刻意去找，不要去迎合风景，风景不会因为你的迎合会更好或者更差，风景只会像石头一样，待在原地毫无变化"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 12,
+          "like_count": 1878,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 5077
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-31T01:45:24.000Z",
+        "description": "✈️已飞0个国家｜🇨🇳留子 ｜加里敦offer ｜男女混血｜华籍华人｜🌎梦想是环游世界｜\n 💵个人存款0.0000001百万｜座驾🐃\n🥇PDD资深买手｜🎫 Imxbc品鉴师 ｜雅思托福没考｜清华北大没上\n💳国家级证件持有者 ｜🏆诺贝尔物理学奖觊觎者 \n商务合作:合作 s\n 熟练掌握🇨🇳语言｜",
+        "id": "2017413778036690946",
+        "location": "Japan",
+        "name": "天黄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026507182876012549/SlyhJq17_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 21,
+          "like_count": 300,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 136
+        },
+        "url": "",
+        "username": "ttkx8851",
+        "verified": false
+      }
+    ]
+  }
+}

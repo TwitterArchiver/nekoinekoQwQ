@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2082145513709908384",
+    "created_at": "2026-07-29T15:15:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T16:15:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082485110012797121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2029363222890070016",
+          "start": 0,
+          "username": "yujihuixiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082485110012797121",
+    "in_reply_to_user_id": "2029363222890070016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082145513709908384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yujihuixiang 我的耳朵遭受了攻击🥲"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7451,
+        "height": 1062,
+        "media_key": "13_2082145495934447621",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082145495934447621/img/7QX912h-NUdmB78G.jpg",
+        "public_metrics": {
+          "view_count": 20187
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082145495934447621/vid/avc1/320x472/aS1J4ETA03beWgjF.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082145495934447621/vid/avc1/480x708/bHhGkGBv2Q9lhLUg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082145495934447621/vid/avc1/720x1062/qtb9lSmIGMndSWUR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082145495934447621/pl/xMI3TGKJ5cohSYAa.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2082145513709908384",
+        "created_at": "2026-07-29T15:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082485110012797121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2029363222890070016",
+              "start": 0,
+              "username": "yujihuixiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082485110012797121",
+        "in_reply_to_user_id": "2029363222890070016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082145513709908384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yujihuixiang 我的耳朵遭受了攻击🥲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082145495934447621"
+          ]
+        },
+        "author_id": "2029363222890070016",
+        "conversation_id": "2082145513709908384",
+        "created_at": "2026-07-28T16:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082145513709908384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G0CNNsjgku",
+              "end": 43,
+              "expanded_url": "https://x.com/yujihuixiang/status/2082145513709908384/video/1",
+              "media_key": "13_2082145495934447621",
+              "start": 20,
+              "url": "https://t.co/G0CNNsjgku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082145513709908384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 51382,
+          "like_count": 63,
+          "quote_count": 1,
+          "reply_count": 65,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种不是青年音。谢谢。真的别吓我了好吗 https://t.co/G0CNNsjgku"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 10,
+          "like_count": 2018,
+          "listed_count": 0,
+          "media_count": 219,
+          "tweet_count": 6064
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-05T01:09:48.000Z",
+        "description": "喜恶同因",
+        "id": "2029363222890070016",
+        "location": "你心里",
+        "name": "月见理",
+        "pinned_tweet_id": "2062143819412537711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072199798095314945/-oAGChhr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 132,
+          "like_count": 269,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 427
+        },
+        "url": "",
+        "username": "yujihuixiang",
+        "verified": false
+      }
+    ]
+  }
+}

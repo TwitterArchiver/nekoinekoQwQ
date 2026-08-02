@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065808720261779579",
+    "created_at": "2026-06-13T18:33:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T19:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065865062167011776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2065363107485036545",
+          "start": 0,
+          "username": "Invinciblewyhb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065865062167011776",
+    "in_reply_to_user_id": "2065363107485036545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065863244611305531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Invinciblewyhb 我宣布你是人机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065808720261779579",
+        "created_at": "2026-06-13T18:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T19:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065865062167011776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2065363107485036545",
+              "start": 0,
+              "username": "Invinciblewyhb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065865062167011776",
+        "in_reply_to_user_id": "2065363107485036545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065863244611305531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Invinciblewyhb 我宣布你是人机"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065363107485036545",
+        "conversation_id": "2065808720261779579",
+        "created_at": "2026-06-13T18:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T19:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065863244611305531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065863244611305531",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065808720261779579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 我这么评论应该不是人机吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 9,
+          "like_count": 1237,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 3187
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-12T09:19:53.000Z",
+        "description": "我真的不是人机，亚美咯",
+        "id": "2065363107485036545",
+        "name": "无敌蟑螂扣手指",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065363543268970496/MuikcG3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 62,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 50
+        },
+        "username": "Invinciblewyhb",
+        "verified": false
+      }
+    ]
+  }
+}

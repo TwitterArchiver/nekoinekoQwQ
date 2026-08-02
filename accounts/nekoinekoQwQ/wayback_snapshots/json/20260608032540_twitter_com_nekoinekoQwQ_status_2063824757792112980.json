@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063824731858731008",
+        "3_2063824731858685953",
+        "3_2063824731871354880"
+      ]
+    },
+    "author_id": "1948326838125903872",
+    "conversation_id": "2063824757792112980",
+    "created_at": "2026-06-08T03:25:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T04:25:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063824757792112980"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FNbhB3O4hz",
+          "end": 79,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2063824757792112980/photo/1",
+          "media_key": "3_2063824731858731008",
+          "start": 56,
+          "url": "https://t.co/FNbhB3O4hz"
+        },
+        {
+          "display_url": "pic.x.com/FNbhB3O4hz",
+          "end": 79,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2063824757792112980/photo/1",
+          "media_key": "3_2063824731858685953",
+          "start": 56,
+          "url": "https://t.co/FNbhB3O4hz"
+        },
+        {
+          "display_url": "pic.x.com/FNbhB3O4hz",
+          "end": 79,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2063824757792112980/photo/1",
+          "media_key": "3_2063824731871354880",
+          "start": 56,
+          "url": "https://t.co/FNbhB3O4hz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063824757792112980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我准备去江浙沪选一个学校，具体的还没想好\n遗憾大概就是选了一个离家很远的高中，没什么朋友\n谢谢你，我也喜欢你！ https://t.co/FNbhB3O4hz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 751,
+        "media_key": "3_2063824731858731008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKQtqLUbAAAKfPL.jpg",
+        "width": 1179
+      },
+      {
+        "height": 710,
+        "media_key": "3_2063824731858685953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKQtqLUaUAEgeu1.jpg",
+        "width": 1179
+      },
+      {
+        "height": 660,
+        "media_key": "3_2063824731871354880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKQtqLXboAAMkd6.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063824731858731008",
+            "3_2063824731858685953",
+            "3_2063824731871354880"
+          ]
+        },
+        "author_id": "1948326838125903872",
+        "conversation_id": "2063824757792112980",
+        "created_at": "2026-06-08T03:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T04:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063824757792112980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FNbhB3O4hz",
+              "end": 79,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2063824757792112980/photo/1",
+              "media_key": "3_2063824731858731008",
+              "start": 56,
+              "url": "https://t.co/FNbhB3O4hz"
+            },
+            {
+              "display_url": "pic.x.com/FNbhB3O4hz",
+              "end": 79,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2063824757792112980/photo/1",
+              "media_key": "3_2063824731858685953",
+              "start": 56,
+              "url": "https://t.co/FNbhB3O4hz"
+            },
+            {
+              "display_url": "pic.x.com/FNbhB3O4hz",
+              "end": 79,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2063824757792112980/photo/1",
+              "media_key": "3_2063824731871354880",
+              "start": 56,
+              "url": "https://t.co/FNbhB3O4hz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063824757792112980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我准备去江浙沪选一个学校，具体的还没想好\n遗憾大概就是选了一个离家很远的高中，没什么朋友\n谢谢你，我也喜欢你！ https://t.co/FNbhB3O4hz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 2,
+          "like_count": 466,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 2049
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065795056628568067",
+    "created_at": "2026-06-13T14:57:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T15:57:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065810726028300684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2049806570540900352",
+          "start": 0,
+          "username": "AdonMelek0423"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065810726028300684",
+    "in_reply_to_user_id": "2049806570540900352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065808596471103763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AdonMelek0423 知识+1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065795056628568067",
+        "created_at": "2026-06-13T14:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065810726028300684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2049806570540900352",
+              "start": 0,
+              "username": "AdonMelek0423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065810726028300684",
+        "in_reply_to_user_id": "2049806570540900352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065808596471103763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AdonMelek0423 知识+1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049806570540900352",
+        "conversation_id": "2065795056628568067",
+        "created_at": "2026-06-13T14:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065808596471103763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065808596471103763",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065795056628568067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 大部分是图包吧，线下会特别写，写了纯绿一般就是加联系方式聊天啥的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 9,
+          "like_count": 1199,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 3125
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-30T11:02:41.000Z",
+        "description": "来找我聊天然后请我喝奶茶，喝完就天天陪你闲聊然后勾引你当顾客...当然也营业就是了，文媛的话50/1h，这次不喝奶茶这次吃kfc香骨鸡，我可以不喝水干吃一份。",
+        "id": "2049806570540900352",
+        "name": "八云紫今年十七岁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049809912449187840/RhZlOp5K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 13,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 346
+        },
+        "username": "AdonMelek0423",
+        "verified": false
+      }
+    ]
+  }
+}

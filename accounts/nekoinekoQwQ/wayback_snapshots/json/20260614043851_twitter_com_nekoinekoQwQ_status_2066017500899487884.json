@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065325903786483745",
+    "created_at": "2026-06-14T04:38:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T05:38:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066017500899487884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2065847252229521408",
+          "start": 0,
+          "username": "Ruize0622"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066017500899487884",
+    "in_reply_to_user_id": "2065847252229521408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065991944019517440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruize0622 摔倒哭了(╥﹏╥)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065325903786483745",
+        "created_at": "2026-06-14T04:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066017500899487884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2065847252229521408",
+              "start": 0,
+              "username": "Ruize0622"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066017500899487884",
+        "in_reply_to_user_id": "2065847252229521408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065991944019517440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruize0622 摔倒哭了(╥﹏╥)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065847252229521408",
+        "conversation_id": "2065325903786483745",
+        "created_at": "2026-06-14T02:57:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T03:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065991944019517440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065991944019517440",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065325903786483745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 67，看看有没有什么瓜能吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 9,
+          "like_count": 1279,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 3241
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-13T17:24:58.000Z",
+        "description": "我已经懒得写任何东西了，大号：@Ruizexxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 15,
+                "username": "Ruizexxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruize36888",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruize36888",
+                "start": 0,
+                "url": "https://t.co/ddt0wehOX3"
+              }
+            ]
+          }
+        },
+        "id": "2065847252229521408",
+        "location": "世界的每一处角落",
+        "name": "Ruize",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065848225337430017/YT64iLg7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 47,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 23
+        },
+        "url": "https://t.co/ddt0wehOX3",
+        "username": "Ruize0622",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2030574911010504934",
+    "created_at": "2026-03-08T15:42:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T16:42:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030670563254116523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1412216429030481922",
+          "start": 0,
+          "username": "Mini05587250"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030670563254116523",
+    "in_reply_to_user_id": "1412216429030481922",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030574911010504934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mini05587250 我支持。。。。。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2030574911010504934",
+        "created_at": "2026-03-08T15:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T16:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030670563254116523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1412216429030481922",
+              "start": 0,
+              "username": "Mini05587250"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030670563254116523",
+        "in_reply_to_user_id": "1412216429030481922",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030574911010504934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mini05587250 我支持。。。。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1412216429030481922",
+        "conversation_id": "2030574911010504934",
+        "created_at": "2026-03-08T09:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T10:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030574911010504934"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030574911010504934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "斷崖式分手都是賤人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 1,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 188
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-06T01:06:58.000Z",
+        "description": "狗派/廢文bot/喜歡雷伊布的一切/RT毛絨絨跟V家的東西",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/AAZCyDXIv-8?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/AAZCyDXIv-8?si=kkY2TmPuqraTmaUj",
+                "start": 0,
+                "url": "https://t.co/WY7Fvq51Pc"
+              }
+            ]
+          }
+        },
+        "id": "1412216429030481922",
+        "name": "Mini",
+        "pinned_tweet_id": "1989137673018363915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653789537506848769/Yt0vu3by_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 336,
+          "like_count": 33777,
+          "listed_count": 1,
+          "media_count": 2098,
+          "tweet_count": 14634
+        },
+        "url": "https://t.co/WY7Fvq51Pc",
+        "username": "Mini05587250",
+        "verified": false
+      }
+    ]
+  }
+}

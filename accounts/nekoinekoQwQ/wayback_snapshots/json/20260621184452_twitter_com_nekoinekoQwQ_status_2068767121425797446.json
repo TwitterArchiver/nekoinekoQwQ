@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068767118409994240"
+      ]
+    },
+    "author_id": "1948326838125903872",
+    "conversation_id": "2068767121425797446",
+    "created_at": "2026-06-21T18:44:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T19:44:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068767121425797446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1666495064808525824",
+          "start": 3,
+          "username": "bound2Fa11inLuv"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Forget crushes! The Love Calculator extends your horizons to measure the love percentage between you and any Twitter user of your choice. Using a secret formula, this feature calculates the emotional compatibility you share. Just enter a Twitter handle and let the Love Calculator reveal the strength of your bond!",
+          "display_url": "infinitetweet.me/love-calculato…",
+          "end": 58,
+          "expanded_url": "https://infinitetweet.me/love-calculator?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/2068099576297349120/NVJwu4YH?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2068099576297349120/NVJwu4YH?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 35,
+          "status": 200,
+          "title": "Love Calculator • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/love-calculator?lang=zh",
+          "url": "https://t.co/oszuqNMLmH"
+        },
+        {
+          "display_url": "pic.x.com/kWwdFjH3Qw",
+          "end": 82,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2068767121425797446/photo/1",
+          "media_key": "3_2068767118409994240",
+          "start": 59,
+          "url": "https://t.co/kWwdFjH3Qw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068767121425797446",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我与 @bound2Fa11inLuv 的爱兼容性为 96%\n\n➡️ https://t.co/oszuqNMLmH https://t.co/kWwdFjH3Qw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 546,
+        "media_key": "3_2068767118409994240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLW8u7_WEAA9HDg.png",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068767118409994240"
+          ]
+        },
+        "author_id": "1948326838125903872",
+        "conversation_id": "2068767121425797446",
+        "created_at": "2026-06-21T18:44:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T19:44:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068767121425797446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1666495064808525824",
+              "start": 3,
+              "username": "bound2Fa11inLuv"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Forget crushes! The Love Calculator extends your horizons to measure the love percentage between you and any Twitter user of your choice. Using a secret formula, this feature calculates the emotional compatibility you share. Just enter a Twitter handle and let the Love Calculator reveal the strength of your bond!",
+              "display_url": "infinitetweet.me/love-calculato…",
+              "end": 58,
+              "expanded_url": "https://infinitetweet.me/love-calculator?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2068099576297349120/NVJwu4YH?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2068099576297349120/NVJwu4YH?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 35,
+              "status": 200,
+              "title": "Love Calculator • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/love-calculator?lang=zh",
+              "url": "https://t.co/oszuqNMLmH"
+            },
+            {
+              "display_url": "pic.x.com/kWwdFjH3Qw",
+              "end": 82,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2068767121425797446/photo/1",
+              "media_key": "3_2068767118409994240",
+              "start": 59,
+              "url": "https://t.co/kWwdFjH3Qw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068767121425797446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我与 @bound2Fa11inLuv 的爱兼容性为 96%\n\n➡️ https://t.co/oszuqNMLmH https://t.co/kWwdFjH3Qw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 12,
+          "like_count": 1628,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 4421
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-07T17:19:28.000Z",
+        "description": "男的/KT推/吉伊推/infp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bobby27358",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bobby27358",
+                "start": 0,
+                "url": "https://t.co/FrRdzJkqGZ"
+              }
+            ]
+          }
+        },
+        "id": "1666495064808525824",
+        "location": "💙",
+        "name": "Bobby",
+        "pinned_tweet_id": "2058591817734758433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066855685615386624/XVCqC4La_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 64,
+          "like_count": 2798,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 1028
+        },
+        "url": "https://t.co/FrRdzJkqGZ",
+        "username": "bound2Fa11inLuv",
+        "verified": false
+      }
+    ]
+  }
+}

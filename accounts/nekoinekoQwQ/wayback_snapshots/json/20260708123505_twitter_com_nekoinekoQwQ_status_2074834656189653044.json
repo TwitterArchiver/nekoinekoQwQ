@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2074663995034959978",
+    "created_at": "2026-07-08T12:35:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T13:35:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074834656189653044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2067054602340741121",
+          "start": 0,
+          "username": "youlan0527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074834656189653044",
+    "in_reply_to_user_id": "2067054602340741121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074772423879315724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youlan0527 这个已经买了，但是我当时没有看捆绑包我单买的 2077 TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2074663995034959978",
+        "created_at": "2026-07-08T12:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074834656189653044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2067054602340741121",
+              "start": 0,
+              "username": "youlan0527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074834656189653044",
+        "in_reply_to_user_id": "2067054602340741121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074772423879315724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlan0527 这个已经买了，但是我当时没有看捆绑包我单买的 2077 TT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067054602340741121",
+        "conversation_id": "2074663995034959978",
+        "created_at": "2026-07-08T08:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T09:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074772423879315724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074772423879315724",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074663995034959978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 我说赛博朋克酒保行动"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 12,
+          "like_count": 1872,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 5058
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-17T01:20:43.000Z",
+        "description": "",
+        "id": "2067054602340741121",
+        "name": "岚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067056012079882240/m7X2lE-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 22,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "youlan0527",
+        "verified": false
+      }
+    ]
+  }
+}

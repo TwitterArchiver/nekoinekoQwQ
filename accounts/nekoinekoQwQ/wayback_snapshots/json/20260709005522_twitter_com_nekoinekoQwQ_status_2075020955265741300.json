@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2073897171896938898",
+    "created_at": "2026-07-09T00:55:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T01:55:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075020955265741300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1111564787169853440",
+          "start": 0,
+          "username": "sumo20417216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075020955265741300",
+    "in_reply_to_user_id": "1111564787169853440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075014320740868235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sumo20417216 我同意了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2073897171896938898",
+        "created_at": "2026-07-09T00:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T01:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075020955265741300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1111564787169853440",
+              "start": 0,
+              "username": "sumo20417216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075020955265741300",
+        "in_reply_to_user_id": "1111564787169853440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075014320740868235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sumo20417216 我同意了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1111564787169853440",
+        "conversation_id": "2073897171896938898",
+        "created_at": "2026-07-09T00:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T01:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075014320740868235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075014320740868235",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073897171896938898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 武士裤yyds"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 12,
+          "like_count": 1898,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 5107
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-29T09:44:31.000Z",
+        "description": "好看爱看多发",
+        "id": "1111564787169853440",
+        "name": "因为搞抽象被发现社恐上天台",
+        "pinned_tweet_id": "1949798359868322179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882072297839927296/FWzpiE6j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 2,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 333
+        },
+        "url": "",
+        "username": "sumo20417216",
+        "verified": false
+      }
+    ]
+  }
+}

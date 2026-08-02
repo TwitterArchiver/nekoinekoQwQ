@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2064320320916582453",
+    "created_at": "2026-06-09T12:27:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T13:27:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064323511863398719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2034954763780202496",
+          "start": 0,
+          "username": "Naoya_515_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064323511863398719",
+    "in_reply_to_user_id": "2034954763780202496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064322919870984511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Naoya_515_ 其实这样想过，但是我刚刚是直接被班主任抓着说的，所以还是去吧，不然的话心里还是有一点愧疚，到时候坐在那里玩手机，结束之后，我就跟朋友出去玩😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2064320320916582453",
+        "created_at": "2026-06-09T12:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064323511863398719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2034954763780202496",
+              "start": 0,
+              "username": "Naoya_515_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064323511863398719",
+        "in_reply_to_user_id": "2034954763780202496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064322919870984511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Naoya_515_ 其实这样想过，但是我刚刚是直接被班主任抓着说的，所以还是去吧，不然的话心里还是有一点愧疚，到时候坐在那里玩手机，结束之后，我就跟朋友出去玩😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034954763780202496",
+        "conversation_id": "2064320320916582453",
+        "created_at": "2026-06-09T12:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064322919870984511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064322919870984511",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064322184353620192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 其实拿完材料就可以直接跑掉了，毕竟他们已经没有办法管你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 6,
+          "like_count": 549,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 2276
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-20T11:26:46.000Z",
+        "description": "御坂美琴不是很可爱吗？",
+        "id": "2034954763780202496",
+        "name": "直哉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034955014092070914/17GMZAZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 29,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 20
+        },
+        "username": "Naoya_515_",
+        "verified": false
+      }
+    ]
+  }
+}

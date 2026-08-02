@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2037077385674449230",
+    "created_at": "2026-03-26T14:32:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T15:32:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037175921623654595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1963552658230226944",
+          "start": 0,
+          "username": "uzadew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037175921623654595",
+    "in_reply_to_user_id": "1963552658230226944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037077385674449230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uzadew 我刚刚付了这个的意向金 特别可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 592,
+        "media_key": "3_2037077381559853056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEUnFevboAAS981.jpg",
+        "width": 608
+      },
+      {
+        "height": 505,
+        "media_key": "3_2037077381534609408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEUnFepacAAMxvY.jpg",
+        "width": 563
+      },
+      {
+        "height": 600,
+        "media_key": "3_2037077381547253760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEUnFesbYAAr3Q6.jpg",
+        "width": 608
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2037077385674449230",
+        "created_at": "2026-03-26T14:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T15:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037175921623654595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1963552658230226944",
+              "start": 0,
+              "username": "uzadew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037175921623654595",
+        "in_reply_to_user_id": "1963552658230226944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037077385674449230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uzadew 我刚刚付了这个的意向金 特别可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037077381559853056",
+            "3_2037077381534609408",
+            "3_2037077381547253760"
+          ]
+        },
+        "author_id": "1963552658230226944",
+        "conversation_id": "2037077385674449230",
+        "created_at": "2026-03-26T08:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T09:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037077385674449230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LNLRAPzhO2",
+              "end": 30,
+              "expanded_url": "https://x.com/uzadew/status/2037077385674449230/photo/1",
+              "media_key": "3_2037077381559853056",
+              "start": 7,
+              "url": "https://t.co/LNLRAPzhO2"
+            },
+            {
+              "display_url": "pic.x.com/LNLRAPzhO2",
+              "end": 30,
+              "expanded_url": "https://x.com/uzadew/status/2037077385674449230/photo/1",
+              "media_key": "3_2037077381534609408",
+              "start": 7,
+              "url": "https://t.co/LNLRAPzhO2"
+            },
+            {
+              "display_url": "pic.x.com/LNLRAPzhO2",
+              "end": 30,
+              "expanded_url": "https://x.com/uzadew/status/2037077385674449230/photo/1",
+              "media_key": "3_2037077381547253760",
+              "start": 7,
+              "url": "https://t.co/LNLRAPzhO2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037077385674449230",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 847,
+          "impression_count": 228765,
+          "like_count": 4614,
+          "quote_count": 407,
+          "reply_count": 4,
+          "retweet_count": 1807
+        },
+        "reply_settings": "everyone",
+        "text": "햠스터 먼데 https://t.co/LNLRAPzhO2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 1,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 1011
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-04T10:40:37.000Z",
+        "description": "₍ᐢ𓏼︲˕︲𓏼ᐢ₎ ₊˚.",
+        "id": "1963552658230226944",
+        "location": "DM or uzadew.co@gmail.com",
+        "name": "𝘶𝘻𝘢",
+        "pinned_tweet_id": "2030277533389008965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036637271668195328/lBanv-SR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7550,
+          "following_count": 21,
+          "like_count": 1091,
+          "listed_count": 4,
+          "media_count": 368,
+          "tweet_count": 659
+        },
+        "username": "uzadew",
+        "verified": false
+      }
+    ]
+  }
+}

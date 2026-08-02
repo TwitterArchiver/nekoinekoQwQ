@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2076763448801902840",
+    "created_at": "2026-07-13T20:19:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T21:19:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076763448801902840"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076763448801902840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我炒完蛋炒饭之后，就接到我朋友电话，我还在想她不是晚上有事，结果喝醉了一直让我和她玩，后面一直在发信息给别人，别人都找到我这里了，她还问我 你怎么不回我信息，我和她说 你信息发错人了，她问我那对面是谁，我说了名字她又说不认识，就这样死循环，现在她终于睡着了，整整三个小时呀。被气死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2076763448801902840",
+        "created_at": "2026-07-13T20:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T21:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076763448801902840"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076763448801902840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我炒完蛋炒饭之后，就接到我朋友电话，我还在想她不是晚上有事，结果喝醉了一直让我和她玩，后面一直在发信息给别人，别人都找到我这里了，她还问我 你怎么不回我信息，我和她说 你信息发错人了，她问我那对面是谁，我说了名字她又说不认识，就这样死循环，现在她终于睡着了，整整三个小时呀。被气死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 10,
+          "like_count": 1940,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 5336
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

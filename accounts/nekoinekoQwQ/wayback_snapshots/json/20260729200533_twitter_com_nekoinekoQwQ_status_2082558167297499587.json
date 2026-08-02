@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2082558167297499587",
+    "created_at": "2026-07-29T20:05:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T21:05:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082558167297499587"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082558167297499587",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉跟每个好友的相处模式都不一样，我跟一个认识很久的好友没有一直发消息，偶尔联系一下就够了，但跟我另一个好友，我就挺喜欢一直给他发信息的，我没给他发信息的话，他也会不习惯，不过他比较喜欢已读慢回，我倒是习惯了，因为我大部分信息其实只是想发出来吧，他回不回复，对我来说已经无所谓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2082558167297499587",
+        "created_at": "2026-07-29T20:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T21:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082558167297499587"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082558167297499587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉跟每个好友的相处模式都不一样，我跟一个认识很久的好友没有一直发消息，偶尔联系一下就够了，但跟我另一个好友，我就挺喜欢一直给他发信息的，我没给他发信息的话，他也会不习惯，不过他比较喜欢已读慢回，我倒是习惯了，因为我大部分信息其实只是想发出来吧，他回不回复，对我来说已经无所谓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 10,
+          "like_count": 2021,
+          "listed_count": 0,
+          "media_count": 220,
+          "tweet_count": 6089
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

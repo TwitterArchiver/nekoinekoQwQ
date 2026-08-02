@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2073983899710226709",
+    "created_at": "2026-07-06T13:31:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T14:31:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074124126663664020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2071981601869934592",
+          "start": 0,
+          "username": "JLiao090925"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074124126663664020",
+    "in_reply_to_user_id": "2071981601869934592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073983899710226709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JLiao090925 我要吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2073983896958779392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMhFXagbwAAEgo6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2073983899710226709",
+        "created_at": "2026-07-06T13:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T14:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074124126663664020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2071981601869934592",
+              "start": 0,
+              "username": "JLiao090925"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074124126663664020",
+        "in_reply_to_user_id": "2071981601869934592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073983899710226709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JLiao090925 我要吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073983896958779392"
+          ]
+        },
+        "author_id": "2071981601869934592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073983899710226709",
+        "created_at": "2026-07-06T04:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T05:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073983899710226709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/urUnXAUQVM",
+              "end": 27,
+              "expanded_url": "https://x.com/JLiao090925/status/2073983899710226709/photo/1",
+              "media_key": "3_2073983896958779392",
+              "start": 4,
+              "url": "https://t.co/urUnXAUQVM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073983899710226709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "炒饭😋 https://t.co/urUnXAUQVM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 12,
+          "like_count": 1861,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 5011
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-30T15:42:03.000Z",
+        "description": "这个账号是我新号所以暂时不能关注太多人以免再次被冻结/09生人/可私信/世界欠我一个白雪乃爱/马斯克还我命来😡",
+        "id": "2071981601869934592",
+        "location": "地球村",
+        "name": "金属废料（世界上第二个我）",
+        "pinned_tweet_id": "2072691832736407871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072608887988236290/_IRTdfHF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 45,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 131
+        },
+        "url": "",
+        "username": "JLiao090925",
+        "verified": false
+      }
+    ]
+  }
+}

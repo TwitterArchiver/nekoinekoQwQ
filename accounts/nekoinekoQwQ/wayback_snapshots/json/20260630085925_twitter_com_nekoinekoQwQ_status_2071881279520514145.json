@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2067274262541693362",
+    "created_at": "2026-06-30T08:59:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T09:59:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071881279520514145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2036688558375989249",
+          "start": 0,
+          "username": "Joker7htd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071881279520514145",
+    "in_reply_to_user_id": "2036688558375989249",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071820401811030216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Joker7htd 我也摸 🫳🏻🫳🏻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2071820339101724672",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HMCVnxaWcAAEYBP.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HMCVnxaWcAAEYBP.mp4"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2067274262541693362",
+        "created_at": "2026-06-30T08:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T09:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071881279520514145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2036688558375989249",
+              "start": 0,
+              "username": "Joker7htd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071881279520514145",
+        "in_reply_to_user_id": "2036688558375989249",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071820401811030216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Joker7htd 我也摸 🫳🏻🫳🏻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2071820339101724672"
+          ]
+        },
+        "author_id": "2036688558375989249",
+        "conversation_id": "2067274262541693362",
+        "created_at": "2026-06-30T04:57:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T05:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071820401811030216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6ZsBfKELCC",
+              "end": 44,
+              "expanded_url": "https://x.com/Joker7htd/status/2071820401811030216/photo/1",
+              "media_key": "16_2071820339101724672",
+              "start": 21,
+              "url": "https://t.co/6ZsBfKELCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071820401811030216",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071530820427526611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 还有小🐶🫰🏻 https://t.co/6ZsBfKELCC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 12,
+          "like_count": 1794,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 4884
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-25T06:17:34.000Z",
+        "description": "",
+        "id": "2036688558375989249",
+        "name": "番茄加两个蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057857271573762048/FY9SXdjF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 41,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 53
+        },
+        "url": "",
+        "username": "Joker7htd",
+        "verified": false
+      }
+    ]
+  }
+}

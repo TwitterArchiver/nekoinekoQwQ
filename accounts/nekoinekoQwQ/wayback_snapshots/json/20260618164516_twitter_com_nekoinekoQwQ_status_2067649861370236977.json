@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2067604608915312935",
+    "created_at": "2026-06-18T16:45:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:45:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067649861370236977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1776109161358807040",
+          "start": 0,
+          "username": "JXSXWSJHP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067649861370236977",
+    "in_reply_to_user_id": "1776109161358807040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067619539680928125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JXSXWSJHP 已经开始准备试试金铲铲了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2067604608915312935",
+        "created_at": "2026-06-18T16:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067649861370236977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1776109161358807040",
+              "start": 0,
+              "username": "JXSXWSJHP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067649861370236977",
+        "in_reply_to_user_id": "1776109161358807040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067619539680928125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JXSXWSJHP 已经开始准备试试金铲铲了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776109161358807040",
+        "conversation_id": "2067604608915312935",
+        "created_at": "2026-06-18T14:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067619539680928125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067619539680928125",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067604608915312935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 以后会考虑更多游戏吗？🌚🌝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 11,
+          "like_count": 1579,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 4116
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-05T04:46:43.000Z",
+        "description": "希望能成为一个温柔善良正能量的人。\n爱思考🤔 爱做白日梦😪 想交到真诚的朋友🤗\n希望你能陪我很久很久",
+        "id": "1776109161358807040",
+        "name": "纪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779802687791656960/SB-UJ9LP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 17,
+          "like_count": 290,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 73
+        },
+        "username": "JXSXWSJHP",
+        "verified": false
+      }
+    ]
+  }
+}

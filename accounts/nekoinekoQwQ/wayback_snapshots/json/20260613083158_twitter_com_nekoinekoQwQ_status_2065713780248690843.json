@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065676322949779483",
+    "created_at": "2026-06-13T08:31:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T09:31:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065713780248690843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1648925007316422657",
+          "start": 0,
+          "username": "HaHei91426"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065713780248690843",
+    "in_reply_to_user_id": "1648925007316422657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065684713034199067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HaHei91426 OK，我现在就把伞丢掉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065676322949779483",
+        "created_at": "2026-06-13T08:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T09:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065713780248690843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1648925007316422657",
+              "start": 0,
+              "username": "HaHei91426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065713780248690843",
+        "in_reply_to_user_id": "1648925007316422657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065684713034199067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HaHei91426 OK，我现在就把伞丢掉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1648925007316422657",
+        "conversation_id": "2065676322949779483",
+        "created_at": "2026-06-13T06:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T07:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065684713034199067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065684713034199067",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065676322949779483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 你一说雨天我就想起了嘉豪(☔️≧ω≦)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 9,
+          "like_count": 1162,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2993
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-20T05:42:20.000Z",
+        "description": "我想认识全世界的朋友",
+        "id": "1648925007316422657",
+        "name": "爱世界",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065117181730492416/Cnum_qsE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 162,
+          "like_count": 3697,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 531
+        },
+        "username": "HaHei91426",
+        "verified": false
+      }
+    ]
+  }
+}

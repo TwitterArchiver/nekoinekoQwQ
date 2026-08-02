@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068672697890971648"
+      ]
+    },
+    "author_id": "1948326838125903872",
+    "conversation_id": "2068672700843700639",
+    "created_at": "2026-06-21T12:29:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T13:29:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068672700843700639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1676576204865019904",
+          "start": 3,
+          "username": "YanRuYu_Zzz"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Forget crushes! The Love Calculator extends your horizons to measure the love percentage between you and any Twitter user of your choice. Using a secret formula, this feature calculates the emotional compatibility you share. Just enter a Twitter handle and let the Love Calculator reveal the strength of your bond!",
+          "display_url": "infinitetweet.me/love-calculato…",
+          "end": 54,
+          "expanded_url": "https://infinitetweet.me/love-calculator?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/2068099576297349120/NVJwu4YH?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2068099576297349120/NVJwu4YH?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 31,
+          "status": 200,
+          "title": "Love Calculator • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/love-calculator?lang=zh",
+          "url": "https://t.co/oszuqNMLmH"
+        },
+        {
+          "display_url": "pic.x.com/osUGQgU8J6",
+          "end": 78,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2068672700843700639/photo/1",
+          "media_key": "3_2068672697890971648",
+          "start": 55,
+          "url": "https://t.co/osUGQgU8J6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068672700843700639",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我与 @YanRuYu_Zzz 的爱兼容性为 51%\n\n➡️ https://t.co/oszuqNMLmH https://t.co/osUGQgU8J6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 546,
+        "media_key": "3_2068672697890971648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLVm28JXIAAebjG.png",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068672697890971648"
+          ]
+        },
+        "author_id": "1948326838125903872",
+        "conversation_id": "2068672700843700639",
+        "created_at": "2026-06-21T12:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068672700843700639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1676576204865019904",
+              "start": 3,
+              "username": "YanRuYu_Zzz"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Forget crushes! The Love Calculator extends your horizons to measure the love percentage between you and any Twitter user of your choice. Using a secret formula, this feature calculates the emotional compatibility you share. Just enter a Twitter handle and let the Love Calculator reveal the strength of your bond!",
+              "display_url": "infinitetweet.me/love-calculato…",
+              "end": 54,
+              "expanded_url": "https://infinitetweet.me/love-calculator?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2068099576297349120/NVJwu4YH?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2068099576297349120/NVJwu4YH?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 31,
+              "status": 200,
+              "title": "Love Calculator • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/love-calculator?lang=zh",
+              "url": "https://t.co/oszuqNMLmH"
+            },
+            {
+              "display_url": "pic.x.com/osUGQgU8J6",
+              "end": 78,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2068672700843700639/photo/1",
+              "media_key": "3_2068672697890971648",
+              "start": 55,
+              "url": "https://t.co/osUGQgU8J6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068672700843700639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我与 @YanRuYu_Zzz 的爱兼容性为 51%\n\n➡️ https://t.co/oszuqNMLmH https://t.co/osUGQgU8J6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 12,
+          "like_count": 1619,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 4404
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T12:58:18.000Z",
+        "description": "",
+        "id": "1676576204865019904",
+        "name": "小樹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989273593612791808/OlTXKJ8x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 77,
+          "like_count": 1383,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 238
+        },
+        "url": "",
+        "username": "YanRuYu_Zzz",
+        "verified": false
+      }
+    ]
+  }
+}

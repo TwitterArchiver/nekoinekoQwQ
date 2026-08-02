@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2037493648695361775",
+    "created_at": "2026-03-28T09:27:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T10:27:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037823818144928236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1751564018463199232",
+          "start": 0,
+          "username": "loveChueveryday"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037823818144928236",
+    "in_reply_to_user_id": "1751564018463199232",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037572830095978582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loveChueveryday 🤲🏻🤲🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2037493648695361775",
+        "created_at": "2026-03-28T09:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T10:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037823818144928236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1751564018463199232",
+              "start": 0,
+              "username": "loveChueveryday"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037823818144928236",
+        "in_reply_to_user_id": "1751564018463199232",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037572830095978582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveChueveryday 🤲🏻🤲🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751564018463199232",
+        "conversation_id": "2037493648695361775",
+        "created_at": "2026-03-27T16:49:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T17:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037572830095978582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037572830095978582",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037512427080962358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 吃吧，这个虾甜甜的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 1,
+          "like_count": 171,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 1121
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T11:13:07.000Z",
+        "description": "已经找到了属于我的另一块拼图//可以单取我也可以双取我，我没意见！🪜⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=wIRcNjXf",
+                "start": 0,
+                "url": "https://t.co/OWnHSux9se"
+              }
+            ]
+          }
+        },
+        "id": "1751564018463199232",
+        "location": "关注我会爬进你主页盯着你",
+        "name": "退相干",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949030781776797696/vhsx3VPJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3278,
+          "following_count": 343,
+          "like_count": 3764,
+          "listed_count": 5,
+          "media_count": 401,
+          "tweet_count": 6394
+        },
+        "url": "https://t.co/OWnHSux9se",
+        "username": "loveChueveryday",
+        "verified": false
+      }
+    ]
+  }
+}

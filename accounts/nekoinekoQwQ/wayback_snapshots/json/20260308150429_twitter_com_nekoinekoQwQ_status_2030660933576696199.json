@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2030660933576696199",
+    "created_at": "2026-03-08T15:04:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T16:04:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030660933576696199"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2030660933576696199",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对我好疏远是怎么啦(｡･ω･｡)\n有时很冷漠是怎么啦(&gt;﹏_&lt;)\n说什么让你不开心吗？ㅠㅈㅠ\n我怕你不再问我怎么啦(´･ω･`)\n以后都不关心我怎么啦(；´Д`）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2030660933576696199",
+        "created_at": "2026-03-08T15:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T16:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030660933576696199"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030660933576696199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对我好疏远是怎么啦(｡･ω･｡)\n有时很冷漠是怎么啦(&gt;﹏_&lt;)\n说什么让你不开心吗？ㅠㅈㅠ\n我怕你不再问我怎么啦(´･ω･`)\n以后都不关心我怎么啦(；´Д`）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 1,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 186
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

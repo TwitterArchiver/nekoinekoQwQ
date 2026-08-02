@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2064245952983220577",
+    "created_at": "2026-06-12T17:08:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T18:08:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065481485650649384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1830117307794014213",
+          "start": 0,
+          "username": "TaichiTuking"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065481485650649384",
+    "in_reply_to_user_id": "1830117307794014213",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065451367284838817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TaichiTuking 活力！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2064245952983220577",
+        "created_at": "2026-06-12T17:08:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065481485650649384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1830117307794014213",
+              "start": 0,
+              "username": "TaichiTuking"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065481485650649384",
+        "in_reply_to_user_id": "1830117307794014213",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065451367284838817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TaichiTuking 活力！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830117307794014213",
+        "conversation_id": "2064245952983220577",
+        "created_at": "2026-06-12T15:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065451367284838817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065451367284838817",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064245952983220577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 活力满满的女孩子呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 10,
+          "like_count": 1105,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2846
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-01T05:35:56.000Z",
+        "description": "这里是月，一位说话像ai但其实只是出于聊天礼仪的赛博酒保，可以自信地说是帅哥，喜欢欣赏美丽的女孩但是并不压抑，欢迎女孩们光临或预约，酬劳是你的美丽或故事，我会给你调制一杯专属夸夸。\n如果你是男性想要夸夸，请让我觉得你很优秀。",
+        "id": "1830117307794014213",
+        "name": "夜见月",
+        "pinned_tweet_id": "2065468123915161641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065437951363096577/FfN-WeJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 98,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 71
+        },
+        "username": "TaichiTuking",
+        "verified": false
+      }
+    ]
+  }
+}

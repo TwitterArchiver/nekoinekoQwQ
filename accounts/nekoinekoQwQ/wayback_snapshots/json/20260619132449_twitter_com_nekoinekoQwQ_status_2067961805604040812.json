@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2067675995986067877",
+    "created_at": "2026-06-19T13:24:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T14:24:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067961805604040812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1759061197264130048",
+          "start": 0,
+          "username": "zici369218"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067961805604040812",
+    "in_reply_to_user_id": "1759061197264130048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067675995986067877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zici369218 我懂了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2067675991229837312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLHcW-fbsAAXsNo.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2067675995986067877",
+        "created_at": "2026-06-19T13:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067961805604040812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1759061197264130048",
+              "start": 0,
+              "username": "zici369218"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067961805604040812",
+        "in_reply_to_user_id": "1759061197264130048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067675995986067877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zici369218 我懂了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067675991229837312"
+          ]
+        },
+        "author_id": "1759061197264130048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067675995986067877",
+        "created_at": "2026-06-18T18:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T19:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067675995986067877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mm8l0GZegD",
+              "end": 35,
+              "expanded_url": "https://x.com/zici369218/status/2067675995986067877/photo/1",
+              "media_key": "3_2067675991229837312",
+              "start": 12,
+              "url": "https://t.co/mm8l0GZegD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067675995986067877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 201,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "6斤小龙虾 有懂得吗？ https://t.co/mm8l0GZegD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 12,
+          "like_count": 1593,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 4214
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-18T03:44:18.000Z",
+        "description": "社交孤儿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zici87532",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zici87532",
+                "start": 0,
+                "url": "https://t.co/FuyOtoDPvH"
+              }
+            ]
+          }
+        },
+        "id": "1759061197264130048",
+        "location": "我的世界在下雨",
+        "name": "白色羽毛",
+        "pinned_tweet_id": "2063468371442876622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063684754252472320/s3DHohpA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 148,
+          "like_count": 8040,
+          "listed_count": 1,
+          "media_count": 351,
+          "tweet_count": 5705
+        },
+        "url": "https://t.co/FuyOtoDPvH",
+        "username": "zici369218",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2081652018410889473",
+    "created_at": "2026-07-27T08:04:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T09:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081652018410889473"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081652018410889473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我记得高考体检是在冬天吧，当时抽血我非常的害怕呀，本人对针筒这种东西都非常的畏惧，我记得我当时是抱着我班主任抽的血，想想就吓人，说实话，我在进行这种恐怖事情的时候都要抱着点东西，就比如打耳钉的时候，我其实是抱着玩偶的，不抱的东西，我感觉心慌慌的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2081652018410889473",
+        "created_at": "2026-07-27T08:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081652018410889473"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081652018410889473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我记得高考体检是在冬天吧，当时抽血我非常的害怕呀，本人对针筒这种东西都非常的畏惧，我记得我当时是抱着我班主任抽的血，想想就吓人，说实话，我在进行这种恐怖事情的时候都要抱着点东西，就比如打耳钉的时候，我其实是抱着玩偶的，不抱的东西，我感觉心慌慌的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 10,
+          "like_count": 1994,
+          "listed_count": 0,
+          "media_count": 216,
+          "tweet_count": 5878
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2080255606443983223",
+    "created_at": "2026-07-24T10:24:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T11:24:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080599930780160320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1684489356931629059",
+          "start": 0,
+          "username": "jom123ab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080599930780160320",
+    "in_reply_to_user_id": "1684489356931629059",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080255606443983223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jom123ab 我好想吃，我好想吃，我好想吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2080255559828451328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6NaPWbMAA-Gg_.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2080255584981725185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6NbtDbsAENqta.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2080255606443983223",
+        "created_at": "2026-07-24T10:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T11:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080599930780160320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1684489356931629059",
+              "start": 0,
+              "username": "jom123ab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080599930780160320",
+        "in_reply_to_user_id": "1684489356931629059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080255606443983223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jom123ab 我好想吃，我好想吃，我好想吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080255559828451328",
+            "3_2080255584981725185"
+          ]
+        },
+        "author_id": "1684489356931629059",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2080255606443983223",
+        "created_at": "2026-07-23T11:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T12:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080255606443983223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oj04GLRe3v",
+              "end": 180,
+              "expanded_url": "https://x.com/jom123ab/status/2080255606443983223/photo/1",
+              "media_key": "3_2080255559828451328",
+              "start": 157,
+              "url": "https://t.co/oj04GLRe3v"
+            },
+            {
+              "display_url": "pic.x.com/oj04GLRe3v",
+              "end": 180,
+              "expanded_url": "https://x.com/jom123ab/status/2080255606443983223/photo/1",
+              "media_key": "3_2080255584981725185",
+              "start": 157,
+              "url": "https://t.co/oj04GLRe3v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080255606443983223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 717,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 49,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "探店齁鼻多\n真假jom说\n第四弹\n\n广州 Gortmore · 经典费城牛肉三明治\n一人 38.5\n\n总结:这家是我自己发现的宝藏小店。薯条和小酥肉很美味，都是刚炸出来的。然后三明治的馅料非常多，吃到后面会有点腻。我觉得应该两个人吃。不过饮料有解腻。总的来说，非常有性价比\n\n推荐菜品: 薯条，费城芝士牛肉三明治 https://t.co/oj04GLRe3v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 10,
+          "like_count": 1946,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 5476
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T09:02:29.000Z",
+        "description": "这个人在想写点什么能引起你的注意",
+        "id": "1684489356931629059",
+        "location": "一本回忆录里",
+        "name": "Jom",
+        "pinned_tweet_id": "2063566548250525839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875020315207884800/6vjYfloc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 2473,
+          "like_count": 10668,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1436
+        },
+        "url": "",
+        "username": "jom123ab",
+        "verified": false
+      }
+    ]
+  }
+}

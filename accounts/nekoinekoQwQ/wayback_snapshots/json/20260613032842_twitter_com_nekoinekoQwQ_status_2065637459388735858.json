@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065308702878654795",
+    "created_at": "2026-06-13T03:28:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T04:28:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065637459388735858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2062872536766177280",
+          "start": 0,
+          "username": "fut924x"
+        },
+        {
+          "end": 23,
+          "id": "1613070396928188420",
+          "start": 9,
+          "username": "daydaydaydrmz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065637459388735858",
+    "in_reply_to_user_id": "2062872536766177280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065444320484954553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fut924x @daydaydaydrmz 可怜🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065308702878654795",
+        "created_at": "2026-06-13T03:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T04:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065637459388735858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2062872536766177280",
+              "start": 0,
+              "username": "fut924x"
+            },
+            {
+              "end": 23,
+              "id": "1613070396928188420",
+              "start": 9,
+              "username": "daydaydaydrmz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065637459388735858",
+        "in_reply_to_user_id": "2062872536766177280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065444320484954553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fut924x @daydaydaydrmz 可怜🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062872536766177280",
+        "conversation_id": "2065308702878654795",
+        "created_at": "2026-06-12T14:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065444320484954553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            },
+            {
+              "end": 28,
+              "id": "1613070396928188420",
+              "start": 14,
+              "username": "daydaydaydrmz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065444320484954553",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065355035463295395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ @daydaydaydrmz 我是小时候大人天给我吃鸡蛋，给我吃反胃了，现在闻到鸡蛋就下意思反胃下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 9,
+          "like_count": 1128,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2899
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-05T12:23:04.000Z",
+        "description": "",
+        "id": "2062872536766177280",
+        "name": "富土",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062948583566176256/ttzA75q7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 15,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 158
+        },
+        "username": "fut924x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:08:55.000Z",
+        "description": "男的｜纯当树洞｜现生熟人滚",
+        "id": "1613070396928188420",
+        "location": "我的故乡在远方",
+        "name": "daydayday",
+        "pinned_tweet_id": "2056408910609993928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056367047249174528/NG4mArjR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 76,
+          "like_count": 1195,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 896
+        },
+        "username": "daydaydaydrmz",
+        "verified": false
+      }
+    ]
+  }
+}

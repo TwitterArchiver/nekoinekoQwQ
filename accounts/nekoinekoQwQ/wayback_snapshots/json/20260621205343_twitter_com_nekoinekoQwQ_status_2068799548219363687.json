@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2068775066998100344",
+    "created_at": "2026-06-21T20:53:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T21:53:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068799548219363687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1362745661318332419",
+          "start": 0,
+          "username": "BlueAquaray"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068799548219363687",
+    "in_reply_to_user_id": "1362745661318332419",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068794360544780564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BlueAquaray 谢谢你呀！我就这样开心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2068775066998100344",
+        "created_at": "2026-06-21T20:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T21:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068799548219363687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1362745661318332419",
+              "start": 0,
+              "username": "BlueAquaray"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068799548219363687",
+        "in_reply_to_user_id": "1362745661318332419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068794360544780564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlueAquaray 谢谢你呀！我就这样开心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1362745661318332419",
+        "conversation_id": "2068775066998100344",
+        "created_at": "2026-06-21T20:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T21:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068794360544780564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068794360544780564",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068775066998100344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 其实看起来还是很香的，\n我特别爱吃看起来浓油赤酱的炒饭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 12,
+          "like_count": 1632,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 4458
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-19T12:48:36.000Z",
+        "description": "像浪花一样消失。",
+        "id": "1362745661318332419",
+        "location": "涟漪中心",
+        "name": "潮",
+        "pinned_tweet_id": "2068597849869398339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068474149710995456/H-1V3oMo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 66,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 94
+        },
+        "url": "",
+        "username": "BlueAquaray",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065402227523748079",
+    "created_at": "2026-06-12T17:10:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T18:10:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065481774294253902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "194859435",
+          "start": 0,
+          "username": "stagerain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065481774294253902",
+    "in_reply_to_user_id": "194859435",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065402227523748079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stagerain 努嘴"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2065402177557061633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnIVmebYAEbaSS.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065402227523748079",
+        "created_at": "2026-06-12T17:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065481774294253902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "194859435",
+              "start": 0,
+              "username": "stagerain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065481774294253902",
+        "in_reply_to_user_id": "194859435",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065402227523748079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stagerain 努嘴"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065402177557061633"
+          ]
+        },
+        "author_id": "194859435",
+        "conversation_id": "2065402227523748079",
+        "created_at": "2026-06-12T11:53:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065402227523748079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nXyg3CciEz",
+              "end": 28,
+              "expanded_url": "https://x.com/stagerain/status/2065402227523748079/photo/1",
+              "media_key": "3_2065402177557061633",
+              "start": 5,
+              "url": "https://t.co/nXyg3CciEz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065402227523748079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 309,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又在要饭 https://t.co/nXyg3CciEz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 10,
+          "like_count": 1105,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2847
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-25T04:34:24.000Z",
+        "description": "Love u more than can I say",
+        "id": "194859435",
+        "name": "能量雨🌧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059505660262494208/NdJfx0xl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 53,
+          "like_count": 6926,
+          "listed_count": 1,
+          "media_count": 803,
+          "tweet_count": 2192
+        },
+        "username": "stagerain",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065118157443096892",
+    "created_at": "2026-06-12T04:33:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T05:33:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065291380826812442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1930584456873828352",
+          "start": 0,
+          "username": "uaiee77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065291380826812442",
+    "in_reply_to_user_id": "1930584456873828352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065118157443096892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uaiee77 这种还是得狠狠拒绝啊，我一般会说自己没钱，或者是限额啥的，我觉得没钱这个理由很好说呀，买了很贵的东西，所以没钱了，如果是月底的话就可以直接说自己没钱，月初的话就说生活费没发之类的，不要当老好人呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2025,
+        "media_key": "3_2065118141647327232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKjGAiQakAA8md6.jpg",
+        "width": 1148
+      },
+      {
+        "height": 2041,
+        "media_key": "3_2065118141643194368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKjGAiPbgAAhmMX.jpg",
+        "width": 1161
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065118157443096892",
+        "created_at": "2026-06-12T04:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T05:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065291380826812442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1930584456873828352",
+              "start": 0,
+              "username": "uaiee77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065291380826812442",
+        "in_reply_to_user_id": "1930584456873828352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065118157443096892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uaiee77 这种还是得狠狠拒绝啊，我一般会说自己没钱，或者是限额啥的，我觉得没钱这个理由很好说呀，买了很贵的东西，所以没钱了，如果是月底的话就可以直接说自己没钱，月初的话就说生活费没发之类的，不要当老好人呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065118141647327232",
+            "3_2065118141643194368"
+          ]
+        },
+        "author_id": "1930584456873828352",
+        "conversation_id": "2065118157443096892",
+        "created_at": "2026-06-11T17:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T18:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065118157443096892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YsmJ0ImKYZ",
+              "end": 114,
+              "expanded_url": "https://x.com/uaiee77/status/2065118157443096892/photo/1",
+              "media_key": "3_2065118141647327232",
+              "start": 91,
+              "url": "https://t.co/YsmJ0ImKYZ"
+            },
+            {
+              "display_url": "pic.x.com/YsmJ0ImKYZ",
+              "end": 114,
+              "expanded_url": "https://x.com/uaiee77/status/2065118157443096892/photo/1",
+              "media_key": "3_2065118141643194368",
+              "start": 91,
+              "url": "https://t.co/YsmJ0ImKYZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065118157443096892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1008,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到底怎么才能拒绝别人借钱。。这是我之前的同事对我还不错所以找我借过几次都给他了 之前都说明天还但总会拖十天半个月心里很烦 后来每次像这样找我借钱我都说不借但会契而不舍把我架在火上烤 https://t.co/YsmJ0ImKYZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 10,
+          "like_count": 985,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 2672
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-05T11:16:29.000Z",
+        "description": "@auiee77u",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "auiee77u"
+              }
+            ]
+          }
+        },
+        "id": "1930584456873828352",
+        "name": "沈什么妍^",
+        "pinned_tweet_id": "1962173725417361627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060510773735292928/4NbB79Tc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3891,
+          "following_count": 14,
+          "like_count": 1514,
+          "listed_count": 9,
+          "media_count": 112,
+          "tweet_count": 2353
+        },
+        "username": "uaiee77",
+        "verified": false
+      }
+    ]
+  }
+}

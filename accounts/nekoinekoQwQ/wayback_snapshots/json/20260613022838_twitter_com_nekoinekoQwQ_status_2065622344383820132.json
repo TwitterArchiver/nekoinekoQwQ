@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065325903786483745",
+    "created_at": "2026-06-13T02:28:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T03:28:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065622344383820132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2062578251500003328",
+          "start": 0,
+          "username": "sonora_07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065622344383820132",
+    "in_reply_to_user_id": "2062578251500003328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065337934757118327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sonora_07 讨厌那种自以为是，或者是不信守承诺的人，还有那种一聊天就感觉情商很低的也很讨厌，我的性格很曼妙，有点太矛盾了，不过大抵是好的，就是有点讨好型人格吧☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065325903786483745",
+        "created_at": "2026-06-13T02:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T03:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065622344383820132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2062578251500003328",
+              "start": 0,
+              "username": "sonora_07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065622344383820132",
+        "in_reply_to_user_id": "2062578251500003328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065337934757118327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sonora_07 讨厌那种自以为是，或者是不信守承诺的人，还有那种一聊天就感觉情商很低的也很讨厌，我的性格很曼妙，有点太矛盾了，不过大抵是好的，就是有点讨好型人格吧☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062578251500003328",
+        "conversation_id": "2065325903786483745",
+        "created_at": "2026-06-12T07:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T08:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065337934757118327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065337934757118327",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065325903786483745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 60 62"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 9,
+          "like_count": 1127,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2890
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-04T16:53:35.000Z",
+        "description": "",
+        "id": "2062578251500003328",
+        "name": "sonora",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062802376352829440/SDDc0ej__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 5,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 82
+        },
+        "username": "sonora_07",
+        "verified": false
+      }
+    ]
+  }
+}

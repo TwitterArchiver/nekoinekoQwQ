@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2080594392222740560",
+    "created_at": "2026-07-25T03:30:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T04:30:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080858233187787205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1917734495786041344",
+          "start": 0,
+          "username": "chelsey24517"
+        },
+        {
+          "end": 25,
+          "id": "2034954763780202496",
+          "start": 14,
+          "username": "Naoya_515_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080858233187787205",
+    "in_reply_to_user_id": "1917734495786041344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080835127907860945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chelsey24517 @Naoya_515_ 嘻嘻(*^ω^*)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2080594392222740560",
+        "created_at": "2026-07-25T03:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T04:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080858233187787205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1917734495786041344",
+              "start": 0,
+              "username": "chelsey24517"
+            },
+            {
+              "end": 25,
+              "id": "2034954763780202496",
+              "start": 14,
+              "username": "Naoya_515_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080858233187787205",
+        "in_reply_to_user_id": "1917734495786041344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080835127907860945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chelsey24517 @Naoya_515_ 嘻嘻(*^ω^*)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917734495786041344",
+        "conversation_id": "2080594392222740560",
+        "created_at": "2026-07-25T01:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T02:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080835127907860945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            },
+            {
+              "end": 25,
+              "id": "2034954763780202496",
+              "start": 14,
+              "username": "Naoya_515_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080835127907860945",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080643382444212345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ @Naoya_515_ 那对自己很好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 10,
+          "like_count": 1956,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 5571
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T00:15:17.000Z",
+        "description": "在推上很像是一场灵魂的碰撞呢｜碎碎念，\n很高兴大家来跟我聊天｜月丑 ｜最近刚入坑明日方舟，有趣的剧情可以来分享｜https://t.co/47ytjGff9h",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shenkl",
+                "end": 79,
+                "expanded_url": "https://ngl.link/shenkl",
+                "start": 56,
+                "url": "https://t.co/47ytjGff9h"
+              }
+            ]
+          }
+        },
+        "id": "1917734495786041344",
+        "name": "不染",
+        "pinned_tweet_id": "2031701656807813338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080087522835873793/5xfAuVe2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 274,
+          "like_count": 8084,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 1813
+        },
+        "url": "",
+        "username": "chelsey24517",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-20T11:26:46.000Z",
+        "description": "御坂美琴不是很可爱吗？",
+        "id": "2034954763780202496",
+        "name": "直哉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034955014092070914/17GMZAZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 134,
+          "like_count": 1049,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 167
+        },
+        "url": "",
+        "username": "Naoya_515_",
+        "verified": false
+      }
+    ]
+  }
+}

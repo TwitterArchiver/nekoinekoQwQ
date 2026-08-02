@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2064319811874885955",
+    "created_at": "2026-06-09T23:30:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T00:30:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064490223330042060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1764524235714920448",
+          "start": 0,
+          "username": "0mintrix17675"
+        },
+        {
+          "end": 27,
+          "id": "2000066908163571712",
+          "start": 15,
+          "username": "Zhongyiwznm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064490223330042060",
+    "in_reply_to_user_id": "1764524235714920448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064470073465819405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0mintrix17675 @Zhongyiwznm 那是什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2064319811874885955",
+        "created_at": "2026-06-09T23:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T00:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064490223330042060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1764524235714920448",
+              "start": 0,
+              "username": "0mintrix17675"
+            },
+            {
+              "end": 27,
+              "id": "2000066908163571712",
+              "start": 15,
+              "username": "Zhongyiwznm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064490223330042060",
+        "in_reply_to_user_id": "1764524235714920448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064470073465819405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0mintrix17675 @Zhongyiwznm 那是什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764524235714920448",
+        "conversation_id": "2064319811874885955",
+        "created_at": "2026-06-09T22:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T23:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064470073465819405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            },
+            {
+              "end": 26,
+              "id": "2000066908163571712",
+              "start": 14,
+              "username": "Zhongyiwznm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064470073465819405",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064334071388615103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ @Zhongyiwznm 软脚虾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 8,
+          "like_count": 559,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 2370
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-04T05:32:27.000Z",
+        "description": "",
+        "id": "1764524235714920448",
+        "name": "0mintrix",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062624983432691712/MYRONlD7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 120,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "username": "0mintrix17675",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-14T04:54:53.000Z",
+        "description": "",
+        "id": "2000066908163571712",
+        "location": "Manchester, England",
+        "name": "Emergency contact person",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062157416427290624/fOiS5zkd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 68,
+          "like_count": 151,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 62
+        },
+        "username": "Zhongyiwznm",
+        "verified": false
+      }
+    ]
+  }
+}

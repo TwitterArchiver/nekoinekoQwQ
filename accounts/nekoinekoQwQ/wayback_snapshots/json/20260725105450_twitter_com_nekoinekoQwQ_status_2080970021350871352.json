@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2080970021350871352",
+    "created_at": "2026-07-25T10:54:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T11:54:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080970021350871352"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080970021350871352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每次觉得生活好起来的时候，就会被现实狠狠打死呀。从小到大收到了很多空头支票，我真的最讨厌不守诺言的人了，事后有一大堆理由。我甚至有时候还会为了自己产生的一些坏想法愧疚，我到底对得起谁。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2080970021350871352",
+        "created_at": "2026-07-25T10:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T11:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080970021350871352"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080970021350871352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次觉得生活好起来的时候，就会被现实狠狠打死呀。从小到大收到了很多空头支票，我真的最讨厌不守诺言的人了，事后有一大堆理由。我甚至有时候还会为了自己产生的一些坏想法愧疚，我到底对得起谁。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 10,
+          "like_count": 1960,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 5588
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064193811480465408",
+        "3_2064193811438505984"
+      ]
+    },
+    "author_id": "1948326838125903872",
+    "conversation_id": "2064193821580439894",
+    "created_at": "2026-06-09T03:52:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T04:52:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064193821580439894"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OBwAMtoK1l",
+          "end": 72,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2064193821580439894/photo/1",
+          "media_key": "3_2064193811480465408",
+          "start": 49,
+          "url": "https://t.co/OBwAMtoK1l"
+        },
+        {
+          "display_url": "pic.x.com/OBwAMtoK1l",
+          "end": 72,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2064193821580439894/photo/1",
+          "media_key": "3_2064193811438505984",
+          "start": 49,
+          "url": "https://t.co/OBwAMtoK1l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064193821580439894",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "汉堡遭到无妄之灾（附带汉堡今日美照，本来想给他加个腮红，结果发现自己画技简直就是一坨，还是算了） https://t.co/OBwAMtoK1l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1172,
+        "media_key": "3_2064193811480465408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKV9VcDaUAAE-Lb.jpg",
+        "width": 831
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2064193811438505984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKV9Vb5aEAAdNC_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064193811480465408",
+            "3_2064193811438505984"
+          ]
+        },
+        "author_id": "1948326838125903872",
+        "conversation_id": "2064193821580439894",
+        "created_at": "2026-06-09T03:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T04:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064193821580439894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OBwAMtoK1l",
+              "end": 72,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2064193821580439894/photo/1",
+              "media_key": "3_2064193811480465408",
+              "start": 49,
+              "url": "https://t.co/OBwAMtoK1l"
+            },
+            {
+              "display_url": "pic.x.com/OBwAMtoK1l",
+              "end": 72,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2064193821580439894/photo/1",
+              "media_key": "3_2064193811438505984",
+              "start": 49,
+              "url": "https://t.co/OBwAMtoK1l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064193821580439894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "汉堡遭到无妄之灾（附带汉堡今日美照，本来想给他加个腮红，结果发现自己画技简直就是一坨，还是算了） https://t.co/OBwAMtoK1l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 2,
+          "like_count": 516,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 2151
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

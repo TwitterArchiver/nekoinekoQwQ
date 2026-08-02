@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2082746377080393850",
+    "created_at": "2026-07-30T14:37:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T15:37:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082837916850721220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2034954763780202496",
+          "start": 0,
+          "username": "Naoya_515_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082837916850721220",
+    "in_reply_to_user_id": "2034954763780202496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082822577672872160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Naoya_515_ 居然是20年后吗 不过闹掰好可惜呀，我当时那上面好像也写了朋友的名字，但是现在也的确没玩了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2082746377080393850",
+        "created_at": "2026-07-30T14:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082837916850721220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2034954763780202496",
+              "start": 0,
+              "username": "Naoya_515_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082837916850721220",
+        "in_reply_to_user_id": "2034954763780202496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082822577672872160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Naoya_515_ 居然是20年后吗 不过闹掰好可惜呀，我当时那上面好像也写了朋友的名字，但是现在也的确没玩了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034954763780202496",
+        "conversation_id": "2082746377080393850",
+        "created_at": "2026-07-30T13:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T14:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082822577672872160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082822577672872160",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082746377080393850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 这倒是让我想起来了，我们高三给20年后的自己写信，我写了好多好多，差不多给整个高中有意思的事都写进去了，还塞了一些画的画，只可惜里面提到的一个特别好的朋友不久之后就彻底闹掰了哈哈🫢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 10,
+          "like_count": 2030,
+          "listed_count": 0,
+          "media_count": 221,
+          "tweet_count": 6116
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-20T11:26:46.000Z",
+        "description": "御坂美琴不是很可爱吗？",
+        "id": "2034954763780202496",
+        "name": "直哉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034955014092070914/17GMZAZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 139,
+          "like_count": 1165,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 190
+        },
+        "url": "",
+        "username": "Naoya_515_",
+        "verified": false
+      }
+    ]
+  }
+}

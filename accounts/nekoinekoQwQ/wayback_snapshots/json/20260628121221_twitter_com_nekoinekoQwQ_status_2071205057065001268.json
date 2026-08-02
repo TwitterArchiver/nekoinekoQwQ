@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2070924558216175827",
+    "created_at": "2026-06-28T12:12:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T13:12:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071205057065001268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2039599453263278080",
+          "start": 0,
+          "username": "Sugar7bunny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071205057065001268",
+    "in_reply_to_user_id": "2039599453263278080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070924558216175827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sugar7bunny 我要许愿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2070924558216175827",
+        "created_at": "2026-06-28T12:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071205057065001268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2039599453263278080",
+              "start": 0,
+              "username": "Sugar7bunny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071205057065001268",
+        "in_reply_to_user_id": "2039599453263278080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070924558216175827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sugar7bunny 我要许愿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039599453263278080",
+        "conversation_id": "2070924558216175827",
+        "created_at": "2026-06-27T17:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T18:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070924558216175827"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070924558216175827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2039,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我需要一个随时随地秒上号陪我打王者的人（玩的厉害版）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 12,
+          "like_count": 1701,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 4780
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T07:03:09.000Z",
+        "description": "",
+        "id": "2039599453263278080",
+        "name": "Rainsly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069876801170739200/SrorJTaI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 10,
+          "like_count": 120,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 37
+        },
+        "url": "",
+        "username": "Sugar7bunny",
+        "verified": false
+      }
+    ]
+  }
+}

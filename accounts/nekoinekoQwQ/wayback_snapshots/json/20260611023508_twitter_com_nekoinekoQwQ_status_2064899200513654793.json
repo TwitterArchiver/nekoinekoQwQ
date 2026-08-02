@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2064707916641534137",
+    "created_at": "2026-06-11T02:35:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T03:35:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064899200513654793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1776109161358807040",
+          "start": 0,
+          "username": "XN63XVEDoX15647"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064899200513654793",
+    "in_reply_to_user_id": "1776109161358807040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064741170895261701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XN63XVEDoX15647 没错口牙，不过我不接受强买强卖，他们不许道德绑架我(¯へ¯)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2064707916641534137",
+        "created_at": "2026-06-11T02:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T03:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064899200513654793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1776109161358807040",
+              "start": 0,
+              "username": "XN63XVEDoX15647"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064899200513654793",
+        "in_reply_to_user_id": "1776109161358807040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064741170895261701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XN63XVEDoX15647 没错口牙，不过我不接受强买强卖，他们不许道德绑架我(¯へ¯)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776109161358807040",
+        "conversation_id": "2064707916641534137",
+        "created_at": "2026-06-10T16:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T17:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064741170895261701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064741170895261701",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064707916641534137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 理解，高中生活就是这样，有些看不惯的人却还要“同在屋檐下”😅团结精神教育的确很能激发正能量的教育意义，但几十年来的教育从来都只是把这个理念实行在阳奉阴违甚至体罚上😅😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 10,
+          "like_count": 802,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 2415
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-05T04:46:43.000Z",
+        "description": "希望能成为一个温柔善良正能量的人。\nI hope to be a gentle, kind and positive person.\n爱思考🤔   爱做白日梦😪      想交朋友🤗\nLove thinking🤔  Love daydreaming😪    Want to make friends🤗",
+        "id": "1776109161358807040",
+        "name": "雨纪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779802687791656960/SB-UJ9LP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 10,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "username": "XN63XVEDoX15647",
+        "verified": false
+      }
+    ]
+  }
+}

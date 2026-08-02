@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2067478976269074442",
+    "created_at": "2026-06-18T12:14:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T13:14:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067581703720517960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1709267357183733760",
+          "start": 0,
+          "username": "TKdom1230"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067581703720517960",
+    "in_reply_to_user_id": "1709267357183733760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067580477159116893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TKdom1230 哈哈哈好哦！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 529,
+        "media_key": "3_2067580461644414976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGFebDagAAZe2q.jpg",
+        "width": 501
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2067478976269074442",
+        "created_at": "2026-06-18T12:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067581703720517960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1709267357183733760",
+              "start": 0,
+              "username": "TKdom1230"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067581703720517960",
+        "in_reply_to_user_id": "1709267357183733760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067580477159116893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TKdom1230 哈哈哈好哦！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067580461644414976"
+          ]
+        },
+        "author_id": "1709267357183733760",
+        "conversation_id": "2067478976269074442",
+        "created_at": "2026-06-18T12:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067580477159116893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kYuUiDvh9v",
+              "end": 42,
+              "expanded_url": "https://x.com/TKdom1230/status/2067580477159116893/photo/1",
+              "media_key": "3_2067580461644414976",
+              "start": 19,
+              "url": "https://t.co/kYuUiDvh9v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067580477159116893",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067576889330573689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 不要射我 https://t.co/kYuUiDvh9v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 11,
+          "like_count": 1578,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 4092
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-03T18:01:20.000Z",
+        "description": "Dom/INTJ/玄学/摄影/羽毛球/老吃家/广州 \n可能很久才上线一次\n尽力做好自己喜欢做的事\n本人虽然不算什么好人，但思想独立，能明辨是非\n理想状态是partner能跟我一起进步 1v1 长期",
+        "id": "1709267357183733760",
+        "location": "guangzhou",
+        "name": "KT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043737702336737282/GfX_9um3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 17,
+          "like_count": 1682,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 406
+        },
+        "url": "",
+        "username": "TKdom1230",
+        "verified": false
+      }
+    ]
+  }
+}

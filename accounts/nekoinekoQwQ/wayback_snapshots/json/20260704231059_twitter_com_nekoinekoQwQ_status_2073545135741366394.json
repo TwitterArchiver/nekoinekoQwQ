@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073545127608606720",
+        "3_2073545127654801408"
+      ]
+    },
+    "author_id": "1948326838125903872",
+    "conversation_id": "2073545135741366394",
+    "created_at": "2026-07-04T23:10:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T00:10:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073545135741366394"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hCTKK03xSu",
+          "end": 177,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2073545135741366394/photo/1",
+          "media_key": "3_2073545127608606720",
+          "start": 154,
+          "url": "https://t.co/hCTKK03xSu"
+        },
+        {
+          "display_url": "pic.x.com/hCTKK03xSu",
+          "end": 177,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2073545135741366394/photo/1",
+          "media_key": "3_2073545127654801408",
+          "start": 154,
+          "url": "https://t.co/hCTKK03xSu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073545135741366394",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "拖了很久的匿名。想出回答视频，但有点害羞，所以还是文字回答吧。我是女的来着，形象有那么那个吗TT\n2这个是鹤说的，我惊人的记忆力\n3 是窝的小粉丝🥺\n4 我也稀饭泥\n5 我已经知道是哪个小宝了，这么萌！\n6能让你开心 我很高兴！\n7 阿怪出没\n8 欢迎大家找我丸哦\n9 不是很懂诶\n10 我很努力打的。TT https://t.co/hCTKK03xSu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073545127608606720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMa2TrTaYAA_SI9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 504,
+        "media_key": "3_2073545127654801408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMa2TrebQAADP8P.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073545127608606720",
+            "3_2073545127654801408"
+          ]
+        },
+        "author_id": "1948326838125903872",
+        "conversation_id": "2073545135741366394",
+        "created_at": "2026-07-04T23:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T00:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073545135741366394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hCTKK03xSu",
+              "end": 177,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2073545135741366394/photo/1",
+              "media_key": "3_2073545127608606720",
+              "start": 154,
+              "url": "https://t.co/hCTKK03xSu"
+            },
+            {
+              "display_url": "pic.x.com/hCTKK03xSu",
+              "end": 177,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2073545135741366394/photo/1",
+              "media_key": "3_2073545127654801408",
+              "start": 154,
+              "url": "https://t.co/hCTKK03xSu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073545135741366394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拖了很久的匿名。想出回答视频，但有点害羞，所以还是文字回答吧。我是女的来着，形象有那么那个吗TT\n2这个是鹤说的，我惊人的记忆力\n3 是窝的小粉丝🥺\n4 我也稀饭泥\n5 我已经知道是哪个小宝了，这么萌！\n6能让你开心 我很高兴！\n7 阿怪出没\n8 欢迎大家找我丸哦\n9 不是很懂诶\n10 我很努力打的。TT https://t.co/hCTKK03xSu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 12,
+          "like_count": 1829,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 4893
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2067826983342674092",
+    "created_at": "2026-06-19T06:10:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T07:10:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067852495322583389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1458826335468630024",
+          "start": 0,
+          "username": "lesaviezvous72"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067852495322583389",
+    "in_reply_to_user_id": "1458826335468630024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067826983342674092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lesaviezvous72 泪最喜欢之歌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15593,
+        "height": 720,
+        "media_key": "13_2067826927604576256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067826927604576256/img/KgM9nKux_3Vz8yQz.jpg",
+        "public_metrics": {
+          "view_count": 132
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067826927604576256/vid/avc1/480x270/7EHaORBk9MAN_NwX.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067826927604576256/vid/avc1/640x360/FqO9I2FFlAgyBS8J.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067826927604576256/vid/avc1/1280x720/a43SyS1GvBZk_6w-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067826927604576256/pl/i6BfD3tV1KZOkU3T.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2067826983342674092",
+        "created_at": "2026-06-19T06:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T07:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067852495322583389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1458826335468630024",
+              "start": 0,
+              "username": "lesaviezvous72"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067852495322583389",
+        "in_reply_to_user_id": "1458826335468630024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067826983342674092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lesaviezvous72 泪最喜欢之歌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067826927604576256"
+          ]
+        },
+        "author_id": "1458826335468630024",
+        "conversation_id": "2067826983342674092",
+        "created_at": "2026-06-19T04:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T05:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067826983342674092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dU1YRC48BL",
+              "end": 30,
+              "expanded_url": "https://x.com/lesaviezvous72/status/2067826983342674092/video/1",
+              "media_key": "13_2067826927604576256",
+              "start": 7,
+              "url": "https://t.co/dU1YRC48BL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067826983342674092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 469,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家端午快乐 https://t.co/dU1YRC48BL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 11,
+          "like_count": 1586,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 4178
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-11T15:58:10.000Z",
+        "description": "性别男，喜欢女，热爱倾听，随时闲聊，有话题你就来。",
+        "id": "1458826335468630024",
+        "name": "羊尾",
+        "pinned_tweet_id": "2066858926981955714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050546097798717440/smrkfwcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 257,
+          "like_count": 330,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 300
+        },
+        "url": "",
+        "username": "lesaviezvous72",
+        "verified": false
+      }
+    ]
+  }
+}

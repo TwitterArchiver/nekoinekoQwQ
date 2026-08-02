@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2061313903368544543",
+    "created_at": "2026-06-02T16:11:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T17:11:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061843172414894579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1645929616287072258",
+          "start": 0,
+          "username": "hhhhhhhhhxiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061843172414894579",
+    "in_reply_to_user_id": "1645929616287072258",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061443214993961097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhhhhhhhhxiao 雅米"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2061313903368544543",
+        "created_at": "2026-06-02T16:11:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:11:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061843172414894579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1645929616287072258",
+              "start": 0,
+              "username": "hhhhhhhhhxiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061843172414894579",
+        "in_reply_to_user_id": "1645929616287072258",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061443214993961097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhhhhhhhhxiao 雅米"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1645929616287072258",
+        "conversation_id": "2061313903368544543",
+        "created_at": "2026-06-01T13:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T14:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061443214993961097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061443214993961097",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061313903368544543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 咖喱……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 2,
+          "like_count": 261,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1788
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-11T23:19:45.000Z",
+        "description": "可以叫我小h   •ᴥ•\n♡:@AiSuo14239\n既不是S也不是M\n不网调不网调不网调\n不定时更新\n私信看到会回复的\\(  ͯω  ͯ)/\n投喂可以发口令红包或者直接私我谢谢（我就这样圈如钱）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "AiSuo14239"
+              }
+            ]
+          }
+        },
+        "id": "1645929616287072258",
+        "name": "hhhhhhhhhhh",
+        "pinned_tweet_id": "2058911406100246670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059443150750613504/LouOHVyB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 58,
+          "like_count": 906,
+          "listed_count": 3,
+          "media_count": 22,
+          "tweet_count": 225
+        },
+        "username": "hhhhhhhhhxiao",
+        "verified": false
+      }
+    ]
+  }
+}

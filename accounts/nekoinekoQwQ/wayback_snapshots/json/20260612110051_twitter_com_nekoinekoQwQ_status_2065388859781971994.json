@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065388859781971994",
+    "created_at": "2026-06-12T11:00:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T12:00:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065388859781971994"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065388859781971994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我能不能找一个声音很好听的人天天给我打电话，我感觉自己有点想打电话，其实也没有特别想打电话吧，我会特别尴尬的，我只是单纯这样想而已，哎，之前每天都在打电话，现在好久没打电话，感觉自己已经不会说话了，我每天的社交就是跟网友说话，青年音对我来说已经没有吸引力了，依旧讨厌叔音😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065388859781971994",
+        "created_at": "2026-06-12T11:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065388859781971994"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065388859781971994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我能不能找一个声音很好听的人天天给我打电话，我感觉自己有点想打电话，其实也没有特别想打电话吧，我会特别尴尬的，我只是单纯这样想而已，哎，之前每天都在打电话，现在好久没打电话，感觉自己已经不会说话了，我每天的社交就是跟网友说话，青年音对我来说已经没有吸引力了，依旧讨厌叔音😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 10,
+          "like_count": 1040,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 2777
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2030372309169737763",
+    "created_at": "2026-03-08T06:07:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T07:07:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030525707345088691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1690949881672908800",
+          "start": 0,
+          "username": "steanna56949"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030525707345088691",
+    "in_reply_to_user_id": "1690949881672908800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030525159636107671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@steanna56949 我懂啊。就这样崩溃吧，崩溃完之后呆傻的看着这个世界，哭完睡个觉，第二天好一点之后继续崩溃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2030372309169737763",
+        "created_at": "2026-03-08T06:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T07:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030525707345088691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1690949881672908800",
+              "start": 0,
+              "username": "steanna56949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030525707345088691",
+        "in_reply_to_user_id": "1690949881672908800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030525159636107671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@steanna56949 我懂啊。就这样崩溃吧，崩溃完之后呆傻的看着这个世界，哭完睡个觉，第二天好一点之后继续崩溃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690949881672908800",
+        "conversation_id": "2030372309169737763",
+        "created_at": "2026-03-08T06:04:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T07:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030525159636107671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030525159636107671",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030509697179230694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 好无助好崩溃😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 1,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 178
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-14T04:55:57.000Z",
+        "description": "去死去死去死去死你怎么不去死呢去死掐死绞肉机跳楼自杀淹死凌迟砍头枪✿ฺ)",
+        "id": "1690949881672908800",
+        "name": "大眼萌妹爱跳楼",
+        "pinned_tweet_id": "1801764714998870528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931182777044758528/IO8z_kci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 46,
+          "like_count": 9107,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 2096
+        },
+        "username": "steanna56949",
+        "verified": false
+      }
+    ]
+  }
+}

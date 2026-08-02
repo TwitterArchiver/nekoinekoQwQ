@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2066657691389563124",
+    "created_at": "2026-06-16T04:42:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T05:42:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066743182034112800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2065847252229521408",
+          "start": 0,
+          "username": "Ruize0622"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066743182034112800",
+    "in_reply_to_user_id": "2065847252229521408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066698108013285550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruize0622 好哦(๑&gt;ᴗ&lt;๑)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2066657691389563124",
+        "created_at": "2026-06-16T04:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T05:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066743182034112800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2065847252229521408",
+              "start": 0,
+              "username": "Ruize0622"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066743182034112800",
+        "in_reply_to_user_id": "2065847252229521408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066698108013285550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruize0622 好哦(๑&gt;ᴗ&lt;๑)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065847252229521408",
+        "conversation_id": "2066657691389563124",
+        "created_at": "2026-06-16T01:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T02:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066698108013285550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066698108013285550",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066657691389563124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 有趣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 10,
+          "like_count": 1479,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 3675
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-13T17:24:58.000Z",
+        "description": "我已经懒得写任何东西了，大号：@Ruizexxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 15,
+                "username": "Ruizexxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruize36888",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruize36888",
+                "start": 0,
+                "url": "https://t.co/ddt0wehOX3"
+              }
+            ]
+          }
+        },
+        "id": "2065847252229521408",
+        "location": "世界的每一处角落",
+        "name": "Ruize",
+        "pinned_tweet_id": "2065853621351375048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065848225337430017/YT64iLg7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 75,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 82
+        },
+        "url": "https://t.co/ddt0wehOX3",
+        "username": "Ruize0622",
+        "verified": false
+      }
+    ]
+  }
+}

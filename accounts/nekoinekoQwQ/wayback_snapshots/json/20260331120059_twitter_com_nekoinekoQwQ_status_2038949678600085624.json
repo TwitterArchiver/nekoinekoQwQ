@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2038817327517716818",
+    "created_at": "2026-03-31T12:00:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T13:00:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038949678600085624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1558523100722909184",
+          "start": 0,
+          "username": "chnbiy4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038949678600085624",
+    "in_reply_to_user_id": "1558523100722909184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038948180914799090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chnbiy4 可以试试！😌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2038817327517716818",
+        "created_at": "2026-03-31T12:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T13:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038949678600085624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1558523100722909184",
+              "start": 0,
+              "username": "chnbiy4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038949678600085624",
+        "in_reply_to_user_id": "1558523100722909184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038948180914799090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chnbiy4 可以试试！😌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558523100722909184",
+        "conversation_id": "2038817327517716818",
+        "created_at": "2026-03-31T11:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T12:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038948180914799090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038948180914799090",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038945092539695433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 酸酸的我喜欢的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 1,
+          "like_count": 195,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1250
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T18:37:47.000Z",
+        "description": "三分斯文，七分痞性。\n半句张狂，满口是嗔。\n是沉醉于文字与音乐中的熬夜拧种。\n互关欢迎加V",
+        "id": "1558523100722909184",
+        "location": "CFBDSIR2149",
+        "name": "寒韫",
+        "pinned_tweet_id": "1637409877244149763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901133666199498753/aBBS2DrN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 683,
+          "like_count": 28306,
+          "listed_count": 10,
+          "media_count": 164,
+          "tweet_count": 5029
+        },
+        "username": "chnbiy4",
+        "verified": false
+      }
+    ]
+  }
+}

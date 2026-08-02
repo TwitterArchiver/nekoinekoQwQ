@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065453236920983684",
+    "created_at": "2026-06-13T01:57:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T02:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065614591439282594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "572359117",
+          "start": 0,
+          "username": "lchaim2life"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065614591439282594",
+    "in_reply_to_user_id": "572359117",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065453236920983684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lchaim2life 我摸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1351,
+        "media_key": "3_2065453225550229504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKn2w_EbMAAvyGK.jpg",
+        "width": 867
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065453236920983684",
+        "created_at": "2026-06-13T01:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T02:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065614591439282594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "572359117",
+              "start": 0,
+              "username": "lchaim2life"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065614591439282594",
+        "in_reply_to_user_id": "572359117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065453236920983684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lchaim2life 我摸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065453225550229504"
+          ]
+        },
+        "author_id": "572359117",
+        "conversation_id": "2065453236920983684",
+        "created_at": "2026-06-12T15:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065453236920983684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BxacEyi4ic",
+              "end": 29,
+              "expanded_url": "https://x.com/lchaim2life/status/2065453236920983684/photo/1",
+              "media_key": "3_2065453225550229504",
+              "start": 6,
+              "url": "https://t.co/BxacEyi4ic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065453236920983684",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Anya🤭 https://t.co/BxacEyi4ic"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 9,
+          "like_count": 1126,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2867
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2012-05-06T06:08:15.000Z",
+        "description": "L'Chaim - we conclude it's worth bearing the painful times in order to experience life's pleasures. 請我飲杯咖啡：  https://t.co/rAMnF6WKCA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/lchaim2life",
+                "end": 132,
+                "expanded_url": "http://buymeacoffee.com/lchaim2life",
+                "start": 109,
+                "url": "https://t.co/rAMnF6WKCA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/lchaimleatherc…",
+                "end": 23,
+                "expanded_url": "http://instagram.com/lchaimleathercraft",
+                "start": 0,
+                "url": "https://t.co/a7UAx1oHYt"
+              }
+            ]
+          }
+        },
+        "id": "572359117",
+        "location": "事了拂衣去深藏身與名",
+        "name": "lchaim2life",
+        "pinned_tweet_id": "1191287457561464832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/893794255897903105/N83q4V5J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2392,
+          "following_count": 729,
+          "like_count": 22039,
+          "listed_count": 13,
+          "media_count": 11427,
+          "tweet_count": 33104
+        },
+        "url": "https://t.co/a7UAx1oHYt",
+        "username": "lchaim2life",
+        "verified": false
+      }
+    ]
+  }
+}

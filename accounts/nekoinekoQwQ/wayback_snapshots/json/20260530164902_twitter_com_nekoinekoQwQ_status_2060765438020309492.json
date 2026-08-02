@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060765424858570752",
+        "3_2060765424875438080"
+      ]
+    },
+    "author_id": "1948326838125903872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2060765438020309492",
+    "created_at": "2026-05-30T16:49:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T17:49:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060765438020309492"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kdxn1sF4OM",
+          "end": 76,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2060765438020309492/photo/1",
+          "media_key": "3_2060765424858570752",
+          "start": 53,
+          "url": "https://t.co/kdxn1sF4OM"
+        },
+        {
+          "display_url": "pic.x.com/kdxn1sF4OM",
+          "end": 76,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2060765438020309492/photo/1",
+          "media_key": "3_2060765424875438080",
+          "start": 53,
+          "url": "https://t.co/kdxn1sF4OM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060765438020309492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "上次吃了这个饼干，其实对我来说不好吃，但奈何它形状是猫猫，还是买了，挺萌的，请找出让猫猫上半身消失的凶手 https://t.co/kdxn1sF4OM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2012,
+        "media_key": "3_2060765424858570752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJlPPEoaIAAGcfa.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1821,
+        "media_key": "3_2060765424875438080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJlPPEsbgAAzscK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060765424858570752",
+            "3_2060765424875438080"
+          ]
+        },
+        "author_id": "1948326838125903872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2060765438020309492",
+        "created_at": "2026-05-30T16:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T17:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060765438020309492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kdxn1sF4OM",
+              "end": 76,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2060765438020309492/photo/1",
+              "media_key": "3_2060765424858570752",
+              "start": 53,
+              "url": "https://t.co/kdxn1sF4OM"
+            },
+            {
+              "display_url": "pic.x.com/kdxn1sF4OM",
+              "end": 76,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2060765438020309492/photo/1",
+              "media_key": "3_2060765424875438080",
+              "start": 53,
+              "url": "https://t.co/kdxn1sF4OM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060765438020309492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上次吃了这个饼干，其实对我来说不好吃，但奈何它形状是猫猫，还是买了，挺萌的，请找出让猫猫上半身消失的凶手 https://t.co/kdxn1sF4OM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 2,
+          "like_count": 253,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1769
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2077185745778077696"
+      ]
+    },
+    "author_id": "1948326838125903872",
+    "conversation_id": "2077185810445849015",
+    "created_at": "2026-07-15T00:17:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T01:17:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077185810445849015"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ti4smHK69n",
+          "end": 28,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2077185810445849015/video/1",
+          "media_key": "13_2077185745778077696",
+          "start": 5,
+          "url": "https://t.co/ti4smHK69n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077185810445849015",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好好笑。 https://t.co/ti4smHK69n"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16716,
+        "height": 720,
+        "media_key": "13_2077185745778077696",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077185745778077696/img/bsVWhkxUs9UW_Pab.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077185745778077696/vid/avc1/388x270/qD2YXkyLyYnwLfRl.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077185745778077696/vid/avc1/518x360/p_9TNHY1GvrW2mXv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077185745778077696/vid/avc1/1036x720/Rc8SaMzIyDIrONkW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077185745778077696/pl/d_yvd1lQvVU3VsEj.m3u8"
+          }
+        ],
+        "width": 1036
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077185745778077696"
+          ]
+        },
+        "author_id": "1948326838125903872",
+        "conversation_id": "2077185810445849015",
+        "created_at": "2026-07-15T00:17:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T01:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077185810445849015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ti4smHK69n",
+              "end": 28,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2077185810445849015/video/1",
+              "media_key": "13_2077185745778077696",
+              "start": 5,
+              "url": "https://t.co/ti4smHK69n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077185810445849015",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好好笑。 https://t.co/ti4smHK69n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 10,
+          "like_count": 1942,
+          "listed_count": 0,
+          "media_count": 207,
+          "tweet_count": 5370
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065656260259921954",
+    "created_at": "2026-06-13T15:46:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T16:46:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065823145966305488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2053139274128621569",
+          "start": 0,
+          "username": "zhaomingxh"
+        },
+        {
+          "end": 21,
+          "id": "1800804511122071552",
+          "start": 12,
+          "username": "Enan0820"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065823145966305488",
+    "in_reply_to_user_id": "2053139274128621569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065822856790135119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhaomingxh @Enan0820 贪吃！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065656260259921954",
+        "created_at": "2026-06-13T15:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065823145966305488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053139274128621569",
+              "start": 0,
+              "username": "zhaomingxh"
+            },
+            {
+              "end": 21,
+              "id": "1800804511122071552",
+              "start": 12,
+              "username": "Enan0820"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065823145966305488",
+        "in_reply_to_user_id": "2053139274128621569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065822856790135119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhaomingxh @Enan0820 贪吃！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053139274128621569",
+        "conversation_id": "2065656260259921954",
+        "created_at": "2026-06-13T15:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065822856790135119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1800804511122071552",
+              "start": 0,
+              "username": "Enan0820"
+            },
+            {
+              "end": 23,
+              "id": "1948326838125903872",
+              "start": 10,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065822856790135119",
+        "in_reply_to_user_id": "1800804511122071552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065656260259921954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Enan0820 @nekoinekoQwQ 难道这些不都是我的吗？😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 9,
+          "like_count": 1203,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 3165
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T15:45:42.000Z",
+        "description": "赛博街溜子，经常左右脑互搏，偶尔大小头互换",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zhaoming25411",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zhaoming25411",
+                "start": 0,
+                "url": "https://t.co/zqZT9eEhUD"
+              }
+            ]
+          }
+        },
+        "id": "2053139274128621569",
+        "location": "黄泉路上",
+        "name": "昭明",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053859381259669504/6lezcukz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 43,
+          "like_count": 4853,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 122
+        },
+        "url": "https://t.co/zqZT9eEhUD",
+        "username": "zhaomingxh",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T08:17:18.000Z",
+        "description": "。°☆(＞𐋣＜)☆°。",
+        "id": "1800804511122071552",
+        "location": "有🚪",
+        "name": "嘟嘟",
+        "pinned_tweet_id": "2025223620289585191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953454634426568704/JDs0qkJV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 977,
+          "following_count": 20,
+          "like_count": 139,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 233
+        },
+        "username": "Enan0820",
+        "verified": false
+      }
+    ]
+  }
+}

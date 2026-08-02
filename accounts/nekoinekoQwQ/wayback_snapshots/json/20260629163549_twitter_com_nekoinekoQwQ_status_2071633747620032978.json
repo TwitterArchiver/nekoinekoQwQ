@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2071633747620032978",
+    "created_at": "2026-06-29T16:35:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T17:35:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071633747620032978"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/llllll0227/sta…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/llllll0227/status/2071630354184827008",
+          "start": 43,
+          "url": "https://t.co/ek1CsWi60o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071633747620032978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071630354184827008",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个主人公有点可怕了，运筹帷幄呀，我刚刚找朋友要了4399的账号，现在在玩亚当找夏娃 https://t.co/ek1CsWi60o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2071633747620032978",
+        "created_at": "2026-06-29T16:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T17:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071633747620032978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/llllll0227/sta…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/llllll0227/status/2071630354184827008",
+              "start": 43,
+              "url": "https://t.co/ek1CsWi60o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071633747620032978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071630354184827008",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个主人公有点可怕了，运筹帷幄呀，我刚刚找朋友要了4399的账号，现在在玩亚当找夏娃 https://t.co/ek1CsWi60o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062207972479238144",
+        "conversation_id": "2071601606936911939",
+        "created_at": "2026-06-29T16:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T17:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071630354184827008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071630354184827008",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071601606936911939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 实则翻两页就去干别的事情了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 12,
+          "like_count": 1794,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 4881
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-03T16:22:45.000Z",
+        "description": "喵喵喵",
+        "id": "2062207972479238144",
+        "name": "主人公",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062808405514055681/gY3kM_l2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 15,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 187
+        },
+        "url": "",
+        "username": "LLLLLL0227",
+        "verified": false
+      }
+    ]
+  }
+}

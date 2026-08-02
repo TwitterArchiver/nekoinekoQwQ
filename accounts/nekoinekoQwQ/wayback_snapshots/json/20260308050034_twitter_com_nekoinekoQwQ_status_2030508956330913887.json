@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2030388765198635390",
+    "created_at": "2026-03-08T05:00:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T06:00:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030508956330913887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1791840281656250368",
+          "start": 0,
+          "username": "Offspring_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030508956330913887",
+    "in_reply_to_user_id": "1791840281656250368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030388765198635390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Offspring_0 是呀 哭不出来好难受。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2030388765198635390",
+        "created_at": "2026-03-08T05:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T06:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030508956330913887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1791840281656250368",
+              "start": 0,
+              "username": "Offspring_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030508956330913887",
+        "in_reply_to_user_id": "1791840281656250368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030388765198635390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Offspring_0 是呀 哭不出来好难受。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791840281656250368",
+        "conversation_id": "2030388765198635390",
+        "created_at": "2026-03-07T21:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T22:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030388765198635390"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030388765198635390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在我想哭都很难了 想很奔溃的大哭一场 我的泪早就干了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 0,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 171
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-18T14:36:43.000Z",
+        "description": "私信除互关其他一律清空不看 没有联系方式 想加就转五百 本人拥有极低的素质及极致的嘴臭 骂不过就拉黑我的表子全死妈了",
+        "id": "1791840281656250368",
+        "name": "做人要像清水",
+        "pinned_tweet_id": "1810036269768114483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956253394987048964/yE2pJjOc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 32,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1318
+        },
+        "username": "Offspring_0",
+        "verified": false
+      }
+    ]
+  }
+}

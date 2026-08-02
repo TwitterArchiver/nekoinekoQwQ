@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2034850730482573787",
+    "created_at": "2026-03-20T04:33:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T05:33:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034850730482573787"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2034850730482573787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我思维还挺活跃，话题跳跃的也很快，自己一直不敢想象家里老人去世或者老掉的情况，特别是很久没见之后，感觉和记忆里比，有了变化，会特别伤心，我一直都接受不了任何人的离开，难过的时候就好想家。从小到大爷爷奶奶最宠我了，会被家里小辈吐槽重女轻男的程度，其实感觉自己很幸福，只是自己没意识到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2034850730482573787",
+        "created_at": "2026-03-20T04:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T05:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034850730482573787"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034850730482573787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我思维还挺活跃，话题跳跃的也很快，自己一直不敢想象家里老人去世或者老掉的情况，特别是很久没见之后，感觉和记忆里比，有了变化，会特别伤心，我一直都接受不了任何人的离开，难过的时候就好想家。从小到大爷爷奶奶最宠我了，会被家里小辈吐槽重女轻男的程度，其实感觉自己很幸福，只是自己没意识到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 1,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 673
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

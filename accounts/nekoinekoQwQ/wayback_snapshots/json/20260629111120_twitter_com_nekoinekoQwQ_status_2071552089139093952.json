@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2071535492869587279",
+    "created_at": "2026-06-29T11:11:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T12:11:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071552089139093952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1362745661318332419",
+          "start": 0,
+          "username": "BlueAquaray"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071552089139093952",
+    "in_reply_to_user_id": "1362745661318332419",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071535492869587279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BlueAquaray 我摸🫳🏻🫳🏻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071535477686202368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-Sip8a8AAVAhY.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071535477665202176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-Sip3agAANGPB.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071535478231453696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-Sir-a0AA9E7r.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071535477673598976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-Sip5aoAATXlb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2071535492869587279",
+        "created_at": "2026-06-29T11:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T12:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071552089139093952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1362745661318332419",
+              "start": 0,
+              "username": "BlueAquaray"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071552089139093952",
+        "in_reply_to_user_id": "1362745661318332419",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071535492869587279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlueAquaray 我摸🫳🏻🫳🏻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071535477686202368",
+            "3_2071535477665202176",
+            "3_2071535478231453696",
+            "3_2071535477673598976"
+          ]
+        },
+        "author_id": "1362745661318332419",
+        "conversation_id": "2071535492869587279",
+        "created_at": "2026-06-29T10:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T11:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071535492869587279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Utif2MEos7",
+              "end": 28,
+              "expanded_url": "https://x.com/BlueAquaray/status/2071535492869587279/photo/1",
+              "media_key": "3_2071535477686202368",
+              "start": 5,
+              "url": "https://t.co/Utif2MEos7"
+            },
+            {
+              "display_url": "pic.x.com/Utif2MEos7",
+              "end": 28,
+              "expanded_url": "https://x.com/BlueAquaray/status/2071535492869587279/photo/1",
+              "media_key": "3_2071535477665202176",
+              "start": 5,
+              "url": "https://t.co/Utif2MEos7"
+            },
+            {
+              "display_url": "pic.x.com/Utif2MEos7",
+              "end": 28,
+              "expanded_url": "https://x.com/BlueAquaray/status/2071535492869587279/photo/1",
+              "media_key": "3_2071535478231453696",
+              "start": 5,
+              "url": "https://t.co/Utif2MEos7"
+            },
+            {
+              "display_url": "pic.x.com/Utif2MEos7",
+              "end": 28,
+              "expanded_url": "https://x.com/BlueAquaray/status/2071535492869587279/photo/1",
+              "media_key": "3_2071535477673598976",
+              "start": 5,
+              "url": "https://t.co/Utif2MEos7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071535492869587279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是大奖 https://t.co/Utif2MEos7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 12,
+          "like_count": 1791,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 4867
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-19T12:48:36.000Z",
+        "description": "像浪花一样消失。",
+        "id": "1362745661318332419",
+        "location": "涟漪中心",
+        "name": "潮",
+        "pinned_tweet_id": "2068597849869398339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068474149710995456/H-1V3oMo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 91,
+          "like_count": 1256,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 445
+        },
+        "url": "",
+        "username": "BlueAquaray",
+        "verified": true
+      }
+    ]
+  }
+}

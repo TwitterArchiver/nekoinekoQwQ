@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2031324465808933283",
+    "created_at": "2026-03-10T11:01:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T12:01:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031324465808933283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2004977573332492288",
+          "start": 3,
+          "username": "gzi1068795"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031324465808933283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030998008674886008",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gzi1068795: 如果觉得生活没意义的话，就多找一点以前没有接触过的事情，去尝试吧，多一点人生锚点，就和这个世界多一点联系也会多一点乐趣，无论是人也好，或者是事物爱好也行，在你遇到困境的时候这个锚点断了也可以转身投入到另一些锚点里面，只有一根绳子的话，断了就没有了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2031324465808933283",
+        "created_at": "2026-03-10T11:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T12:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031324465808933283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2004977573332492288",
+              "start": 3,
+              "username": "gzi1068795"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031324465808933283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030998008674886008",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gzi1068795: 如果觉得生活没意义的话，就多找一点以前没有接触过的事情，去尝试吧，多一点人生锚点，就和这个世界多一点联系也会多一点乐趣，无论是人也好，或者是事物爱好也行，在你遇到困境的时候这个锚点断了也可以转身投入到另一些锚点里面，只有一根绳子的话，断了就没有了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004977573332492288",
+        "conversation_id": "2030998008674886008",
+        "created_at": "2026-03-09T13:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T14:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030998008674886008"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030998008674886008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1617,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "如果觉得生活没意义的话，就多找一点以前没有接触过的事情，去尝试吧，多一点人生锚点，就和这个世界多一点联系也会多一点乐趣，无论是人也好，或者是事物爱好也行，在你遇到困境的时候这个锚点断了也可以转身投入到另一些锚点里面，只有一根绳子的话，断了就没有了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 1,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 290
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T18:09:14.000Z",
+        "description": "🇨🇳/22 ↑/我是女的，男的别来，我只和女孩子玩/来这是为了搞同人 / 绘画练习中/觉得不适随意屏蔽不用告知/自己开心最重要/日本語が話せないため翻訳ツールを使っています。もし表現に誤解があったらごめんなさい！",
+        "id": "2004977573332492288",
+        "location": "東京 豊島区",
+        "name": "Ukiyo",
+        "pinned_tweet_id": "2018943353199755380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022497308412432384/0gRJHPR-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 241,
+          "like_count": 10374,
+          "listed_count": 1,
+          "media_count": 267,
+          "tweet_count": 4703
+        },
+        "username": "gzi1068795",
+        "verified": false
+      }
+    ]
+  }
+}

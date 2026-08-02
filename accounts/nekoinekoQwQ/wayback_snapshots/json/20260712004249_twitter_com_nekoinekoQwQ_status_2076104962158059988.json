@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2075789149593039351",
+    "created_at": "2026-07-12T00:42:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T01:42:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076104962158059988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1835535170226868224",
+          "start": 0,
+          "username": "Eskf02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076104962158059988",
+    "in_reply_to_user_id": "1835535170226868224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075857050396230057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eskf02 的确，但是我只是单纯的不太喜欢吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2075789149593039351",
+        "created_at": "2026-07-12T00:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T01:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076104962158059988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1835535170226868224",
+              "start": 0,
+              "username": "Eskf02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076104962158059988",
+        "in_reply_to_user_id": "1835535170226868224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075857050396230057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eskf02 的确，但是我只是单纯的不太喜欢吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835535170226868224",
+        "conversation_id": "2075789149593039351",
+        "created_at": "2026-07-11T08:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T09:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075857050396230057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075857050396230057",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075789149593039351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 是台风天吗，其实还好啦，我在浙江这么多年都是台风天倒头就睡的，风刮的再大基本都没啥太大问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 10,
+          "like_count": 1932,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 5292
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-16T04:24:34.000Z",
+        "description": "多来点手冲教学给我看",
+        "id": "1835535170226868224",
+        "name": "忧郁阴湿长发男",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075813277733650432/kwhdZnN6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 407,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 44
+        },
+        "url": "",
+        "username": "Eskf02",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065728645235454238",
+    "created_at": "2026-06-13T12:28:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T13:28:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065773331056632295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1643637070760407040",
+          "start": 0,
+          "username": "qw730914po"
+        },
+        {
+          "end": 24,
+          "id": "1581937806435573760",
+          "start": 12,
+          "username": "fadai202202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065773331056632295",
+    "in_reply_to_user_id": "1643637070760407040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065765830558904582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qw730914po @fadai202202 我靠我想看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065728645235454238",
+        "created_at": "2026-06-13T12:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T13:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065773331056632295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1643637070760407040",
+              "start": 0,
+              "username": "qw730914po"
+            },
+            {
+              "end": 24,
+              "id": "1581937806435573760",
+              "start": 12,
+              "username": "fadai202202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065773331056632295",
+        "in_reply_to_user_id": "1643637070760407040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065765830558904582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qw730914po @fadai202202 我靠我想看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643637070760407040",
+        "conversation_id": "2065728645235454238",
+        "created_at": "2026-06-13T11:58:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065765830558904582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1581937806435573760",
+              "start": 0,
+              "username": "fadai202202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065765830558904582",
+        "in_reply_to_user_id": "1581937806435573760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065728645235454238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fadai202202 说起抑郁症了，我有个重度抑郁症的同学，你想看他朋友圈吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 9,
+          "like_count": 1183,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 3066
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-05T15:29:58.000Z",
+        "description": "别看了只有一个无聊(=_=)的人，，，其实你要是细心也能有聊，，我就这样说一点自己都看不懂的话",
+        "id": "1643637070760407040",
+        "location": "内蒙古自治区 呼和浩特市",
+        "name": "三角洲经济学教父",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965448098924343296/YE9EKkk8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 84,
+          "like_count": 1316,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 747
+        },
+        "username": "qw730914po",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T09:19:10.000Z",
+        "description": "",
+        "id": "1581937806435573760",
+        "location": "在你心里",
+        "name": "呆呆",
+        "pinned_tweet_id": "2048380133195780542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045516948973424640/FnVFzfOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19162,
+          "following_count": 1,
+          "like_count": 1439,
+          "listed_count": 17,
+          "media_count": 177,
+          "tweet_count": 1382
+        },
+        "username": "fadai202202",
+        "verified": false
+      }
+    ]
+  }
+}

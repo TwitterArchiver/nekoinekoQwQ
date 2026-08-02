@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2028638534408847360",
+    "created_at": "2026-03-03T04:41:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T05:41:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028692188796981297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1606691266963439617",
+          "start": 0,
+          "username": "lijixn659542271"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028692188796981297",
+    "in_reply_to_user_id": "1606691266963439617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028638534408847360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lijixn659542271 其实跪了也没用。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2028638534408847360",
+        "created_at": "2026-03-03T04:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T05:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028692188796981297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1606691266963439617",
+              "start": 0,
+              "username": "lijixn659542271"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028692188796981297",
+        "in_reply_to_user_id": "1606691266963439617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028638534408847360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lijixn659542271 其实跪了也没用。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1606691266963439617",
+        "conversation_id": "2028638534408847360",
+        "created_at": "2026-03-03T01:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T02:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028638534408847360"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028638534408847360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 351,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真心喜欢一个人的时候除了跪下求他和我在一起再无别的招了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 1,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 30
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-24T16:40:36.000Z",
+        "description": "备用号@xinxindawang543欢迎宝宝们和我互fo都会回。已过验证、有🚪、接11、定制、原味。感谢喜欢互相尊重",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "xinxindawang543"
+              }
+            ]
+          }
+        },
+        "id": "1606691266963439617",
+        "location": "距你4.2公里",
+        "name": "宝宝欣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014797402562277377/xmXf5GjY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5046,
+          "following_count": 222,
+          "like_count": 2878,
+          "listed_count": 30,
+          "media_count": 109,
+          "tweet_count": 532
+        },
+        "username": "lijixn659542271",
+        "verified": false
+      }
+    ]
+  }
+}

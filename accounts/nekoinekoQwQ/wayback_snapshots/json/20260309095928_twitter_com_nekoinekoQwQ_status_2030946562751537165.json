@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2030946562751537165",
+    "created_at": "2026-03-09T09:59:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T10:59:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030946562751537165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1950605730442010624",
+          "start": 3,
+          "username": "TuTbqjlfb369369"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030946562751537165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030617778873569636",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TuTbqjlfb369369: 像我这种暧昧一下 玩几把游戏 打几通电话就会爱上别人的蠢B 老老实实一个人呆着最好了😔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2030946562751537165",
+        "created_at": "2026-03-09T09:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T10:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030946562751537165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1950605730442010624",
+              "start": 3,
+              "username": "TuTbqjlfb369369"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030946562751537165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030617778873569636",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TuTbqjlfb369369: 像我这种暧昧一下 玩几把游戏 打几通电话就会爱上别人的蠢B 老老实实一个人呆着最好了😔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950605730442010624",
+        "conversation_id": "2030617778873569636",
+        "created_at": "2026-03-08T12:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T13:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030617778873569636"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030617778873569636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3484,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "像我这种暧昧一下 玩几把游戏 打几通电话就会爱上别人的蠢B 老老实实一个人呆着最好了😔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 1,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 224
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T17:13:50.000Z",
+        "description": "一枚纯情少女而已 电子女友🚪99 福利不间断更新 熟悉可线下",
+        "id": "1950605730442010624",
+        "location": "9.6km",
+        "name": "纯情小狗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954229929035575297/m6XIPluu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3530,
+          "following_count": 11,
+          "like_count": 247,
+          "listed_count": 4,
+          "media_count": 27,
+          "tweet_count": 95
+        },
+        "username": "TuTbqjlfb369369",
+        "verified": false
+      }
+    ]
+  }
+}

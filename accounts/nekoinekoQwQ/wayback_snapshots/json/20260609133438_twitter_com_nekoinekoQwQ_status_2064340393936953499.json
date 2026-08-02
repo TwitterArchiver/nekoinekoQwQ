@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2064310355564851492",
+    "created_at": "2026-06-09T13:34:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T14:34:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064340393936953499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2058119398989377536",
+          "start": 0,
+          "username": "X1aoze12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064340393936953499",
+    "in_reply_to_user_id": "2058119398989377536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064310355564851492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X1aoze12 咕咕咕好可爱呀，你喂它们，你好，咕咕咕也好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064310299776417793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKXnR8xagAE_kI-.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064310299780665344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKXnR8ybUAATIXJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2064310355564851492",
+        "created_at": "2026-06-09T13:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064340393936953499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2058119398989377536",
+              "start": 0,
+              "username": "X1aoze12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064340393936953499",
+        "in_reply_to_user_id": "2058119398989377536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064310355564851492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X1aoze12 咕咕咕好可爱呀，你喂它们，你好，咕咕咕也好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064310299776417793",
+            "3_2064310299780665344"
+          ]
+        },
+        "author_id": "2058119398989377536",
+        "conversation_id": "2064310355564851492",
+        "created_at": "2026-06-09T11:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064310355564851492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D8HzDW0LCA",
+              "end": 23,
+              "expanded_url": "https://x.com/X1aoze12/status/2064310355564851492/photo/1",
+              "media_key": "3_2064310299776417793",
+              "start": 0,
+              "url": "https://t.co/D8HzDW0LCA"
+            },
+            {
+              "display_url": "pic.x.com/D8HzDW0LCA",
+              "end": 23,
+              "expanded_url": "https://x.com/X1aoze12/status/2064310355564851492/photo/1",
+              "media_key": "3_2064310299780665344",
+              "start": 0,
+              "url": "https://t.co/D8HzDW0LCA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064310355564851492",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/D8HzDW0LCA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 7,
+          "like_count": 557,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 2339
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-23T09:35:52.000Z",
+        "description": "",
+        "id": "2058119398989377536",
+        "name": "Zeovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064305257300348929/517duP_w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 68,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 14
+        },
+        "username": "X1aoze12",
+        "verified": false
+      }
+    ]
+  }
+}

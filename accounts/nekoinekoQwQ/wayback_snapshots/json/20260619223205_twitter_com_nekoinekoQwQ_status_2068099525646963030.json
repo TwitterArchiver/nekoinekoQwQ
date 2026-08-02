@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068099522425712640"
+      ]
+    },
+    "author_id": "1948326838125903872",
+    "conversation_id": "2068099525646963030",
+    "created_at": "2026-06-19T22:32:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T23:32:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068099525646963030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1667156388869550084",
+          "start": 3,
+          "username": "Moyun_OwO"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Forget crushes! The Love Calculator extends your horizons to measure the love percentage between you and any Twitter user of your choice. Using a secret formula, this feature calculates the emotional compatibility you share. Just enter a Twitter handle and let the Love Calculator reveal the strength of your bond!",
+          "display_url": "infinitetweet.me/love-calculato…",
+          "end": 52,
+          "expanded_url": "https://infinitetweet.me/love-calculator?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/2065377011011334145/f81pEvii?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2065377011011334145/f81pEvii?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 29,
+          "status": 200,
+          "title": "Love Calculator • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/love-calculator?lang=zh",
+          "url": "https://t.co/oszuqNMLmH"
+        },
+        {
+          "display_url": "pic.x.com/Nx1Lo2LdyT",
+          "end": 76,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2068099525646963030/photo/1",
+          "media_key": "3_2068099522425712640",
+          "start": 53,
+          "url": "https://t.co/Nx1Lo2LdyT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068099525646963030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我与 @Moyun_OwO 的爱兼容性为 31%\n\n➡️ https://t.co/oszuqNMLmH https://t.co/Nx1Lo2LdyT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 546,
+        "media_key": "3_2068099522425712640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLNdjvJW8AA8tAB.png",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068099522425712640"
+          ]
+        },
+        "author_id": "1948326838125903872",
+        "conversation_id": "2068099525646963030",
+        "created_at": "2026-06-19T22:32:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T23:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068099525646963030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1667156388869550084",
+              "start": 3,
+              "username": "Moyun_OwO"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Forget crushes! The Love Calculator extends your horizons to measure the love percentage between you and any Twitter user of your choice. Using a secret formula, this feature calculates the emotional compatibility you share. Just enter a Twitter handle and let the Love Calculator reveal the strength of your bond!",
+              "display_url": "infinitetweet.me/love-calculato…",
+              "end": 52,
+              "expanded_url": "https://infinitetweet.me/love-calculator?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2065377011011334145/f81pEvii?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2065377011011334145/f81pEvii?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 29,
+              "status": 200,
+              "title": "Love Calculator • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/love-calculator?lang=zh",
+              "url": "https://t.co/oszuqNMLmH"
+            },
+            {
+              "display_url": "pic.x.com/Nx1Lo2LdyT",
+              "end": 76,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2068099525646963030/photo/1",
+              "media_key": "3_2068099522425712640",
+              "start": 53,
+              "url": "https://t.co/Nx1Lo2LdyT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068099525646963030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我与 @Moyun_OwO 的爱兼容性为 31%\n\n➡️ https://t.co/oszuqNMLmH https://t.co/Nx1Lo2LdyT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 12,
+          "like_count": 1601,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 4273
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-09T13:07:28.000Z",
+        "description": "｜叫我墨云就好｜直男｜ISFP｜08｜\n｜我真的很好说话！｜\n｜dm开放 欢迎互fo！⬇️我的主页⬇️｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/m0yvn",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/m0yvn",
+                "start": 0,
+                "url": "https://t.co/lvV4voyDZW"
+              }
+            ]
+          }
+        },
+        "id": "1667156388869550084",
+        "location": "你心里",
+        "name": "M0YVN.",
+        "pinned_tweet_id": "2065907876984721453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886644300458708992/pApJsolJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 2366,
+          "like_count": 21149,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1121
+        },
+        "url": "https://t.co/lvV4voyDZW",
+        "username": "Moyun_OwO",
+        "verified": false
+      }
+    ]
+  }
+}

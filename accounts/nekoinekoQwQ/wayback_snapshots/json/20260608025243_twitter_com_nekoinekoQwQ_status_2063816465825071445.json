@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2063556494319292689",
+    "created_at": "2026-06-08T02:52:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T03:52:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063816465825071445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2030961020853014528",
+          "start": 0,
+          "username": "q335776"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063816465825071445",
+    "in_reply_to_user_id": "2030961020853014528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063720853519614109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@q335776 好(｀･ω･´)ゞ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2063556494319292689",
+        "created_at": "2026-06-08T02:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063816465825071445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2030961020853014528",
+              "start": 0,
+              "username": "q335776"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063816465825071445",
+        "in_reply_to_user_id": "2030961020853014528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063720853519614109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@q335776 好(｀･ω･´)ゞ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030961020853014528",
+        "conversation_id": "2063556494319292689",
+        "created_at": "2026-06-07T20:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T21:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063720853519614109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063720853519614109",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063556494319292689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 作为一个过来人，我想说的是其实事情远没有你想的那么糟糕，实际上将来工作能用到的都不是课本上的，在大学的时间里明确自己想要什么样的生活，多了解多看多尝试，然后选定一个方向持续努力，高考决定不了你整个的人生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CH",
+              "full_name": "Zürich, Zurich, Switzerland",
+              "geo": {
+                "coordinates": [
+                  8.55,
+                  47.36667
+                ],
+                "type": "Point"
+              },
+              "locality": "Zürich",
+              "region": "Zurich",
+              "sub_region": "Bezirk Zürich"
+            }
+          ]
+        },
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "id": "1948326838125903872",
+        "location": "世界",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 2,
+          "like_count": 396,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 2010
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-09T10:59:47.000Z",
+        "description": "",
+        "id": "2030961020853014528",
+        "name": "sqr.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063716106746183680/4xCROxLw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 8,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "username": "q335776",
+        "verified": false
+      }
+    ]
+  }
+}

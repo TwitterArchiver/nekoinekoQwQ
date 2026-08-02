@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065454670588583936",
+        "3_2065454670588563456",
+        "3_2065454670596956160"
+      ]
+    },
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065454680327737744",
+    "created_at": "2026-06-12T15:22:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T16:22:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065454680327737744"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/p2kur597sE",
+          "end": 118,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2065454680327737744/photo/1",
+          "media_key": "3_2065454670588583936",
+          "start": 95,
+          "url": "https://t.co/p2kur597sE"
+        },
+        {
+          "display_url": "pic.x.com/p2kur597sE",
+          "end": 118,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2065454680327737744/photo/1",
+          "media_key": "3_2065454670588563456",
+          "start": 95,
+          "url": "https://t.co/p2kur597sE"
+        },
+        {
+          "display_url": "pic.x.com/p2kur597sE",
+          "end": 118,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2065454680327737744/photo/1",
+          "media_key": "3_2065454670596956160",
+          "start": 95,
+          "url": "https://t.co/p2kur597sE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065454680327737744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的三观我也不知道怎么说诶，我觉得我是正常人，要说恶劣的方面，可能就是双标吧，我一直很偏袒朋友，还有对待没兴趣的事物，很冷淡\n请私信我（我可以只和厉害的玩吗）\n谢谢，我都没有性，哪来的瘾？ https://t.co/p2kur597sE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 667,
+        "media_key": "3_2065454670588583936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKn4FGQaoAA2n14.jpg",
+        "width": 1179
+      },
+      {
+        "height": 774,
+        "media_key": "3_2065454670588563456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKn4FGQaUAAD73t.jpg",
+        "width": 1179
+      },
+      {
+        "height": 748,
+        "media_key": "3_2065454670596956160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKn4FGSaYAAni0i.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065454670588583936",
+            "3_2065454670588563456",
+            "3_2065454670596956160"
+          ]
+        },
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065454680327737744",
+        "created_at": "2026-06-12T15:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065454680327737744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p2kur597sE",
+              "end": 118,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2065454680327737744/photo/1",
+              "media_key": "3_2065454670588583936",
+              "start": 95,
+              "url": "https://t.co/p2kur597sE"
+            },
+            {
+              "display_url": "pic.x.com/p2kur597sE",
+              "end": 118,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2065454680327737744/photo/1",
+              "media_key": "3_2065454670588563456",
+              "start": 95,
+              "url": "https://t.co/p2kur597sE"
+            },
+            {
+              "display_url": "pic.x.com/p2kur597sE",
+              "end": 118,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2065454680327737744/photo/1",
+              "media_key": "3_2065454670596956160",
+              "start": 95,
+              "url": "https://t.co/p2kur597sE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065454680327737744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的三观我也不知道怎么说诶，我觉得我是正常人，要说恶劣的方面，可能就是双标吧，我一直很偏袒朋友，还有对待没兴趣的事物，很冷淡\n请私信我（我可以只和厉害的玩吗）\n谢谢，我都没有性，哪来的瘾？ https://t.co/p2kur597sE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 10,
+          "like_count": 1100,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 2825
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

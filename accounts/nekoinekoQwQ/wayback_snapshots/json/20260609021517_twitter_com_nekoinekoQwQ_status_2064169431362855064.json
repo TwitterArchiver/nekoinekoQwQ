@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2064067006568296695",
+    "created_at": "2026-06-09T02:15:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T03:15:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064169431362855064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2055194137197002752",
+          "start": 0,
+          "username": "kurumi001030860"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064169431362855064",
+    "in_reply_to_user_id": "2055194137197002752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064068178528137356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kurumi001030860 可以放点助眠类视频，或者闭上眼睛躺一会儿就睡着，再不济就疯狂运动，很累的时候，睡着比较快"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2064067006568296695",
+        "created_at": "2026-06-09T02:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T03:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064169431362855064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2055194137197002752",
+              "start": 0,
+              "username": "kurumi001030860"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064169431362855064",
+        "in_reply_to_user_id": "2055194137197002752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064068178528137356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurumi001030860 可以放点助眠类视频，或者闭上眼睛躺一会儿就睡着，再不济就疯狂运动，很累的时候，睡着比较快"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055194137197002752",
+        "conversation_id": "2064067006568296695",
+        "created_at": "2026-06-08T19:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T20:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064068178528137356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064068178528137356",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064067006568296695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 主播主播，睡不着怎么办啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 2,
+          "like_count": 503,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 2091
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T07:51:32.000Z",
+        "description": "",
+        "id": "2055194137197002752",
+        "name": "kurumi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055205914999975936/Y7R5uuMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 20,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 46
+        },
+        "username": "kurumi001030860",
+        "verified": false
+      }
+    ]
+  }
+}

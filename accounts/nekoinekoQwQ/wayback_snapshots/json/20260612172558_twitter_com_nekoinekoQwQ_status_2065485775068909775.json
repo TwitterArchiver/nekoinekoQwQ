@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065482939161579699",
+    "created_at": "2026-06-12T17:25:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T18:25:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065485775068909775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1992165247382351872",
+          "start": 0,
+          "username": "hhed001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065485775068909775",
+    "in_reply_to_user_id": "1992165247382351872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065485249035771973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhed001 呜呜🥲好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065482939161579699",
+        "created_at": "2026-06-12T17:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065485775068909775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1992165247382351872",
+              "start": 0,
+              "username": "hhed001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065485775068909775",
+        "in_reply_to_user_id": "1992165247382351872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065485249035771973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhed001 呜呜🥲好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992165247382351872",
+        "conversation_id": "2065482939161579699",
+        "created_at": "2026-06-12T17:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065485249035771973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065485249035771973",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065482939161579699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 想抱抱你，不要难过了，伤口休息几天会好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 9,
+          "like_count": 1106,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2853
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-22T09:36:46.000Z",
+        "description": "05男。不定时上推分享日常，但大概率是晚上和中午。",
+        "id": "1992165247382351872",
+        "location": "贵阳",
+        "name": "耳朵猫",
+        "pinned_tweet_id": "2031452749376766379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039380474934530049/IAbs1Vp8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 52,
+          "like_count": 736,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 352
+        },
+        "username": "hhed001",
+        "verified": false
+      }
+    ]
+  }
+}

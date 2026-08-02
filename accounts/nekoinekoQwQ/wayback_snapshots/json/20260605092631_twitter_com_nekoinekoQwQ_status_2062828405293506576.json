@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062828398419079168"
+      ]
+    },
+    "author_id": "1948326838125903872",
+    "conversation_id": "2062828405293506576",
+    "created_at": "2026-06-05T09:26:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T10:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062828405293506576"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Fo10GedRpd",
+          "end": 125,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2062828405293506576/photo/1",
+          "media_key": "3_2062828398419079168",
+          "start": 102,
+          "url": "https://t.co/Fo10GedRpd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062828405293506576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好无语，前面把他 qq 删了，还攻击了他，我问他为什么要在我快考试前影响我心情，结果回来看到这个。假惺惺，这样显得我很小丑，明明当初被抛弃的是我，现在惺惺作态干什么，太恶心了，我最恨你了，不需要这种祝福 https://t.co/Fo10GedRpd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 420,
+        "media_key": "3_2062828398419079168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKCjf8BbcAArIiF.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062828398419079168"
+          ]
+        },
+        "author_id": "1948326838125903872",
+        "conversation_id": "2062828405293506576",
+        "created_at": "2026-06-05T09:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T10:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062828405293506576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fo10GedRpd",
+              "end": 125,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2062828405293506576/photo/1",
+              "media_key": "3_2062828398419079168",
+              "start": 102,
+              "url": "https://t.co/Fo10GedRpd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062828405293506576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好无语，前面把他 qq 删了，还攻击了他，我问他为什么要在我快考试前影响我心情，结果回来看到这个。假惺惺，这样显得我很小丑，明明当初被抛弃的是我，现在惺惺作态干什么，太恶心了，我最恨你了，不需要这种祝福 https://t.co/Fo10GedRpd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 2,
+          "like_count": 273,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1847
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

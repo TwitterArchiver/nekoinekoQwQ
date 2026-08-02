@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2064193821580439894",
+    "created_at": "2026-06-09T05:52:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T06:52:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064224059878175082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2054890014002298880",
+          "start": 0,
+          "username": "WDpplong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064224059878175082",
+    "in_reply_to_user_id": "2054890014002298880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064207547385688529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WDpplong 名创优品的猪猪，萌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2064193821580439894",
+        "created_at": "2026-06-09T05:52:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T06:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064224059878175082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054890014002298880",
+              "start": 0,
+              "username": "WDpplong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064224059878175082",
+        "in_reply_to_user_id": "2054890014002298880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064207547385688529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WDpplong 名创优品的猪猪，萌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054890014002298880",
+        "conversation_id": "2064193821580439894",
+        "created_at": "2026-06-09T04:46:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T05:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064207547385688529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064207547385688529",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064193821580439894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 我给我前女友也买了一个这个猪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 2,
+          "like_count": 524,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 2182
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T11:42:18.000Z",
+        "description": "我是无敌胖胖龙！上网只想关注自己喜欢看的人，评论了什么大家不喜欢的言论求求美女姐姐们不要喷我，我只是个阴暗的蛆一个臭社畜谢谢谢谢",
+        "id": "2054890014002298880",
+        "name": "PPlong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056369303474323456/4DbM1hll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 69,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 153
+        },
+        "username": "WDpplong",
+        "verified": false
+      }
+    ]
+  }
+}

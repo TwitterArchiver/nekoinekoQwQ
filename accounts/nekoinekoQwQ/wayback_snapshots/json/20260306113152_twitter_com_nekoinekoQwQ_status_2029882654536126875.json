@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2029882654536126875",
+    "created_at": "2026-03-06T11:31:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T12:31:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029882654536126875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1927883541515247616",
+          "start": 3,
+          "username": "zyslzwsl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029882654536126875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029572322877698202",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zyslzwsl: 养猫养狗都太弱了，我闭上眼睛就可以养神"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2029882654536126875",
+        "created_at": "2026-03-06T11:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T12:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029882654536126875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1927883541515247616",
+              "start": 3,
+              "username": "zyslzwsl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029882654536126875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029572322877698202",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zyslzwsl: 养猫养狗都太弱了，我闭上眼睛就可以养神"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927883541515247616",
+        "conversation_id": "2029572322877698202",
+        "created_at": "2026-03-05T14:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T15:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029572322877698202"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029572322877698202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 17741,
+          "like_count": 628,
+          "quote_count": 5,
+          "reply_count": 17,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "养猫养狗都太弱了，我闭上眼睛就可以养神"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 1,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 107
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-29T00:23:58.000Z",
+        "description": "留存于宇宙中的回声",
+        "id": "1927883541515247616",
+        "location": "尚未发生的",
+        "name": "Aliens",
+        "pinned_tweet_id": "1993586015999836505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929309185717518336/ne-DPNZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 46,
+          "like_count": 4143,
+          "listed_count": 0,
+          "media_count": 306,
+          "tweet_count": 1690
+        },
+        "username": "zyslzwsl",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065711808074350839",
+    "created_at": "2026-06-13T11:22:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T12:22:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065756587336278298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1920509803815985152",
+          "start": 0,
+          "username": "Artemis_rvr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065756587336278298",
+    "in_reply_to_user_id": "1920509803815985152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065711808074350839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Artemis_rvr 我想吃番茄炒蛋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065711808074350839",
+        "created_at": "2026-06-13T11:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065756587336278298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1920509803815985152",
+              "start": 0,
+              "username": "Artemis_rvr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065756587336278298",
+        "in_reply_to_user_id": "1920509803815985152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065711808074350839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Artemis_rvr 我想吃番茄炒蛋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920509803815985152",
+        "conversation_id": "2065711808074350839",
+        "created_at": "2026-06-13T08:24:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T09:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065711808074350839"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065711808074350839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 868,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "期末周我就闲的开始做饭了大家开始点菜吧～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 9,
+          "like_count": 1179,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 3053
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T16:03:27.000Z",
+        "description": "希望全世界温青音都能缠上我",
+        "id": "1920509803815985152",
+        "name": "摇尾",
+        "pinned_tweet_id": "2057827123570602493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920510025962823680/ABE8OZll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2782,
+          "following_count": 34,
+          "like_count": 25,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 323
+        },
+        "username": "Artemis_rvr",
+        "verified": false
+      }
+    ]
+  }
+}

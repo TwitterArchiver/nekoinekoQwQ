@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2068317309760909574",
+    "created_at": "2026-06-20T22:29:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T23:29:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068461203823992898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2041761125680009216",
+          "start": 0,
+          "username": "Gzhcnahisbjd774"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068461203823992898",
+    "in_reply_to_user_id": "2041761125680009216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068317309760909574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gzhcnahisbjd774 我摸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068317293185265664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQjnqca8AAAVxE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2068317309760909574",
+        "created_at": "2026-06-20T22:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T23:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068461203823992898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2041761125680009216",
+              "start": 0,
+              "username": "Gzhcnahisbjd774"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068461203823992898",
+        "in_reply_to_user_id": "2041761125680009216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068317309760909574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gzhcnahisbjd774 我摸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068317293185265664"
+          ]
+        },
+        "author_id": "2041761125680009216",
+        "conversation_id": "2068317309760909574",
+        "created_at": "2026-06-20T12:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T13:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068317309760909574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sQChX2RX8u",
+              "end": 36,
+              "expanded_url": "https://x.com/Gzhcnahisbjd774/status/2068317309760909574/photo/1",
+              "media_key": "3_2068317293185265664",
+              "start": 13,
+              "url": "https://t.co/sQChX2RX8u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068317309760909574",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "一只大肥猪趴在我的肚子上 https://t.co/sQChX2RX8u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 12,
+          "like_count": 1615,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 4380
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-08T06:15:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%88%91%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%88%91%E7%9A%84%E5%9D%8F%E4%B9%9F%E7%85%A7%E5%8D%95%E5%85%A8%E6%94%B6%E5%90%97",
+                "start": 0,
+                "url": "https://t.co/Uongz5AB69"
+              }
+            ]
+          }
+        },
+        "id": "2041761125680009216",
+        "location": "🚪52000000000",
+        "name": "我只想吃蛋黄",
+        "pinned_tweet_id": "2065851789413605637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041761980189700099/0oOLbMoV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 133,
+          "like_count": 3001,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 497
+        },
+        "url": "https://t.co/Uongz5AB69",
+        "username": "Gzhcnahisbjd774",
+        "verified": false
+      }
+    ]
+  }
+}

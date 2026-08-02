@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2031761673057620268",
+    "created_at": "2026-03-11T16:18:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T17:18:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031766619064799277"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2031766619064799277",
+    "in_reply_to_user_id": "1948326838125903872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031761673057620268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你老是问我为什么喜欢你 我记得我给你写了几千字的小作文 你真的认真看了吗 怎么会不知道我为什么喜欢你呢  关于你的备忘录我再也没有打开 分开时你说不会看我给你发的任何东西 我不知道怎么办啦 不是说一直陪着我吗 怎么累了呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2031761673057620268",
+        "created_at": "2026-03-11T16:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T17:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031766619064799277"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031766619064799277",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031761673057620268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你老是问我为什么喜欢你 我记得我给你写了几千字的小作文 你真的认真看了吗 怎么会不知道我为什么喜欢你呢  关于你的备忘录我再也没有打开 分开时你说不会看我给你发的任何东西 我不知道怎么办啦 不是说一直陪着我吗 怎么累了呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2031761673057620268",
+        "created_at": "2026-03-11T15:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T16:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031761673057620268"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031761673057620268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我其实觉得离开我的人 留给我的记忆 以及我身上存在着和对方相同的习惯很讨厌 这会让我想起曾经 但是过去的事 我不想再回忆 今天听歌听到自己歌单里好多首歌都是听了对方歌单点赞的 又想到之前把对方歌单听完了 好蠢 这种类型的事情我做的太多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 1,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 402
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

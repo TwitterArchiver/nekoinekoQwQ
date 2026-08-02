@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2080740781955154328",
+    "created_at": "2026-07-25T10:24:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T11:24:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080962401181307136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1786442629917589505",
+          "start": 0,
+          "username": "LinQi_QAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080962401181307136",
+    "in_reply_to_user_id": "1786442629917589505",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080825090489680234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LinQi_QAQ 天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2080740781955154328",
+        "created_at": "2026-07-25T10:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T11:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080962401181307136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1786442629917589505",
+              "start": 0,
+              "username": "LinQi_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080962401181307136",
+        "in_reply_to_user_id": "1786442629917589505",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080825090489680234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LinQi_QAQ 天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786442629917589505",
+        "conversation_id": "2080740781955154328",
+        "created_at": "2026-07-25T01:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T02:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080825090489680234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080825090489680234",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080740781955154328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 我的天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 10,
+          "like_count": 1960,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 5580
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-03T17:08:30.000Z",
+        "description": "我喜欢到处转转/简介看网址呗/私信不回复请联系TG：@GGHKing520/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "GGHKing520"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linqi-weld.vercel.app",
+                "end": 23,
+                "expanded_url": "https://linqi-weld.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/bBkxmNUufu"
+              }
+            ]
+          }
+        },
+        "id": "1786442629917589505",
+        "location": "看得见星星的地方",
+        "name": "LinQi",
+        "pinned_tweet_id": "2073804296337178667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054062444159643648/_Bj8y2n7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 247,
+          "like_count": 9927,
+          "listed_count": 1,
+          "media_count": 254,
+          "tweet_count": 1535
+        },
+        "url": "https://t.co/bBkxmNUufu",
+        "username": "LinQi_QAQ",
+        "verified": true
+      }
+    ]
+  }
+}

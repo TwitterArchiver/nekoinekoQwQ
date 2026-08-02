@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2070305414420566252",
+    "created_at": "2026-06-26T01:01:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T02:01:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070311567951012136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "899246134228647938",
+          "start": 0,
+          "username": "qPIHPHPlgm2dG9b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070311567951012136",
+    "in_reply_to_user_id": "899246134228647938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070310365565776252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qPIHPHPlgm2dG9b 虽然考差了，但是没有很难过来着，这方面我心态挺好的，推文说的是别的事情（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2070305414420566252",
+        "created_at": "2026-06-26T01:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T02:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070311567951012136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "899246134228647938",
+              "start": 0,
+              "username": "qPIHPHPlgm2dG9b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070311567951012136",
+        "in_reply_to_user_id": "899246134228647938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070310365565776252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qPIHPHPlgm2dG9b 虽然考差了，但是没有很难过来着，这方面我心态挺好的，推文说的是别的事情（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "899246134228647938",
+        "conversation_id": "2070305414420566252",
+        "created_at": "2026-06-26T00:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T01:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070310365565776252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070310365565776252",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070305414420566252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 看你的反应我大概知道分数情况了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 12,
+          "like_count": 1661,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 4648
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-20T12:26:00.000Z",
+        "description": "God is a girl",
+        "id": "899246134228647938",
+        "name": "hellboy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1484444969054400514/y7uGslbs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 306,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 610
+        },
+        "url": "",
+        "username": "qPIHPHPlgm2dG9b",
+        "verified": false
+      }
+    ]
+  }
+}

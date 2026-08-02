@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065696433303691568",
+    "created_at": "2026-06-13T10:08:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T11:08:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065738005848158637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2039995815310102528",
+          "start": 0,
+          "username": "Akane_051218"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065738005848158637",
+    "in_reply_to_user_id": "2039995815310102528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065696433303691568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akane_051218 我要狠狠摸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065696380983926784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrT6fpbYAAq-n7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065696380971323392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrT6fmbEAAmQvq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065696433303691568",
+        "created_at": "2026-06-13T10:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065738005848158637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2039995815310102528",
+              "start": 0,
+              "username": "Akane_051218"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065738005848158637",
+        "in_reply_to_user_id": "2039995815310102528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065696433303691568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akane_051218 我要狠狠摸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065696380983926784",
+            "3_2065696380971323392"
+          ]
+        },
+        "author_id": "2039995815310102528",
+        "conversation_id": "2065696433303691568",
+        "created_at": "2026-06-13T07:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T08:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065696433303691568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DqYGu1FtwC",
+              "end": 32,
+              "expanded_url": "https://x.com/Akane_051218/status/2065696433303691568/photo/1",
+              "media_key": "3_2065696380983926784",
+              "start": 9,
+              "url": "https://t.co/DqYGu1FtwC"
+            },
+            {
+              "display_url": "pic.x.com/DqYGu1FtwC",
+              "end": 32,
+              "expanded_url": "https://x.com/Akane_051218/status/2065696433303691568/photo/1",
+              "media_key": "3_2065696380971323392",
+              "start": 9,
+              "url": "https://t.co/DqYGu1FtwC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065696433303691568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "像一只肥美的烤鸡 https://t.co/DqYGu1FtwC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 9,
+          "like_count": 1171,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 3032
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T09:18:12.000Z",
+        "description": "🇨🇳/05/INFP/能量偏低/高速网络冲浪/沉迷于乙女向作品/超级喜欢毛茸茸的小动物/超爱聊天超级话痨/用翻译机聊天，如果有不自然的表达请原谅(ᐡ ɞ̴̶̷ . ɞ̴̶̷ ᐡ)",
+        "id": "2039995815310102528",
+        "name": "Akane ^^",
+        "pinned_tweet_id": "2052375263187542222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050794848207376384/hNCSVqg9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 38,
+          "like_count": 6600,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 1130
+        },
+        "username": "Akane_051218",
+        "verified": false
+      }
+    ]
+  }
+}

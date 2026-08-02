@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2068935225464480023",
+    "created_at": "2026-06-23T11:17:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T12:17:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069379263598661923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1590560095426949120",
+          "start": 0,
+          "username": "miln66943124"
+        },
+        {
+          "end": 28,
+          "id": "1631135079140560897",
+          "start": 14,
+          "username": "wangherisunge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069379263598661923",
+    "in_reply_to_user_id": "1590560095426949120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069102801146564773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miln66943124 @wangherisunge 那的确。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2068935225464480023",
+        "created_at": "2026-06-23T11:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T12:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069379263598661923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1590560095426949120",
+              "start": 0,
+              "username": "miln66943124"
+            },
+            {
+              "end": 28,
+              "id": "1631135079140560897",
+              "start": 14,
+              "username": "wangherisunge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069379263598661923",
+        "in_reply_to_user_id": "1590560095426949120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069102801146564773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miln66943124 @wangherisunge 那的确。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590560095426949120",
+        "conversation_id": "2068935225464480023",
+        "created_at": "2026-06-22T16:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T17:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069102801146564773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            },
+            {
+              "end": 28,
+              "id": "1631135079140560897",
+              "start": 14,
+              "username": "wangherisunge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069102801146564773",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069015282405011888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ @wangherisunge 很难忍得住吧（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 12,
+          "like_count": 1638,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 4507
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-10T04:21:29.000Z",
+        "description": "想尝试催眠的可以加我\nQQ/1286772410",
+        "id": "1590560095426949120",
+        "location": "阿瓦隆",
+        "name": "梅林",
+        "pinned_tweet_id": "1857286811527049500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1590560505646940160/UgqN5N5N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 207,
+          "like_count": 14329,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 870
+        },
+        "url": "",
+        "username": "miln66943124",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-02T03:31:37.000Z",
+        "description": "近海浅滩，或有鹤立\n这里是鹤，希望大家都可以天天开心！天天幸福！\n大家关注我的我都会回关！\n想要一起聊天的可以私信或tg@yizhihe11，纯闲聊哦",
+        "id": "1631135079140560897",
+        "name": "鹤",
+        "pinned_tweet_id": "2066439980684382464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066034590918250497/ld7ZlADe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 61,
+          "like_count": 713,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1507
+        },
+        "url": "",
+        "username": "wangherisunge",
+        "verified": true
+      }
+    ]
+  }
+}

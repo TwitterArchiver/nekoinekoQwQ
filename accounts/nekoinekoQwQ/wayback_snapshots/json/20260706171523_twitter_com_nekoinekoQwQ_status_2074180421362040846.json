@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2074116518196240868",
+    "created_at": "2026-07-06T17:15:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T18:15:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074180421362040846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1814925594322505728",
+          "start": 0,
+          "username": "y0416015026977"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074180421362040846",
+    "in_reply_to_user_id": "1814925594322505728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074159790104907792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y0416015026977 期待。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2074116518196240868",
+        "created_at": "2026-07-06T17:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T18:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074180421362040846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1814925594322505728",
+              "start": 0,
+              "username": "y0416015026977"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074180421362040846",
+        "in_reply_to_user_id": "1814925594322505728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074159790104907792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y0416015026977 期待。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814925594322505728",
+        "conversation_id": "2074116518196240868",
+        "created_at": "2026-07-06T15:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074159790104907792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074159790104907792",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074116518196240868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 蒜鸟蒜鸟，纠结那多干嘛，搞的自己心烦，不如期待一下今年生日要怎么过，高低要出去吃一顿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 12,
+          "like_count": 1863,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 5018
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-21T07:29:23.000Z",
+        "description": "性别:男，成分:米游，少量腾讯类游戏。随缘聊天。",
+        "id": "1814925594322505728",
+        "name": "刹那",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010010598663434241/DPzUVFWE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 316,
+          "like_count": 21174,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 1024
+        },
+        "url": "",
+        "username": "y0416015026977",
+        "verified": false
+      }
+    ]
+  }
+}

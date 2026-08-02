@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2031095026122703223",
+    "created_at": "2026-03-10T10:15:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T11:15:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031313076654584292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1775898302963384322",
+          "start": 0,
+          "username": "brontobehated"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031313076654584292",
+    "in_reply_to_user_id": "1775898302963384322",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031095026122703223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@brontobehated 加一！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2031095026122703223",
+        "created_at": "2026-03-10T10:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T11:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031313076654584292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1775898302963384322",
+              "start": 0,
+              "username": "brontobehated"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031313076654584292",
+        "in_reply_to_user_id": "1775898302963384322",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031095026122703223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@brontobehated 加一！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775898302963384322",
+        "conversation_id": "2031095026122703223",
+        "created_at": "2026-03-09T19:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T20:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031095026122703223"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031095026122703223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1216,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好吧，再土的人喜欢小猫在我这里好感度也至少+10。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 1,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 272
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T14:48:59.000Z",
+        "description": "只跟温柔的人玩。这是我的背面@talk2mesoftly_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "talk2mesoftly_"
+              }
+            ]
+          }
+        },
+        "id": "1775898302963384322",
+        "name": "香辣鳗鱼",
+        "pinned_tweet_id": "2017858870266233336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028455708312936448/gAt06pU-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 76,
+          "like_count": 25248,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 3604
+        },
+        "username": "brontobehated",
+        "verified": false
+      }
+    ]
+  }
+}

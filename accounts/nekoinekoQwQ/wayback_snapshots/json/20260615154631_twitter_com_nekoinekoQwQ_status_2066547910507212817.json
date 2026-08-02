@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2066547910507212817",
+    "created_at": "2026-06-15T15:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T16:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066547910507212817"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/haohao__520/st…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/haohao__520/status/2066544438004920695",
+          "start": 29,
+          "url": "https://t.co/Dq6XbLadTs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066547910507212817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066544438004920695",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "搁浅我要和你绝交，我在线上等了13分钟都没等到你的ID🥹 https://t.co/Dq6XbLadTs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2066547910507212817",
+        "created_at": "2026-06-15T15:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066547910507212817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/haohao__520/st…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/haohao__520/status/2066544438004920695",
+              "start": 29,
+              "url": "https://t.co/Dq6XbLadTs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066547910507212817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066544438004920695",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "搁浅我要和你绝交，我在线上等了13分钟都没等到你的ID🥹 https://t.co/Dq6XbLadTs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965081842962608129",
+        "conversation_id": "2066543949570089290",
+        "created_at": "2026-06-15T15:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066544438004920695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066544438004920695",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066543949570089290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 来打火影不"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 10,
+          "like_count": 1440,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 3565
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-08T15:56:45.000Z",
+        "description": "活人微死｜麦当劳属性｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/65694368222",
+                "end": 23,
+                "expanded_url": "https://ngl.link/65694368222",
+                "start": 0,
+                "url": "https://t.co/jpDxJVFwlb"
+              }
+            ]
+          }
+        },
+        "id": "1965081842962608129",
+        "name": "搁浅",
+        "pinned_tweet_id": "2064593139742949548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059878618117873665/pQHQieQW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 85,
+          "like_count": 324,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 142
+        },
+        "url": "https://t.co/jpDxJVFwlb",
+        "username": "haohao__520",
+        "verified": false
+      }
+    ]
+  }
+}

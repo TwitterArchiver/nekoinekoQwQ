@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2037736394832175579",
+    "created_at": "2026-03-28T09:51:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T10:51:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037829845691105656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1907815020400197632",
+          "start": 0,
+          "username": "huahuahuaziw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037829845691105656",
+    "in_reply_to_user_id": "1907815020400197632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037829689788780688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huahuahuaziw 好哦😌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2037736394832175579",
+        "created_at": "2026-03-28T09:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T10:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037829845691105656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907815020400197632",
+              "start": 0,
+              "username": "huahuahuaziw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037829845691105656",
+        "in_reply_to_user_id": "1907815020400197632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037829689788780688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huahuahuaziw 好哦😌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907815020400197632",
+        "conversation_id": "2037736394832175579",
+        "created_at": "2026-03-28T09:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T10:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037829689788780688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037829689788780688",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037829407956709748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 没米了！刚买了pingu。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 1,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 1136
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-03T15:18:56.000Z",
+        "description": "熊。要认识很多很多美女。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huaziw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huaziw",
+                "start": 0,
+                "url": "https://t.co/tOv92M3GUF"
+              }
+            ]
+          }
+        },
+        "id": "1907815020400197632",
+        "name": "小暗",
+        "pinned_tweet_id": "2026010344842461444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025827054697246720/U9sLpgeH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 863,
+          "like_count": 6514,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 634
+        },
+        "url": "https://t.co/tOv92M3GUF",
+        "username": "huahuahuaziw",
+        "verified": false
+      }
+    ]
+  }
+}

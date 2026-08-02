@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2071313915037016207",
+    "created_at": "2026-06-29T09:45:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T10:45:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071530579951268151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "894942528595689472",
+          "start": 0,
+          "username": "alikymeow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071530579951268151",
+    "in_reply_to_user_id": "894942528595689472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071480791578935432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alikymeow ！好震惊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2071313915037016207",
+        "created_at": "2026-06-29T09:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T10:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071530579951268151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "894942528595689472",
+              "start": 0,
+              "username": "alikymeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071530579951268151",
+        "in_reply_to_user_id": "894942528595689472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071480791578935432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alikymeow ！好震惊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "894942528595689472",
+        "conversation_id": "2071313915037016207",
+        "created_at": "2026-06-29T06:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071480791578935432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071480791578935432",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071313915037016207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 老师4399里面好像有steam的官网，之前好多人夸来着w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 12,
+          "like_count": 1707,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 4813
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-08T15:25:00.000Z",
+        "description": "gb赛高！在能力范围内做了体毛管理\n希望能推给4i的妹妹姐姐妈妈姨姨（？\n最喜欢的gb漫画是《在你嬌聲求我之前》\n会产出一些图，希望能收到各种评价！\n\n狗/猫塑like！两段恋爱史，无不良嗜好\n02 infj 170/55kg  switch",
+        "id": "894942528595689472",
+        "name": "小春",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066814113343496192/OETHnhID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 1742,
+          "like_count": 14201,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 443
+        },
+        "url": "",
+        "username": "alikymeow",
+        "verified": true
+      }
+    ]
+  }
+}

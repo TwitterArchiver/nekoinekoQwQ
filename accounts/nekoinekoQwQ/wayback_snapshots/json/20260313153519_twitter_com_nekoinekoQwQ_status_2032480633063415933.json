@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2032479275681816757",
+    "created_at": "2026-03-13T15:35:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T16:35:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032480633063415933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1873054680064114691",
+          "start": 0,
+          "username": "lemonseven666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032480633063415933",
+    "in_reply_to_user_id": "1873054680064114691",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032480063413969124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lemonseven666 会的！这个月不会喝了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2032479275681816757",
+        "created_at": "2026-03-13T15:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T16:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032480633063415933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1873054680064114691",
+              "start": 0,
+              "username": "lemonseven666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032480633063415933",
+        "in_reply_to_user_id": "1873054680064114691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032480063413969124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lemonseven666 会的！这个月不会喝了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873054680064114691",
+        "conversation_id": "2032479275681816757",
+        "created_at": "2026-03-13T15:33:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T16:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032480063413969124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032480063413969124",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032479275681816757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 蹲一个第二天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 1,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 491
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-28T17:15:10.000Z",
+        "description": "泥嚎这里是柠七年 // 07年医学生在读 // inxp // 坐标长春＆延吉 // 明日方舟狂暴左乐厨 // 更多详情敬请期待 // 本质是把推当朋友圈发 // 欢迎互fo 认识你真高兴！",
+        "id": "1873054680064114691",
+        "location": "别管我在哪，你看这灯，多亮",
+        "name": "柠七年",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873066922087985152/S5wzh02B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 353,
+          "like_count": 1259,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 373
+        },
+        "username": "lemonseven666",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2080645188696088907",
+    "created_at": "2026-07-24T15:29:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T16:29:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080676763420725633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1796805898662510593",
+          "start": 0,
+          "username": "3mSzxx1wdS65441"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080676763420725633",
+    "in_reply_to_user_id": "1796805898662510593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080673624382714205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3mSzxx1wdS65441 我一直在看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2080645188696088907",
+        "created_at": "2026-07-24T15:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080676763420725633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1796805898662510593",
+              "start": 0,
+              "username": "3mSzxx1wdS65441"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080676763420725633",
+        "in_reply_to_user_id": "1796805898662510593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080673624382714205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3mSzxx1wdS65441 我一直在看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796805898662510593",
+        "conversation_id": "2080645188696088907",
+        "created_at": "2026-07-24T15:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080673624382714205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080673624382714205",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080645188696088907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 我朋友讲那里面ai的短剧挺好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 10,
+          "like_count": 1947,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 5503
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T07:28:27.000Z",
+        "description": "need someone to chat with",
+        "id": "1796805898662510593",
+        "name": "真央candy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018346847518208000/BTlXeanT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 62,
+          "like_count": 4543,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 849
+        },
+        "url": "",
+        "username": "3mSzxx1wdS65441",
+        "verified": false
+      }
+    ]
+  }
+}

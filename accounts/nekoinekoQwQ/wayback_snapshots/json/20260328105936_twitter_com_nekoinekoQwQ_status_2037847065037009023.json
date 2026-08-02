@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2037534171258814536",
+    "created_at": "2026-03-28T10:59:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T11:59:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037847065037009023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1705160447710679040",
+          "start": 0,
+          "username": "pa_ji58747"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037847065037009023",
+    "in_reply_to_user_id": "1705160447710679040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037846892735021308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pa_ji58747 那就好勒🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2037534171258814536",
+        "created_at": "2026-03-28T10:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T11:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037847065037009023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1705160447710679040",
+              "start": 0,
+              "username": "pa_ji58747"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037847065037009023",
+        "in_reply_to_user_id": "1705160447710679040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037846892735021308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pa_ji58747 那就好勒🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705160447710679040",
+        "conversation_id": "2037534171258814536",
+        "created_at": "2026-03-28T10:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T11:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037846892735021308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037846892735021308",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037834033405821218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 收到！但是已经降烧了谢谢你小宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 1,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 1159
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-22T10:01:58.000Z",
+        "description": "我有雙相不要欺負我TT 私信前记得fo我好不好",
+        "id": "1705160447710679040",
+        "location": "墓地",
+        "name": "小貓",
+        "pinned_tweet_id": "2037681296215031990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987037729583230976/-biLEh0C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 43,
+          "like_count": 10424,
+          "listed_count": 5,
+          "media_count": 209,
+          "tweet_count": 2525
+        },
+        "username": "pa_ji58747",
+        "verified": false
+      }
+    ]
+  }
+}

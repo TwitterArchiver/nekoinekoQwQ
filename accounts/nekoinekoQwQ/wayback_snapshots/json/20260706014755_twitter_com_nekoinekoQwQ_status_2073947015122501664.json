@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2073796671189004330",
+    "created_at": "2026-07-06T01:47:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T02:47:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073947015122501664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2027601407277469697",
+          "start": 0,
+          "username": "checheguye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073947015122501664",
+    "in_reply_to_user_id": "2027601407277469697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073796671189004330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@checheguye 我懂你的小猫👍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073796667162480640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMebFNKb0AAwFvc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2073796671189004330",
+        "created_at": "2026-07-06T01:47:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T02:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073947015122501664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2027601407277469697",
+              "start": 0,
+              "username": "checheguye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073947015122501664",
+        "in_reply_to_user_id": "2027601407277469697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073796671189004330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@checheguye 我懂你的小猫👍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073796667162480640"
+          ]
+        },
+        "author_id": "2027601407277469697",
+        "conversation_id": "2073796671189004330",
+        "created_at": "2026-07-05T15:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073796671189004330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nS4VCxk7TR",
+              "end": 33,
+              "expanded_url": "https://x.com/checheguye/status/2073796671189004330/photo/1",
+              "media_key": "3_2073796667162480640",
+              "start": 10,
+              "url": "https://t.co/nS4VCxk7TR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073796671189004330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人懂我的构图 https://t.co/nS4VCxk7TR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 12,
+          "like_count": 1852,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 4980
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-28T04:27:40.000Z",
+        "description": "直男…匿名：https://t.co/cgvsCNFXkT可以找我聊天，可以加微信qq，无🚪",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/guye23389",
+                "end": 29,
+                "expanded_url": "https://ngl.link/guye23389",
+                "start": 6,
+                "url": "https://t.co/cgvsCNFXkT"
+              }
+            ]
+          }
+        },
+        "id": "2027601407277469697",
+        "name": "车车猫",
+        "pinned_tweet_id": "2063650402541916556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063493457927352320/EgAY6EzE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 96,
+          "like_count": 520,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 653
+        },
+        "url": "",
+        "username": "checheguye",
+        "verified": false
+      }
+    ]
+  }
+}

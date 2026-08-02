@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2068105926448742495",
+    "created_at": "2026-06-20T07:19:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T08:19:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068232283224719799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1464908007532228616",
+          "start": 0,
+          "username": "fenerzaifei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068232283224719799",
+    "in_reply_to_user_id": "1464908007532228616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068187815599616360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fenerzaifei 诱惑我？！我摸🫳🏻🫳🏻🫳🏻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2068187812890128385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLOt26wbsAElDbq.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2068105926448742495",
+        "created_at": "2026-06-20T07:19:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T08:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068232283224719799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1464908007532228616",
+              "start": 0,
+              "username": "fenerzaifei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068232283224719799",
+        "in_reply_to_user_id": "1464908007532228616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068187815599616360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fenerzaifei 诱惑我？！我摸🫳🏻🫳🏻🫳🏻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068187812890128385"
+          ]
+        },
+        "author_id": "1464908007532228616",
+        "conversation_id": "2068105926448742495",
+        "created_at": "2026-06-20T04:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T05:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068187815599616360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NyW9GoL4ER",
+              "end": 37,
+              "expanded_url": "https://x.com/fenerzaifei/status/2068187815599616360/photo/1",
+              "media_key": "3_2068187812890128385",
+              "start": 14,
+              "url": "https://t.co/NyW9GoL4ER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068187815599616360",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068105926448742495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ https://t.co/NyW9GoL4ER"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 12,
+          "like_count": 1602,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 4285
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-28T10:44:28.000Z",
+        "description": "不知道做什么。",
+        "id": "1464908007532228616",
+        "name": "风止意难平",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476587273332224003/mzxzqnkg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 387,
+          "like_count": 804,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 1288
+        },
+        "url": "",
+        "username": "fenerzaifei",
+        "verified": false
+      }
+    ]
+  }
+}

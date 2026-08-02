@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2066529216947159067",
+    "created_at": "2026-06-15T21:30:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T22:30:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066634359088800124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1999114623820443648",
+          "start": 0,
+          "username": "xiao65883"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066634359088800124",
+    "in_reply_to_user_id": "1999114623820443648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066529216947159067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiao65883 我想吃，小龙虾。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066529207984013312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3JXZ_bQAAlizC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2066529216947159067",
+        "created_at": "2026-06-15T21:30:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T22:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066634359088800124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1999114623820443648",
+              "start": 0,
+              "username": "xiao65883"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066634359088800124",
+        "in_reply_to_user_id": "1999114623820443648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066529216947159067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiao65883 我想吃，小龙虾。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066529207984013312"
+          ]
+        },
+        "author_id": "1999114623820443648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2066529216947159067",
+        "created_at": "2026-06-15T14:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066529216947159067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6sfwyiINyP",
+              "end": 35,
+              "expanded_url": "https://x.com/xiao65883/status/2066529216947159067/photo/1",
+              "media_key": "3_2066529207984013312",
+              "start": 12,
+              "url": "https://t.co/6sfwyiINyP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066529216947159067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 330,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "周一不上班 偷偷吃夜宵 https://t.co/6sfwyiINyP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 10,
+          "like_count": 1458,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 3613
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T13:50:57.000Z",
+        "description": "假如再碰不见你，祝你早午晚都安",
+        "id": "1999114623820443648",
+        "name": "百洁布精",
+        "pinned_tweet_id": "1999407806747934739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999115007955783680/VbdmUrsl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 104,
+          "like_count": 1070,
+          "listed_count": 2,
+          "media_count": 183,
+          "tweet_count": 680
+        },
+        "username": "xiao65883",
+        "verified": false
+      }
+    ]
+  }
+}

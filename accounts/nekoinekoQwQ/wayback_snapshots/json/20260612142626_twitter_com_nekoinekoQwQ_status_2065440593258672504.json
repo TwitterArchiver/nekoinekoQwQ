@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065378006433251392",
+    "created_at": "2026-06-12T14:26:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T15:26:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065440593258672504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1789103086990192640",
+          "start": 0,
+          "username": "wusaqiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065440593258672504",
+    "in_reply_to_user_id": "1789103086990192640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065386539308507312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wusaqiiii 不许炫耀。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1828,
+        "media_key": "3_2065386528252313600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKm6GsRbQAAchGa.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065378006433251392",
+        "created_at": "2026-06-12T14:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065440593258672504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1789103086990192640",
+              "start": 0,
+              "username": "wusaqiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065440593258672504",
+        "in_reply_to_user_id": "1789103086990192640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065386539308507312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wusaqiiii 不许炫耀。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065386528252313600"
+          ]
+        },
+        "author_id": "1789103086990192640",
+        "conversation_id": "2065378006433251392",
+        "created_at": "2026-06-12T10:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065386539308507312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OizVPyZBRL",
+              "end": 45,
+              "expanded_url": "https://x.com/wusaqiiii/status/2065386539308507312/photo/1",
+              "media_key": "3_2065386528252313600",
+              "start": 22,
+              "url": "https://t.co/OizVPyZBRL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065386539308507312",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065378006433251392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 都装在脑子里了 https://t.co/OizVPyZBRL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 10,
+          "like_count": 1074,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 2805
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-11T01:20:00.000Z",
+        "description": "190cm  xp很杂  爆金币",
+        "id": "1789103086990192640",
+        "name": "和光同尘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789103303584071680/ngDB4gj7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 46,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 30
+        },
+        "username": "wusaqiiii",
+        "verified": false
+      }
+    ]
+  }
+}

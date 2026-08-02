@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066195180487901184",
+        "3_2066195180479553536"
+      ]
+    },
+    "author_id": "1948326838125903872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066195204563214687",
+    "created_at": "2026-06-14T16:24:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T17:24:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066195204563214687"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VmLYBCdcMF",
+          "end": 177,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2066195204563214687/photo/1",
+          "media_key": "3_2066195180487901184",
+          "start": 154,
+          "url": "https://t.co/VmLYBCdcMF"
+        },
+        {
+          "display_url": "pic.x.com/VmLYBCdcMF",
+          "end": 177,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2066195204563214687/photo/1",
+          "media_key": "3_2066195180479553536",
+          "start": 154,
+          "url": "https://t.co/VmLYBCdcMF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066195204563214687",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "死傲娇中(¯へ¯)，但是这个猪，游戏都通关了还叫我看，结果杀了几只丧尸就下播让我明天看新的游戏，现在两个人打电话：\n“你可以跳了你知道吧”\n“你也可以跳了知道吧”\n“我要睡觉了”\n“那你睡觉吧”\n“你都不挽留我吗”\n“哦哦，那你别睡了，陪我呀”\n“你怎么不让我睡觉，这会伤害我的身体”\n“哦哦，爱睡不睡 ” https://t.co/VmLYBCdcMF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1364,
+        "media_key": "3_2066195180487901184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyZkcmbAAAeoA9.jpg",
+        "width": 815
+      },
+      {
+        "height": 926,
+        "media_key": "3_2066195180479553536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyZkckboAAaKQa.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066195180487901184",
+            "3_2066195180479553536"
+          ]
+        },
+        "author_id": "1948326838125903872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066195204563214687",
+        "created_at": "2026-06-14T16:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066195204563214687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VmLYBCdcMF",
+              "end": 177,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2066195204563214687/photo/1",
+              "media_key": "3_2066195180487901184",
+              "start": 154,
+              "url": "https://t.co/VmLYBCdcMF"
+            },
+            {
+              "display_url": "pic.x.com/VmLYBCdcMF",
+              "end": 177,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2066195204563214687/photo/1",
+              "media_key": "3_2066195180479553536",
+              "start": 154,
+              "url": "https://t.co/VmLYBCdcMF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066195204563214687",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死傲娇中(¯へ¯)，但是这个猪，游戏都通关了还叫我看，结果杀了几只丧尸就下播让我明天看新的游戏，现在两个人打电话：\n“你可以跳了你知道吧”\n“你也可以跳了知道吧”\n“我要睡觉了”\n“那你睡觉吧”\n“你都不挽留我吗”\n“哦哦，那你别睡了，陪我呀”\n“你怎么不让我睡觉，这会伤害我的身体”\n“哦哦，爱睡不睡 ” https://t.co/VmLYBCdcMF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 10,
+          "like_count": 1391,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 3380
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

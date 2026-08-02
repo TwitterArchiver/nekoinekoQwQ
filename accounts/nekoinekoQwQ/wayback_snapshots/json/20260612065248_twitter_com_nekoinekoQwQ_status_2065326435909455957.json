@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065268209004212633",
+    "created_at": "2026-06-12T06:52:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T07:52:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065326435909455957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "936843029796724738",
+          "start": 0,
+          "username": "ifxyloveme"
+        },
+        {
+          "end": 25,
+          "id": "1804526783896993792",
+          "start": 12,
+          "username": "fangziwei001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065326435909455957",
+    "in_reply_to_user_id": "936843029796724738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065325983666991193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ifxyloveme @fangziwei001 这个图是我互关的猫猫，叫二蛋，这个博主盗图，可耻！ TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065268209004212633",
+        "created_at": "2026-06-12T06:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065326435909455957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "936843029796724738",
+              "start": 0,
+              "username": "ifxyloveme"
+            },
+            {
+              "end": 25,
+              "id": "1804526783896993792",
+              "start": 12,
+              "username": "fangziwei001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065326435909455957",
+        "in_reply_to_user_id": "936843029796724738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065325983666991193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ifxyloveme @fangziwei001 这个图是我互关的猫猫，叫二蛋，这个博主盗图，可耻！ TT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "936843029796724738",
+        "conversation_id": "2065268209004212633",
+        "created_at": "2026-06-12T06:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065325983666991193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            },
+            {
+              "end": 27,
+              "id": "1804526783896993792",
+              "start": 14,
+              "username": "fangziwei001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065325983666991193",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065289353635766364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ @fangziwei001 厉害啊，已经阅遍千猫了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 11,
+          "like_count": 1002,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 2716
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-02T06:22:38.000Z",
+        "description": "Aqq",
+        "id": "936843029796724738",
+        "location": "qufu",
+        "name": "Jhuo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1152795883852857344/gaVHFPd1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 171,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 168
+        },
+        "username": "ifxyloveme",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T14:48:45.000Z",
+        "description": "互关💯💯💯follow back💯💯💯\n To promote the  Jiangxi to the world!",
+        "id": "1804526783896993792",
+        "location": "Wakayama-shi, Wakayama",
+        "name": "依莼",
+        "pinned_tweet_id": "2061733394015526967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061622616734183424/4K0OaUqj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3256,
+          "following_count": 3499,
+          "like_count": 426,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 173
+        },
+        "username": "fangziwei001",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2067962188124627203",
+    "created_at": "2026-06-19T16:11:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T17:11:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068003717094477866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2042002730139385856",
+          "start": 0,
+          "username": "stormshift0930"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068003717094477866",
+    "in_reply_to_user_id": "2042002730139385856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067975301548654746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stormshift0930 我也吃。。流口水了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2067975287678115841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLskUpXIAE7AV_.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2067962188124627203",
+        "created_at": "2026-06-19T16:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T17:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068003717094477866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042002730139385856",
+              "start": 0,
+              "username": "stormshift0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068003717094477866",
+        "in_reply_to_user_id": "2042002730139385856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067975301548654746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stormshift0930 我也吃。。流口水了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067975287678115841"
+          ]
+        },
+        "author_id": "2042002730139385856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067962188124627203",
+        "created_at": "2026-06-19T14:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067975301548654746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tBuZwGMlb3",
+              "end": 48,
+              "expanded_url": "https://x.com/stormshift0930/status/2067975301548654746/photo/1",
+              "media_key": "3_2067975287678115841",
+              "start": 25,
+              "url": "https://t.co/tBuZwGMlb3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067975301548654746",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067962188124627203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 我是掌管黄金炒饭的神 https://t.co/tBuZwGMlb3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 12,
+          "like_count": 1597,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 4235
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-08T22:12:52.000Z",
+        "description": "🇨🇦 19 185 72kg \nUofT",
+        "id": "2042002730139385856",
+        "location": "Ontario",
+        "name": "StormShift",
+        "pinned_tweet_id": "2064464085425517029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065203617846489088/vMa3-T6D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 25,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 65
+        },
+        "url": "",
+        "username": "stormshift0930",
+        "verified": true
+      }
+    ]
+  }
+}

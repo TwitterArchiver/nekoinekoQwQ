@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2027592825848926598",
+    "created_at": "2026-03-01T03:14:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T04:14:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027945528772972552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1886502857895280640",
+          "start": 0,
+          "username": "nomorerain4pup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027945528772972552",
+    "in_reply_to_user_id": "1886502857895280640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027592825848926598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nomorerain4pup 这辈子都没救了呀！😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2027592825848926598",
+        "created_at": "2026-03-01T03:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T04:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027945528772972552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1886502857895280640",
+              "start": 0,
+              "username": "nomorerain4pup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027945528772972552",
+        "in_reply_to_user_id": "1886502857895280640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027592825848926598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nomorerain4pup 这辈子都没救了呀！😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886502857895280640",
+        "conversation_id": "2027592825848926598",
+        "created_at": "2026-02-28T03:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T04:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027592825848926598"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027592825848926598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7961,
+          "like_count": 176,
+          "quote_count": 5,
+          "reply_count": 11,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "容易生闷气又容易被哄好的真没救了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "",
+        "id": "1948326838125903872",
+        "name": "喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948327003670839297/clkQ13j4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T19:51:56.000Z",
+        "description": "我的生活是永恒的旷野与闪烁的流星｜记录兔兔和芒果老师的伟大冒险｜兔的影分身：@22tutuisapuppy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "22tutuisapuppy"
+              }
+            ]
+          }
+        },
+        "id": "1886502857895280640",
+        "name": "永野流星",
+        "pinned_tweet_id": "1905559589510324274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951648902240927744/HvBZHTo__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 69,
+          "like_count": 291,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 268
+        },
+        "username": "nomorerain4pup",
+        "verified": false
+      }
+    ]
+  }
+}

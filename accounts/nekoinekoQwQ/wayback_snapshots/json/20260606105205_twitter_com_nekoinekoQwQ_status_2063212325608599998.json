@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2063208386058215871",
+    "created_at": "2026-06-06T10:52:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T11:52:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063212325608599998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1906894532815589376",
+          "start": 0,
+          "username": "boy11420598"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063212325608599998",
+    "in_reply_to_user_id": "1906894532815589376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063209784514351197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boy11420598 谢谢你呀(｡･ω･｡)ﾉ♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2063208386058215871",
+        "created_at": "2026-06-06T10:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063212325608599998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906894532815589376",
+              "start": 0,
+              "username": "boy11420598"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063212325608599998",
+        "in_reply_to_user_id": "1906894532815589376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063209784514351197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boy11420598 谢谢你呀(｡･ω･｡)ﾉ♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906894532815589376",
+        "conversation_id": "2063208386058215871",
+        "created_at": "2026-06-06T10:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063209784514351197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063209784514351197",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063208386058215871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 你是个精神世界很富足的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "id": "1948326838125903872",
+        "location": "世界",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 2,
+          "like_count": 301,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1921
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T02:21:12.000Z",
+        "description": "",
+        "id": "1906894532815589376",
+        "name": "宝玉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906896475063529472/K6BFH3pT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 13,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 36
+        },
+        "username": "boy11420598",
+        "verified": false
+      }
+    ]
+  }
+}

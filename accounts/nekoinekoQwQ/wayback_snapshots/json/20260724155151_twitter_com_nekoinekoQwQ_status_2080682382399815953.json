@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2080595114649686342",
+    "created_at": "2026-07-24T15:51:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T16:51:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080682382399815953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1796805898662510593",
+          "start": 0,
+          "username": "3mSzxx1wdS65441"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080682382399815953",
+    "in_reply_to_user_id": "1796805898662510593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080679351188963429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3mSzxx1wdS65441 对呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2080595114649686342",
+        "created_at": "2026-07-24T15:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080682382399815953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1796805898662510593",
+              "start": 0,
+              "username": "3mSzxx1wdS65441"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080682382399815953",
+        "in_reply_to_user_id": "1796805898662510593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080679351188963429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3mSzxx1wdS65441 对呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796805898662510593",
+        "conversation_id": "2080595114649686342",
+        "created_at": "2026-07-24T15:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080679351188963429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080679351188963429",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080676729530745052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 是这个吗，那种只在指甲上涂一个颜色的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 10,
+          "like_count": 1948,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 5506
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T07:28:27.000Z",
+        "description": "need someone to chat with",
+        "id": "1796805898662510593",
+        "name": "真央candy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018346847518208000/BTlXeanT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 62,
+          "like_count": 4543,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 850
+        },
+        "url": "",
+        "username": "3mSzxx1wdS65441",
+        "verified": false
+      }
+    ]
+  }
+}

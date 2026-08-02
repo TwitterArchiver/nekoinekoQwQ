@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065729418992251219",
+    "created_at": "2026-06-14T04:27:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T05:27:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066014754729279798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1872970127479848960",
+          "start": 0,
+          "username": "Ve6Cr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066014754729279798",
+    "in_reply_to_user_id": "1872970127479848960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065802197573804410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ve6Cr 去去去 走开😈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065729418992251219",
+        "created_at": "2026-06-14T04:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066014754729279798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1872970127479848960",
+              "start": 0,
+              "username": "Ve6Cr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066014754729279798",
+        "in_reply_to_user_id": "1872970127479848960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065802197573804410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ve6Cr 去去去 走开😈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872970127479848960",
+        "conversation_id": "2065729418992251219",
+        "created_at": "2026-06-13T14:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065802197573804410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065802197573804410",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065729418992251219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 来。单挑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 9,
+          "like_count": 1277,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 3238
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-28T11:37:44.000Z",
+        "description": "09年/188/双子座/INFP/男/高中生/异性恋/心理性瘾患者/喜欢拍照",
+        "id": "1872970127479848960",
+        "location": "冰岛",
+        "name": "胡图图",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872973301481697280/0Qe01Nc7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 5,
+          "like_count": 636,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 84
+        },
+        "username": "Ve6Cr",
+        "verified": false
+      }
+    ]
+  }
+}

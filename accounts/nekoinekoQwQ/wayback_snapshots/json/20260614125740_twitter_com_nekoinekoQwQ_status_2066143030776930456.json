@@ -1,0 +1,426 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2066142310744596933",
+    "created_at": "2026-06-14T12:57:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T13:57:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066143030776930456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2053717016092295169",
+          "start": 0,
+          "username": "xixijun8827"
+        },
+        {
+          "end": 20,
+          "id": "1287313244693000193",
+          "start": 13,
+          "username": "dsknzb"
+        },
+        {
+          "end": 34,
+          "id": "2037529951096705024",
+          "start": 21,
+          "username": "wwwww_han121"
+        },
+        {
+          "end": 49,
+          "id": "1946149148878852096",
+          "start": 35,
+          "username": "todorokidoya1"
+        },
+        {
+          "end": 61,
+          "id": "1856662470146039808",
+          "start": 50,
+          "username": "misono_sho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066143030776930456",
+    "in_reply_to_user_id": "2053717016092295169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066142310744596933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixijun8827 @dsknzb @wwwww_han121 @todorokidoya1 @misono_sho 为什么我是孩子啊喂，还有我们 0o0 宝宝居然是。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2066142307573714944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxpe1pWUAAGFVr.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2066142310744596933",
+        "created_at": "2026-06-14T12:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066143030776930456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2053717016092295169",
+              "start": 0,
+              "username": "xixijun8827"
+            },
+            {
+              "end": 20,
+              "id": "1287313244693000193",
+              "start": 13,
+              "username": "dsknzb"
+            },
+            {
+              "end": 34,
+              "id": "2037529951096705024",
+              "start": 21,
+              "username": "wwwww_han121"
+            },
+            {
+              "end": 49,
+              "id": "1946149148878852096",
+              "start": 35,
+              "username": "todorokidoya1"
+            },
+            {
+              "end": 61,
+              "id": "1856662470146039808",
+              "start": 50,
+              "username": "misono_sho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066143030776930456",
+        "in_reply_to_user_id": "2053717016092295169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066142310744596933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixijun8827 @dsknzb @wwwww_han121 @todorokidoya1 @misono_sho 为什么我是孩子啊喂，还有我们 0o0 宝宝居然是。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066142307573714944"
+          ]
+        },
+        "author_id": "2053717016092295169",
+        "conversation_id": "2066142310744596933",
+        "created_at": "2026-06-14T12:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066142310744596933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 29,
+              "id": "1287313244693000193",
+              "start": 22,
+              "username": "dsknzb"
+            },
+            {
+              "end": 43,
+              "id": "2037529951096705024",
+              "start": 30,
+              "username": "wwwww_han121"
+            },
+            {
+              "end": 64,
+              "id": "1946149148878852096",
+              "start": 50,
+              "username": "todorokidoya1"
+            },
+            {
+              "end": 84,
+              "id": "1948326838125903872",
+              "start": 71,
+              "username": "nekoinekoQwQ"
+            },
+            {
+              "end": 96,
+              "id": "1856662470146039808",
+              "start": 85,
+              "username": "misono_sho"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 124,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "start": 101,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/P6o3rjxBAp"
+            },
+            {
+              "display_url": "pic.x.com/qt9EmPQcCN",
+              "end": 148,
+              "expanded_url": "https://x.com/xixijun8827/status/2066142310744596933/photo/1",
+              "media_key": "3_2066142307573714944",
+              "start": 125,
+              "url": "https://t.co/qt9EmPQcCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066142310744596933",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @dsknzb @wwwww_han121\n👰 配偶: @todorokidoya1\n👶 孩子: @nekoinekoQwQ @misono_sho\n\n➡️ https://t.co/P6o3rjxBAp https://t.co/qt9EmPQcCN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 9,
+          "like_count": 1362,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 3343
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T06:01:51.000Z",
+        "description": "09/♂/烟の鬼/爱打麻将，日麻和广东麻将都玩。可以找我做心理咨询哦，祝你天天开心\n来都来了，互fo再走吧https://t.co/HZW0mjBRD7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/junxixijun",
+                "end": 76,
+                "expanded_url": "https://ngl.link/junxixijun",
+                "start": 53,
+                "url": "https://t.co/HZW0mjBRD7"
+              }
+            ]
+          }
+        },
+        "id": "2053717016092295169",
+        "name": "无问",
+        "pinned_tweet_id": "2061872985347117213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053780220164083712/gmAUBRcr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 97,
+          "like_count": 1189,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 269
+        },
+        "username": "xixijun8827",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-26T09:06:18.000Z",
+        "description": "病み裏垢🚫  \nhttps://t.co/UQQWQB3ylm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ting67955",
+                "end": 31,
+                "expanded_url": "https://ngl.link/ting67955",
+                "start": 8,
+                "url": "https://t.co/UQQWQB3ylm"
+              }
+            ]
+          }
+        },
+        "id": "1287313244693000193",
+        "location": "宇宙空間🚪520",
+        "name": "南极磷虾",
+        "pinned_tweet_id": "2025259813027090925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760030336019468289/-6yrVg5q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 2266,
+          "like_count": 16863,
+          "listed_count": 2,
+          "media_count": 399,
+          "tweet_count": 12989
+        },
+        "username": "dsknzb",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-27T14:00:05.000Z",
+        "description": "此账号发表的所有言论， 意在取悦自己，并通过文字或图片强制干预他人的思想，如果翻阅之后出现不适等症状，恭喜你，你怀了我的孩子",
+        "id": "2037529951096705024",
+        "name": "这就是id",
+        "pinned_tweet_id": "2057857880020443484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064306643622600704/0RgHe5Gq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 38,
+          "like_count": 799,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 286
+        },
+        "username": "wwwww_han121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-18T10:05:17.000Z",
+        "description": "如此懦弱…",
+        "id": "1946149148878852096",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "0o0",
+        "pinned_tweet_id": "2064266649377890697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947494571715461120/yN7x2Gqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 325,
+          "like_count": 25504,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 1719
+        },
+        "username": "todorokidoya1",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-13T11:37:14.000Z",
+        "description": "..ip大阪\n日语苦手\n所以可能会打中文或者用翻译器\n很怪的话请原谅\n\n(⁠≧⁠▽⁠≦⁠)\n互fo大欢迎\n有啥想问的在下面链接\n随便发什么都可以哦、\n看到了就回，喜欢你们\nDM可以哟~想发什么都可以哦\n因为我真的很闲😚\n没精力社交了，回的慢见谅\n打钱立马回\n無言フォロー・無言いいね失礼いたします",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/misonosho",
+                "end": 23,
+                "expanded_url": "https://ngl.link/misonosho",
+                "start": 0,
+                "url": "https://t.co/mrTm5xhM1p"
+              }
+            ]
+          }
+        },
+        "id": "1856662470146039808",
+        "location": "常住大阪谢谢",
+        "name": "美園笙",
+        "pinned_tweet_id": "2037728140387287240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065011489031979008/Q62nO__e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 108,
+          "like_count": 12067,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 694
+        },
+        "url": "https://t.co/mrTm5xhM1p",
+        "username": "misono_sho",
+        "verified": false
+      }
+    ]
+  }
+}

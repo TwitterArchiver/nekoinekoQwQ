@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2066530464203153539",
+    "created_at": "2026-06-15T19:31:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T20:31:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066604453130883111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2039867204158586880",
+          "start": 0,
+          "username": "G520L1314T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066604453130883111",
+    "in_reply_to_user_id": "2039867204158586880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066553326939119862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@G520L1314T 我知道的呀，我说自己的段位就是为了找个段位比我高一点的，技术好这个标准是按我自己来的，因为我技术很菜，比我好的都能算技术好🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2066530464203153539",
+        "created_at": "2026-06-15T19:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T20:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066604453130883111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2039867204158586880",
+              "start": 0,
+              "username": "G520L1314T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066604453130883111",
+        "in_reply_to_user_id": "2039867204158586880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066553326939119862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@G520L1314T 我知道的呀，我说自己的段位就是为了找个段位比我高一点的，技术好这个标准是按我自己来的，因为我技术很菜，比我好的都能算技术好🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039867204158586880",
+        "conversation_id": "2066530464203153539",
+        "created_at": "2026-06-15T16:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T17:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066553326939119862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066553326939119862",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066530464203153539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 这难道和高段位的一起排不是更没有游戏体验吗？还是和只比你高一点水平的比较好。要不然你就是捡垃圾然后不知道怎么就死掉了。和王牌20星以上基本就没有任何体验感了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 10,
+          "like_count": 1452,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 3594
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T00:47:09.000Z",
+        "description": "晚霞的碎碎念~ || 男 || ENTJ-A || 狮子座 || Switch\n(备考期-不要把梦想埋没)\n提问箱：https://t.co/BywsqugFYW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/g520l1314t",
+                "end": 81,
+                "expanded_url": "https://ngl.link/g520l1314t",
+                "start": 58,
+                "url": "https://t.co/BywsqugFYW"
+              }
+            ]
+          }
+        },
+        "id": "2039867204158586880",
+        "location": "万劫流霞皆过客，三生化影等一人",
+        "name": "晚霞",
+        "pinned_tweet_id": "2056335620965060993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066143471820574720/6_jgaho6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 19,
+          "like_count": 394,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 254
+        },
+        "username": "G520L1314T",
+        "verified": false
+      }
+    ]
+  }
+}

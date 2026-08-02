@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2067531100503916680",
+    "created_at": "2026-06-18T12:01:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T13:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067578543010459675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "936843029796724738",
+          "start": 0,
+          "username": "ifxyloveme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067578543010459675",
+    "in_reply_to_user_id": "936843029796724738",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067542989854167314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ifxyloveme 肯定的˶ｰ`֊´ｰ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2067531100503916680",
+        "created_at": "2026-06-18T12:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067578543010459675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "936843029796724738",
+              "start": 0,
+              "username": "ifxyloveme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067578543010459675",
+        "in_reply_to_user_id": "936843029796724738",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067542989854167314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ifxyloveme 肯定的˶ｰ`֊´ｰ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "936843029796724738",
+        "conversation_id": "2067531100503916680",
+        "created_at": "2026-06-18T09:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T10:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067542989854167314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067542989854167314",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067542357797720078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 那不得到了，发个推庆祝一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 11,
+          "like_count": 1573,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 4079
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-02T06:22:38.000Z",
+        "description": "Aqq",
+        "id": "936843029796724738",
+        "location": "qufu",
+        "name": "Jhuo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1152795883852857344/gaVHFPd1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 198,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 294
+        },
+        "url": "",
+        "username": "ifxyloveme",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2062804867140432026",
+    "created_at": "2026-06-06T03:55:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T04:55:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063107375960400297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3018975387",
+          "start": 0,
+          "username": "hanawa_hinata"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063107375960400297",
+    "in_reply_to_user_id": "3018975387",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062804867140432026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hanawa_hinata 好想吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2062804829333053440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKCOECVbYAAgu3i.jpg",
+        "width": 872
+      },
+      {
+        "height": 809,
+        "media_key": "3_2062804836819808256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKCOEeOaMAApvey.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2062804867140432026",
+        "created_at": "2026-06-06T03:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T04:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063107375960400297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3018975387",
+              "start": 0,
+              "username": "hanawa_hinata"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063107375960400297",
+        "in_reply_to_user_id": "3018975387",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062804867140432026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hanawa_hinata 好想吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062804829333053440",
+            "3_2062804836819808256"
+          ]
+        },
+        "author_id": "3018975387",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2062804867140432026",
+        "created_at": "2026-06-05T07:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T08:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062804867140432026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hK9Y71FPz0",
+              "end": 28,
+              "expanded_url": "https://x.com/hanawa_hinata/status/2062804867140432026/photo/1",
+              "media_key": "3_2062804829333053440",
+              "start": 5,
+              "url": "https://t.co/hK9Y71FPz0"
+            },
+            {
+              "display_url": "pic.x.com/hK9Y71FPz0",
+              "end": 28,
+              "expanded_url": "https://x.com/hanawa_hinata/status/2062804867140432026/photo/1",
+              "media_key": "3_2062804836819808256",
+              "start": 5,
+              "url": "https://t.co/hK9Y71FPz0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062804867140432026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 114499,
+          "like_count": 594,
+          "quote_count": 2,
+          "reply_count": 69,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "不是哥们 https://t.co/hK9Y71FPz0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "id": "1948326838125903872",
+        "location": "世界",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 2,
+          "like_count": 288,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1889
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-04T23:58:21.000Z",
+        "description": "心弦之音，余韵寥寥。The founder of @nebula_soft",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "nebula_soft"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hanawa.me",
+                "end": 23,
+                "expanded_url": "https://hanawa.me",
+                "start": 0,
+                "url": "https://t.co/wz4zjqKiRT"
+              }
+            ]
+          }
+        },
+        "id": "3018975387",
+        "location": "万达广场",
+        "name": "日向花和 Hanawa Hinata",
+        "pinned_tweet_id": "1967131247333044249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004354883609415681/o7a20K81_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13109,
+          "following_count": 2058,
+          "like_count": 133841,
+          "listed_count": 48,
+          "media_count": 6868,
+          "tweet_count": 44279
+        },
+        "url": "https://t.co/wz4zjqKiRT",
+        "username": "hanawa_hinata",
+        "verified": true
+      }
+    ]
+  }
+}

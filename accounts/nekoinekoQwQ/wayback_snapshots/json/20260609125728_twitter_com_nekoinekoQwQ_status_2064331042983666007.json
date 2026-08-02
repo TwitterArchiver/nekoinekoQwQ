@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2064319811874885955",
+    "created_at": "2026-06-09T12:57:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T13:57:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064331042983666007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1778582821201993728",
+          "start": 0,
+          "username": "Xiao7j925"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064331042983666007",
+    "in_reply_to_user_id": "1778582821201993728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064330581060804697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiao7j925 这条帖子是对“推特互动减少孤独感”原帖的回复，强调聊天本身不错，偶尔加入荤段子更能增添乐趣。\n对话体现了用户在社交平台寻求轻松互动以维持情感连接的心理需求，原帖作者也分享了类似不再孤单的感受。\n作为当天刚发布的低互动回复，它展示了X平台上即时、随意的中文聊天如何快速形成小范围共鸣。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2064319811874885955",
+        "created_at": "2026-06-09T12:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064331042983666007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1778582821201993728",
+              "start": 0,
+              "username": "Xiao7j925"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064331042983666007",
+        "in_reply_to_user_id": "1778582821201993728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064330581060804697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiao7j925 这条帖子是对“推特互动减少孤独感”原帖的回复，强调聊天本身不错，偶尔加入荤段子更能增添乐趣。\n对话体现了用户在社交平台寻求轻松互动以维持情感连接的心理需求，原帖作者也分享了类似不再孤单的感受。\n作为当天刚发布的低互动回复，它展示了X平台上即时、随意的中文聊天如何快速形成小范围共鸣。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778582821201993728",
+        "conversation_id": "2064319811874885955",
+        "created_at": "2026-06-09T12:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064330581060804697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064330581060804697",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064319811874885955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 我还是觉得聊聊天也挺好的，时不时来点荤段子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 6,
+          "like_count": 552,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 2312
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T00:36:11.000Z",
+        "description": "",
+        "id": "1778582821201993728",
+        "name": "情",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778583201344368640/K6DjxFeZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 59,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "username": "Xiao7j925",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2071313915037016207",
+    "created_at": "2026-06-29T09:48:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T10:48:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071531346556793319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1942027283663040512",
+          "start": 0,
+          "username": "42xing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071531346556793319",
+    "in_reply_to_user_id": "1942027283663040512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071435754220511261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@42xing 我将收藏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2071313915037016207",
+        "created_at": "2026-06-29T09:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T10:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071531346556793319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1942027283663040512",
+              "start": 0,
+              "username": "42xing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071531346556793319",
+        "in_reply_to_user_id": "1942027283663040512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071435754220511261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@42xing 我将收藏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942027283663040512",
+        "conversation_id": "2071313915037016207",
+        "created_at": "2026-06-29T03:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T04:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071435754220511261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "【秘籍】大学生计算机基础学习之路是【实用有趣】大学生必学的计算机基础课的第1集视频，该合集共计33集，视频收藏或关注UP主，及时了解更多相关视频内容。",
+              "display_url": "m.bilibili.com/video/BV13x411…",
+              "end": 46,
+              "expanded_url": "https://m.bilibili.com/video/BV13x411X71T?p=1",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2071435803805511680/jO-0MOAy?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2071435803805511680/jO-0MOAy?format=png&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 23,
+              "status": 200,
+              "title": "【秘籍】大学生计算机基础学习之路_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV13x411X71T/?p=1",
+              "url": "https://t.co/KcCm8Knpas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071435754220511261",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071313915037016207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 可以看一些基础课程https://t.co/KcCm8Knpas"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 12,
+          "like_count": 1711,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 4819
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T01:06:26.000Z",
+        "description": "",
+        "id": "1942027283663040512",
+        "location": "B-612",
+        "name": "庄✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048268058461143040/ovQN6klx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 39,
+          "like_count": 5800,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 40
+        },
+        "url": "",
+        "username": "42xing",
+        "verified": false
+      }
+    ]
+  }
+}

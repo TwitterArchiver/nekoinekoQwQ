@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2082559461793972513",
+    "created_at": "2026-07-29T20:10:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T21:10:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082559461793972513"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082559461793972513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有时候对事情的期待值降低，挺能保护我自己的，至少不会因为太期待，等到结果和预想中的不一样导致很失落，虽然我很讨厌那种明明自己一直在努力让对方感受到自己值得慢慢去信任，对方还是一个劲地说自己不会相信任何人，但是我也不太相信别人，不过有人一直对我好的话，我还是会相信的吧，然后又被欺骗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2082559461793972513",
+        "created_at": "2026-07-29T20:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T21:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082559461793972513"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082559461793972513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有时候对事情的期待值降低，挺能保护我自己的，至少不会因为太期待，等到结果和预想中的不一样导致很失落，虽然我很讨厌那种明明自己一直在努力让对方感受到自己值得慢慢去信任，对方还是一个劲地说自己不会相信任何人，但是我也不太相信别人，不过有人一直对我好的话，我还是会相信的吧，然后又被欺骗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 10,
+          "like_count": 2021,
+          "listed_count": 0,
+          "media_count": 220,
+          "tweet_count": 6090
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

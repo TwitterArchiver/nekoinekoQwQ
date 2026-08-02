@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2063555935185097184",
+    "created_at": "2026-06-08T02:56:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T03:56:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063817427914473702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1999755092811993092",
+          "start": 0,
+          "username": "Yangtongotnq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063817427914473702",
+    "in_reply_to_user_id": "1999755092811993092",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063624323697664069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yangtongotnq 抱抱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2063555935185097184",
+        "created_at": "2026-06-08T02:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063817427914473702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1999755092811993092",
+              "start": 0,
+              "username": "Yangtongotnq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063817427914473702",
+        "in_reply_to_user_id": "1999755092811993092",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063624323697664069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yangtongotnq 抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999755092811993092",
+        "conversation_id": "2063555935185097184",
+        "created_at": "2026-06-07T14:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063624323697664069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063624323697664069",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063555935185097184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 你懂那种填空第一问考试考蒙逼了，加了个负号的感觉吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CH",
+              "full_name": "Zürich, Zurich, Switzerland",
+              "geo": {
+                "coordinates": [
+                  8.55,
+                  47.36667
+                ],
+                "type": "Point"
+              },
+              "locality": "Zürich",
+              "region": "Zurich",
+              "sub_region": "Bezirk Zürich"
+            }
+          ]
+        },
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "id": "1948326838125903872",
+        "location": "世界",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 2,
+          "like_count": 420,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 2028
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-13T08:17:24.000Z",
+        "description": "🚪100000000",
+        "id": "1999755092811993092",
+        "location": "冰岛",
+        "name": "晚安布布",
+        "pinned_tweet_id": "2058256249989521603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024508770215481346/YI3RDBlF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 14,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 276
+        },
+        "username": "Yangtongotnq",
+        "verified": false
+      }
+    ]
+  }
+}

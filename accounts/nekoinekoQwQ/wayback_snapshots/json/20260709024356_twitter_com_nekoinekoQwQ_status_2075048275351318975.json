@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2075029930363281680",
+    "created_at": "2026-07-09T02:43:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T03:43:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075048275351318975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2059624426539491328",
+          "start": 0,
+          "username": "Ajitsusang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075048275351318975",
+    "in_reply_to_user_id": "2059624426539491328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075042867157123269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ajitsusang 有些事情发生的很突然，我也没想到会这样，就是非常的让人伤心吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2075029930363281680",
+        "created_at": "2026-07-09T02:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T03:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075048275351318975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2059624426539491328",
+              "start": 0,
+              "username": "Ajitsusang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075048275351318975",
+        "in_reply_to_user_id": "2059624426539491328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075042867157123269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ajitsusang 有些事情发生的很突然，我也没想到会这样，就是非常的让人伤心吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059624426539491328",
+        "conversation_id": "2075029930363281680",
+        "created_at": "2026-07-09T02:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T03:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075042867157123269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075042867157123269",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075029930363281680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 朋友的离去真的让人很难过啊，不过可以试着减少对朋友的投入，如果给朋友排个等级，能够确认百分百对自己好也不会分开的就全心全意对他们好，这样或许会轻松一些（因为我是懒比不社交）:-D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 12,
+          "like_count": 1917,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 5143
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-27T13:17:07.000Z",
+        "description": "INTP、夢は苦しみをすべて消し去ること 人生が崩壊へ向かう道の上で、幸福の列車は私のところで脱線した、俺ってめっちゃウザい？",
+        "id": "2059624426539491328",
+        "name": "亜実",
+        "pinned_tweet_id": "2061110646536913004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072006478790352896/Yyo8zJFm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 16,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 312
+        },
+        "url": "",
+        "username": "Ajitsusang",
+        "verified": false
+      }
+    ]
+  }
+}

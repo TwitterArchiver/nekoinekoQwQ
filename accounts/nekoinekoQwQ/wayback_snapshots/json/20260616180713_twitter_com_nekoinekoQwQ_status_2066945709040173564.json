@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2066876519918789115",
+    "created_at": "2026-06-16T18:07:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T19:07:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066945709040173564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1798606667573014528",
+          "start": 0,
+          "username": "asukumofufu1122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066945709040173564",
+    "in_reply_to_user_id": "1798606667573014528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066944396285866078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asukumofufu1122 （回答了一些感谢的话）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2066876519918789115",
+        "created_at": "2026-06-16T18:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T19:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066945709040173564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1798606667573014528",
+              "start": 0,
+              "username": "asukumofufu1122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066945709040173564",
+        "in_reply_to_user_id": "1798606667573014528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066944396285866078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asukumofufu1122 （回答了一些感谢的话）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798606667573014528",
+        "conversation_id": "2066876519918789115",
+        "created_at": "2026-06-16T18:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T19:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066944396285866078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066944396285866078",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066876519918789115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ （说了一堆夸赞的话）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 10,
+          "like_count": 1506,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 3743
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T06:43:51.000Z",
+        "description": "逛推就是为看看片，看看世界，看看所有人，不管是否好坏，我都要看，只是好奇哦，不必在意我，大家努力生活就好",
+        "id": "1798606667573014528",
+        "name": "沐子蜜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062177341271601152/jG0FaqA7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 19,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 110
+        },
+        "username": "asukumofufu1122",
+        "verified": false
+      }
+    ]
+  }
+}

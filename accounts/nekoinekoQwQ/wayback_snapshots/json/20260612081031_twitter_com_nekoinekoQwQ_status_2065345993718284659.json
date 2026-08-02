@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065345979776471040",
+        "3_2065345979789070336"
+      ]
+    },
+    "author_id": "1948326838125903872",
+    "conversation_id": "2065345993718284659",
+    "created_at": "2026-06-12T08:10:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T09:10:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065345993718284659"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/m0Jf2EEIe0",
+          "end": 86,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2065345993718284659/photo/1",
+          "media_key": "3_2065345979776471040",
+          "start": 63,
+          "url": "https://t.co/m0Jf2EEIe0"
+        },
+        {
+          "display_url": "pic.x.com/m0Jf2EEIe0",
+          "end": 86,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2065345993718284659/photo/1",
+          "media_key": "3_2065345979789070336",
+          "start": 63,
+          "url": "https://t.co/m0Jf2EEIe0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065345993718284659",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我玩游戏的话，这个问题等之后再回复吧，因为我现在还没开始玩，我也不知道自己喜欢玩什么，我是游戏白痴🥲\n一突是什么(・◇・)? https://t.co/m0Jf2EEIe0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 798,
+        "media_key": "3_2065345979776471040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmVOdbbkAAhWVj.jpg",
+        "width": 1179
+      },
+      {
+        "height": 715,
+        "media_key": "3_2065345979789070336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmVOdeb0AAR1-q.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065345979776471040",
+            "3_2065345979789070336"
+          ]
+        },
+        "author_id": "1948326838125903872",
+        "conversation_id": "2065345993718284659",
+        "created_at": "2026-06-12T08:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T09:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065345993718284659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m0Jf2EEIe0",
+              "end": 86,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2065345993718284659/photo/1",
+              "media_key": "3_2065345979776471040",
+              "start": 63,
+              "url": "https://t.co/m0Jf2EEIe0"
+            },
+            {
+              "display_url": "pic.x.com/m0Jf2EEIe0",
+              "end": 86,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2065345993718284659/photo/1",
+              "media_key": "3_2065345979789070336",
+              "start": 63,
+              "url": "https://t.co/m0Jf2EEIe0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065345993718284659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我玩游戏的话，这个问题等之后再回复吧，因为我现在还没开始玩，我也不知道自己喜欢玩什么，我是游戏白痴🥲\n一突是什么(・◇・)? https://t.co/m0Jf2EEIe0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 11,
+          "like_count": 1012,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 2722
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

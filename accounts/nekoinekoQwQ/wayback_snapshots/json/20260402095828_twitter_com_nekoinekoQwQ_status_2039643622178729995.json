@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2039302104280645749",
+    "created_at": "2026-04-02T09:58:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T10:58:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039643622178729995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1908850461891026945",
+          "start": 0,
+          "username": "qwykoou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039643622178729995",
+    "in_reply_to_user_id": "1908850461891026945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039302104280645749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwykoou 🫳🏻🫳🏻过来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2039302104280645749",
+        "created_at": "2026-04-02T09:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T10:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039643622178729995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1908850461891026945",
+              "start": 0,
+              "username": "qwykoou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039643622178729995",
+        "in_reply_to_user_id": "1908850461891026945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039302104280645749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwykoou 🫳🏻🫳🏻过来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908850461891026945",
+        "conversation_id": "2039302104280645749",
+        "created_at": "2026-04-01T11:21:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T12:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039302104280645749"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039302104280645749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2334,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "放只小狗在这里"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 1,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 1281
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-06T11:53:17.000Z",
+        "description": "不高兴就锁推",
+        "id": "1908850461891026945",
+        "name": "愈合",
+        "pinned_tweet_id": "2026604947043995930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994826902096560128/UJKHYEeY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1604,
+          "following_count": 198,
+          "like_count": 2858,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1102
+        },
+        "username": "qwykoou",
+        "verified": false
+      }
+    ]
+  }
+}

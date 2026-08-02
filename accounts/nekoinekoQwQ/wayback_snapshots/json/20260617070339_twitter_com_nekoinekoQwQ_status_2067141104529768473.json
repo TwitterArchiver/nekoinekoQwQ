@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2067141104529768473",
+    "created_at": "2026-06-17T07:03:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T08:03:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067141104529768473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1906694315205869568",
+          "start": 3,
+          "username": "yolala0_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067141104529768473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066877587838935416",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yolala0_: 我他妈以前谈的伪人吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2067141104529768473",
+        "created_at": "2026-06-17T07:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T08:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067141104529768473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906694315205869568",
+              "start": 3,
+              "username": "yolala0_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067141104529768473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066877587838935416",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yolala0_: 我他妈以前谈的伪人吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906694315205869568",
+        "conversation_id": "2066877587838935416",
+        "created_at": "2026-06-16T13:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T14:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066877587838935416"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066877587838935416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 451,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈以前谈的伪人吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 10,
+          "like_count": 1548,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 3896
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-31T13:05:39.000Z",
+        "description": "🐈我一直在说垃圾话",
+        "id": "1906694315205869568",
+        "name": "咪味虾",
+        "pinned_tweet_id": "2006395802911170638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983218245265235968/DPIWqo-4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 79,
+          "like_count": 2191,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 1011
+        },
+        "url": "",
+        "username": "yolala0_",
+        "verified": false
+      }
+    ]
+  }
+}

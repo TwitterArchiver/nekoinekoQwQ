@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2082914333278032381",
+    "created_at": "2026-07-30T19:40:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T20:40:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082914333278032381"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082914333278032381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我刚刚在红果看了一个超级甜的校园剧，这让我回忆起了之前初中偷偷拿着自己的MP4，大半夜看校园文的时候，我到现在还记得当时把一个不怎么出名的作者的文章全追完了，后面出了实体书，还想着要买的，好怀念啊，这就是怀念青春的感觉吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2082914333278032381",
+        "created_at": "2026-07-30T19:40:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T20:40:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082914333278032381"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082914333278032381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刚刚在红果看了一个超级甜的校园剧，这让我回忆起了之前初中偷偷拿着自己的MP4，大半夜看校园文的时候，我到现在还记得当时把一个不怎么出名的作者的文章全追完了，后面出了实体书，还想着要买的，好怀念啊，这就是怀念青春的感觉吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 11,
+          "like_count": 2035,
+          "listed_count": 0,
+          "media_count": 222,
+          "tweet_count": 6149
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

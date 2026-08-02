@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2064245952983220577",
+    "created_at": "2026-06-10T17:09:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T18:09:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064756816937165256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1957510437379117056",
+          "start": 0,
+          "username": "ianfff819"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064756816937165256",
+    "in_reply_to_user_id": "1957510437379117056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064377691512713492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ianfff819 我，有力气！💪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2064245952983220577",
+        "created_at": "2026-06-10T17:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T18:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064756816937165256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957510437379117056",
+              "start": 0,
+              "username": "ianfff819"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064756816937165256",
+        "in_reply_to_user_id": "1957510437379117056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064377691512713492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ianfff819 我，有力气！💪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957510437379117056",
+        "conversation_id": "2064245952983220577",
+        "created_at": "2026-06-09T16:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T17:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064377691512713492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064377691512713492",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064245952983220577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 可以，很有力气"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 10,
+          "like_count": 786,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 2397
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-18T18:30:53.000Z",
+        "description": "我想真正了解你\n我好奇你的年龄 你的身高 你的体型 你的血型 你的发质 你的发色你的皮肤你的生日你的MBTi你的人格类型 你的缺点 你的情史你的过去 你的家庭你的三观 你的未来规划 喜欢的颜色 喜欢的穿搭风格喜欢的歌曲 喜欢的歌手 喜欢的照片 喜欢的书喜欢的作家 https://t.co/L4qnrHTJz9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iiovz",
+                "end": 155,
+                "expanded_url": "https://ngl.link/iiovz",
+                "start": 132,
+                "url": "https://t.co/L4qnrHTJz9"
+              }
+            ]
+          }
+        },
+        "id": "1957510437379117056",
+        "name": "寻流荣",
+        "pinned_tweet_id": "2062935620755107946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062187519085838336/3KU_7kQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 48,
+          "like_count": 260,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 373
+        },
+        "username": "ianfff819",
+        "verified": false
+      }
+    ]
+  }
+}

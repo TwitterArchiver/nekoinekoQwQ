@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2063213399727825236",
+    "created_at": "2026-06-06T13:33:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T14:33:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063252920288821423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1976103974299197440",
+          "start": 0,
+          "username": "Xingyunfan6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063252920288821423",
+    "in_reply_to_user_id": "1976103974299197440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063231539107037392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xingyunfan6 我也不知道诶，今天突然爆了，很诡异"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2063213399727825236",
+        "created_at": "2026-06-06T13:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T14:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063252920288821423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1976103974299197440",
+              "start": 0,
+              "username": "Xingyunfan6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063252920288821423",
+        "in_reply_to_user_id": "1976103974299197440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063231539107037392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xingyunfan6 我也不知道诶，今天突然爆了，很诡异"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976103974299197440",
+        "conversation_id": "2063213399727825236",
+        "created_at": "2026-06-06T12:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063231539107037392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063231539107037392",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063213399727825236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 你流量比我都好，为什么😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CH",
+              "full_name": "Zürich, Zurich, Switzerland",
+              "geo": {
+                "coordinates": [
+                  8.55,
+                  47.36667
+                ],
+                "type": "Point"
+              },
+              "locality": "Zürich",
+              "region": "Zurich",
+              "sub_region": "Bezirk Zürich"
+            }
+          ]
+        },
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "id": "1948326838125903872",
+        "location": "世界",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 2,
+          "like_count": 380,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1977
+        },
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T01:54:48.000Z",
+        "description": "一个想实现财务自由的大学生",
+        "id": "1976103974299197440",
+        "name": "Xingyunfan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976104109788065792/WWsNUEpQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 491,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 323
+        },
+        "username": "Xingyunfan6",
+        "verified": true
+      }
+    ]
+  }
+}

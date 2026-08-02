@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2066603678975611281",
+    "created_at": "2026-06-17T19:45:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T20:45:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067332719122805164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1951932082676269056",
+          "start": 0,
+          "username": "qbi12976931"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067332719122805164",
+    "in_reply_to_user_id": "1951932082676269056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067240552266141773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qbi12976931 很困难（）我玩辅助赢一局只+1颗星"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2066603678975611281",
+        "created_at": "2026-06-17T19:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T20:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067332719122805164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1951932082676269056",
+              "start": 0,
+              "username": "qbi12976931"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067332719122805164",
+        "in_reply_to_user_id": "1951932082676269056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067240552266141773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qbi12976931 很困难（）我玩辅助赢一局只+1颗星"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951932082676269056",
+        "conversation_id": "2066603678975611281",
+        "created_at": "2026-06-17T13:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067240552266141773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067240552266141773",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066603678975611281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 猫泪你快速上星耀，带你狠狠吃大分，我迦罗和黄忠可是一绝(´◊ω◊｀)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 10,
+          "like_count": 1559,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 3969
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-03T09:04:20.000Z",
+        "description": "（未成年09，各位伪人别看啦）世界还真是大啊(￣(エ)￣)",
+        "id": "1951932082676269056",
+        "name": "齐北",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951932235281817600/m_hqllnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 31,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 355
+        },
+        "username": "qbi12976931",
+        "verified": false
+      }
+    ]
+  }
+}

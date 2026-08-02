@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2064320320916582453",
+    "created_at": "2026-06-09T12:14:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T13:14:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064320320916582453"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064320320916582453",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "明天早上去学校领材料，晚上还有学校搞得毕业晚会，班主任说我必须到，因为我当时考试前一天的那个出征仪式就没去🥲我对班上同学真的没多大感情，更重要的是，他们居然还想要筹钱给老师买礼物，明明之前就已经给老师办过活动了，好无语啊，也许我真的是一个无情的人吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2064320320916582453",
+        "created_at": "2026-06-09T12:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064320320916582453"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064320320916582453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天早上去学校领材料，晚上还有学校搞得毕业晚会，班主任说我必须到，因为我当时考试前一天的那个出征仪式就没去🥲我对班上同学真的没多大感情，更重要的是，他们居然还想要筹钱给老师买礼物，明明之前就已经给老师办过活动了，好无语啊，也许我真的是一个无情的人吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 5,
+          "like_count": 545,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 2264
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

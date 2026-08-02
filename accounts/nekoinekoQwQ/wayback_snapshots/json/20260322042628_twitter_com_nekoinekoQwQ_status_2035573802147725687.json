@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2035573802147725687",
+    "created_at": "2026-03-22T04:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T05:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035573802147725687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1876969389762990080",
+          "start": 3,
+          "username": "MegansuareDor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035573802147725687",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035340629673464192",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MegansuareDor: 特别讨厌别人漠视我的情绪 其实我是一个情感很浓烈的人喜欢一个人就会很依赖 但是如果对方一直漠视我的情绪让我被迫自我消化 我的爱意就会消失殆尽 我觉得一直在消耗我自己的精神力 我好累 我不想这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2035573802147725687",
+        "created_at": "2026-03-22T04:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T05:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035573802147725687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1876969389762990080",
+              "start": 3,
+              "username": "MegansuareDor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035573802147725687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035340629673464192",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MegansuareDor: 特别讨厌别人漠视我的情绪 其实我是一个情感很浓烈的人喜欢一个人就会很依赖 但是如果对方一直漠视我的情绪让我被迫自我消化 我的爱意就会消失殆尽 我觉得一直在消耗我自己的精神力 我好累 我不想这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876969389762990080",
+        "conversation_id": "2035340629673464192",
+        "created_at": "2026-03-21T12:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T13:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035340629673464192"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035340629673464192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 5567,
+          "like_count": 201,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "特别讨厌别人漠视我的情绪 其实我是一个情感很浓烈的人喜欢一个人就会很依赖 但是如果对方一直漠视我的情绪让我被迫自我消化 我的爱意就会消失殆尽 我觉得一直在消耗我自己的精神力 我好累 我不想这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 1,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 742
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-08T12:29:23.000Z",
+        "description": "下小雨了 我们几点通电话",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuanyuan_z6742",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuanyuan_z6742",
+                "start": 0,
+                "url": "https://t.co/nRgTdvNJR8"
+              }
+            ]
+          }
+        },
+        "id": "1876969389762990080",
+        "location": "ddlg",
+        "name": "小猪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025590525630500864/nEGQJ2YS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 13,
+          "like_count": 1051,
+          "listed_count": 3,
+          "media_count": 80,
+          "tweet_count": 443
+        },
+        "url": "https://t.co/nRgTdvNJR8",
+        "username": "MegansuareDor",
+        "verified": false
+      }
+    ]
+  }
+}
