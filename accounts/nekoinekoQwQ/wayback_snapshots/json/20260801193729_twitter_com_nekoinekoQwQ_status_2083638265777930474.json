@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2083616064131498317",
+    "created_at": "2026-08-01T19:37:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T20:37:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083638265777930474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1566676029443231744",
+          "start": 0,
+          "username": "CptBupeipei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083638265777930474",
+    "in_reply_to_user_id": "1566676029443231744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083616064131498317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CptBupeipei 他的眼睛好大好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2083616045265539073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOp9wPJbUAEnGbt.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2083616064131498317",
+        "created_at": "2026-08-01T19:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T20:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083638265777930474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1566676029443231744",
+              "start": 0,
+              "username": "CptBupeipei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083638265777930474",
+        "in_reply_to_user_id": "1566676029443231744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083616064131498317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CptBupeipei 他的眼睛好大好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083616045265539073"
+          ]
+        },
+        "author_id": "1566676029443231744",
+        "conversation_id": "2083616064131498317",
+        "created_at": "2026-08-01T18:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T19:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083616064131498317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fo6z9H4Xp7",
+              "end": 23,
+              "expanded_url": "https://x.com/CptBupeipei/status/2083616064131498317/photo/1",
+              "media_key": "3_2083616045265539073",
+              "start": 0,
+              "url": "https://t.co/Fo6z9H4Xp7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083616064131498317",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Fo6z9H4Xp7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 12,
+          "like_count": 2060,
+          "listed_count": 0,
+          "media_count": 226,
+          "tweet_count": 6301
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-05T06:34:22.000Z",
+        "description": "只给美女当狗丨时刻期盼维里旺旺卡复活🙏｜是个嘴贱疯狗会很难听的骂人",
+        "id": "1566676029443231744",
+        "name": "没有任何一条狗比我更会舔白菜鱼头柠檬绒绒眠咪饭碗丸子hin知邹邹西嘎魔女lu9扣星巧克力小蔷薇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954439300692791296/T90HY9LA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1547,
+          "following_count": 84,
+          "like_count": 727,
+          "listed_count": 6,
+          "media_count": 442,
+          "tweet_count": 3615
+        },
+        "url": "",
+        "username": "CptBupeipei",
+        "verified": false
+      }
+    ]
+  }
+}

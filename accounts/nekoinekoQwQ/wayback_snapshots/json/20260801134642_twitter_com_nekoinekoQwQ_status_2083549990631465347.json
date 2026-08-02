@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2083250949913747657",
+    "created_at": "2026-08-01T13:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T14:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083549990631465347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1917734495786041344",
+          "start": 0,
+          "username": "chelsey24517"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083549990631465347",
+    "in_reply_to_user_id": "1917734495786041344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083547206335000994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chelsey24517 那现在是因为下雨了，所以是开车人格吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2083250949913747657",
+        "created_at": "2026-08-01T13:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083549990631465347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1917734495786041344",
+              "start": 0,
+              "username": "chelsey24517"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083549990631465347",
+        "in_reply_to_user_id": "1917734495786041344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083547206335000994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chelsey24517 那现在是因为下雨了，所以是开车人格吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917734495786041344",
+        "conversation_id": "2083250949913747657",
+        "created_at": "2026-08-01T13:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083547206335000994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083547206335000994",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083458409157067183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 这是我的喵喵人格"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 12,
+          "like_count": 2060,
+          "listed_count": 0,
+          "media_count": 225,
+          "tweet_count": 6272
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T00:15:17.000Z",
+        "description": "在推上很像是一场灵魂的碰撞呢｜碎碎念，\n很高兴大家来跟我聊天｜月丑 ｜最近刚入坑明日方舟，有趣的剧情可以来分享｜https://t.co/47ytjGff9h",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shenkl",
+                "end": 79,
+                "expanded_url": "https://ngl.link/shenkl",
+                "start": 56,
+                "url": "https://t.co/47ytjGff9h"
+              }
+            ]
+          }
+        },
+        "id": "1917734495786041344",
+        "name": "不染",
+        "pinned_tweet_id": "2031701656807813338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083548220127686656/HT9xdgHM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 267,
+          "like_count": 8627,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 1959
+        },
+        "url": "",
+        "username": "chelsey24517",
+        "verified": false
+      }
+    ]
+  }
+}

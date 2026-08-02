@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2083467108198089176",
+    "created_at": "2026-08-01T17:02:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T18:02:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083599359485301219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1464908007532228616",
+          "start": 0,
+          "username": "fenerzaifei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083599359485301219",
+    "in_reply_to_user_id": "1464908007532228616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083590757253029912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fenerzaifei 让他务必打到我的卡上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2083467108198089176",
+        "created_at": "2026-08-01T17:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T18:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083599359485301219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1464908007532228616",
+              "start": 0,
+              "username": "fenerzaifei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083599359485301219",
+        "in_reply_to_user_id": "1464908007532228616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083590757253029912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fenerzaifei 让他务必打到我的卡上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464908007532228616",
+        "conversation_id": "2083467108198089176",
+        "created_at": "2026-08-01T16:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T17:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083590757253029912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083590757253029912",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083467108198089176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 见面分一半"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 12,
+          "like_count": 2059,
+          "listed_count": 0,
+          "media_count": 226,
+          "tweet_count": 6291
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-28T10:44:28.000Z",
+        "description": "不知道做什么。",
+        "id": "1464908007532228616",
+        "name": "风止意难平",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476587273332224003/mzxzqnkg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 383,
+          "like_count": 881,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 1389
+        },
+        "url": "",
+        "username": "fenerzaifei",
+        "verified": false
+      }
+    ]
+  }
+}

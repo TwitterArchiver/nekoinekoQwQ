@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2083080486080180671",
+    "created_at": "2026-07-31T07:30:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T08:30:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083092875349536990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2025288475206189056",
+          "start": 0,
+          "username": "mi0599458659662"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083092875349536990",
+    "in_reply_to_user_id": "2025288475206189056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083080486080180671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mi0599458659662 我有一个罐子里面装着全是¥0.1，全世界最富有之人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 970,
+        "media_key": "3_2083080476076695552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOiWqAcaYAAu5Nm.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2083080486080180671",
+        "created_at": "2026-07-31T07:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083092875349536990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2025288475206189056",
+              "start": 0,
+              "username": "mi0599458659662"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083092875349536990",
+        "in_reply_to_user_id": "2025288475206189056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083080486080180671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mi0599458659662 我有一个罐子里面装着全是¥0.1，全世界最富有之人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083080476076695552"
+          ]
+        },
+        "author_id": "2025288475206189056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083080486080180671",
+        "created_at": "2026-07-31T06:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T07:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083080486080180671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rrzumLM4ng",
+              "end": 30,
+              "expanded_url": "https://x.com/mi0599458659662/status/2083080486080180671/photo/1",
+              "media_key": "3_2083080476076695552",
+              "start": 7,
+              "url": "https://t.co/rrzumLM4ng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083080486080180671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1122,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这让我咋绷。 https://t.co/rrzumLM4ng"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 10,
+          "like_count": 2038,
+          "listed_count": 0,
+          "media_count": 222,
+          "tweet_count": 6165
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-21T19:16:29.000Z",
+        "description": "最爱变脸之人",
+        "id": "2025288475206189056",
+        "location": "14250km",
+        "name": "T . T",
+        "pinned_tweet_id": "2083068747921965276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082767484260659200/gTCWASzq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 4,
+          "like_count": 1787,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 949
+        },
+        "url": "",
+        "username": "mi0599458659662",
+        "verified": false
+      }
+    ]
+  }
+}

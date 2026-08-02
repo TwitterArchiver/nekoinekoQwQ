@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2082764448834764984",
+    "created_at": "2026-07-31T12:54:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T13:54:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083174451412410552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1717388840938135552",
+          "start": 0,
+          "username": "DingGongYinLin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083174451412410552",
+    "in_reply_to_user_id": "1717388840938135552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083101825956454624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DingGongYinLin 我的妈呀😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2082764448834764984",
+        "created_at": "2026-07-31T12:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083174451412410552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1717388840938135552",
+              "start": 0,
+              "username": "DingGongYinLin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083174451412410552",
+        "in_reply_to_user_id": "1717388840938135552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083101825956454624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DingGongYinLin 我的妈呀😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2082764448834764984",
+        "created_at": "2026-07-31T08:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083101825956454624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083101825956454624",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083099435232543010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 我之前高中有整个班都申请的荒唐事喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 10,
+          "like_count": 2040,
+          "listed_count": 0,
+          "media_count": 222,
+          "tweet_count": 6180
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 305,
+          "like_count": 11658,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 3111
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      }
+    ]
+  }
+}
