@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2086387000966582312",
+    "created_at": "2026-08-09T19:02:17.000Z",
+    "display_text_range": [
+      10,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T20:02:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086528509695168640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2061877401542606848",
+          "start": 0,
+          "username": "Kkkksbq7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086528509695168640",
+    "in_reply_to_user_id": "2061877401542606848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086495502569455722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kkkksbq7 雨声hua la l"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2086387000966582312",
+        "created_at": "2026-08-09T19:02:17.000Z",
+        "display_text_range": [
+          10,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T20:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086528509695168640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2061877401542606848",
+              "start": 0,
+              "username": "Kkkksbq7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086528509695168640",
+        "in_reply_to_user_id": "2061877401542606848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086495502569455722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kkkksbq7 雨声hua la l"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061877401542606848",
+        "conversation_id": "2086387000966582312",
+        "created_at": "2026-08-09T16:51:07.000Z",
+        "display_text_range": [
+          14,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T17:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086495502569455722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086495502569455722",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086387000966582312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 对呀对呀，马蹄螺，马蹄哒哒哒"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086528509695168640",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948326838125903872/1773754890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 12,
+          "like_count": 2086,
+          "listed_count": 0,
+          "media_count": 234,
+          "tweet_count": 6526
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-02T18:27:56.000Z",
+        "description": "",
+        "id": "2061877401542606848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086495502569455722",
+        "name": "奶龙大王",
+        "pinned_tweet_id": "2086449971600277546",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061877401542606848/1785154956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086445771084472320/cGXSVmBY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 67,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "Kkkksbq7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

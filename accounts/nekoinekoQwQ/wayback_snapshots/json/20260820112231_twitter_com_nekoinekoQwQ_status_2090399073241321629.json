@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2090344368582672875",
+    "created_at": "2026-08-20T11:22:31.000Z",
+    "display_text_range": [
+      10,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T12:22:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090399073241321629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1828460560545128448",
+          "start": 0,
+          "username": "Nat_3uk1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090399073241321629",
+    "in_reply_to_user_id": "1828460560545128448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090398055908479013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nat_3uk1 不要不要😭😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2090344368582672875",
+        "created_at": "2026-08-20T11:22:31.000Z",
+        "display_text_range": [
+          10,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T12:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090399073241321629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828460560545128448",
+              "start": 0,
+              "username": "Nat_3uk1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090399073241321629",
+        "in_reply_to_user_id": "1828460560545128448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090398055908479013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nat_3uk1 不要不要😭😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828460560545128448",
+        "conversation_id": "2090344368582672875",
+        "created_at": "2026-08-20T11:18:28.000Z",
+        "display_text_range": [
+          14,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T12:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090398055908479013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090398055908479013",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090344368582672875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 其实会聊一会就剩自己一个人单方面输出很久很久才发现对面不要自己了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090399073241321629",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948326838125903872/1773754890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 13,
+          "like_count": 2510,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 7216
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-27T15:52:37.000Z",
+        "description": "Howdy!!!\nDR/HC/RPG…？ETC\n不固定发疯的非健全b 偶尔发没人看的涩图罢了呃呃还有游戏之类的 混的有点杂\nPLAY WITH ME!!!\n以及压抑完了的人能不能给我打钱当是精神损失费。就当我收🚪了好吗好的v我388。正常交友可以的\n中文/En",
+        "id": "1828460560545128448",
+        "is_identity_verified": false,
+        "location": "距离 12.25km",
+        "most_recent_tweet_id": "2090398117455856044",
+        "name": "Natsuki",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1828460560545128448/1724871194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828461405236084736/UpNS5N_-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 60,
+          "like_count": 1210,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 398
+        },
+        "url": "",
+        "username": "Nat_3uk1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

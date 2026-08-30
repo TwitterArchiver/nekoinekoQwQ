@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2085267396374495535",
+    "created_at": "2026-08-06T20:08:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T21:08:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085457982448705901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1917734495786041344",
+          "start": 0,
+          "username": "chelsey24517"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085457982448705901",
+    "in_reply_to_user_id": "1917734495786041344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085267396374495535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chelsey24517 这是我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 792,
+        "media_key": "3_2085267387860099072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBbpBsboAAqgFX.jpg",
+        "width": 827
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2085267396374495535",
+        "created_at": "2026-08-06T20:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T21:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085457982448705901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1917734495786041344",
+              "start": 0,
+              "username": "chelsey24517"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085457982448705901",
+        "in_reply_to_user_id": "1917734495786041344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085267396374495535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chelsey24517 这是我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085267387860099072"
+          ]
+        },
+        "author_id": "1917734495786041344",
+        "conversation_id": "2085267396374495535",
+        "created_at": "2026-08-06T07:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T08:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085267396374495535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sKJWoH8PTg",
+              "end": 34,
+              "expanded_url": "https://x.com/chelsey24517/status/2085267396374495535/photo/1",
+              "media_key": "3_2085267387860099072",
+              "start": 11,
+              "url": "https://t.co/sKJWoH8PTg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085267396374495535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天天无精打采的真头疼 https://t.co/sKJWoH8PTg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 12,
+          "like_count": 2081,
+          "listed_count": 0,
+          "media_count": 233,
+          "tweet_count": 6442
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T00:15:17.000Z",
+        "description": "在推上很像是一场灵魂的碰撞呢｜碎碎念，\n很高兴大家来跟我聊天｜月丑 ｜最近刚入坑明日方舟，有趣的剧情可以来分享｜https://t.co/47ytjGff9h",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shenkl",
+                "end": 79,
+                "expanded_url": "https://ngl.link/shenkl",
+                "start": 56,
+                "url": "https://t.co/47ytjGff9h"
+              }
+            ]
+          }
+        },
+        "id": "1917734495786041344",
+        "location": "买蛋糕的路上",
+        "name": "不染",
+        "pinned_tweet_id": "2031701656807813338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085306515431497728/l_IzgOGf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 267,
+          "like_count": 9342,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 2067
+        },
+        "url": "",
+        "username": "chelsey24517",
+        "verified": false
+      }
+    ]
+  }
+}

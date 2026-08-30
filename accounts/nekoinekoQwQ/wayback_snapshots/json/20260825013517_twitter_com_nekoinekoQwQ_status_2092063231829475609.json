@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2092037347441549431",
+    "created_at": "2026-08-25T01:35:17.000Z",
+    "display_text_range": [
+      8,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T02:35:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092063231829475609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2084022693461114880",
+          "start": 0,
+          "username": "CVCbwb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092063231829475609",
+    "in_reply_to_user_id": "2084022693461114880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092062302350774508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CVCbwb 哎，这期真的刺痛我，你删了吧 TT（不过其实还是没有发现的，因为对方根本就不在意啊）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2092037347441549431",
+        "created_at": "2026-08-25T01:35:17.000Z",
+        "display_text_range": [
+          8,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T02:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092063231829475609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2084022693461114880",
+              "start": 0,
+              "username": "CVCbwb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092063231829475609",
+        "in_reply_to_user_id": "2084022693461114880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092062302350774508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CVCbwb 哎，这期真的刺痛我，你删了吧 TT（不过其实还是没有发现的，因为对方根本就不在意啊）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2084022693461114880",
+        "conversation_id": "2092037347441549431",
+        "created_at": "2026-08-25T01:31:36.000Z",
+        "display_text_range": [
+          14,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T02:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092062302350774508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092062302350774508",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092037347441549431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 懂的都懂都是假装不在意，实则心里已经着急的要死了，超觉不经意间的偷看，实则早就被人家发现了😂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092063231829475609",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948326838125903872/1773754890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 13,
+          "like_count": 2910,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 8057
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-02T21:08:14.000Z",
+        "description": "一个正在寻找人生意义的普通人",
+        "id": "2084022693461114880",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2092062917583937636",
+        "name": "zxz",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084022693461114880/1787524294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091654523211464705/xFf-8F1Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 41,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 91
+        },
+        "url": "",
+        "username": "CVCbwb",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

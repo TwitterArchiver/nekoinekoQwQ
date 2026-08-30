@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2089406404251754576",
+    "created_at": "2026-08-18T04:15:31.000Z",
+    "display_text_range": [
+      8,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T05:15:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089566841673044276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2080688645015842816",
+          "start": 0,
+          "username": "teaes9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089566841673044276",
+    "in_reply_to_user_id": "2080688645015842816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089566458624000251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@teaes9 哦哦。阿帕次阿帕次阿帕次阿帕次阿帕次阿帕次阿帕次阿帕次阿帕次阿帕次阿帕次阿帕次阿帕次阿帕次阿帕次阿帕次"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2089406404251754576",
+        "created_at": "2026-08-18T04:15:31.000Z",
+        "display_text_range": [
+          8,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T05:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089566841673044276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2080688645015842816",
+              "start": 0,
+              "username": "teaes9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089566841673044276",
+        "in_reply_to_user_id": "2080688645015842816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089566458624000251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teaes9 哦哦。阿帕次阿帕次阿帕次阿帕次阿帕次阿帕次阿帕次阿帕次阿帕次阿帕次阿帕次阿帕次阿帕次阿帕次阿帕次阿帕次"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2080688645015842816",
+        "conversation_id": "2089406404251754576",
+        "created_at": "2026-08-18T04:14:00.000Z",
+        "display_text_range": [
+          14,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T05:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089566458624000251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089566458624000251",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089565922193445138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 真的开始互相甩文案了吗？笑死我了。用什么擦拭我的眼泪，工业纸巾、莎士比亚诗集还是你同样湿润的眼睛"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089566841673044276",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948326838125903872/1773754890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 12,
+          "like_count": 2221,
+          "listed_count": 1,
+          "media_count": 241,
+          "tweet_count": 6846
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-24T16:17:58.000Z",
+        "description": "",
+        "id": "2080688645015842816",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089566458624000251",
+        "name": "tears",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080689217219514368/4Ek2_VL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 18,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "teaes9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

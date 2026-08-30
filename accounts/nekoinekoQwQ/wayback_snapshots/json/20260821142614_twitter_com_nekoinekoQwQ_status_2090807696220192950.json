@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2090802952168788298",
+    "created_at": "2026-08-21T14:26:14.000Z",
+    "display_text_range": [
+      15,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T15:26:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090807696220192950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1617919800663019520",
+          "start": 0,
+          "username": "tzibshhuinrn2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090807696220192950",
+    "in_reply_to_user_id": "1617919800663019520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090806927546876268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tzibshhuinrn2 我觉得自己挺懒的了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2090806919661490177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQJ0NxaEAEx92F.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2090802952168788298",
+        "created_at": "2026-08-21T14:26:14.000Z",
+        "display_text_range": [
+          15,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T15:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090807696220192950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1617919800663019520",
+              "start": 0,
+              "username": "tzibshhuinrn2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090807696220192950",
+        "in_reply_to_user_id": "1617919800663019520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090806927546876268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tzibshhuinrn2 我觉得自己挺懒的了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090806919661490177"
+          ]
+        },
+        "author_id": "1617919800663019520",
+        "conversation_id": "2090802952168788298",
+        "created_at": "2026-08-21T14:23:11.000Z",
+        "display_text_range": [
+          14,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T15:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090806927546876268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8ymvqT6O62",
+              "end": 47,
+              "expanded_url": "https://x.com/tzibshhuinrn2/status/2090806927546876268/photo/1",
+              "media_key": "3_2090806919661490177",
+              "start": 24,
+              "url": "https://t.co/8ymvqT6O62"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090806927546876268",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090806919661490177"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090802952168788298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 你还是不够懒哈哈哈 https://t.co/8ymvqT6O62"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090807696220192950",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948326838125903872/1773754890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 15,
+          "like_count": 2683,
+          "listed_count": 1,
+          "media_count": 252,
+          "tweet_count": 7451
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-24T16:18:46.000Z",
+        "description": "动漫爱好者    歌曲爱好者     \n\n理想形：小木曾雪菜",
+        "id": "1617919800663019520",
+        "is_identity_verified": false,
+        "location": "荷兰",
+        "most_recent_tweet_id": "2090807642222682337",
+        "name": "sakura",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1617919800663019520/1787136881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089731434068295680/5WNXeqkY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 31,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 347
+        },
+        "url": "",
+        "username": "tzibshhuinrn2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

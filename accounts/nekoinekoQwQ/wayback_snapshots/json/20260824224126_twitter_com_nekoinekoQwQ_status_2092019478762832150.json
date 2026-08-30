@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2091769366601941311",
+    "created_at": "2026-08-24T22:41:26.000Z",
+    "display_text_range": [
+      12,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T23:41:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092019478762832150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2090419130885447681",
+          "start": 0,
+          "username": "EllisHughy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092019478762832150",
+    "in_reply_to_user_id": "2090419130885447681",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091769366601941311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EllisHughy 唱歌🎤(＾ω＾)ノ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2091769366601941311",
+        "created_at": "2026-08-24T22:41:26.000Z",
+        "display_text_range": [
+          12,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T23:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092019478762832150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2090419130885447681",
+              "start": 0,
+              "username": "EllisHughy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092019478762832150",
+        "in_reply_to_user_id": "2090419130885447681",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091769366601941311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EllisHughy 唱歌🎤(＾ω＾)ノ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090419130885447681",
+        "conversation_id": "2091769366601941311",
+        "created_at": "2026-08-24T06:07:34.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T07:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091769366601941311"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091769366601941311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7262,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 62,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不抽烟不喝酒不运动还有什么办法缓解压力"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092019478762832150",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948326838125903872/1773754890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 13,
+          "like_count": 2893,
+          "listed_count": 1,
+          "media_count": 261,
+          "tweet_count": 7999
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T12:43:59.000Z",
+        "description": "你发现了全人类最牛的账号",
+        "id": "2090419130885447681",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091918287538180562",
+        "name": "祇",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090419130885447681/1787230632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090428217752793089/pR1KF1zf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 4,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 139
+        },
+        "url": "",
+        "username": "EllisHughy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

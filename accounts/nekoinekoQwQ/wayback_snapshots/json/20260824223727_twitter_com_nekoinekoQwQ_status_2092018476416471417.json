@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2091944973038166203",
+    "created_at": "2026-08-24T22:37:27.000Z",
+    "display_text_range": [
+      8,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T23:37:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092018476416471417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2082558183009345536",
+          "start": 0,
+          "username": "5q2bng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092018476416471417",
+    "in_reply_to_user_id": "2082558183009345536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091962669733654969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5q2bng 发出去应该可以领毕业证了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2091944973038166203",
+        "created_at": "2026-08-24T22:37:27.000Z",
+        "display_text_range": [
+          8,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T23:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092018476416471417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2082558183009345536",
+              "start": 0,
+              "username": "5q2bng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092018476416471417",
+        "in_reply_to_user_id": "2082558183009345536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091962669733654969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5q2bng 发出去应该可以领毕业证了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082558183009345536",
+        "conversation_id": "2091944973038166203",
+        "created_at": "2026-08-24T18:55:41.000Z",
+        "display_text_range": [
+          14,
+          152
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T19:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091962669733654969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091962669733654969",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091944973038166203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 破案了，非常典。愧疚式控制，以退为进、有礼让三分、孔融让梨、含沙射影、道德绑架、欲擒故纵、反客为主、以小博大、欲扬先抑。本质上就是再利用你对他的在乎满足他内心病态的价值感以及矛盾性，即渴望对方理解，又狠狠踹死对方。这种不用和他讲逻辑，直接一句：要不我给你当狗吧，总是你当太累了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092018476416471417",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948326838125903872/1773754890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 13,
+          "like_count": 2893,
+          "listed_count": 1,
+          "media_count": 261,
+          "tweet_count": 7995
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T20:07:25.000Z",
+        "description": "",
+        "id": "2082558183009345536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091973373618479273",
+        "name": "Jax",
+        "pinned_tweet_id": "2083169633230799211",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082558183009345536/1786049392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084780185610539008/ClVajWFp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 15,
+          "like_count": 319,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 365
+        },
+        "url": "",
+        "username": "5q2bng",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

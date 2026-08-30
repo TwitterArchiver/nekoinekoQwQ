@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2090312069048664190",
+    "created_at": "2026-08-20T16:56:35.000Z",
+    "display_text_range": [
+      13,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T17:56:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090483145145712802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1866114456411099137",
+          "start": 0,
+          "username": "rinko910409"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090483145145712802",
+    "in_reply_to_user_id": "1866114456411099137",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090435318503879019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rinko910409 坏蛋地板‹(⁼̴̀д⁼̴́)›"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2090312069048664190",
+        "created_at": "2026-08-20T16:56:35.000Z",
+        "display_text_range": [
+          13,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T17:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090483145145712802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1866114456411099137",
+              "start": 0,
+              "username": "rinko910409"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090483145145712802",
+        "in_reply_to_user_id": "1866114456411099137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090435318503879019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rinko910409 坏蛋地板‹(⁼̴̀д⁼̴́)›"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866114456411099137",
+        "conversation_id": "2090312069048664190",
+        "created_at": "2026-08-20T13:46:32.000Z",
+        "display_text_range": [
+          14,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T14:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090435318503879019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090435318503879019",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090312069048664190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 666这个地板是家暴男🥵😡"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090483145145712802",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948326838125903872/1773754890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 13,
+          "like_count": 2518,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 7243
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-09T13:35:42.000Z",
+        "description": "日本語勉強中\n趣味はバンドリ／声優\r/航空/鉄道/ミリーコス\n邦批/女声优痴/航空/轨道交通 以及尼龙\n男 各种精神病但是不割不o\nお推しは白金燐子、中島由貴\n\n声明声明我不是弱智低龄火车迷和飞友🤮，我只是喜欢轨交和航空",
+        "id": "1866114456411099137",
+        "is_identity_verified": false,
+        "location": "タルコフ市/塔科夫市",
+        "most_recent_tweet_id": "2090480517271748765",
+        "name": "りんこShirokane",
+        "pinned_tweet_id": "2090104058900295930",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1866114456411099137/1786743076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866337684836564992/RRKoiS-5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 582,
+          "like_count": 5570,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1698
+        },
+        "url": "",
+        "username": "rinko910409",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

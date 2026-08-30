@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10045021721",
+          "name": "一人之下 the outcast"
+        }
+      }
+    ],
+    "conversation_id": "2083930306768462046",
+    "created_at": "2026-08-02T15:06:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T16:06:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083932547697017162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1917734495786041344",
+          "start": 0,
+          "username": "chelsey24517"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083932547697017162",
+    "in_reply_to_user_id": "1917734495786041344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083930306768462046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chelsey24517 一人之下是真的好看，咪咪眼最棒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2083930293241782272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOubj4FaIAAOm4R.jpg",
+        "width": 1919
+      },
+      {
+        "height": 1707,
+        "media_key": "3_2083930293057314816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOubj3ZbYAA8kl0.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2083930293132836864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOubj3rbwAAgB9R.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2083930293095071744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOubj3ibgAA2rAh.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10045021721",
+              "name": "一人之下 the outcast"
+            }
+          }
+        ],
+        "conversation_id": "2083930306768462046",
+        "created_at": "2026-08-02T15:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083932547697017162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1917734495786041344",
+              "start": 0,
+              "username": "chelsey24517"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083932547697017162",
+        "in_reply_to_user_id": "1917734495786041344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083930306768462046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chelsey24517 一人之下是真的好看，咪咪眼最棒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083930293241782272",
+            "3_2083930293057314816",
+            "3_2083930293132836864",
+            "3_2083930293095071744"
+          ]
+        },
+        "author_id": "1917734495786041344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083930306768462046",
+        "created_at": "2026-08-02T14:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083930306768462046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zwBaUfd035",
+              "end": 132,
+              "expanded_url": "https://x.com/chelsey24517/status/2083930306768462046/photo/1",
+              "media_key": "3_2083930293241782272",
+              "start": 109,
+              "url": "https://t.co/zwBaUfd035"
+            },
+            {
+              "display_url": "pic.x.com/zwBaUfd035",
+              "end": 132,
+              "expanded_url": "https://x.com/chelsey24517/status/2083930306768462046/photo/1",
+              "media_key": "3_2083930293057314816",
+              "start": 109,
+              "url": "https://t.co/zwBaUfd035"
+            },
+            {
+              "display_url": "pic.x.com/zwBaUfd035",
+              "end": 132,
+              "expanded_url": "https://x.com/chelsey24517/status/2083930306768462046/photo/1",
+              "media_key": "3_2083930293132836864",
+              "start": 109,
+              "url": "https://t.co/zwBaUfd035"
+            },
+            {
+              "display_url": "pic.x.com/zwBaUfd035",
+              "end": 132,
+              "expanded_url": "https://x.com/chelsey24517/status/2083930306768462046/photo/1",
+              "media_key": "3_2083930293095071744",
+              "start": 109,
+              "url": "https://t.co/zwBaUfd035"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083930306768462046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨事重提，感觉快把自己吃成良子了。疯狂地进食，朋友还说我是不是胃量比以前大了。其实并非，我感觉高兴的时候才会吃多些吧。\n而且每次出去逛不是搞杯喝的就是像饿死鬼。然后随机盲抽让自己后悔一下\n然后开始一些不着边际地大幻想 https://t.co/zwBaUfd035"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 12,
+          "like_count": 2069,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 6352
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T00:15:17.000Z",
+        "description": "在推上很像是一场灵魂的碰撞呢｜碎碎念，\n很高兴大家来跟我聊天｜月丑 ｜最近刚入坑明日方舟，有趣的剧情可以来分享｜https://t.co/47ytjGff9h",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shenkl",
+                "end": 79,
+                "expanded_url": "https://ngl.link/shenkl",
+                "start": 56,
+                "url": "https://t.co/47ytjGff9h"
+              }
+            ]
+          }
+        },
+        "id": "1917734495786041344",
+        "name": "不染",
+        "pinned_tweet_id": "2031701656807813338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083548220127686656/HT9xdgHM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 270,
+          "like_count": 8726,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 1983
+        },
+        "url": "",
+        "username": "chelsey24517",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2088929470120186090",
+    "created_at": "2026-08-16T15:44:43.000Z",
+    "display_text_range": [
+      8,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T16:44:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089015505340547369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2088255377637101568",
+          "start": 0,
+          "username": "ztnbya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089015505340547369",
+    "in_reply_to_user_id": "2088255377637101568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088944131464941943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ztnbya 我没绷住，撞到头了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1244,
+        "media_key": "3_2088944116847775744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1rm0hakAAcVkP.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2088929470120186090",
+        "created_at": "2026-08-16T15:44:43.000Z",
+        "display_text_range": [
+          8,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T16:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089015505340547369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2088255377637101568",
+              "start": 0,
+              "username": "ztnbya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089015505340547369",
+        "in_reply_to_user_id": "2088255377637101568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088944131464941943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ztnbya 我没绷住，撞到头了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088944116847775744"
+          ]
+        },
+        "author_id": "2088255377637101568",
+        "conversation_id": "2088929470120186090",
+        "created_at": "2026-08-16T11:01:06.000Z",
+        "display_text_range": [
+          14,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T12:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088944131464941943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aBxqs2B3Ob",
+              "end": 54,
+              "expanded_url": "https://x.com/ztnbya/status/2088944131464941943/photo/1",
+              "media_key": "3_2088944116847775744",
+              "start": 31,
+              "url": "https://t.co/aBxqs2B3Ob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088944131464941943",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088944116847775744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088929470120186090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 你不会再无聊了 因为我出现了。， https://t.co/aBxqs2B3Ob"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089015505340547369",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948326838125903872/1773754890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 12,
+          "like_count": 2093,
+          "listed_count": 0,
+          "media_count": 238,
+          "tweet_count": 6713
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-14T13:25:30.000Z",
+        "description": "这个人很酷，什么都没留下~\n当朋友圈发。",
+        "id": "2088255377637101568",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089000625191403876",
+        "name": "宇宙浩瀚无垠也不抵你一人",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088255377637101568/1786720880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088255802201329665/UwR_GiHP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 21,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 53
+        },
+        "url": "",
+        "username": "ztnbya",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

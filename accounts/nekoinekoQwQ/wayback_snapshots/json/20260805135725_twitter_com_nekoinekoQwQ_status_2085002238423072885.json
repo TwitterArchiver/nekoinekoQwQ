@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2084962326789410984",
+    "created_at": "2026-08-05T13:57:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T14:57:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085002238423072885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1687882821673811968",
+          "start": 0,
+          "username": "Jack1143395"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085002238423072885",
+    "in_reply_to_user_id": "1687882821673811968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084997804838269193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jack1143395 炒饭就是要炒饭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2084962326789410984",
+        "created_at": "2026-08-05T13:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T14:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085002238423072885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1687882821673811968",
+              "start": 0,
+              "username": "Jack1143395"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085002238423072885",
+        "in_reply_to_user_id": "1687882821673811968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084997804838269193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jack1143395 炒饭就是要炒饭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687882821673811968",
+        "conversation_id": "2084962326789410984",
+        "created_at": "2026-08-05T13:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T14:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084997804838269193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084997804838269193",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084962326789410984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ “炒饭必须用战损版的，锅气更足”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 12,
+          "like_count": 2080,
+          "listed_count": 0,
+          "media_count": 232,
+          "tweet_count": 6417
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-05T17:46:56.000Z",
+        "description": "上x，就是聊x才对～",
+        "id": "1687882821673811968",
+        "location": "重庆",
+        "name": "Jack",
+        "pinned_tweet_id": "2081273760473120869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687883935815266304/shSgNh0v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 176,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 95
+        },
+        "url": "",
+        "username": "Jack1143395",
+        "verified": false
+      }
+    ]
+  }
+}

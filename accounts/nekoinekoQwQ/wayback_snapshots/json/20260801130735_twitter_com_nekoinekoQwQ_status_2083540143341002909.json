@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083540129650823168",
+        "3_2083540129482948608",
+        "3_2083540129420095488"
+      ]
+    },
+    "author_id": "1948326838125903872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2083540143341002909",
+    "created_at": "2026-08-01T13:07:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T14:07:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083540143341002909"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fsX9bYTlfq",
+          "end": 168,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2083540143341002909/photo/1",
+          "media_key": "3_2083540129650823168",
+          "start": 145,
+          "url": "https://t.co/fsX9bYTlfq"
+        },
+        {
+          "display_url": "pic.x.com/fsX9bYTlfq",
+          "end": 168,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2083540143341002909/photo/1",
+          "media_key": "3_2083540129482948608",
+          "start": 145,
+          "url": "https://t.co/fsX9bYTlfq"
+        },
+        {
+          "display_url": "pic.x.com/fsX9bYTlfq",
+          "end": 168,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2083540143341002909/photo/1",
+          "media_key": "3_2083540129420095488",
+          "start": 145,
+          "url": "https://t.co/fsX9bYTlfq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083540143341002909",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1 八月跟红果果在一起🥺\n2 拉拉拉拉拉好想玩原神\n 3 最近没有在看番，之前在看伪恋捏\n 4 我没怎么关注最近的新番，本人是充了大会员却不用之人，过段时间应该会开始看，到时候肯定会一直发推特\n 5 推荐歌的话，我要翻一下我的网易云、附下图，歌手我喜欢陈绮贞和贝岛直子\n6 喵喵喵🫳🏻🫳🏻 https://t.co/fsX9bYTlfq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083540129650823168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOo4tXcb0AA0mve.jpg",
+        "width": 1536
+      },
+      {
+        "height": 180,
+        "media_key": "3_2083540129482948608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOo4tW0aQAAgcZ0.jpg",
+        "width": 1178
+      },
+      {
+        "height": 194,
+        "media_key": "3_2083540129420095488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOo4tWlbMAAk7lm.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083540129650823168",
+            "3_2083540129482948608",
+            "3_2083540129420095488"
+          ]
+        },
+        "author_id": "1948326838125903872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2083540143341002909",
+        "created_at": "2026-08-01T13:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083540143341002909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fsX9bYTlfq",
+              "end": 168,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2083540143341002909/photo/1",
+              "media_key": "3_2083540129650823168",
+              "start": 145,
+              "url": "https://t.co/fsX9bYTlfq"
+            },
+            {
+              "display_url": "pic.x.com/fsX9bYTlfq",
+              "end": 168,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2083540143341002909/photo/1",
+              "media_key": "3_2083540129482948608",
+              "start": 145,
+              "url": "https://t.co/fsX9bYTlfq"
+            },
+            {
+              "display_url": "pic.x.com/fsX9bYTlfq",
+              "end": 168,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2083540143341002909/photo/1",
+              "media_key": "3_2083540129420095488",
+              "start": 145,
+              "url": "https://t.co/fsX9bYTlfq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083540143341002909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1 八月跟红果果在一起🥺\n2 拉拉拉拉拉好想玩原神\n 3 最近没有在看番，之前在看伪恋捏\n 4 我没怎么关注最近的新番，本人是充了大会员却不用之人，过段时间应该会开始看，到时候肯定会一直发推特\n 5 推荐歌的话，我要翻一下我的网易云、附下图，歌手我喜欢陈绮贞和贝岛直子\n6 喵喵喵🫳🏻🫳🏻 https://t.co/fsX9bYTlfq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 12,
+          "like_count": 2060,
+          "listed_count": 0,
+          "media_count": 225,
+          "tweet_count": 6266
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

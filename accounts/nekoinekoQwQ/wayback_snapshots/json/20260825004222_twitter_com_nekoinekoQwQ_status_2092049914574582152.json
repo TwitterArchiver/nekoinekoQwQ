@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2092043533113004302",
+    "created_at": "2026-08-25T00:42:22.000Z",
+    "display_text_range": [
+      13,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T01:42:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092049914574582152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1446011235045019655",
+          "start": 0,
+          "username": "ksul_jerjss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092049914574582152",
+    "in_reply_to_user_id": "1446011235045019655",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092049025516417448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ksul_jerjss 没错，这就是我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 312,
+        "media_key": "3_2092049018423848960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQhzf4PbsAAyiTy.jpg",
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2092043533113004302",
+        "created_at": "2026-08-25T00:42:22.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T01:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092049914574582152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1446011235045019655",
+              "start": 0,
+              "username": "ksul_jerjss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092049914574582152",
+        "in_reply_to_user_id": "1446011235045019655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092049025516417448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ksul_jerjss 没错，这就是我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092049018423848960"
+          ]
+        },
+        "author_id": "1446011235045019655",
+        "conversation_id": "2092043533113004302",
+        "created_at": "2026-08-25T00:38:50.000Z",
+        "display_text_range": [
+          13,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T01:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092049025516417448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UpNuxywuZK",
+              "end": 37,
+              "expanded_url": "https://x.com/ksul_jerjss/status/2092049025516417448/photo/1",
+              "media_key": "3_2092049018423848960",
+              "start": 14,
+              "url": "https://t.co/UpNuxywuZK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092049025516417448",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2092049018423848960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092043533113004302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ https://t.co/UpNuxywuZK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092049914574582152",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948326838125903872/1773754890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 13,
+          "like_count": 2904,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 8042
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-07T07:15:47.000Z",
+        "description": "史上最区之人\n支持闲聊吹牛",
+        "id": "1446011235045019655",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092049025516417448",
+        "name": "jerjss",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1446011235045019655/1664819373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1576992853057712128/YbRFP2II_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 956,
+          "like_count": 14169,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 216
+        },
+        "url": "",
+        "username": "ksul_jerjss",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

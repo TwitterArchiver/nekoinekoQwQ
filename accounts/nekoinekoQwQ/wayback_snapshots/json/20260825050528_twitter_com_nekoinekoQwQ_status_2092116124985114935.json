@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2092010809186775041",
+    "created_at": "2026-08-25T05:05:28.000Z",
+    "display_text_range": [
+      13,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T06:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092116124985114935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1731664963276832768",
+          "start": 0,
+          "username": "needy4love0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092116124985114935",
+    "in_reply_to_user_id": "1731664963276832768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092061936104157614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@needy4love0 每天都拿3.00多分"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2092010809186775041",
+        "created_at": "2026-08-25T05:05:28.000Z",
+        "display_text_range": [
+          13,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T06:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092116124985114935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1731664963276832768",
+              "start": 0,
+              "username": "needy4love0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092116124985114935",
+        "in_reply_to_user_id": "1731664963276832768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092061936104157614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@needy4love0 每天都拿3.00多分"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731664963276832768",
+        "conversation_id": "2092010809186775041",
+        "created_at": "2026-08-25T01:30:08.000Z",
+        "display_text_range": [
+          14,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T02:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092061936104157614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092061936104157614",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092010809186775041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 同问"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092116124985114935",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948326838125903872/1773754890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 13,
+          "like_count": 2916,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 8081
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-04T13:21:34.000Z",
+        "description": "二旬老人| ISTP |散利痛梦女 \n废物/败类/无素质者/厌人症间歇性复发患者/无操作无意识无手法农玩家/软辅玩家/爱我请给我打钱/求地球ol无痛退游教程/求无痛摆脱哥布林建模教程/求无痛财富自由教程\n 0.0 这里什么都没有。不用进来。",
+        "id": "1731664963276832768",
+        "is_identity_verified": false,
+        "location": "🚪9999999999比特币 纯绿",
+        "most_recent_tweet_id": "2092071418712543335",
+        "name": "对乙酰氨基酚",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1731664963276832768/1781629698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066930767603855360/xxK1LNP0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 36,
+          "like_count": 7726,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1622
+        },
+        "url": "",
+        "username": "needy4love0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

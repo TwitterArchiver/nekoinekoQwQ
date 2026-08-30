@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2091472658957472017",
+    "created_at": "2026-08-23T11:52:18.000Z",
+    "display_text_range": [
+      12,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T12:52:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091493731400892707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2081556791746588672",
+          "start": 0,
+          "username": "rockmanfly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091493731400892707",
+    "in_reply_to_user_id": "2081556791746588672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091492008410132828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rockmanfly 好哦(｀･ω･´)ゞ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2091472658957472017",
+        "created_at": "2026-08-23T11:52:18.000Z",
+        "display_text_range": [
+          12,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T12:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091493731400892707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2081556791746588672",
+              "start": 0,
+              "username": "rockmanfly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091493731400892707",
+        "in_reply_to_user_id": "2081556791746588672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091492008410132828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rockmanfly 好哦(｀･ω･´)ゞ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2081556791746588672",
+        "conversation_id": "2091472658957472017",
+        "created_at": "2026-08-23T11:45:27.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T12:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091492008410132828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091492008410132828",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091472658957472017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 注意别感冒"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091493731400892707",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948326838125903872/1773754890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 14,
+          "like_count": 2822,
+          "listed_count": 1,
+          "media_count": 260,
+          "tweet_count": 7785
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-27T01:48:36.000Z",
+        "description": "时长在内地，偶尔在大阪和清迈，Currently in Chiang Mai, Thailand, occasionally in Osaka.\nLooking for a companion\n現在はタイのチェンマイにいて、ときどき大阪にもいます\n仲間を探す",
+        "id": "2081556791746588672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091493696554619311",
+        "name": "Yi Huang",
+        "pinned_tweet_id": "2087110402589032682",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081556791746588672/1785729423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081557941237456896/2hRylfzo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 132,
+          "like_count": 730,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 654
+        },
+        "url": "",
+        "username": "rockmanfly",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

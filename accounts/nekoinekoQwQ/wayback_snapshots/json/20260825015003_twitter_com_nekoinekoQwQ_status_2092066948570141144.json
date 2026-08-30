@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2091117119354323154",
+    "created_at": "2026-08-25T01:50:03.000Z",
+    "display_text_range": [
+      27,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T02:50:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092066948570141144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1945887148302852096",
+          "start": 0,
+          "username": "Usotsuki0414"
+        },
+        {
+          "end": 26,
+          "id": "2027535879682854912",
+          "start": 14,
+          "username": "life1564847"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092066948570141144",
+    "in_reply_to_user_id": "1945887148302852096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092066421752959059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Usotsuki0414 @life1564847 不要呀，不要。。o(&gt;﹏&lt;)o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2091117119354323154",
+        "created_at": "2026-08-25T01:50:03.000Z",
+        "display_text_range": [
+          27,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T02:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092066948570141144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1945887148302852096",
+              "start": 0,
+              "username": "Usotsuki0414"
+            },
+            {
+              "end": 26,
+              "id": "2027535879682854912",
+              "start": 14,
+              "username": "life1564847"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092066948570141144",
+        "in_reply_to_user_id": "1945887148302852096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092066421752959059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usotsuki0414 @life1564847 不要呀，不要。。o(&gt;﹏&lt;)o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945887148302852096",
+        "conversation_id": "2091117119354323154",
+        "created_at": "2026-08-25T01:47:58.000Z",
+        "display_text_range": [
+          27,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T02:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092066421752959059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            },
+            {
+              "end": 26,
+              "id": "2027535879682854912",
+              "start": 14,
+              "username": "life1564847"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092066421752959059",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091211759881453876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ @life1564847 刷会叉，又被暴击😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092066948570141144",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948326838125903872/1773754890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 13,
+          "like_count": 2910,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 8061
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-17T16:43:53.000Z",
+        "description": "",
+        "id": "1945887148302852096",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092066421752959059",
+        "name": "Usotsuki_嘘月",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945887340129357825/CJ5qKu3f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 53,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 32
+        },
+        "url": "",
+        "username": "Usotsuki0414",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-28T00:06:52.000Z",
+        "description": "神秘人。不约不谈不聊。敢给我发🐦的我把你🐦剁了。\n这个是匿名提问https://t.co/hozAZCEENM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/life36465",
+                "end": 55,
+                "expanded_url": "https://ngl.link/life36465",
+                "start": 32,
+                "url": "https://t.co/hozAZCEENM"
+              }
+            ]
+          }
+        },
+        "id": "2027535879682854912",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2091965390700368374",
+        "name": "life",
+        "pinned_tweet_id": "2091531174963188097",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 90,
+          "like_count": 6331,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 732
+        },
+        "url": "",
+        "username": "life1564847",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2091042155838292431",
+    "created_at": "2026-08-22T06:23:01.000Z",
+    "display_text_range": [
+      10,
+      166
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T07:23:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091048475844878407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2084940301177929728",
+          "start": 0,
+          "username": "hihilylv"
+        },
+        {
+          "end": 24,
+          "id": "2084940301177929728",
+          "start": 15,
+          "username": "hihilylv"
+        },
+        {
+          "end": 39,
+          "id": "1948326838125903872",
+          "start": 26,
+          "username": "nekoinekoQwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091048475844878407",
+    "in_reply_to_user_id": "2084940301177929728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091047627123310632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hihilylv 这条帖文是@hihilylv 对@nekoinekoQwQ起床气吐槽的回复，原帖称“愤怒能单挑一只猪”，回复则用“他妈的，你挺狂啊，还愤怒”进行调侃，回复语气带有戏谑和吐槽性质，突出原帖夸张表达的幽默点，属于X平台常见的日常互动。帖文发布时间为2026年8月22日早晨，作者粉丝较少，反映了小范围用户间的轻松聊天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2091042155838292431",
+        "created_at": "2026-08-22T06:23:01.000Z",
+        "display_text_range": [
+          10,
+          166
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T07:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091048475844878407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2084940301177929728",
+              "start": 0,
+              "username": "hihilylv"
+            },
+            {
+              "end": 24,
+              "id": "2084940301177929728",
+              "start": 15,
+              "username": "hihilylv"
+            },
+            {
+              "end": 39,
+              "id": "1948326838125903872",
+              "start": 26,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091048475844878407",
+        "in_reply_to_user_id": "2084940301177929728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091047627123310632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hihilylv 这条帖文是@hihilylv 对@nekoinekoQwQ起床气吐槽的回复，原帖称“愤怒能单挑一只猪”，回复则用“他妈的，你挺狂啊，还愤怒”进行调侃，回复语气带有戏谑和吐槽性质，突出原帖夸张表达的幽默点，属于X平台常见的日常互动。帖文发布时间为2026年8月22日早晨，作者粉丝较少，反映了小范围用户间的轻松聊天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2084940301177929728",
+        "conversation_id": "2091042155838292431",
+        "created_at": "2026-08-22T06:19:38.000Z",
+        "display_text_range": [
+          14,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T07:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091047627123310632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091047627123310632",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091042155838292431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 他妈的，你挺狂啊，还愤怒"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091048475844878407",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948326838125903872/1773754890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 15,
+          "like_count": 2711,
+          "listed_count": 1,
+          "media_count": 254,
+          "tweet_count": 7529
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T09:52:06.000Z",
+        "description": "",
+        "id": "2084940301177929728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091047951456157813",
+        "name": "hihi",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084940610306461696/JhfzgNEj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 16,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "hihilylv",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

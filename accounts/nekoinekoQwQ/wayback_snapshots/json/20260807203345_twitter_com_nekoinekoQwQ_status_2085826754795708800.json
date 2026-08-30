@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2085750827013361916",
+    "created_at": "2026-08-07T20:33:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T21:33:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085826754795708800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1917734495786041344",
+          "start": 0,
+          "username": "chelsey24517"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085826754795708800",
+    "in_reply_to_user_id": "1917734495786041344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085781893581353008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chelsey24517 我哭了呀，所有人打死我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2085750827013361916",
+        "created_at": "2026-08-07T20:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T21:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085826754795708800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1917734495786041344",
+              "start": 0,
+              "username": "chelsey24517"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085826754795708800",
+        "in_reply_to_user_id": "1917734495786041344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085781893581353008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chelsey24517 我哭了呀，所有人打死我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917734495786041344",
+        "conversation_id": "2085750827013361916",
+        "created_at": "2026-08-07T17:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T18:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085781893581353008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085781893581353008",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085750827013361916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 忘了当初为什么上推了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 12,
+          "like_count": 2083,
+          "listed_count": 0,
+          "media_count": 233,
+          "tweet_count": 6480
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T00:15:17.000Z",
+        "description": "在推上很像是一场灵魂的碰撞呢｜碎碎念，\n很高兴大家来跟我聊天｜月丑 ｜最近刚入坑明日方舟，有趣的剧情可以来分享｜https://t.co/47ytjGff9h",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shenkl",
+                "end": 79,
+                "expanded_url": "https://ngl.link/shenkl",
+                "start": 56,
+                "url": "https://t.co/47ytjGff9h"
+              }
+            ]
+          }
+        },
+        "id": "1917734495786041344",
+        "location": "买蛋糕的路上",
+        "name": "不染",
+        "pinned_tweet_id": "2031701656807813338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085306515431497728/l_IzgOGf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 266,
+          "like_count": 9499,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 2101
+        },
+        "url": "",
+        "username": "chelsey24517",
+        "verified": false
+      }
+    ]
+  }
+}

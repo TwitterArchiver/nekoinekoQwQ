@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2091508842467299714",
+    "created_at": "2026-08-23T16:28:22.000Z",
+    "display_text_range": [
+      13,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T17:28:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091563207693660406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2083206517650857984",
+          "start": 0,
+          "username": "Seraskia111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091563207693660406",
+    "in_reply_to_user_id": "2083206517650857984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091562042574708885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Seraskia111 好像能理解一点了，但是怀念过去这种事情，我还是很少做的吧，毕竟过去的好事也没多少"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2091508842467299714",
+        "created_at": "2026-08-23T16:28:22.000Z",
+        "display_text_range": [
+          13,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T17:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091563207693660406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2083206517650857984",
+              "start": 0,
+              "username": "Seraskia111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091563207693660406",
+        "in_reply_to_user_id": "2083206517650857984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091562042574708885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seraskia111 好像能理解一点了，但是怀念过去这种事情，我还是很少做的吧，毕竟过去的好事也没多少"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083206517650857984",
+        "conversation_id": "2091508842467299714",
+        "created_at": "2026-08-23T16:23:44.000Z",
+        "display_text_range": [
+          14,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T17:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091562042574708885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091562042574708885",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091559887327404069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 你懂我意思吗？今天感到无聊甚至痛苦，因此期盼明天。但明天真正来了的时候，你又会怀念已经过去的昨天，那个昨天就是你曾经厌弃和没有珍惜的“今天”。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091563207693660406",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948326838125903872/1773754890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 14,
+          "like_count": 2832,
+          "listed_count": 1,
+          "media_count": 260,
+          "tweet_count": 7833
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-31T15:03:20.000Z",
+        "description": "",
+        "id": "2083206517650857984",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091563091372949790",
+        "name": "Seraskia",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083206517650857984/1787235540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090443490580996096/UaeEzQxe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 89,
+          "like_count": 641,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 225
+        },
+        "url": "",
+        "username": "Seraskia111",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

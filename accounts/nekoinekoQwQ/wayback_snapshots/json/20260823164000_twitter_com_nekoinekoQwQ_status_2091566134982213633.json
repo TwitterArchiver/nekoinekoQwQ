@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2091557780046098660",
+    "created_at": "2026-08-23T16:40:00.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T17:40:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091566134982213633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2008390583698812929",
+          "start": 0,
+          "username": "Niniouo__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091566134982213633",
+    "in_reply_to_user_id": "2008390583698812929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091557780046098660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Niniouo__ 我老公呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2091557780046098660",
+        "created_at": "2026-08-23T16:40:00.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T17:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091566134982213633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2008390583698812929",
+              "start": 0,
+              "username": "Niniouo__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091566134982213633",
+        "in_reply_to_user_id": "2008390583698812929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091557780046098660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Niniouo__ 我老公呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008390583698812929",
+        "conversation_id": "2091557780046098660",
+        "created_at": "2026-08-23T16:06:48.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T17:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091557780046098660"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091557780046098660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 421,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天发这些像死了老公的文案 我老公呢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091566134982213633",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948326838125903872/1773754890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 14,
+          "like_count": 2832,
+          "listed_count": 1,
+          "media_count": 260,
+          "tweet_count": 7842
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-06T04:10:14.000Z",
+        "description": "这个人很懒，什么也没留下- ⩊ - I ♥︎ .....",
+        "id": "2008390583698812929",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091565593145278727",
+        "name": "oooo",
+        "pinned_tweet_id": "2078666790411149352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008390583698812929/1783575562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090311429199130624/vh9u8dcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 38,
+          "like_count": 929,
+          "listed_count": 2,
+          "media_count": 143,
+          "tweet_count": 794
+        },
+        "url": "",
+        "username": "Niniouo__",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2091369482279366668",
+    "created_at": "2026-08-23T11:51:38.000Z",
+    "display_text_range": [
+      11,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T12:51:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091493566568919342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2076877806123065345",
+          "start": 0,
+          "username": "madaoOzzZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091493566568919342",
+    "in_reply_to_user_id": "2076877806123065345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091492749703004636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@madaoOzzZ 薯条的确不好吃，但是我没有线下去吃过，我只喜欢吃那个汉堡(🍔^ω^)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2091369482279366668",
+        "created_at": "2026-08-23T11:51:38.000Z",
+        "display_text_range": [
+          11,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T12:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091493566568919342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2076877806123065345",
+              "start": 0,
+              "username": "madaoOzzZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091493566568919342",
+        "in_reply_to_user_id": "2076877806123065345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091492749703004636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@madaoOzzZ 薯条的确不好吃，但是我没有线下去吃过，我只喜欢吃那个汉堡(🍔^ω^)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076877806123065345",
+        "conversation_id": "2091369482279366668",
+        "created_at": "2026-08-23T11:48:24.000Z",
+        "display_text_range": [
+          14,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T12:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091492749703004636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091492749703004636",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091490067915382926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 我买到的两次都不好吃🥹而且那个薯条都是蔫的 一次店里吃的一次点外卖"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091493566568919342",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948326838125903872/1773754890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 14,
+          "like_count": 2821,
+          "listed_count": 1,
+          "media_count": 260,
+          "tweet_count": 7783
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T03:54:51.000Z",
+        "description": "whatever",
+        "id": "2076877806123065345",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091492749703004636",
+        "name": "madao",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076877806123065345/1787030657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090015973353148416/AUavaOJ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 0,
+          "like_count": 258,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 119
+        },
+        "url": "",
+        "username": "madaoOzzZ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

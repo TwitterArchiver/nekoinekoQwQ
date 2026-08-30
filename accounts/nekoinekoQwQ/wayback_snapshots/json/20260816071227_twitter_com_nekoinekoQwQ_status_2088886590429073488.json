@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2088886590429073488",
+    "created_at": "2026-08-16T07:12:27.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T08:12:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088886590429073488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2041875296618737666",
+          "start": 3,
+          "username": "Yaoguoez0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088886590429073488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 95
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088624753624105219",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yaoguoez0: 你再文艺再小众能忍住不看红果吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2088886590429073488",
+        "created_at": "2026-08-16T07:12:27.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T08:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088886590429073488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041875296618737666",
+              "start": 3,
+              "username": "Yaoguoez0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088886590429073488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 95
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088624753624105219",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yaoguoez0: 你再文艺再小众能忍住不看红果吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041875296618737666",
+        "conversation_id": "2088624753624105219",
+        "created_at": "2026-08-15T13:52:00.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T14:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088624753624105219"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088624753624105219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 165585,
+          "like_count": 2386,
+          "quote_count": 25,
+          "reply_count": 779,
+          "retweet_count": 95
+        },
+        "reply_settings": "everyone",
+        "text": "你再文艺再小众能忍住不看红果吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088886590429073488",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948326838125903872/1773754890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 12,
+          "like_count": 2092,
+          "listed_count": 0,
+          "media_count": 238,
+          "tweet_count": 6701
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-08T13:46:49.000Z",
+        "description": "",
+        "id": "2041875296618737666",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088885460705935532",
+        "name": "秋",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041875296618737666/1779867898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059541309598404608/oaDPmpsV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 52,
+          "like_count": 471,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 414
+        },
+        "url": "",
+        "username": "Yaoguoez0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

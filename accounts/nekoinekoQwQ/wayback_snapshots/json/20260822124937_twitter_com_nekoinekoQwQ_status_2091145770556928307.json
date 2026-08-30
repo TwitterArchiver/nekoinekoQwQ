@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091145742819930112"
+      ]
+    },
+    "author_id": "1948326838125903872",
+    "conversation_id": "2091145770556928307",
+    "created_at": "2026-08-22T12:49:37.000Z",
+    "display_text_range": [
+      0,
+      78
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T13:49:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091145770556928307"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CLtlOjwa1g",
+          "end": 102,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2091145770556928307/photo/1",
+          "media_key": "3_2091145742819930112",
+          "start": 79,
+          "url": "https://t.co/CLtlOjwa1g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091145770556928307",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091145742819930112"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在抖音刷到了好漂亮的耳钉，我的耳洞应该打了快要一个月半了吧，等今年冬天过完，我就换新的耳钉，其实本人全身上下看着最不好惹的，可能就自己耳朵上的钉子跟唇钉。 https://t.co/CLtlOjwa1g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1219,
+        "media_key": "3_2091145742819930112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQU9-UZaMAAJ2i2.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091145742819930112"
+          ]
+        },
+        "author_id": "1948326838125903872",
+        "conversation_id": "2091145770556928307",
+        "created_at": "2026-08-22T12:49:37.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T13:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091145770556928307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CLtlOjwa1g",
+              "end": 102,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2091145770556928307/photo/1",
+              "media_key": "3_2091145742819930112",
+              "start": 79,
+              "url": "https://t.co/CLtlOjwa1g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091145770556928307",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091145742819930112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在抖音刷到了好漂亮的耳钉，我的耳洞应该打了快要一个月半了吧，等今年冬天过完，我就换新的耳钉，其实本人全身上下看着最不好惹的，可能就自己耳朵上的钉子跟唇钉。 https://t.co/CLtlOjwa1g"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091145770556928307",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948326838125903872/1773754890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 15,
+          "like_count": 2733,
+          "listed_count": 1,
+          "media_count": 256,
+          "tweet_count": 7595
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

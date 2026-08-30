@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2089726357148430716",
+    "created_at": "2026-08-18T20:53:48.000Z",
+    "display_text_range": [
+      11,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T21:53:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089818066096099593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2055605410984599552",
+          "start": 0,
+          "username": "Selenejv4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089818066096099593",
+    "in_reply_to_user_id": "2055605410984599552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089789805127160076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Selenejv4 是啊，感觉被净化了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2089726357148430716",
+        "created_at": "2026-08-18T20:53:48.000Z",
+        "display_text_range": [
+          11,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T21:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089818066096099593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2055605410984599552",
+              "start": 0,
+              "username": "Selenejv4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089818066096099593",
+        "in_reply_to_user_id": "2055605410984599552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089789805127160076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Selenejv4 是啊，感觉被净化了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055605410984599552",
+        "conversation_id": "2089726357148430716",
+        "created_at": "2026-08-18T19:01:30.000Z",
+        "display_text_range": [
+          14,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T20:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089789805127160076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089789805127160076",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089726357148430716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 感觉再也没有烦心事了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089818066096099593",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948326838125903872/1773754890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 12,
+          "like_count": 2402,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 6930
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-16T11:05:48.000Z",
+        "description": "匿名箱：https://t.co/3jv52h7Obk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/selene23800",
+                "end": 27,
+                "expanded_url": "https://ngl.link/selene23800",
+                "start": 4,
+                "url": "https://t.co/3jv52h7Obk"
+              }
+            ]
+          }
+        },
+        "id": "2055605410984599552",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089794599766089916",
+        "name": "Selene",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055605410984599552/1785349587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082532930186870784/gVXUa_tq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 6,
+          "like_count": 227,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 402
+        },
+        "url": "",
+        "username": "Selenejv4",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

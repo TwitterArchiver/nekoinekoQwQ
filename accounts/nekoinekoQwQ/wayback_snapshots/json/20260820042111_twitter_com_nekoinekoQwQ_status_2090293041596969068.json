@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2090055315245109450",
+    "created_at": "2026-08-20T04:21:11.000Z",
+    "display_text_range": [
+      17,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T05:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090293041596969068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2050018320565370880",
+          "start": 0,
+          "username": "qiu211883128990"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090293041596969068",
+    "in_reply_to_user_id": "2050018320565370880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090152649408868545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiu211883128990 我觉得尽力了就好，而且要是真的没有办法继续在一起的话，那你就过好自己吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2090055315245109450",
+        "created_at": "2026-08-20T04:21:11.000Z",
+        "display_text_range": [
+          17,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T05:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090293041596969068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2050018320565370880",
+              "start": 0,
+              "username": "qiu211883128990"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090293041596969068",
+        "in_reply_to_user_id": "2050018320565370880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090152649408868545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiu211883128990 我觉得尽力了就好，而且要是真的没有办法继续在一起的话，那你就过好自己吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050018320565370880",
+        "conversation_id": "2090055315245109450",
+        "created_at": "2026-08-19T19:03:19.000Z",
+        "display_text_range": [
+          14,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T20:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090152649408868545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090152649408868545",
+        "in_reply_to_user_id": "2050018320565370880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090149230413488381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 我想没事这就当一次教训下次我一定会做的更好，我一直不会去那样粘人，但是我真的好难做到不去想她，我每晚都会梦到她，我又该如何忘记，我睡不着，因为我真的好想她，我真的很后悔让她那么难过，或许分手的时候就不该挽留这样她也不会那么痛苦，我很抱歉一直都是"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090293041596969068",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948326838125903872/1773754890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 12,
+          "like_count": 2448,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 7021
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-01T01:03:59.000Z",
+        "description": "这是最接近幸福的半年，这是最痛苦的半年",
+        "id": "2050018320565370880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090195250619060248",
+        "name": "雪烙囚",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090153406501736448/Gs8lF-UL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 30,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 59
+        },
+        "url": "",
+        "username": "qiu211883128990",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

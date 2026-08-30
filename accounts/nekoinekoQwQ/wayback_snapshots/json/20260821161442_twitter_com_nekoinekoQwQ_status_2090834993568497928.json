@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2090802952168788298",
+    "created_at": "2026-08-21T16:14:42.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T17:14:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090834993568497928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1487811468145745920",
+          "start": 0,
+          "username": "zhao051108"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090834993568497928",
+    "in_reply_to_user_id": "1487811468145745920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090830573233381812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhao051108 好棒！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090830562118549504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQfUYybQAAPMhs.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2090802952168788298",
+        "created_at": "2026-08-21T16:14:42.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T17:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090834993568497928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1487811468145745920",
+              "start": 0,
+              "username": "zhao051108"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090834993568497928",
+        "in_reply_to_user_id": "1487811468145745920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090830573233381812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhao051108 好棒！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090830562118549504"
+          ]
+        },
+        "author_id": "1487811468145745920",
+        "conversation_id": "2090802952168788298",
+        "created_at": "2026-08-21T15:57:09.000Z",
+        "display_text_range": [
+          14,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T16:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090830573233381812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wyhPYVlODk",
+              "end": 48,
+              "expanded_url": "https://x.com/zhao051108/status/2090830573233381812/photo/1",
+              "media_key": "3_2090830562118549504",
+              "start": 25,
+              "url": "https://t.co/wyhPYVlODk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090830573233381812",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090830562118549504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090802952168788298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 最仁慈最慷慨的人来了 https://t.co/wyhPYVlODk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090834993568497928",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948326838125903872/1773754890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 15,
+          "like_count": 2683,
+          "listed_count": 1,
+          "media_count": 252,
+          "tweet_count": 7453
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-30T15:34:44.000Z",
+        "description": "如果爱成为唯一的解药，那爱还是爱吗",
+        "id": "1487811468145745920",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090832612659273782",
+        "name": "海苔碎",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1487811468145745920/1786253575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087844309836120064/ci64C-8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 4,
+          "like_count": 671,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 138
+        },
+        "url": "",
+        "username": "zhao051108",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

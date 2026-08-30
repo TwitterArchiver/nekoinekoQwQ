@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084659379371171841"
+      ],
+      "media_source_tweet_id": [
+        "2084659381950709838"
+      ]
+    },
+    "author_id": "1948326838125903872",
+    "conversation_id": "2084965093700448511",
+    "created_at": "2026-08-05T11:29:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T12:29:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084965093700448511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1816056567009271812",
+          "start": 3,
+          "username": "xuanqi913254"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U9WLKUhT1b",
+          "end": 41,
+          "expanded_url": "https://x.com/xuanqi913254/status/2084659381950709838/photo/1",
+          "media_key": "3_2084659379371171841",
+          "start": 18,
+          "url": "https://t.co/U9WLKUhT1b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084965093700448511",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 76
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084659381950709838",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuanqi913254: https://t.co/U9WLKUhT1b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 833,
+        "media_key": "3_2084659379371171841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4yqRka4AEP3c9.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084659379371171841"
+          ]
+        },
+        "author_id": "1816056567009271812",
+        "conversation_id": "2084659381950709838",
+        "created_at": "2026-08-04T15:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T16:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084659381950709838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U9WLKUhT1b",
+              "end": 23,
+              "expanded_url": "https://x.com/xuanqi913254/status/2084659381950709838/photo/1",
+              "media_key": "3_2084659379371171841",
+              "start": 0,
+              "url": "https://t.co/U9WLKUhT1b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084659381950709838",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 28551,
+          "like_count": 1318,
+          "quote_count": 8,
+          "reply_count": 21,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/U9WLKUhT1b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084659379371171841"
+          ],
+          "media_source_tweet_id": [
+            "2084659381950709838"
+          ]
+        },
+        "author_id": "1948326838125903872",
+        "conversation_id": "2084965093700448511",
+        "created_at": "2026-08-05T11:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T12:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084965093700448511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1816056567009271812",
+              "start": 3,
+              "username": "xuanqi913254"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U9WLKUhT1b",
+              "end": 41,
+              "expanded_url": "https://x.com/xuanqi913254/status/2084659381950709838/photo/1",
+              "media_key": "3_2084659379371171841",
+              "start": 18,
+              "url": "https://t.co/U9WLKUhT1b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084965093700448511",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 76
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084659381950709838",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xuanqi913254: https://t.co/U9WLKUhT1b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 12,
+          "like_count": 2080,
+          "listed_count": 0,
+          "media_count": 232,
+          "tweet_count": 6411
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T10:23:32.000Z",
+        "description": "₍˄·͈༝·͈˄₎ฅ˒˒每天都好饿\nenfp双鱼",
+        "id": "1816056567009271812",
+        "name": "轻轻松松",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044097710404579329/UgokwSwF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 77,
+          "like_count": 498,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 424
+        },
+        "url": "",
+        "username": "xuanqi913254",
+        "verified": false
+      }
+    ]
+  }
+}

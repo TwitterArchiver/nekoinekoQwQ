@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2091678686127001881",
+    "created_at": "2026-08-24T00:10:38.000Z",
+    "display_text_range": [
+      13,
+      105
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T01:10:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091679537943973922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1866114456411099137",
+          "start": 0,
+          "username": "rinko910409"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091679537943973922",
+    "in_reply_to_user_id": "1866114456411099137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091678686127001881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rinko910409 爱的痛了🤕痛的哭了😭哭了累了😪日记本里页页执着😩记载着你的好🥲像上瘾的毒药🤒它反复骗着我😔爱的痛了🤕痛的哭了😭哭了累了😪矛盾心里总是强求🥺劝自己要放手😤闭上眼让你走😩烧掉日记重新来过🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2091678686127001881",
+        "created_at": "2026-08-24T00:10:38.000Z",
+        "display_text_range": [
+          13,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T01:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091679537943973922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1866114456411099137",
+              "start": 0,
+              "username": "rinko910409"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091679537943973922",
+        "in_reply_to_user_id": "1866114456411099137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091678686127001881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rinko910409 爱的痛了🤕痛的哭了😭哭了累了😪日记本里页页执着😩记载着你的好🥲像上瘾的毒药🤒它反复骗着我😔爱的痛了🤕痛的哭了😭哭了累了😪矛盾心里总是强求🥺劝自己要放手😤闭上眼让你走😩烧掉日记重新来过🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866114456411099137",
+        "conversation_id": "2091678686127001881",
+        "created_at": "2026-08-24T00:07:14.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T01:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091678686127001881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nekoinekoQwQ/s…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/nekoinekoQwQ/status/2091678045879038319",
+              "start": 54,
+              "url": "https://t.co/Nu8NRGMqDQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091678686127001881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091678045879038319",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我啥时候才能跟喜欢的人换上情头呀？，诶，应该说是我啥时候才能有喜欢的人呀。。我的后任你在哪(｡･ω･｡)? https://t.co/Nu8NRGMqDQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091679537943973922",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948326838125903872/1773754890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 14,
+          "like_count": 2850,
+          "listed_count": 1,
+          "media_count": 260,
+          "tweet_count": 7903
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-09T13:35:42.000Z",
+        "description": "日本語勉強中\n趣味はバンドリ／声優\r/航空/鉄道/ミリーコス\n邦批/女声优痴/航空/轨道交通 以及尼龙\n男 玉玉双相躁狂但是不割不o😥\nお推しは白金燐子、中島由貴\n\n声明声明我不是弱智低龄火车迷和飞友🤮，我只是喜欢轨交和航空",
+        "id": "1866114456411099137",
+        "is_identity_verified": false,
+        "location": "タルコフ市/塔科夫市",
+        "most_recent_tweet_id": "2091678686127001881",
+        "name": "りんこShirokane",
+        "pinned_tweet_id": "2090104058900295930",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1866114456411099137/1786743076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866337684836564992/RRKoiS-5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 662,
+          "like_count": 6567,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 2090
+        },
+        "url": "",
+        "username": "rinko910409",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

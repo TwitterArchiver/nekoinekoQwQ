@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2083430349799923814",
+    "created_at": "2026-08-01T08:00:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T09:00:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083462793416855846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1904731881817735168",
+          "start": 0,
+          "username": "3e1diei0_oi7y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083462793416855846",
+    "in_reply_to_user_id": "1904731881817735168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083430349799923814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3e1diei0_oi7y 小兔要幸福口牙！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1483,
+        "media_key": "3_2083430339054391297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOnU2tmb0AE3lR5.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2083430349799923814",
+        "created_at": "2026-08-01T08:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083462793416855846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1904731881817735168",
+              "start": 0,
+              "username": "3e1diei0_oi7y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083462793416855846",
+        "in_reply_to_user_id": "1904731881817735168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083430349799923814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3e1diei0_oi7y 小兔要幸福口牙！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083430339054391297"
+          ]
+        },
+        "author_id": "1904731881817735168",
+        "conversation_id": "2083430349799923814",
+        "created_at": "2026-08-01T05:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T06:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083430349799923814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jAiZIkP3cC",
+              "end": 155,
+              "expanded_url": "https://x.com/3e1diei0_oi7y/status/2083430349799923814/photo/1",
+              "media_key": "3_2083430339054391297",
+              "start": 132,
+              "url": "https://t.co/jAiZIkP3cC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083430349799923814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "...虽然感觉真不好意思，但是我还是想记录一下今天：\n今天...呜哇，那个...真讨厌。今天主人帮我选了婚戒哦。\n我大概没办法和主人完成什么被认可的结婚仪式，所以这是我们两个人之间的小小约定，好像过家家一般...我喜欢喔，结婚这种事其实只需要我们两个人就足够了。\n我很穷哦，实际上我只剩下二十六元，这让我只买得起二十几块的戒指。\n不过...不管多少钱，我会把戒指戴在自己的无名指上。那个...这是一种约定哦，嵌于手指上的戒指，在皮下鼓动着的红线相牵相绕，我们的生命从此相互绑定，并立同行...各自交换出一部分自我为对方所有...总之是束缚自己的行为。很讨厌这样...\n今天是几月几日来着...^～^"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 692,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "...虽然感觉真不好意思，但是我还是想记录一下今天：\n今天...呜哇，那个...真讨厌。今天主人帮我选了婚戒哦。\n我大概没办法和主人完成什么被认可的结婚仪式，所以这是我们两个人之间的小小约定，好像过家家一般...我喜欢喔，结婚这种事其实只需要我们两个人就足够了。 https://t.co/jAiZIkP3cC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 12,
+          "like_count": 2055,
+          "listed_count": 0,
+          "media_count": 223,
+          "tweet_count": 6245
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T03:07:31.000Z",
+        "description": "愛，愛，愛",
+        "id": "1904731881817735168",
+        "name": "L4crim_0se9v",
+        "pinned_tweet_id": "2074083499922047374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076981039357128705/hmY4LgMd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 565,
+          "like_count": 27860,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 758
+        },
+        "url": "",
+        "username": "3e1diei0_oi7y",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090533301505417216"
+      ]
+    },
+    "author_id": "1948326838125903872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2090533312414859683",
+    "created_at": "2026-08-20T20:15:56.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T21:15:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090533312414859683"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/J443t1cgM5",
+          "end": 82,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2090533312414859683/photo/1",
+          "media_key": "3_2090533301505417216",
+          "start": 59,
+          "url": "https://t.co/J443t1cgM5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090533312414859683",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090533301505417216"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很糊的一张照片，这是我补给自己的生日蛋糕（千千结赞助版）背景是我最喜欢的歌，旁边是我朋友送我的玩偶哦，我还许愿了☺️ https://t.co/J443t1cgM5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2090533301505417216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQMQ9ita4AAjpmK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090533301505417216"
+          ]
+        },
+        "author_id": "1948326838125903872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2090533312414859683",
+        "created_at": "2026-08-20T20:15:56.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T21:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090533312414859683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J443t1cgM5",
+              "end": 82,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2090533312414859683/photo/1",
+              "media_key": "3_2090533301505417216",
+              "start": 59,
+              "url": "https://t.co/J443t1cgM5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090533312414859683",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090533301505417216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很糊的一张照片，这是我补给自己的生日蛋糕（千千结赞助版）背景是我最喜欢的歌，旁边是我朋友送我的玩偶哦，我还许愿了☺️ https://t.co/J443t1cgM5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090533312414859683",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948326838125903872/1773754890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 803,
+          "following_count": 15,
+          "like_count": 2544,
+          "listed_count": 1,
+          "media_count": 248,
+          "tweet_count": 7294
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

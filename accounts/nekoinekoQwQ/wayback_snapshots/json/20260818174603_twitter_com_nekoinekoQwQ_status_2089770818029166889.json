@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2089708747379937567",
+    "created_at": "2026-08-18T17:46:03.000Z",
+    "display_text_range": [
+      14,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T18:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089770818029166889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1821843767428558848",
+          "start": 0,
+          "username": "zhosh1178700"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089770818029166889",
+    "in_reply_to_user_id": "1821843767428558848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089765678559658480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhosh1178700 我没有吃吐，我吃傻了，小龙虾太多了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2089765649400901633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQBWyTxasAEN_yo.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2089708747379937567",
+        "created_at": "2026-08-18T17:46:03.000Z",
+        "display_text_range": [
+          14,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T18:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089770818029166889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1821843767428558848",
+              "start": 0,
+              "username": "zhosh1178700"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089770818029166889",
+        "in_reply_to_user_id": "1821843767428558848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089765678559658480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhosh1178700 我没有吃吐，我吃傻了，小龙虾太多了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089765649400901633"
+          ]
+        },
+        "author_id": "1821843767428558848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2089708747379937567",
+        "created_at": "2026-08-18T17:25:38.000Z",
+        "display_text_range": [
+          14,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T18:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089765678559658480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Ktrp0h7Wt",
+              "end": 136,
+              "expanded_url": "https://x.com/zhosh1178700/status/2089765678559658480/photo/1",
+              "media_key": "3_2089765649400901633",
+              "start": 113,
+              "url": "https://t.co/3Ktrp0h7Wt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089765678559658480",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089765649400901633"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089708747379937567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 生日快乐呀~没事的，自己吃没了就好，我生日也是没有人记得，然后我自己去吃了烧烤自助😋😋，虽然没有预期的好吃，但是还是很不错的，之前有一次，和同学他们去吃的必胜客的自助，然后吃太多了，给我吃吐了😭🤤 https://t.co/3Ktrp0h7Wt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089770818029166889",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948326838125903872/1773754890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 12,
+          "like_count": 2356,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 6909
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-09T09:39:50.000Z",
+        "description": "男生，INFP，蹲固聊或其他",
+        "id": "1821843767428558848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089768438285926561",
+        "name": "赵释",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947625711390625794/Czy6HWnn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 38,
+          "like_count": 136,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 94
+        },
+        "url": "",
+        "username": "zhosh1178700",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

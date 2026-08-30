@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2090792516237029741",
+    "created_at": "2026-08-21T13:27:35.000Z",
+    "display_text_range": [
+      13,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T14:27:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090792934925058211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1959914413991067648",
+          "start": 0,
+          "username": "KISEKI_0717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090792934925058211",
+    "in_reply_to_user_id": "1959914413991067648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090792516237029741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KISEKI_0717 全世界最乖之人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2090792516237029741",
+        "created_at": "2026-08-21T13:27:35.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090792934925058211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1959914413991067648",
+              "start": 0,
+              "username": "KISEKI_0717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090792934925058211",
+        "in_reply_to_user_id": "1959914413991067648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090792516237029741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KISEKI_0717 全世界最乖之人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959914413991067648",
+        "conversation_id": "2090792516237029741",
+        "created_at": "2026-08-21T13:25:55.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090792516237029741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nekoinekoQwQ/s…",
+              "end": 121,
+              "expanded_url": "https://twitter.com/nekoinekoQwQ/status/2090671475930087870",
+              "start": 98,
+              "url": "https://t.co/EvoG8TBJD1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090792516237029741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090671475930087870",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有过性行为：❌\n有过男朋友：✅\n有过女朋友：❌\n嗑过药：❌\n喝过酒：❌\n挂过科： ❌\n去过夜店：❌\n抽过烟/用过电子烟：❌\n吻过别人：❌\n被留堂：✅\n被课堂赶出去：✅\n考试作弊：✅\n溜出家门：❌ https://t.co/EvoG8TBJD1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090792934925058211",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948326838125903872/1773754890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 15,
+          "like_count": 2679,
+          "listed_count": 1,
+          "media_count": 249,
+          "tweet_count": 7421
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-25T09:43:13.000Z",
+        "description": "軌跡（kiseki/KSK）丨♀14↓丨kagerou project丨vocaloid丨maimai丨ai学習禁止🚫",
+        "id": "1959914413991067648",
+        "is_identity_verified": false,
+        "location": "坟",
+        "most_recent_tweet_id": "2090792516237029741",
+        "name": "軌跡",
+        "pinned_tweet_id": "2089957668366741793",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959914413991067648/1786560909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087613991510245376/i52HjPOd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 359,
+          "like_count": 1143,
+          "listed_count": 6,
+          "media_count": 228,
+          "tweet_count": 2118
+        },
+        "url": "",
+        "username": "KISEKI_0717",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

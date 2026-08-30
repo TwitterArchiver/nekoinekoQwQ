@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092038726499348480"
+      ]
+    },
+    "author_id": "1948326838125903872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2092038734372040830",
+    "created_at": "2026-08-24T23:57:57.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T00:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092038734372040830"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4muEujkcGr",
+          "end": 73,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2092038734372040830/photo/1",
+          "media_key": "3_2092038726499348480",
+          "start": 50,
+          "url": "https://t.co/4muEujkcGr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092038734372040830",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092038726499348480"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我突然发现我最近都没有怎么被人机入侵，我要分享一下我的屏蔽词，我的屏蔽词只有17个，人机离我远一点 https://t.co/4muEujkcGr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092038726499348480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQhqIz1asAALLry.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092038726499348480"
+          ]
+        },
+        "author_id": "1948326838125903872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092038734372040830",
+        "created_at": "2026-08-24T23:57:57.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T00:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092038734372040830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4muEujkcGr",
+              "end": 73,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2092038734372040830/photo/1",
+              "media_key": "3_2092038726499348480",
+              "start": 50,
+              "url": "https://t.co/4muEujkcGr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092038734372040830",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092038726499348480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我突然发现我最近都没有怎么被人机入侵，我要分享一下我的屏蔽词，我的屏蔽词只有17个，人机离我远一点 https://t.co/4muEujkcGr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092038734372040830",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948326838125903872/1773754890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 13,
+          "like_count": 2901,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 8030
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2091127832273637755",
+    "created_at": "2026-08-22T12:02:05.000Z",
+    "display_text_range": [
+      17,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T13:02:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091133806321492217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1921556866372427776",
+          "start": 0,
+          "username": "Michell16521771"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091133806321492217",
+    "in_reply_to_user_id": "1921556866372427776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091127832273637755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Michell16521771 感觉好幸福。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2091127832273637755",
+        "created_at": "2026-08-22T12:02:05.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T13:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091133806321492217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1921556866372427776",
+              "start": 0,
+              "username": "Michell16521771"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091133806321492217",
+        "in_reply_to_user_id": "1921556866372427776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091127832273637755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Michell16521771 感觉好幸福。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921556866372427776",
+        "conversation_id": "2091127832273637755",
+        "created_at": "2026-08-22T11:38:21.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T12:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091127832273637755"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091127832273637755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 258,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想起高中没有寄宿，高一高二我爸天天车接车送，高三晚自习太晚了怕影响我休息，直接在学校对面租了个三室一厅的房子。其实压力不小的，但是我爸直接就是一个大投资，我妈直接退休陪读。感谢这对善良的夫妻。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091133806321492217",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948326838125903872/1773754890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 15,
+          "like_count": 2726,
+          "listed_count": 1,
+          "media_count": 255,
+          "tweet_count": 7576
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-11T13:24:03.000Z",
+        "description": "INFJ  Switch  03  互关宝宝你来@Lilypower03",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "Lilypower03"
+              }
+            ]
+          }
+        },
+        "id": "1921556866372427776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091132812061819205",
+        "name": "小咪总",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1921556866372427776/1787155165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090105326309875712/mhgk9y2w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 33,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 77
+        },
+        "url": "",
+        "username": "Michell16521771",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

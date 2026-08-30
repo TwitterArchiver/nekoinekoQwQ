@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2092074280377069628",
+    "created_at": "2026-08-25T02:19:54.000Z",
+    "display_text_range": [
+      11,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T03:19:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092074458865598909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2076877806123065345",
+          "start": 0,
+          "username": "madaoOzzZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092074458865598909",
+    "in_reply_to_user_id": "2076877806123065345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092074280377069628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@madaoOzzZ 今天依旧是第一个来的"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 173267,
+        "height": 1280,
+        "media_key": "13_2092074015817113601",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092074015817113601/img/_-ksCUX1SgYvGz1p.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092074015817113601/vid/avc1/320x694/014ePsWBOd7_Synj.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092074015817113601/vid/avc1/480x1040/ph38aRPmlg_xgwoY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092074015817113601/vid/avc1/590x1280/lZDnABqfK_4OGfDS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092074015817113601/pl/aqTB7PqZ-5_AzUXn.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2092074280377069628",
+        "created_at": "2026-08-25T02:19:54.000Z",
+        "display_text_range": [
+          11,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T03:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092074458865598909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2076877806123065345",
+              "start": 0,
+              "username": "madaoOzzZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092074458865598909",
+        "in_reply_to_user_id": "2076877806123065345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092074280377069628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@madaoOzzZ 今天依旧是第一个来的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092074015817113601"
+          ]
+        },
+        "author_id": "2076877806123065345",
+        "conversation_id": "2092074280377069628",
+        "created_at": "2026-08-25T02:19:11.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T03:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092074280377069628"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "男喘"
+            },
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "牛来"
+            },
+            {
+              "end": 47,
+              "start": 41,
+              "tag": "madao"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2076877806123065345",
+              "start": 5,
+              "username": "madaoOzzZ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ZEguq7e1g",
+              "end": 71,
+              "expanded_url": "https://x.com/madaoOzzZ/status/2092074280377069628/video/1",
+              "media_key": "13_2092074015817113601",
+              "start": 48,
+              "url": "https://t.co/9ZEguq7e1g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092074280377069628",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2092074015817113601"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "台本老师：@madaoOzzZ  \n人性向/女飞/720p/口嗨 #男喘 #牛来 #madao https://t.co/9ZEguq7e1g"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092074458865598909",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948326838125903872/1773754890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 13,
+          "like_count": 2911,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 8063
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T03:54:51.000Z",
+        "description": "whatever",
+        "id": "2076877806123065345",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092074280377069628",
+        "name": "madao",
+        "pinned_tweet_id": "2091860518239977912",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076877806123065345/1787030657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090015973353148416/AUavaOJ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 0,
+          "like_count": 475,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 375
+        },
+        "url": "",
+        "username": "madaoOzzZ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

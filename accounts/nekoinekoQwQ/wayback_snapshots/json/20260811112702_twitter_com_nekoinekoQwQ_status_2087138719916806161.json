@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087138607563984896",
+        "3_2087138608147009536",
+        "3_2087138607576621056",
+        "3_2087138607576563712"
+      ]
+    },
+    "author_id": "1948326838125903872",
+    "conversation_id": "2087138719916806161",
+    "created_at": "2026-08-11T11:27:02.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T12:27:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087138719916806161"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TqqElzgRJ7",
+          "end": 77,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2087138719916806161/photo/1",
+          "media_key": "3_2087138607563984896",
+          "start": 54,
+          "url": "https://t.co/TqqElzgRJ7"
+        },
+        {
+          "display_url": "pic.x.com/TqqElzgRJ7",
+          "end": 77,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2087138719916806161/photo/1",
+          "media_key": "3_2087138608147009536",
+          "start": 54,
+          "url": "https://t.co/TqqElzgRJ7"
+        },
+        {
+          "display_url": "pic.x.com/TqqElzgRJ7",
+          "end": 77,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2087138719916806161/photo/1",
+          "media_key": "3_2087138607576621056",
+          "start": 54,
+          "url": "https://t.co/TqqElzgRJ7"
+        },
+        {
+          "display_url": "pic.x.com/TqqElzgRJ7",
+          "end": 77,
+          "expanded_url": "https://x.com/nekoinekoQwQ/status/2087138719916806161/photo/1",
+          "media_key": "3_2087138607576563712",
+          "start": 54,
+          "url": "https://t.co/TqqElzgRJ7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087138719916806161",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087138607563984896"
+      },
+      {
+        "media_key": "3_2087138608147009536"
+      },
+      {
+        "media_key": "3_2087138607576621056"
+      },
+      {
+        "media_key": "3_2087138607576563712"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我今天去了虎丘，累累的，但是被猫猫蹭了，这个三花很亲人，她让我摸摸还蹭我，很值得，这也是今天唯一开心的事情 https://t.co/TqqElzgRJ7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087138607563984896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPcBgWTa0AATMLG.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087138608147009536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPcBgYebEAAj8n6.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087138607576621056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPcBgWWboAAu6QH.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087138607576563712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPcBgWWawAAd-zq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087138607563984896",
+            "3_2087138608147009536",
+            "3_2087138607576621056",
+            "3_2087138607576563712"
+          ]
+        },
+        "author_id": "1948326838125903872",
+        "conversation_id": "2087138719916806161",
+        "created_at": "2026-08-11T11:27:02.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T12:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087138719916806161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TqqElzgRJ7",
+              "end": 77,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2087138719916806161/photo/1",
+              "media_key": "3_2087138607563984896",
+              "start": 54,
+              "url": "https://t.co/TqqElzgRJ7"
+            },
+            {
+              "display_url": "pic.x.com/TqqElzgRJ7",
+              "end": 77,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2087138719916806161/photo/1",
+              "media_key": "3_2087138608147009536",
+              "start": 54,
+              "url": "https://t.co/TqqElzgRJ7"
+            },
+            {
+              "display_url": "pic.x.com/TqqElzgRJ7",
+              "end": 77,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2087138719916806161/photo/1",
+              "media_key": "3_2087138607576621056",
+              "start": 54,
+              "url": "https://t.co/TqqElzgRJ7"
+            },
+            {
+              "display_url": "pic.x.com/TqqElzgRJ7",
+              "end": 77,
+              "expanded_url": "https://x.com/nekoinekoQwQ/status/2087138719916806161/photo/1",
+              "media_key": "3_2087138607576563712",
+              "start": 54,
+              "url": "https://t.co/TqqElzgRJ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087138719916806161",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087138607563984896"
+          },
+          {
+            "media_key": "3_2087138608147009536"
+          },
+          {
+            "media_key": "3_2087138607576621056"
+          },
+          {
+            "media_key": "3_2087138607576563712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我今天去了虎丘，累累的，但是被猫猫蹭了，这个三花很亲人，她让我摸摸还蹭我，很值得，这也是今天唯一开心的事情 https://t.co/TqqElzgRJ7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087138719916806161",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948326838125903872/1773754890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 12,
+          "like_count": 2089,
+          "listed_count": 0,
+          "media_count": 235,
+          "tweet_count": 6564
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

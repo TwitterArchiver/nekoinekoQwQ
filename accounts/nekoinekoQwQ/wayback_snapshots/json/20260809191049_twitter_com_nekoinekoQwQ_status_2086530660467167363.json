@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2086397494871859375",
+    "created_at": "2026-08-09T19:10:49.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T20:10:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086530660467167363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2018930905637928960",
+          "start": 0,
+          "username": "L2039164750359"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086530660467167363",
+    "in_reply_to_user_id": "2018930905637928960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086397494871859375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@L2039164750359 萌晕了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2086397393881493504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPRfYCKbcAAa_DM.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2086397393877311488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPRfYCJboAAjg-q.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2086397494871859375",
+        "created_at": "2026-08-09T19:10:49.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T20:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086530660467167363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2018930905637928960",
+              "start": 0,
+              "username": "L2039164750359"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086530660467167363",
+        "in_reply_to_user_id": "2018930905637928960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086397494871859375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L2039164750359 萌晕了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086397393881493504",
+            "3_2086397393877311488"
+          ]
+        },
+        "author_id": "2018930905637928960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2086397494871859375",
+        "created_at": "2026-08-09T10:21:40.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T11:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086397494871859375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U4CBsULc0k",
+              "end": 27,
+              "expanded_url": "https://x.com/L2039164750359/status/2086397494871859375/photo/1",
+              "media_key": "3_2086397393881493504",
+              "start": 4,
+              "url": "https://t.co/U4CBsULc0k"
+            },
+            {
+              "display_url": "pic.x.com/U4CBsULc0k",
+              "end": 27,
+              "expanded_url": "https://x.com/L2039164750359/status/2086397494871859375/photo/1",
+              "media_key": "3_2086397393877311488",
+              "start": 4,
+              "url": "https://t.co/U4CBsULc0k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086397494871859375",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086397393881493504"
+          },
+          {
+            "media_key": "3_2086397393877311488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很萌！ https://t.co/U4CBsULc0k"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086530660467167363",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948326838125903872/1773754890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 12,
+          "like_count": 2086,
+          "listed_count": 0,
+          "media_count": 234,
+          "tweet_count": 6535
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-04T06:13:45.000Z",
+        "description": "ʕ • · •ʔ",
+        "id": "2018930905637928960",
+        "is_identity_verified": false,
+        "location": "Liaoning",
+        "most_recent_tweet_id": "2086433356519191015",
+        "name": "脆脆饼干",
+        "pinned_tweet_id": "2058491157701882133",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018930905637928960/1780374216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069100470359252993/mh2jQGAb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 874,
+          "like_count": 1732,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 214
+        },
+        "url": "",
+        "username": "L2039164750359",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

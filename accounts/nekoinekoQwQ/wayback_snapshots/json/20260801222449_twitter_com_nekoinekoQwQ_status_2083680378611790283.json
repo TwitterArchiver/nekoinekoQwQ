@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2083638690778370494",
+    "created_at": "2026-08-01T22:24:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T23:24:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083680378611790283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1246873248484089856",
+          "start": 0,
+          "username": "3mmir1zXd7SsZix"
+        },
+        {
+          "end": 29,
+          "id": "1807453154369474560",
+          "start": 17,
+          "username": "KuaiWo34671"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083680378611790283",
+    "in_reply_to_user_id": "1246873248484089856",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083678147418198125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3mmir1zXd7SsZix @KuaiWo34671 👂👂👂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2083638690778370494",
+        "created_at": "2026-08-01T22:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T23:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083680378611790283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1246873248484089856",
+              "start": 0,
+              "username": "3mmir1zXd7SsZix"
+            },
+            {
+              "end": 29,
+              "id": "1807453154369474560",
+              "start": 17,
+              "username": "KuaiWo34671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083680378611790283",
+        "in_reply_to_user_id": "1246873248484089856",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083678147418198125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3mmir1zXd7SsZix @KuaiWo34671 👂👂👂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1246873248484089856",
+        "conversation_id": "2083638690778370494",
+        "created_at": "2026-08-01T22:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T23:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083678147418198125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            },
+            {
+              "end": 26,
+              "id": "1807453154369474560",
+              "start": 14,
+              "username": "KuaiWo34671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083678147418198125",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083671689439920303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ @KuaiWo34671 肚肚原谅我好不好肚肚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 12,
+          "like_count": 2061,
+          "listed_count": 0,
+          "media_count": 226,
+          "tweet_count": 6308
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-05T18:52:11.000Z",
+        "description": "我有性压抑",
+        "id": "1246873248484089856",
+        "location": "猫猫头山",
+        "name": "蝈蝻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059844555969884161/Ks6rF_1g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 725,
+          "like_count": 29402,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 2911
+        },
+        "url": "",
+        "username": "3mmir1zXd7SsZix",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-30T16:36:39.000Z",
+        "description": "于是打算认真编写一下我的简介\n非正常人类，含有重力系，异性恋但是极端情况可男可女（？）\n喜欢可爱的\n其余一切正常（？）",
+        "id": "1807453154369474560",
+        "location": "❤️",
+        "name": "快點上菜我又餓了",
+        "pinned_tweet_id": "2025880511806341496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816903884901863426/5tlbhJgr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 87,
+          "like_count": 1301,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 2777
+        },
+        "url": "",
+        "username": "KuaiWo34671",
+        "verified": false
+      }
+    ]
+  }
+}

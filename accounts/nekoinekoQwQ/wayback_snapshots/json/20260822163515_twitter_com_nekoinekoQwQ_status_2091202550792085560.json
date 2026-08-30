@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1948326838125903872",
+    "conversation_id": "2090741520089633248",
+    "created_at": "2026-08-22T16:35:15.000Z",
+    "display_text_range": [
+      23,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T17:35:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091202550792085560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2012798753225531392",
+          "start": 0,
+          "username": "xuan0513xg"
+        },
+        {
+          "end": 22,
+          "id": "2019338815782154241",
+          "start": 12,
+          "username": "fuyubaka_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091202550792085560",
+    "in_reply_to_user_id": "2012798753225531392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091177555797926000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuan0513xg @fuyubaka_ 歪七扭八的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948326838125903872",
+        "conversation_id": "2090741520089633248",
+        "created_at": "2026-08-22T16:35:15.000Z",
+        "display_text_range": [
+          23,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T17:35:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091202550792085560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2012798753225531392",
+              "start": 0,
+              "username": "xuan0513xg"
+            },
+            {
+              "end": 22,
+              "id": "2019338815782154241",
+              "start": 12,
+              "username": "fuyubaka_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091202550792085560",
+        "in_reply_to_user_id": "2012798753225531392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091177555797926000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuan0513xg @fuyubaka_ 歪七扭八的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012798753225531392",
+        "conversation_id": "2090741520089633248",
+        "created_at": "2026-08-22T14:55:56.000Z",
+        "display_text_range": [
+          25,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T15:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091177555797926000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            },
+            {
+              "end": 24,
+              "id": "2019338815782154241",
+              "start": 14,
+              "username": "fuyubaka_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091177555797926000",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091128619854864811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ @fuyubaka_ 相对来说女生找应该更容易一点，不过这些质量都太难保证了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091202550792085560",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948326838125903872/1773754890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 15,
+          "like_count": 2748,
+          "listed_count": 1,
+          "media_count": 256,
+          "tweet_count": 7631
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-18T08:07:41.000Z",
+        "description": "",
+        "id": "2012798753225531392",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091177555797926000",
+        "name": "Stede Callander",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012799038127849472/9OeR85BM_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 14,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 43
+        },
+        "url": "",
+        "username": "xuan0513xg",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-05T09:14:40.000Z",
+        "description": "超高校級的魔法立希/大蓝闪蝶 互fo请私信",
+        "id": "2019338815782154241",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091199942530654535",
+        "name": "超高校級的魔法立希",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2019338815782154241/1786839906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088784069094182912/9LyHKZ2b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 46,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 118
+        },
+        "url": "",
+        "username": "fuyubaka_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
